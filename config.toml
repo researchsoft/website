@@ -1,0 +1,4 @@
+baseURL = "http://researchsoft.org/"
+languageCode = "en-uk"
+title = "Research Software Alliance"
+theme = "ananke"
