@@ -1,7 +1,7 @@
 ---
 title: "News"
 date: 2020-06-17T13:37:41+08:00
-draft: true
+draft: false
 menu:
   main:
     weight: 5

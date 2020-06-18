@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-06-17T13:33:53+08:00
-draft: true
+draft: false
 menu:
   main:
     weight: 1
