@@ -2,3 +2,9 @@ baseURL = "http://researchsoft.org/"
 languageCode = "en-uk"
 title = "Research Software Alliance"
 theme = "ananke"
+
+[params]
+  twitter = "https://twitter.com/researchsoft"
+  github = "https://github.com/researchsoft"
+  site_logo = "img/resa-logo-software-green.png"
+  background_color_class = "bg-mid-gray"
