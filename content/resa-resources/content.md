@@ -1,11 +1,13 @@
----
-title: "Resources"
-date: 2020-06-17T13:54:46+08:00
-draft: false
-menu:
-  main:
-    weight: 5
----
++++
+fragment = "content"
+disabled = false
+date = "2020-07-21"
+weight = 100
+#background = ""
+
+title = "Resources"
+#subtitle = ""
++++
 
 ReSA outputs can provide useful references to support recognition and valuing of research software as a key component of research. Recent items include
 

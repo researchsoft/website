@@ -1,11 +1,13 @@
----
-title: "News"
-date: 2020-06-17T13:37:41+08:00
-draft: false
-menu:
-  main:
-    weight: 5
----
++++
+fragment = "content"
+disabled = false
+date = "2020-07-21"
+weight = 100
+#background = ""
+
+title = "News"
+#subtitle = ""
++++
 
 * [May 2020](2020-May-newsletter.pdf)
 * [April 2020](2020-April-newsletter.pdf)
@@ -21,4 +23,4 @@ To receive ReSA newsletters join the [ReSA google group](https://groups.google.c
 
 To subscribe send a blank email to 
 
-[research-software-alliance+subscribe@googlegroups.com]
+[research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)

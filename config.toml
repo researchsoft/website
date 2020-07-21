@@ -1,10 +1,46 @@
-baseURL = "http://researchsoft.org/"
+baseURL = "/"
 languageCode = "en-uk"
 title = "Research Software Alliance"
-theme = "ananke"
+theme = "syna"
 
 [params]
   twitter = "https://twitter.com/researchsoft"
   github = "https://github.com/researchsoft"
   site_logo = "img/resa-logo-software-green.png"
   background_color_class = "bg-mid-gray"
+  name = "The Research Software Alliance"
+
+[[menu.main]]
+  url = "/about"
+  name = "About"
+  weight = 10
+
+[[menu.main]]
+  url = "/people"
+  name = "People"
+  weight = 20
+
+[[menu.main]]
+  url = "/taskforces"
+  name = "Taskforces"
+  weight = 30
+
+[[menu.main]]
+  url = "/resa-resources"
+  name = "Resources"
+  weight = 40
+
+[[menu.main]]
+  url = "/news"
+  name = "News"
+  weight = 50
+
+[[menu.main]]
+  url = "/contact"
+  name = "Contact"
+  weight = 60
+
+[[menu.copyright_footer]]
+  url = "/about"
+  name = "About Us"
+  weight = 10

@@ -1,11 +1,13 @@
----
-title: "About"
-date: 2020-06-17T13:33:53+08:00
-draft: false
-menu:
-  main:
-    weight: 1
----
++++
+fragment = "content"
+#disabled = true
+date = "2020-07-21"
+weight = 100
+#background = ""
+
+title = "About ReSA"
+#subtitle = ""
++++
 
 The vision of the Research Software Alliance (ReSA) is that research software is recognised and valued as a fundamental
 and vital component of research worldwide.

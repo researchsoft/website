@@ -1,11 +1,13 @@
----
-title: "People"
-date: 2020-06-17T13:37:21+08:00
-draft: false
-menu:
-  main:
-    weight: 2
----
++++
+fragment = "content"
+disabled = false
+date = "2020-07-21"
+weight = 100
+#background = ""
+
+title = "People"
+#subtitle = ""
++++
 
 Director
 

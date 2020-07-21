@@ -1,11 +1,13 @@
----
-title: "Taskforces"
-date: 2020-06-17T13:37:29+08:00
-draft: false
-menu:
-  main:
-    weight: 3
----
++++
+fragment = "content"
+disabled = false
+date = "2020-07-21"
+weight = 100
+#background = ""
+
+title = "Taskforces"
+#subtitle = ""
++++
 
 ReSA’s mission is to bring research software communities together to collaborate on the advancement of research software, to achieve the vision of research software being recognised and valued as a fundamental and vital component of research worldwide.
 
