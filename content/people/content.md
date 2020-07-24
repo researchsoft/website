@@ -3,7 +3,7 @@ fragment = "content"
 disabled = false
 date = "2020-07-21"
 weight = 100
-#background = ""
+background = "white"
 
 title = "People"
 #subtitle = ""

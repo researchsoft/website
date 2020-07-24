@@ -7,11 +7,15 @@ theme = "syna"
   twitter = "https://twitter.com/researchsoft"
   github = "https://github.com/researchsoft"
   site_logo = "img/resa-logo-software-green.png"
-  background_color_class = "bg-mid-gray"
   name = "The Research Software Alliance"
 
+  [params.colors]
+
+  primary = "darkorange"
+
+
 [[menu.main]]
-  url = "/about"
+  url = "/about-resa"
   name = "About"
   weight = 10
 
@@ -41,6 +45,18 @@ theme = "syna"
   weight = 60
 
 [[menu.copyright_footer]]
-  url = "/about"
-  name = "About Us"
+  url = "/about-resa"
+  name = "About ReSA"
   weight = 10
+
+[[menu.footer_social]]
+  weight = 20
+  name = "twitter"
+  url = "https://twitter.com/researchsoft"
+  pre = "fab fa-twitter"
+
+[[menu.footer_social]]
+  weight = 30
+  name = "github"
+  url = "https://git.okkur.org/syna"
+  pre = "fab fa-github fa-stack-2x"

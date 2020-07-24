@@ -3,12 +3,12 @@ fragment = "nav"
 #disabled = true
 date = "2018-05-17"
 weight = 0
-background = "dark"
+background = "light"
 search = true
 sticky = true
 
 [breadcrumb]
-  display = true # Default value is false
+  display = false # Default value is false
   #level = 0 # Default is 1
   background = "light"
 
@@ -18,7 +18,8 @@ sticky = true
   text = "ReSA"
 
 [repo_button]
-  url = "https://github.com/researchsoft"
-  text = "Github" # default: "Star"
-  icon = "fab fa-github" # defaults: "fab fa-github"
+  url = "https://twitter.com/researchsoft"
+  text = "Twitter" # default: "Star"
+  icon = "fab fa-twitter" # defaults: "fab fa-github"
+
 +++
