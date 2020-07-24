@@ -7,7 +7,6 @@ weight = 100
 background = "white"
 form_name = "Contact ReSA"
 
-title = "Contact"
 #title_align = "left" # Default is center, can be left, right or center
 
 # PostURL can be used with backends such as mailout from caddy

@@ -5,11 +5,8 @@ date = "2020-07-21"
 weight = 100
 background = "white"
 
-title = "People"
-#subtitle = ""
+title = "Director"
 +++
-
-### Director
 
 ![Michelle Barker](michelle-255x300.png "Michelle Barker")
 
@@ -20,17 +17,3 @@ She recently chaired the OECD Global Science Forum expert group on [digital skil
 Michelle is a former Director of the [Australian Research Data Commons](https://ardc.edu.au/), where she led the strategic planning for the Australian government’s $180 million, five-year investment in ARDC, the [national research software infrastructure investment program](https://nectar.org.au/labs/), and developed a national strategy to enhance digital workforce capacity in the research sector.
 
 [Email Michelle Barker](mailto:michelle@researchsoft.org).
-
-### Steering committee
-
-**Daniel S. Katz**, Assistant Director for Scientific Software and Applications, National Center for Supercomputing Applications (NCSA), University of Illinois, USA
-
-**Neil Chue Hong**, CEO, Software Sustainability Institute, UK
-
-**Catherine Jones**, Software Engineering Group Leader, STFC, UK
-
-**Andrew Treloar**, Director,  Platforms and Engagements, Australian Research Data Commons, Australia
-
-**Karthik Ram**, URSSI lead, University of California, Berkeley, USA
-
-**Chris Mentzel**, Executive Director, Stanford University, USA

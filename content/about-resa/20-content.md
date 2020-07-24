@@ -2,11 +2,9 @@
 fragment = "content"
 #disabled = true
 date = "2020-07-21"
-weight = 10
+weight = 20
 background = "white"
 
-title = "About ReSA"
-#subtitle = ""
 +++
 
 The vision of the Research Software Alliance (ReSA) is that research software is recognised and valued as a fundamental

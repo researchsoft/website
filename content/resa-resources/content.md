@@ -5,8 +5,6 @@ date = "2020-07-21"
 weight = 100
 background = "white"
 
-title = "Resources"
-#subtitle = ""
 +++
 
 ReSA outputs can provide useful references to support recognition and valuing of research software as a key component of research. Recent items include

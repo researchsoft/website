@@ -5,8 +5,6 @@ date = "2020-07-21"
 weight = 100
 background = "white"
 
-title = "News"
-#subtitle = ""
 +++
 
 * [May 2020](2020-May-newsletter.pdf)
