@@ -11,11 +11,11 @@ title = "Research Software Alliance"
 subtitle = "Research software: recognised and valued as a fundamental and vital component of research worldwide"
 
 [header]
-  image = "bigstock-209562745REDUCEDcropped.jpg"
+  image = "main-hero.png"
 
 [asset]
-  image = "resa-logo-software-green.png"
-  width = "500px" # optional - will default to image width
+  image = "resa-logo-inverted.svg"
+  width = "750px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 
 [[buttons]]

@@ -6,7 +6,7 @@ weight = 1200
 background = "white"
 
 [asset]
-  image = "resa-logo-software-green.png"
-  text = "Logo Subtext"
+  image = "resa-logo.svg"
+  text = "ReSA logo"
 +++
 

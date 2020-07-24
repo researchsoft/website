@@ -1,10 +1,10 @@
 +++
 fragment = "nav"
 #disabled = true
-date = "2018-05-17"
+date = "2020-07-20"
 weight = 0
 background = "light"
-search = true
+search = false
 sticky = true
 
 [breadcrumb]
@@ -14,7 +14,7 @@ sticky = true
 
 # Branding options
 [asset]
-  image = "resa-logo-software-green.png"
+  image = "resa-logo.svg"
   text = "ReSA"
 
 [repo_button]

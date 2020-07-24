@@ -1,10 +1,9 @@
  +++
 
- weight = 10
- title = "Research"
- subtitle = "Enable better and more efficient research"
- item_url = "#"
+weight = 10
+title = "Research"
+subtitle = "Enable better and more efficient research"
 
 [asset]
-image = "bigstock-Young-People-Work-In-Modern-Of-214655806-300x190.jpg"
+image = "young-people-500-380.png"
 +++

@@ -2,10 +2,10 @@
 
 fragment = "contact"
 #disabled = true
-date = "2017-09-10"
+date = "2020-07-24"
 weight = 100
 background = "white"
-form_name = "defaultContact"
+form_name = "Contact ReSA"
 
 title = "Contact"
 #title_align = "left" # Default is center, can be left, right or center

@@ -9,7 +9,7 @@ title = "People"
 #subtitle = ""
 +++
 
-Director
+### Director
 
 ![Michelle Barker](michelle-255x300.png "Michelle Barker")
 
@@ -21,7 +21,7 @@ Michelle is a former Director of the [Australian Research Data Commons](https://
 
 [Email Michelle Barker](mailto:michelle@researchsoft.org).
 
-Steering committee
+### Steering committee
 
 **Daniel S. Katz**, Assistant Director for Scientific Software and Applications, National Center for Supercomputing Applications (NCSA), University of Illinois, USA
 
