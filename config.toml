@@ -11,8 +11,8 @@ theme = "syna"
 
   [params.colors]
 
-  primary = "darkorange"
-  secondary = "darkgreen"
+  primary = "darkgreen"
+  secondary = "darkorange"
 
 
 [[menu.main]]

@@ -21,6 +21,6 @@ subtitle = "Research software: recognised and valued as a fundamental and vital 
 [[buttons]]
   text = "Learn more"
   url = "#40-why-resa"
-  color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  color = "secondary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 +++
