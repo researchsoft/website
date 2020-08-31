@@ -7,6 +7,7 @@ background = "white"
 
 +++
 
+* [June 2020](2020-06-newsletter.pdf)
 * [May 2020](2020-05-newsletter.pdf)
 * [April 2020](2020-04-newsletter.pdf)
 * [March 2020](2020-03-newsletter.pdf)
