@@ -3,7 +3,7 @@ fragment = "content"
 disabled = false
 date = "2020-07-21"
 weight = 40
-background = "primary"
+background = "white"
 
 title = "Why ReSA?"
 #subtitle = ""

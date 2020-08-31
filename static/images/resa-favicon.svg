@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-ydpi="493.71429"
+   inkscape:export-xdpi="493.71429"
+   inkscape:export-filename="C:\Users\260012b\github\website\static\favicon-180x180.png"
+   sodipodi:docname="resa-favicon.svg"
+   xml:space="preserve"
+   viewBox="0 0 34.999999 35"
+   y="0px"
+   x="0px"
+   id="Elegant_Logo_Kit"
+   version="1.1"
+   width="35"
+   height="35"><sodipodi:namedview
+   inkscape:current-layer="Elegant_Logo_Kit"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="1912"
+   inkscape:cy="16.178016"
+   inkscape:cx="48.578066"
+   inkscape:zoom="10.38978"
+   fit-margin-bottom="0"
+   fit-margin-right="0"
+   fit-margin-left="0"
+   fit-margin-top="0"
+   showgrid="false"
+   id="namedview230"
+   inkscape:window-height="1137"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" /><metadata
+   id="metadata32"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs30">
+	
+	
+	
+	
+	
+	
+	
+</defs>
+<style
+   id="style2"
+   type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#020202;}
+	.st2{-inkscape-font-specification:'League Gothic, Normal'; font-family:'League Gothic'}
+	.st3{font-size:36px;}
+	.st4{letter-spacing:1;}
+	.st5{enable-background:new    ;}
+	.st6{fill:#166734;}
+	.st7{-inkscape-font-specification:'Adobe Caslon Pro, Semi-Bold Italic'; font-family:'Adobe Caslon Pro'}
+	.st8{font-size:10px;}
+</style>
+<path
+   id="path35"
+   style="font-size:36px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Normal';letter-spacing:1;fill:#020202"
+   d="M 0,16.352 16.02,8 v 3.492 L 3.744,17.756 16.02,24.02 v 3.492 L 0,19.16 Z" /><path
+   id="path47"
+   style="font-size:36px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Normal';letter-spacing:1;fill:#020202"
+   d="M 34.74969,19.16 18.729688,27.512 V 24.02 l 12.276,-6.264 -12.276,-6.264 V 8 l 16.020002,8.352 z" />
+</svg>
