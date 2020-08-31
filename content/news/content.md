@@ -7,15 +7,15 @@ background = "white"
 
 +++
 
-* [May 2020](2020-May-newsletter.pdf)
-* [April 2020](2020-April-newsletter.pdf)
-* [March 2020](2020-March-newsletter.pdf)
-* [January 2020](2020-January-newsletter.pdf)
-* [December 2019](2019-December-newsletter.pdf)
-* [November 2019](2019-November-newsletter.pdf)
-* [October 2019](2019-October-newsletter.pdf)
-* [September 2019](2019-September-newsletter.pdf)
-* [August 2019](2019-August-newsletter.pdf)
+* [May 2020](2020-05-newsletter.pdf)
+* [April 2020](2020-04-newsletter.pdf)
+* [March 2020](2020-03-newsletter.pdf)
+* [January 2020](2020-01-newsletter.pdf)
+* [December 2019](2019-12-newsletter.pdf)
+* [November 2019](2019-11-newsletter.pdf)
+* [October 2019](2019-10-newsletter.pdf)
+* [September 2019](2019-09-newsletter.pdf)
+* [August 2019](2019-08-newsletter.pdf)
 
 To receive ReSA newsletters join the [ReSA google group](https://groups.google.com/forum/#!forum/research-software-alliance).
 
