@@ -20,6 +20,4 @@ background = "white"
 
 To receive ReSA newsletters join the [ReSA google group](https://groups.google.com/forum/#!forum/research-software-alliance).
 
-To subscribe send a blank email to 
-
-[research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)
+To subscribe send a blank email to: [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)
