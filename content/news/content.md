@@ -18,6 +18,6 @@ background = "white"
 * [September 2019](2019-09-newsletter.pdf)
 * [August 2019](2019-08-newsletter.pdf)
 
-To receive ReSA newsletters join the [ReSA google group](https://groups.google.com/forum/#!forum/research-software-alliance).
+To receive ReSA newsletters, join the [ReSA google group](https://groups.google.com/forum/#!forum/research-software-alliance).
 
-To subscribe send a blank email to: [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)
+To subscribe, send a blank email to: [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)
