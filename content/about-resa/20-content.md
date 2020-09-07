@@ -10,7 +10,7 @@ background = "white"
 The vision of the Research Software Alliance (ReSA) is that research software is recognised and valued as a fundamental
 and vital component of research worldwide.
 
-A [wide range](https://arxiv.org/pdf/1811.08473.pdf) of research software organisations and programs exist internationally to address the varied challenges in
+A [wide range](https://arxiv.org/abs/1811.08473) of research software organisations and programs exist internationally to address the varied challenges in
 software productivity, quality, reproducibility, and sustainability.
 
 ReSA aims to coordinate across these efforts to leverage investments, to achieve the shared long-term goal of research

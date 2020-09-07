@@ -64,5 +64,5 @@ theme = "syna"
 [[menu.footer_social]]
   weight = 30
   name = "github"
-  url = "https://git.okkur.org/syna"
+  url = "https://github.com/researchsoft/website"
   pre = "fab fa-github fa-stack-2x"
