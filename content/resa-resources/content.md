@@ -27,5 +27,5 @@ Do you have resources to add?
 
 * Add it directly to the [ReSA Zotero group library](https://www.zotero.org/groups/2400609/resa/library) (requires Zotero account)
 * Submit a resource as an issue in [GitHub](https://github.com/researchsoft/Resources/issues/new/choose) (requires GitHub account)
-* [Email it directly to ReSA](info@researchsoft.org).
+* [Email it directly to ReSA](mailto:info@researchsoft.org).
 
