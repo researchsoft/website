@@ -41,11 +41,6 @@ theme = "syna"
   weight = 50
 
 [[menu.main]]
-  url = "/newsletters/"
-  name= "Newsletters"
-  weight = 55
-
-[[menu.main]]
   url = "/contact"
   name = "Contact"
   weight = 60
