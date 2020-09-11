@@ -15,4 +15,4 @@ To create a new newsletter:
 1. In Browser One, update the body of the newsletter with your content, referring to [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) on [GitHub Guides](https://guides.github.com/).
 1. In Browser One, add a suitable Commit message, such as "Added content for newsletter for August 2020".
 1. In Browser One, if you have permission, make sure **Commit directly to the ```master``` branch** is selected and click **Commit new file**.
-1. Refresh this page to monitor the [Netlify status button](https://github.com/researchsoft/website). When it says "netlify Success", visit the ReSA website to see the new newsletter.
+1. Monitor the [Netlify status button](https://github.com/researchsoft/website). When it says "netlify Success", visit the ReSA website to see the new newsletter.

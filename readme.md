@@ -11,3 +11,5 @@ The website uses the [Hugo framework](https://gohugo.io/) with the [Syna theme](
 The only files that should be edited as a matter of course are in [content](https://github.com/researchsoft/website/tree/master/content). Images generally go into [static/images](https://github.com/researchsoft/website/tree/master/static/images).
 
 When editing existing content, it is possible to use the GitHub text editor interface to make changes. When viewing the file you would like to edit, click the Edit button to make your changes. If you do not have permissions for the repository directly, you will need to submit a pull request for an administrator to adopt the changes.
+
+There is a [newsletter template](https://github.com/researchsoft/website/tree/master/newsletter-template) that can assist in creating a new newsletter.
