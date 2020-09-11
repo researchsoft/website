@@ -9,13 +9,14 @@ title = "ReSA News: September 2019"
 title_align = "left"
 
 display_date = false
-date = "2019-09-01"
+date = "2019-09-25"
 
-#summary = """
-#Sometimes you need a **markdown** summary and that's not possible to do with
-#[Hugo](https://gohugo.io). Lorem ipsum dolor sit amet, consectetur adipiscing
-#elit. Curabitur a lorem urna.
-#"""
+summary = """
+ReSA taskforces:
+- Software landscape analysis
+- Evidence for the importance of research software
+- Current opportunities for funding research software
+    """
 
 +++
 
