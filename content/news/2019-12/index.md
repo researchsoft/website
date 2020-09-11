@@ -9,13 +9,12 @@ title = "ReSA News: December 2019"
 title_align = "left"
 
 display_date = false
-date = "2019-12-01"
+date = "2019-12-19"
 
-#summary = """
-#Sometimes you need a **markdown** summary and that's not possible to do with
-#[Hugo](https://gohugo.io). Lorem ipsum dolor sit amet, consectetur adipiscing
-#elit. Curabitur a lorem urna.
-#"""
+summary = """
+- ReSA Call for participation
+- UKRI Strategy recognises the critical role of software in Research
+- Chan Zuckerberg Initiative Awards $5 Million for Open Source Software Projects Essential to Science"""
 
 +++
 
