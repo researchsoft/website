@@ -16,7 +16,7 @@ summary = """
 - ReSA responds to US government request for information
 - Recommendations for policy makers, funders and publishers
 - FAIR for Research Software update
-- Community News on the National Information Standards Organization and the  Zenodo COVID-19 Community
+- Community news on the National Information Standards Organization and the  Zenodo COVID-19 Community
 """
 
 +++
