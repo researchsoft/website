@@ -1,7 +1,7 @@
 ## Creating a newsletter
 
 To create a new newsletter:
-1. Open *two* browser windows. Set Browser One to [content/news](https://github.com/researchsoft/website/tree/master/content/news) and Browser Two to [an existing newsletter table of contents](https://raw.githubusercontent.com/researchsoft/website/master/content/news/2020-06/toc.md).
+1. Open *two* browser windows. Set Browser One to [content/news](https://github.com/researchsoft/website/tree/master/content/news) and Browser Two to [newsletter ToC template](https://raw.githubusercontent.com/researchsoft/website/master/newsletter-template/toc.md).
 1. In Browser One, click **Add file** -> **Create new file**.
 1. In Browser One, in **Name your file...** type ```/YYYY-MM/toc.md```, where YYYY-MM is the year and month of the new newsletter (for example 2020-08).
 1. Copy and paste the text from Browser Two into the editing field in Browser One - _you do not need to edit the content at all_.
