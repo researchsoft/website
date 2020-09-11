@@ -66,7 +66,7 @@ hard over the last couple of months to put together a series of online events to
 new skills, keep up to date with what is happening in the world of research software engineering
 and connect with the international research software community.
 
-SORSE has an [open call for submissions](https://sorse.github.io/programme/call-for-contributions)) of various session types including talks, poster
+SORSE has an [open call for submissions](https://sorse.github.io/programme/call-for-contributions) of various session types including talks, poster
 sessions, software demos and mini workshops with monthly deadlines for review cycles. Our
 next submission deadline is 23:59 UTC on 31st August 2020. A mailing list that will be used only
 for event updates and notifications is available. If you’d like to be notified of upcoming SORSE
