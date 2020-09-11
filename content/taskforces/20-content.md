@@ -11,7 +11,7 @@ ReSA’s mission is to bring research software communities together to collabora
 
 To deliver on this mission, we invite the ReSA community to join us on these taskforces:
 
-* **[FAIR 4 Research Software](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)** is working to to define and effectively apply FAIR principles to research software, to achieve adoption of these principles, starting from a range of existing community-led discussions. This taskforce has been convened in partnership with the Research Data Alliance (RDA) and FORCE11. [Join the group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg).
+* **[FAIR 4 Research Software](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)** is working to to define and effectively apply FAIR principles to research software, to achieve adoption of these principles, starting from a range of existing community-led discussions. This taskforce has been convened in partnership with the Research Data Alliance (RDA) and [FORCE11](https://www.force11.org/group/fair-4-research-software-fair4rs-working-group). [Join the group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg).
 
 * **Software sections of [RDA COVID-19 Guidelines and Recommendations](https://www.rd-alliance.org/group/rda-covid19-rda-covid19-omics-rda-covid19-epidemiology-rda-covid19-clinical-rda-covid19-0)** for policy makers, funders and the research community. [Join the group](https://www.rd-alliance.org/groups/rda-covid19-software) helping COVIID-19 stakeholders follow best practices to maximize the efficiency of their work, and to act as a blueprint for future emergencies.
 
