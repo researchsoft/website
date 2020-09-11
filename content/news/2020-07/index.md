@@ -6,13 +6,14 @@ title = "ReSA News: July 2020"
 title_align = "left"
 
 display_date = false
-date = "2020-07-01"
+date = "2020-07-23"
 
-#summary = """
-#Sometimes you need a **markdown** summary and that's not possible to do with
-#[Hugo](https://gohugo.io). Lorem ipsum dolor sit amet, consectetur adipiscing
-#elit. Curabitur a lorem urna.
-#"""
+summary = """
+* FAIR for Research Software update
+* Recommendations on software sharing for policy makers, funders, publishers and researchers
+* Request for Proposals for Critical Digital Research Infrastructure by Ford Foundation and Sloan Foundation
+* OECD report on developing digital skills in the research sector
+* US Research Software Engineer Association July newsletter items of interest"""
 
 +++
 
@@ -57,7 +58,7 @@ There’s a new [Request for Proposals (RFP) for Critical Digital Research Infra
 
 **OECD** has published “[Building digital workforce capacity and skills for data-intensive science](https://www.oecd-ilibrary.org/science-and-technology/building-digital-workforce-capacity-and-skills-for-data-intensive-science_e08aa3bb-en)”, a report examining the skills requirements for data-intensive research conducted in the public sector. The expert group for this work was chaired by ReSA Director, Michelle Barker. This report was commissioned by the OECD Global Science Forum to identify the skills needed for data intensive science; the challenges for building sustainable capacity as these needs evolve; and the policy actions that can be taken by different actors to address these needs. The report includes policy recommendations for various actors, such as a recommendation that research organisations support the development of professional communities in emerging roles such as data stewards and RSEs, and for trainers and leaders of digital skills initiatives. It also provides good practice examples to support these recommendations, including case studies from the Society of Research Software Engineering and Software Sustainability Institute.
 
-Check out the US Research Software Engineer Association (US-RSE) [July newsletter](https://us-rse.org/2020-07-14-newsletter/) for items of interest such as:
+Check out the **US Research Software Engineer Association** (US-RSE) [July newsletter](https://us-rse.org/2020-07-14-newsletter/) for items of interest such as:
 
 * [US-RSE Governance & Elections](http://us-rse.org/2020-07-14-newsletter/#governance)
 * [RSE Community Workshop at PEARC20](http://us-rse.org/2020-07-14-newsletter/#pearc20)
