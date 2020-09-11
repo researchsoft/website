@@ -16,7 +16,7 @@ ReSA taskforces:
 - Software landscape analysis
 - Evidence for the importance of research software
 - Current opportunities for funding research software
-    """
+"""
 
 +++
 
