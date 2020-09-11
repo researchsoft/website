@@ -9,13 +9,15 @@ title = "ReSA News: May 2020"
 title_align = "left"
 
 display_date = false
-date = "2020-05-01"
+date = "2020-05-21"
 
-#summary = """
-#Sometimes you need a **markdown** summary and that's not possible to do with
-#[Hugo](https://gohugo.io). Lorem ipsum dolor sit amet, consectetur adipiscing
-#elit. Curabitur a lorem urna.
-#"""
+summary = """
+- ReSA becomes an RDA affiliate
+- ReSA responds to US government request for information
+- Recommendations for policy makers, funders and publishers
+- FAIR for Research Software update
+- Community News on the National Information Standards Organization and the  Zenodo COVID-19 Community
+"""
 
 +++
 
@@ -43,10 +45,10 @@ The FAIR For Research Software Working Group (FAIR4RS WG) is being jointly conve
 
 ### Community news
 
-Over the last year, the National Information Standards Organization (NISO) has convened a reproducibility badging working group formed of representatives from publishers, professional societies, and the research community. This has included ReSA’s Neil Chue Hong.
+Over the last year, the **National Information Standards Organization** (NISO) has convened a reproducibility badging working group formed of representatives from publishers, professional societies, and the research community. This has included ReSA’s Neil Chue Hong.
 
 This group is now [seeking comments](https://niso.org/niso-io/2020/05/announcing-nisos-draft-recommended-practice-reproducibility-badging-and-definitions) from the community on the draft recommended practice document they have produced, [Reproducibility Badging and Definitions](https://www.niso.org/standards-committees/reproducibility-badging). This document provides a set of recommended badges to be universally deployed across the scholarly publishing ecosystem to recognise different aspects and stages of making research outputs available, open, reviewable and reproducible in a way that will be easily understood by all. Comments will be accepted through June 18, 2020. Comments are welcomed from potential users and implementors of the recommendations, so we are particularly keen for members of the ReSA community with an interest in FAIR or reproducible research, and those who are part of an editorial team for a journal or conference proceedings to provide feedback.
 
-Can you assist Zenodo [curate software entries](https://www.openaire.eu/zenodo-covid-19-community) in their COVID-19 community? The [COVID-19 Open Research Gateway](https://www.openaire.eu/openaire-activities-for-covid-19) has been established by OpenAIRE, European Commission, [ELIXIR](https://elixir-europe.org/news/covid-19-support), [EMBL](https://www.embl.org/news/science/embl-ebi-leads-international-collaboration-to-share-covid-19-research-data/) and [RDA](https://www.rd-alliance.org/groups/rda-covid19) to provide a single entry point to COVID-19 resources. Together with CERN, OpenAIRE has created a [Zenodo COVID-19 Community](https://www.openaire.eu/zenodo-covid-19-community) to collect all research results that could be relevant for the scientific community worldwide working on the Coronavirus Disease (COVID-19) and SARS-CoV-2. If you’d like to assist with curation then [fill out the submission form](https://www.openaire.eu/zenodo-covid-19-community).
+Can you assist **Zenodo** [curate software entries](https://www.openaire.eu/zenodo-covid-19-community) in their COVID-19 community? The [COVID-19 Open Research Gateway](https://www.openaire.eu/openaire-activities-for-covid-19) has been established by OpenAIRE, European Commission, [ELIXIR](https://elixir-europe.org/news/covid-19-support), [EMBL](https://www.embl.org/news/science/embl-ebi-leads-international-collaboration-to-share-covid-19-research-data/) and [RDA](https://www.rd-alliance.org/groups/rda-covid19) to provide a single entry point to COVID-19 resources. Together with CERN, OpenAIRE has created a [Zenodo COVID-19 Community](https://www.openaire.eu/zenodo-covid-19-community) to collect all research results that could be relevant for the scientific community worldwide working on the Coronavirus Disease (COVID-19) and SARS-CoV-2. If you’d like to assist with curation then [fill out the submission form](https://www.openaire.eu/zenodo-covid-19-community).
 
 If you’d like to suggest items for inclusion in ReSA News then please [contact us](/contact).
