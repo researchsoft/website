@@ -9,13 +9,13 @@ title = "ReSA News: March 2020"
 title_align = "left"
 
 display_date = false
-date = "2020-03-01"
+date = "2020-03-25"
 
-#summary = """
-#Sometimes you need a **markdown** summary and that's not possible to do with
-#[Hugo](https://gohugo.io). Lorem ipsum dolor sit amet, consectetur adipiscing
-#elit. Curabitur a lorem urna.
-#"""
+summary = """
+- ReSA’s first blog post
+- FAIR 4 Software
+- Journal special issues
+"""
 
 +++
 
