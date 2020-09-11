@@ -12,8 +12,8 @@ display_date = false
 date = "2019-11-19"
 
 summary = """
-- ReSA Call for participation
-- UKRI Strategy recognises the critical role of software in Research
+- ReSA call for participation
+- UKRI strategy recognises the critical role of software in Research
 - Chan Zuckerberg Initiative Awards $5 Million for Open Source Software Projects Essential to Science"""
 """
 
@@ -31,7 +31,7 @@ ReSA is inviting members of the [ReSA google group](https://groups.google.com/g/
 
 After the pilot phase, the survey will be more broadly shared within the research software sector. ReSA plans to use this understanding to write an article to educate the research community about the importance of software, and/or to find areas to involve additional representatives in ReSA. Information submitted to this survey will be publicly available. Respondent’s details are anonymous unless respondents choose to provide their own email address. If you have any questions then please [contact Matthias Liffers](matthias.liffers@ardc.edu.au).
 
-### UKRI Strategy recognises the critical role of software in Research
+### UKRI strategy recognises the critical role of software in Research
 
 "The near-ubiquity of software [in research] means that it is not possible to disentangle the quality of the software from the quality of the research. Unreliable and untested software leads to unreliable results that cannot be trusted", states [a recent report on opportunities to grow the UK’s research capability](https://www.ukri.org/files/infrastructure/the-uks-research-and-innovation-infrastructure-opportunities-to-grow-our-capacity-final-low-res/). This report, produced by [UK Research and Innovation](https://www.ukri.org/), will be used to guide the UK government’s strategy for research investment - which is planned to increase to at least 2.4% of Gross Domestic Product by 2027. This is possibly the first time such a high-profile report has clearly identified the critical role of software and the people who create it.
 
