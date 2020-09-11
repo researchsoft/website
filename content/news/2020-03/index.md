@@ -13,7 +13,7 @@ date = "2020-03-25"
 
 summary = """
 - ReSA’s first blog post
-- FAIR 4 Software
+- FAIR 4 Ressearch Software 
 - Journal special issues
 """
 
@@ -27,7 +27,7 @@ This month, we celebrate the first ReSA blog post, share the outcomes of the RDA
 
 We have posted our first blog, in support of our mission is to bring research software communities together to collaborate on the advancement of research software. The blog reports on the work of a ReSA taskforce that identified and analysed the research software landscape, and was posted by URSSI, SSI and Netherlands eScience Center. Readers are invited to continue to add or make corrections to the ReSA list of research software communities by making comments in the spreadsheet, which will continue to be curated by ReSA. Please email Daniel S. Katz if you are interested in writing a landscape paper based on further analysis and work.
 
-### FAIR 4 Software
+### FAIR 4 Research Software
 
 Last week the Research Data Alliance (RDA) Plenary 15 online events included two RDA Source Code Interest Group meetings on FAIR 4 Software. The meeting agenda, notes and slides are available for review. More than 40 people joined to continues community-led discussions (at RDA, FORCE11 and ELIXIR) on how to effectively apply FAIR principles to research software. The goal of the session was to assess the interest across the community on the topic of adapting and defining FAIR principles for research software with the aim of defining the scope, outputs and leadership of a new working group to take forward development of the principles. A summary of the discussions will soon be circulated, including next steps regarding the formation of a FAIR 4 software taskforce supported by ReSA, RDA and FORCE11.
 
