@@ -13,8 +13,8 @@ date = "2020-01-31"
 
 summary = """
 - Events
-- Open Calls
-- Other News
+- Open calls
+- Other news
 """
 
 +++
