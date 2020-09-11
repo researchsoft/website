@@ -9,13 +9,14 @@ title = "ReSA News: June 2020"
 title_align = "left"
 
 display_date = false
-date = "2020-06-01"
+date = "2020-06-26"
 
-#summary = """
-#Sometimes you need a **markdown** summary and that's not possible to do with
-#[Hugo](https://gohugo.io). Lorem ipsum dolor sit amet, consectetur adipiscing
-#elit. Curabitur a lorem urna.
-#"""
+summary = """
+- ReSA blog: Evidence for the importance of research software
+- FAIR for Research Software webinars next week
+- Data science survey from Academic Data Science Alliance
+- Now open: Chan Zuckerberg Initiative Essential Open Source Software for Science program
+"""
 
 +++
 
@@ -25,7 +26,7 @@ The [ReSA Taskforce](http://www.researchsoft.org/resa-taskforces-join-us/) on ev
 
 ### FAIR for Research Software update
 
-The [FAIR 4 Research Software Working Group (FAIR4RS WG)](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) is conducting two webinars to update members on how you can engage with the WG on their [aims](https://www.rd-alliance.org/node/69317/case-statement) to coordinate a range of existing community-led discussions on how to define and effectively apply FAIR principles to research software, to achieve adoption of these principles.
+The [FAIR 4 Research Software Working Group (FAIR4RS WG)](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) is conducting two webinars to update members on **how you can engage with the WG** on their [aims](https://www.rd-alliance.org/node/69317/case-statement) to coordinate a range of existing community-led discussions on how to define and effectively apply FAIR principles to research software, to achieve adoption of these principles.
 
 The webinar will provide details of four subgroups that have been formed to advance the first aim of the WG, to define FAIR guiding principles for research software, and how to join these. The four subgroups will work until end of September 2020 on the following tasks:
 
