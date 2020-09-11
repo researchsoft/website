@@ -14,7 +14,7 @@ date = "2019-11-19"
 summary = """
 - ReSA call for participation
 - UKRI strategy recognises the critical role of software in Research
-- Chan Zuckerberg Initiative Awards $5 Million for Open Source Software Projects Essential to Science"""
+- Chan Zuckerberg Initiative Awards $5 Million for Open Source Software Projects Essential to Science
 """
 
 +++
