@@ -6,13 +6,14 @@ title = "ReSA News: August 2020"
 title_align = "left"
 
 display_date = false
-date = "2020-08-01"
+date = "2020-08-26"
 
-#summary = """
-#Sometimes you need a **markdown** summary and that's not possible to do with
-#[Hugo](https://gohugo.io). Lorem ipsum dolor sit amet, consectetur adipiscing
-#elit. Curabitur a lorem urna.
-#"""
+summary = """
+* ReSA becomes a fiscally sponsored project of Code for Science and Society
+* Additions to ReSA Zotero library on resources that support software in research
+* SORSE launches on 2 September 2020
+* NSF has issued a solicitation that includes sustainable software projects
+"""
 
 +++
 
