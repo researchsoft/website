@@ -9,13 +9,13 @@ title = "ReSA News: April 2020"
 title_align = "left"
 
 display_date = false
-date = "2020-04-01"
+date = "2020-04-29"
 
-#summary = """
-#Sometimes you need a **markdown** summary and that's not possible to do with
-#[Hugo](https://gohugo.io). Lorem ipsum dolor sit amet, consectetur adipiscing
-#elit. Curabitur a lorem urna.
-#"""
+summary = """
+- Update on the software component of the RDA COVID WG
+- FAIR for Research Software news
+- Introducing the ReSA Director, Michelle Barker
+"""
 
 +++
 
