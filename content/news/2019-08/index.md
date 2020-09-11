@@ -9,13 +9,11 @@ title = "ReSA News: August 2019"
 title_align = "left"
 
 display_date = false
-date = "2019-08-01"
+date = "2019-08-16"
 
 #summary = """
-#Sometimes you need a **markdown** summary and that's not possible to do with
-#[Hugo](https://gohugo.io). Lorem ipsum dolor sit amet, consectetur adipiscing
-#elit. Curabitur a lorem urna.
-#"""
+- Call for community involvement in ReSA projects
+- Community news"""
 
 +++
 
