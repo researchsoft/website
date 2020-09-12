@@ -11,7 +11,7 @@ title_align = "left"
 display_date = false
 date = "2019-08-16"
 
-#summary = """
+summary = """
 - Call for community involvement in ReSA projects
 - Community news"""
 
