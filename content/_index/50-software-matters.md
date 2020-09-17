@@ -13,4 +13,4 @@ A UK survey of 1,000 randomly chosen researchers showed that more than 90% of re
 
 [1] Hettrick. S. J., et al. (2014). UK Research Software Survey 2014 [Data set]. doi:[10.5281/zenodo.14809](https://doi.org/10.5281/zenodo.14809)
 
-[2] Nangia, Udit; Katz, Daniel S. (2017): Understanding Software in Research: Initial Results from Examining Nature and a Call for Collaboration. https://arxiv.org/abs/1706.06527
+[2] Nangia, Udit; Katz, Daniel S. (2017): Understanding Software in Research: Initial Results from Examining Nature and a Call for Collaboration. doi:[10.1109/eScience.2017.78](https://doi.org/10.1109/eScience.2017.78)
