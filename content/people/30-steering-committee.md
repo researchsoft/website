@@ -10,7 +10,7 @@ title = "Steering Committee"
 
 **Daniel S. Katz**, Assistant Director for Scientific Software and Applications, National Center for Supercomputing Applications (NCSA), University of Illinois, USA
 
-**Neil Chue Hong**, CEO, Software Sustainability Institute, UK
+**Neil Chue Hong**, Director, Software Sustainability Institute, UK
 
 **Catherine Jones**, Software Engineering Group Leader, STFC, UK
 
