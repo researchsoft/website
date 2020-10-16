@@ -20,7 +20,7 @@ summary = "ReSA News | September 2020""
 ### **ReSA's three focus areas**
 
 ReSA has three main focus areas: policy, people and infrastructure. We’ll be profiling the work we do in each in future newsletters.
-
+![Policy, infrastructure, people](/3 areas.png)
 
 ### **FAIR4RS events**
 
