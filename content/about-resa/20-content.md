@@ -21,3 +21,5 @@ ReSA aims to achieve this through:
 * Promoting the inclusion of software as a first-class research output
 * Improving the ecosystem of research software from the technology through to the social structures that support it
 * Influencing decision makers to value research software and the people who develop it.
+
+ReSA is a fiscally sponsored project of [Code for Science & Society](https://codeforscience.org/).
