@@ -55,4 +55,8 @@ This workshop aims to assess what we do and do not know about RSE. The participa
 
 *If you’d like to suggest items for inclusion in ReSA News then please [contact us](/contact). If you would to engage with the ReSA community, then join the [ReSA Google group](https://groups.google.com/forum/#!forum/research-software-alliance) to receive email updates. To subscribe send a blank email to [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)*
 
-*ReSA’s vision is that research software be recognised and valued as a fundamental and vital component of research worldwide. The ReSA mission is to bring research software communities together to collaborate on the advancement of research software.*
+*[ReSA](https://www.researchsoft.org/) is a community of influencers and members of major research software communities, programs, organisations and individuals. ReSA’s vision is that research software be recognised and valued as a fundamental and vital component of research worldwide. The ReSA mission is to bring research software communities together to collaborate on the advancement of research software. ReSA is a fiscally sponsored project of [Code for Science and Society](https://codeforscience.org/).
+
+*You are receiving this email as a member of the ReSA google group. You can unsubscribe from email updates by adjusting your settings so that you stay a member, but stop receiving group email by going to [Google Groups](https://groups.google.com/my-groups). Click My Groups > ReSA. In the menu on the left side choose My membership settings and edit the Subscription drop down menu to choose No email. You can leave the google group completely by finding the [group](https://groups.google.com/forum/#!myforums) you want to leave and clicking the “leave group” icon (a backwards arrow) on the right side.
+
+
