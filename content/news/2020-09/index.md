@@ -26,10 +26,10 @@ ReSA has three main focus areas: policy, people and infrastructure. We’ll be p
 
 The FAIR4RS team is very busy engaging with the community at a range of events. Upcoming talks include: 
 
-* Toward defining and implementing FAIR for research software, at Academic Data Science Alliance (ADSA) Data  Science Leadership Summit, 13 October 2020
-* FAIR4RS WG workshop at RDA Plenary 16, 9-13 November 2020 (date TBC)
-* FAIR 4 Research Software workshop at SORSE, 16-20 November 2020 (date TBC)
-* Research Software Developers Day, a joint effort between ELIXIR Belgium and the VIB Bioinformatics Core - 3 December 2020  
+* Toward defining and implementing FAIR for research software, at Academic Data Science Alliance (ADSA) [Data Science Leadership Summit](https://academicdatascience.org/adsa-meetings/2020-data-science-leadership-summit), 13 October 2020
+* [FAIR4RS WG](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) workshop at [RDA Plenary](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) 16, 9-13 November 2020 (date TBC)
+* [FAIR 4 Research Software workshop](https://sorse.github.io/programme/workshops/event-016/) at [SORSE}(https://sorse.github.io/programme/), 16-20 November 2020 (date TBC)
+* [Research Software Developers Day](https://www.be-rse.org/rsdd2020), a joint effort between ELIXIR Belgium and the VIB Bioinformatics Core - 3 December 2020  
 
 Events in previous months include the US-RSE workshop as part of PEARC20 (slides), FORCE11 Scholarly Communication Institute (slides and recording), Workshop on FAIR Computational Workflows - ECCB 2020 ELIXIR track, NZ RSE (slides), and RDA France (in French).  
 
@@ -55,8 +55,8 @@ This workshop aims to assess what we do and do not know about RSE. The participa
 
 *If you’d like to suggest items for inclusion in ReSA News then please [contact us](/contact). If you would to engage with the ReSA community, then join the [ReSA Google group](https://groups.google.com/forum/#!forum/research-software-alliance) to receive email updates. To subscribe send a blank email to [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)*
 
-*[ReSA](https://www.researchsoft.org/) is a community of influencers and members of major research software communities, programs, organisations and individuals. ReSA’s vision is that research software be recognised and valued as a fundamental and vital component of research worldwide. The ReSA mission is to bring research software communities together to collaborate on the advancement of research software. ReSA is a fiscally sponsored project of [Code for Science and Society](https://codeforscience.org/).
+*[ReSA](https://www.researchsoft.org/) is a community of influencers and members of major research software communities, programs, organisations and individuals. ReSA’s vision is that research software be recognised and valued as a fundamental and vital component of research worldwide. The ReSA mission is to bring research software communities together to collaborate on the advancement of research software. ReSA is a fiscally sponsored project of [Code for Science and Society](https://codeforscience.org/).*
 
-*You are receiving this email as a member of the ReSA google group. You can unsubscribe from email updates by adjusting your settings so that you stay a member, but stop receiving group email by going to [Google Groups](https://groups.google.com/my-groups). Click My Groups > ReSA. In the menu on the left side choose My membership settings and edit the Subscription drop down menu to choose No email. You can leave the google group completely by finding the [group](https://groups.google.com/forum/#!myforums) you want to leave and clicking the “leave group” icon (a backwards arrow) on the right side.
+*You are receiving this email as a member of the ReSA google group. You can unsubscribe from email updates by adjusting your settings so that you stay a member, but stop receiving group email by going to [Google Groups](https://groups.google.com/my-groups). Click My Groups > ReSA. In the menu on the left side choose My membership settings and edit the Subscription drop down menu to choose No email. You can leave the google group completely by finding the [group](https://groups.google.com/forum/#!myforums) you want to leave and clicking the “leave group” icon (a backwards arrow) on the right side.*
 
 
