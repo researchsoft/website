@@ -8,8 +8,8 @@ title_align = "left"
 display_date = false
 date = "2020-09-21"
 
-summary = "ReSA News | September 2020"
-""""
+summary = """
+
 * ReSA’s three focus areas: policy, people and infrastructure
 * FAIR4RS events 
 * SORSE event in late October: What do we (not) know about RSE?
