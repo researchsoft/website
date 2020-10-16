@@ -9,9 +9,10 @@ display_date = false
 date = "2020-09-21"
 
 summary = "ReSA News | September 2020""
-Sometimes you need a **markdown** summary and that's not possible to do with
-[Hugo](https://gohugo.io). Lorem ipsum dolor sit amet, consectetur adipiscing
-elit. Curabitur a lorem urna.
+* ReSA’s three focus areas: policy, people and infrastructure
+* FAIR4RS events 
+* SORSE event in late October: What do we (not) know about RSE?
+* Community news: BSSw Fellowships, ADSA Annual meeting, JupyterCon, GitHub CLI 1.0, JOSS's 1000th paper, The Festival of Maintenance and software
 """
 
 +++
@@ -19,7 +20,6 @@ elit. Curabitur a lorem urna.
 ### **ReSA's three focus areas**
 
 ReSA has three main focus areas: policy, people and infrastructure. We’ll be profiling the work we do in each in future newsletters.
-
 
 
 ### **FAIR4RS events**
