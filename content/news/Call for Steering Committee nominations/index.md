@@ -9,7 +9,7 @@ display_date = false
 date = "2020-10-19"
 
 summary = """
-
+Call for ReSA Steering Committee nominations
 """
 
 +++
