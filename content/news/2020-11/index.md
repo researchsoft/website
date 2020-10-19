@@ -2,11 +2,11 @@
 fragment = "content"
 weight = 100
 
-title = "ReSA News: Month Year"
+title = "Call for Steering Committee nominations"
 title_align = "left"
 
 display_date = false
-date = "2020-11-10"
+date = "2020-10-10"
 
 summary = """
 test
