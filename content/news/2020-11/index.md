@@ -10,7 +10,7 @@ date = "2020-10-10"
 
 summary = """
 
-The [Research Software Alliance](https://www.researchsoft.org/) (ReSA) [Steering Committee](https://www.researchsoft.org/people/) is calling for nominations for 4 new members of the Steering Committee in 2021.
+The ReSA [Steering Committee](https://www.researchsoft.org/people/) is calling for nominations for 4 new members of the Steering Committee in 2021.
 """
 
 +++
