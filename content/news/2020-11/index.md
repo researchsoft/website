@@ -6,7 +6,7 @@ title = "Call for Steering Committee nominations"
 title_align = "left"
 
 display_date = false
-date = "2020-10-10"
+date = "2020-10-19"
 
 summary = """
 
