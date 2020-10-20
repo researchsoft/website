@@ -21,7 +21,7 @@ summary = """
 ### **ReSA's three focus areas**
 
 ReSA has three main focus areas: policy, people and infrastructure. We’ll be profiling the work we do in each in future newsletters.
-![Policy, infrastructure, people](3 areas.png)
+![Policy, infrastructure, people](3_areas.png)
 
 ### **FAIR4RS events**
 
