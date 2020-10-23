@@ -6,7 +6,7 @@ title = "ReSA News: October 2020"
 title_align = "left"
 
 display_date = false
-date = "2020-10-20"
+date = "2020-10-23"
 
 summary = """
 
