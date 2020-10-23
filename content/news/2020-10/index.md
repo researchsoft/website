@@ -19,11 +19,11 @@ summary = """
 
 ### **ReSA’s three focus areas: Spotlight on Infrastructure**
 
-ReSA has three main focus areas: policy, people and infrastructure. This month’s newsletter highlights ReSA taskforces in the infrastructure space, particularly on standards and guidelines.
+ReSA has three main focus areas: policy, people and infrastructure. This month’s newsletter highlights [ReSA taskforces](https://www.researchsoft.org/taskforces/) in the infrastructure space, particularly on standards and guidelines.
 
-ReSA is a joint convenor of the FAIR 4 Research Software Working Group (FAIR4RS WG) with the Research Data Alliance (RDA) and FORCE11. FAIR4RS WG is enabling coordination of a range of existing community-led discussions on how to define and effectively apply FAIR principles to research software, to continue to advance the aims of the open science movement.
+ReSA is a joint convenor of the [FAIR 4 Research Software Working Group (FAIR4RS WG) ](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) with the [Research Data Alliance (RDA)](https://www.rd-alliance.org/) and [FORCE11](https://www.force11.org/). FAIR4RS WG is enabling coordination of a range of existing community-led discussions on how to define and effectively apply FAIR principles to research software, to continue to advance the aims of the open science movement.
 
-ReSA is also leading the development of a **FAIR 4 Research Software Roadmap** to plan a broad integration across the software landscape of the FAIR principles for software (once developed by FAIR4RS WG). The 2018 European Commission report, Turning FAIR into Reality, concludes that FAIR digital objects (including software) need to be supported by metrics, incentives, skills and FAIR services that provide persistent identifiers, metadata specifications, stewardship and repositories, actionable policies and Output Management Plans. 
+ReSA is also leading the development of a **FAIR 4 Research Software Roadmap** to plan a broad integration across the software landscape of the FAIR principles for software (once developed by FAIR4RS WG). The 2018 European Commission report, [Turning FAIR into Reality](https://op.europa.eu/en/publication-detail/-/publication/7769a148-f1f6-11e8-9982-01aa75ed71a1), concludes that FAIR digital objects (including software) need to be supported by metrics, incentives, skills and FAIR services that provide persistent identifiers, metadata specifications, stewardship and repositories, actionable policies and Output Management Plans. 
 
 All of these need to be created for FAIR software, to complement the significant FAIR initiatives that primarily encompass data (and those emerging in other areas such as workflows and training materials), and to leverage the efforts already underway to enable this for software. The FAIR4RS Roadmap aims to coordinate development of research software initiatives in areas such as: indicators, metrics, maturity models and certification; curriculums and competence centres, career profiles and reward structures; certification of FAIR services; interoperability frameworks; identifiers; metadata; and policy change.
 
@@ -37,15 +37,15 @@ This work aims to enable:
 
 Updates on this work will be available at:
 
-* at RDA Plenary 16 (USD$150 to register for the RDA plenary meeting):
-FAIR4RS WG workshop on 11 November
-Building a FAIR roadmap for research software on 10 November
+* at [RDA Plenary 16](https://rd-alliance.org/rdas-16th-plenary-meeting-programme) (USD$150 to register for the RDA plenary meeting):
+[FAIR4RS WG workshop](https://www.rd-alliance.org/plenaries/rda-16th-plenary-meeting-costa-rica-virtual/progress-fair-4-research-software-wg) on 11 November
+[Building a FAIR roadmap for research software](https://www.rd-alliance.org/building-fair-roadmap-research-software) on 10 November
 
 * free versions:
-FAIR 4 Research Software workshop 17-19 November (dates to be confirmed) at SORSE
-A free version of the Building a FAIR roadmap for research software workshop is being organised
+[FAIR 4 Research Software workshop](https://sorse.github.io/programme/workshops/event-016/) 17-19 November (dates to be confirmed) at [SORSE](https://sorse.github.io/programme/)
+A free version of the [Building a FAIR roadmap for research software workshop](https://www.rd-alliance.org/building-fair-roadmap-research-software) is being organised
 
-There will be many events in 2021 where the community can get information, provide feedback, and become involved in this work, including the Collaborations Workshop 2021 (CW21) from 30 March to 1 April 2021. eResearch Australasia are already hosting a discussion on 23 October 2020 on how RSE-AUNZ could be involved in leading these discussions in Australia, and seeks to identify local examples of best practice in creating FAIR research software.
+There will be many events in 2021 where the community can get information, provide feedback, and become involved in this work, including the [Collaborations Workshop 2021 (CW21)](https://www.software.ac.uk/cw21) from 30 March to 1 April 2021. [eResearch Australasia](https://conference.eresearch.edu.au/online-program/) are already hosting a [discussion](https://conference.eresearch.edu.au/2020/09/best-practice-for-fair-and-sustainable-research-software/) on 23 October 2020 on how RSE-AUNZ could be involved in leading these discussions in Australia, and seeks to identify local examples of best practice in creating FAIR research software.
 
 ### **ReSA Steering Committee call for nominations**
 
