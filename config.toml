@@ -3,6 +3,9 @@ languageCode = "en-uk"
 title = "Research Software Alliance"
 theme = "syna"
 
+# Google Analytics tracking
+googleAnalytics = "G-P9VQSP6L49"
+
 [params]
   twitter = "https://twitter.com/researchsoft"
   github = "https://github.com/researchsoft"
