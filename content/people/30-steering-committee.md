@@ -10,12 +10,12 @@ title = "Steering Committee"
 
 **Daniel S. Katz**, Assistant Director for Scientific Software and Applications, National Center for Supercomputing Applications (NCSA), University of Illinois, USA
 
-**Neil Chue Hong**, Director, Software Sustainability Institute, UK
+**Neil Chue Hong**, Director - Software Sustainability Institute, University of Edinburgh, UK
 
-**Catherine Jones**, Software Engineering Group Leader, STFC, UK
+**Catherine Jones**, Energy Data Centre Lead, Science & Technology Facilities Council (STFC), UK
 
-**Andrew Treloar**, Director,  Platforms and Engagements, Australian Research Data Commons, Australia
+**Andrew Treloar**, Director,  Platforms and Software, Australian Research Data Commons, Australia
 
-**Karthik Ram**, URSSI lead, University of California, Berkeley, USA
+**Karthik Ram**, US Research Software Sustainability Institute (URSSI) lead, University of California, Berkeley, USA
 
-**Chris Mentzel**, Executive Director, Stanford University, USA
+**Chris Mentzel**, Executive Director, Data Sciences, Stanford Data Science Initiative, Stanford University, USA
