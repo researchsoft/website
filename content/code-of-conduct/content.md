@@ -5,11 +5,11 @@ date = "2020-11-16"
 weight = 110
 background = "white"
 
-title = "Code of Conduct"
+title = "ReSA Code of Conduct"
 #subtitle = ""
 +++
 
-**Research Software Alliance Code of Conduct**
+Contents
 
 1. Introduction and Scope    
 2. Diversity Statement    
