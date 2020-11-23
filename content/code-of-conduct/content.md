@@ -9,7 +9,8 @@ title = "ReSA Code of Conduct"
 #subtitle = ""
 +++
 
-Contents
+
+**Contents**
 
 1. Introduction and Scope    
 2. Diversity Statement    
