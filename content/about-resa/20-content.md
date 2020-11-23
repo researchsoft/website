@@ -23,3 +23,5 @@ ReSA aims to achieve this through:
 * Influencing decision makers to value research software and the people who develop it.
 
 ReSA is a fiscally sponsored project of [Code for Science & Society](https://codeforscience.org/).
+
+Members of the ReSA community are expected to adhere to the ReSA [Code of Conduct](https://www.researchsoft.org/code-of-conduct/).
