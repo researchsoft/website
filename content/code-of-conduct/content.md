@@ -19,7 +19,7 @@ title = "Code of Conduct"
 6. How to Submit a Report    
 7. License    
 
-1. Introduction and Scope
+**1. Introduction and Scope**
 
 This code of conduct should be honored by everyone who participates in the ReSA community. It should be honored in any ReSA related activities, by anyone claiming affiliation with ReSA, and especially when someone is representing ReSA in any role (including as an event volunteer or speaker).
 This code of conduct applies to all spaces managed by ReSA, including all public and private mailing lists, issue trackers, wikis, forums, code repositories, and any other communication channel used by our community. The code of conduct equally applies at ReSA events, regardless of virtual/physical setting, and governs standards of behavior for attendees, speakers, volunteers, booth staff, and event sponsors.
@@ -29,7 +29,7 @@ We require all ReSA sponsored and affiliated projects, activities, and events, t
 
 If a person is found to violate the ReSA Code of Conduct, the ReSA Steering Committee may take any action they deem appropriate to resolve the situation, including warning the person in question, removing them from a specific activity, banning them from further participation in activities (in person or online), or expulsion from ReSA.
 
-2. Diversity Statement
+**2. Diversity Statement**
 
 ReSA welcomes and encourages participation in our community by people of all backgrounds and identities. We are committed to promoting and sustaining a culture that values mutual respect, tolerance, and learning.  We work together as a community to help each other live out these values.
 
@@ -37,7 +37,7 @@ We have created this diversity statement because we believe that a diverse commu
 
 Although we have phrased the formal diversity statement generically to make it all-inclusive, we recognize that there are specific identities that are impacted by systemic discrimination and marginalization. We welcome all people to participate in ReSA regardless of their identity or background.
 
-3. Standards for Behavior
+**3. Standards for Behavior**
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Please always be kind and courteous. There is never a need to be mean, rude, or disrespectful. Thank you for helping make this a welcoming, friendly community for all.
 
@@ -47,7 +47,7 @@ We, the members of ReSA, strive to:
 * Be collaborative. Our work depends on the participation of many people, and in turn others depend on our work. Effective and friendly collaboration enables everyone to better achieve their goals.
 * Be careful in the words that we choose. We are careful and respectful in our communication, and we take responsibility for our own speech. Be kind to others. Do not insult or put down other members of the community.
 
-4. Unacceptable Behavior
+**4. Unacceptable Behavior**
 
 We, the members of ReSA, are committed to making participation in this community a harassment-free experience.
 
@@ -68,7 +68,7 @@ We will not accept harassment or other exclusionary behaviors, such as:
 * Other unethical or unprofessional conduct
 * Advocating for, or encouraging, any of the above behaviors
 
-5. Reporting Guidelines
+**5. Reporting Guidelines**
 
 If you believe someone is violating the code of conduct, please report this in a timely manner (see How to Submit a Report in the next section). Code of conduct violations reduce the value of the community for everyone. The ReSA Steering Committee takes reports of misconduct very seriously and are committed to preserving and maintaining the welcoming nature of our community.
 
@@ -78,11 +78,11 @@ In some cases the ReSA Steering Committee may determine that a public statement 
 
 Take care of each other. Alert the [ReSA Steering Committe](mailto:info@researchsoft.org) if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
 
-6. How to Submit a Report
+**6. How to Submit a Report**
 
-If you feel your safety is in jeopardy or the situation is an emergency, contact local law enforcement before making a report to  ReSA. ReSA is committed to promptly addressing any reported issues. If you have experienced or witnessed behavior that violates the ReSA Code of Conduct, please send an email to [mailto:conduct@researchsoft.org](conduct@researchsoft.org). These emails are sent to two staff from ReSA’s fiscal sponsor, [Code for Science and Society](https://codeforscience.org/): Danielle Robinson, President & Co-Executive Director; and Jessica Hardwicke, Sponsored Projects Services Manager . Please provide as much information as you can about the incident, such as where and when it occurred.
+If you feel your safety is in jeopardy or the situation is an emergency, contact local law enforcement before making a report to  ReSA. ReSA is committed to promptly addressing any reported issues. If you have experienced or witnessed behavior that violates the ReSA Code of Conduct, please send an email to [conduct@researchsoft.org](mailto:conduct@researchsoft.org). These emails are sent to two staff from ReSA’s fiscal sponsor, [Code for Science and Society](https://codeforscience.org/): Danielle Robinson, President & Co-Executive Director; and Jessica Hardwicke, Sponsored Projects Services Manager . Please provide as much information as you can about the incident, such as where and when it occurred.
 
-7. License
+**7. License**
 
 This code of conduct has been adapted from the [US-RSE Association Code of Conduct](https://us-rse.org/code-of-conduct/), which builds on the [NumFocus Code of Conduct](https://numfocus.org/code-of-conduct), which was itself adapted from numerous sources, including the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), created by the Ada Initiative and other volunteers, which is under a [Creative Commons Zero license](https://creativecommons.org/share-your-work/public-domain/cc0/), the [Contributor Covenant version 1.2.0](http://contributor-covenant.org/version/1/2/0/), the [Bokeh Code of Conduct](https://github.com/bokeh/bokeh/blob/master/CODE_OF_CONDUCT.md), the [SciPy Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/enforcement.md), the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#enforcement-manual), and the [NeurIPS Code of Conduct](https://nips.cc/public/CodeOfConduct).
 
