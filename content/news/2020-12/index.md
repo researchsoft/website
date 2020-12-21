@@ -7,7 +7,9 @@ title_align = "left"
 
 display_date = false date = "2020-12-21"
 
-summary = """This month’s news includes:
+summary = """
+
+This month’s news includes:
 
 * ReSA’s three focus areas: Spotlight on policy
 * ReSA Steering Committee says farewell to Catherine Jones
