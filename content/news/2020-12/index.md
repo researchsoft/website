@@ -5,8 +5,7 @@ weight = 100
 title = "ReSA News: December 2020"
 title_align = "left"
 
-display_date = false
-date = "2020-12-21"
+display_date = false date = "2020-12-21"
 
 summary = """This month’s news includes:
 
