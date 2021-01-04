@@ -30,7 +30,7 @@ googleAnalytics = "G-P9VQSP6L49"
 
 [[menu.main]]
   url = "/taskforces"
-  name = "Taskforces"
+  name = "Task forces"
   weight = 30
 
 [[menu.main]]
