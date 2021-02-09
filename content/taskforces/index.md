@@ -1,4 +1,4 @@
 +++
-title = "Taskforces"
+title = "Task forces"
 date = "2020-07-21"
 +++
