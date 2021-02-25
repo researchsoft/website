@@ -3,7 +3,7 @@ date = "2020-09-07"
 fragment = "list"
 weight = 100
 
-#count = 10 # Default value is 10
+count = 100 # Default value is 10
 #section = "" # Default value is current section
 #summary = false # Default value is true
 #read_more = true # Default value is empty (empty: show when content is truncated, false to never show, true to always show)
