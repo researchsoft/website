@@ -1,5 +1,3 @@
-
-
 +++
 
 fragment = "toc"
