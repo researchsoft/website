@@ -59,7 +59,7 @@ The ReSA/RDA/FORCE11 [FAIR for Research Software](https://www.rd-alliance.org/gr
 During [eResearch NZ 2021](https://www.eresearchnz2021.org.nz/), a FAIR for Research Software discussion was led by Georgina Rae, Maxime Rio and Nooriyah Lohani from [NeSI](https://www.nesi.org.nz/) and the [RSE AU-NZ community](https://rse-aunz.github.io/). Most attendees were involved in developing or maintaining research software and/or infrastructure. This workshop is one example of regional community leadership to share information about FAIR4RS and provide a venue for community discussion. The workshop aimed to identify examples of best practice in creating FAIR software, which includesmaterials from previous events such as:
 
 * A recent presentation by Morane Gruenpeter and Daniel S. Katz at PIDapalooza (Jan 27, 2021) PIDs for software - shedding some light on a dark puzzle: [slides](https://zenodo.org/record/4473481) & [video](https://www.youtube.com/watch?v=vToTJzf_bJc) are available
-* FAIRsFAIR Work Package 2 - FAIR Practices: Semantics, Interoperability, and Services by Morane Gruenpeter and Hylke Koers. This work overlaps the FAIR4RS WG (Nov 2020): [video](https://www.fairsfair.eu/events/fair-software-decoding-principles) & [report}(https://zenodo.org/record/4095092) are available
+* FAIRsFAIR Work Package 2 - FAIR Practices: Semantics, Interoperability, and Services by Morane Gruenpeter and Hylke Koers. This work overlaps the FAIR4RS WG (Nov 2020): [video](https://www.fairsfair.eu/events/fair-software-decoding-principles) & [report](https://zenodo.org/record/4095092) are available
 
 ### OECD Recommendation on Access to Research Data now includes software
 
@@ -73,7 +73,7 @@ OECD recommendations become soft law for member states, meaning that they are no
 * **Dryad and Zenodo** have been doing some great work on integration, read their [Doing it Right: A Better Approach for Software & Data](https://blog.datadryad.org/2021/02/08/doing-it-right-a-better-approach-for-software-amp-data/). Join the [Dryad and Zenodo integration webinar](https://ucop.zoom.us/meeting/register/tJMsdOCrqT0oE9G9YPbeT0UM5HyP9IjZqYz0) on March 4, 2021 11am EST and learn how to use Dryad to publish your data and code! 
 * **[csv,conf](https://csvconf.com/submit/)** is happening again online on May 4 & 5. Talks are welcomed about data sharing and data analysis from science, journalism, government, and open source, and talk submissions close on 28 Feb. 
 * The 17th **[IEEE eScience 2021 International Conference](https://www.escience2021.org/call-for-workshops)** is on September 20-23, 2021. The call for workshops closes on March 15 and paper/abstract and tutorial submissions are due on April 7, 2021.
-* The**[ Wellcome Open Research Fund](https://wellcome.org/grant-funding/schemes/open-research-fund)** is open for proposals until March 12, 2021, with a focus on incentivising openness in health research.
+* The **[Wellcome Open Research Fund](https://wellcome.org/grant-funding/schemes/open-research-fund)** is open for proposals until March 12, 2021, with a focus on incentivising openness in health research.
 
 *If you’d like to suggest items for inclusion in ReSA News then please [contact us](/contact). If you would to engage with the ReSA community, then join the [ReSA Google group](https://groups.google.com/forum/#!forum/research-software-alliance) to receive email updates. To subscribe send a blank email to [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)*
 
