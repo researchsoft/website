@@ -9,6 +9,8 @@ display_date = false
 date = "2021-02-27"
 
 summary = """
+This month’s news includes:
+
 * Wellcome Trust funding 
 * ReSA’s three focus areas: Spotlight on people
 * Building research software communities
