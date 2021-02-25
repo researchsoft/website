@@ -48,9 +48,9 @@ googleAnalytics = "G-P9VQSP6L49"
   name = "Contact"
   weight = 60
 
-[[menu.copyright_footer]]
-  url = "/about-resa"
-  name = "About ReSA"
+[[menu.footer]]
+  url = "/code-of-conduct"
+  name = "Code of Conduct"
   weight = 10
   
 [[menu.footer_social]]
