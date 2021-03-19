@@ -5,9 +5,10 @@ date = "2020-11-23"
 weight = 70 
 background = "secondary"
 align = "center"
+size = 10
 
 title = "Software is the ubiquitous instrument of science." 
-#subtitle = ""
+subtitle = "try"
 
 # Subtitle pre and post item
 pre = "Carole Goble, Professor of Computer Science, University of Manchester, UK"
