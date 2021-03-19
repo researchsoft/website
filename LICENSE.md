@@ -38,6 +38,7 @@ With the understanding that:
 ## Software
 
 Except where otherwise noted, the software and infrastructure provided by The Research Software Alliance are made available under the [OSI][osi]-approved [MIT license][mit-license].
+The template used for this website is syna which is licensed under the [Apache License, Version 2.0](https://github.com/okkur/syna/blob/master/LICENSE).
 
 MIT License
 
