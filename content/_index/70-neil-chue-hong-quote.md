@@ -1,14 +1,16 @@
 +++
-fragment = "header"
-disabled = false
+fragment = "buttons"
+#disabled = false
 date = "2020-07-21"
 weight = 70
 background = "secondary"
 
 title = "Without data it’s difficult to validate results. But without code, we waste the opportunity to advance science."
-subtitle = "Neil Chue Hong, Director, Software Sustainability Institute, Director, University of Edinburgh, UK"
+#subtitle = ""
 
-[asset]
-  image = "NeilChueHong_0-150x150.jpg"
+[[buttons]]
+  text = "Neil Chue Hong, Director, Software Sustainability Institute, Director, University of Edinburgh, UK"
+  url = "https://twitter.com/npch/status/1258388356431478784"
+  color = "link"
 +++
 
