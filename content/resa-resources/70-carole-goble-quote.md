@@ -12,5 +12,5 @@ subtitle = "Carole Goble, Professor of Computer Science, University of Mancheste
 [asset]
   icon = "fas fa-random"
   url = "https://www.raeng.org.uk/diversity-in-engineering/diversity-and-inclusion-at-the-academy/celebrating-leading-women-in-engineering/carole-globe"
-  size = 5px
+  size = "5px"
 +++
