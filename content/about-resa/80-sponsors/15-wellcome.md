@@ -3,6 +3,6 @@ title = ""
 weight = 15
 
 [asset]
-  image = "wellcome-logo.png"
+  image = "wellcome-trust-logo.png"
   url = "https://wellcome.org/"
 +++
