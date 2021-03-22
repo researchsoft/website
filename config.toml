@@ -52,6 +52,13 @@ googleAnalytics = "G-P9VQSP6L49"
   url = "/code-of-conduct"
   name = "Code of Conduct"
   weight = 10
+  color = "dark"
+  
+[[menu.footer]]
+  url = "/license"
+  name = "License"
+  weight = 20
+  color = "dark"
   
 [[menu.footer_social]]
   weight = 20
