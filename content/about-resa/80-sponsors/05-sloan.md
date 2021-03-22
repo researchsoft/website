@@ -3,6 +3,6 @@ title = ""
 weight = 05
 
 [asset]
-  image = "Sloan-foundation-small.jpg"
+  image = "Sloan-logo.png"
   url = "https://sloan.org/"
 +++
