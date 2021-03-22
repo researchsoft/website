@@ -9,8 +9,6 @@ title = "ReSA License"
 #subtitle = ""
 +++
 
-# LICENSE
-
 The Research Software Alliance makes all of their materials publicly available under open source licenses.
 
 The documents and data are made available under a CC-BY 4.0 International license, unless otherwise specified, and Software are made available under the MIT license.
@@ -18,7 +16,7 @@ The documents and data are made available under a CC-BY 4.0 International licens
 The license text listed below (describing both CC-BY 4.0 International and MIT licenses as well as their usage in The Research Software Alliance) is re-used under a CC-BY license from The Carpentries community materials.
 (Specifically from the [R novice gapminder](https://github.com/swcarpentry/r-novice-gapminder/blob/main/LICENSE.md)).
 
-## Documents and data
+## Documents and data CC by 4.0 International
 
 All documentation in this repository are made available under the [Creative Commons Attribution license 4.0 International][cc-by-human].
 The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license][cc-by-legal].
@@ -46,12 +44,10 @@ With the understanding that:
 * No warranties are given. The license may not give you all of the permissions necessary for your intended use.
   For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
-## Software
+## Software MIT License
 
 Except where otherwise noted, the software and infrastructure provided by The Research Software Alliance are made available under the [OSI][osi]-approved [MIT license][mit-license].
 The template used for this website is syna which is licensed under the [Apache License, Version 2.0](https://github.com/okkur/syna/blob/master/LICENSE).
-
-MIT License
 
 Copyright (c) 2021 Research Software Alliance
 
