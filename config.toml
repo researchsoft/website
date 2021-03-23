@@ -46,18 +46,6 @@ googleAnalytics = "G-P9VQSP6L49"
   name = "Contact"
   weight = 60
 
-[[menu.footer]]
-  url = "/code-of-conduct"
-  name = "Code of Conduct"
-  weight = 60
-  color = "primary"
-  
-[[menu.footer]]
-  url = "/license"
-  name = "License"
-  weight = 70
-  color = "primary"
-  
 [[menu.footer_social]]
   weight = 20
   name = "twitter"
@@ -69,3 +57,15 @@ googleAnalytics = "G-P9VQSP6L49"
   name = "github"
   url = "https://github.com/researchsoft/website"
   pre = "fab fa-github fa-stack-2x"
+  
+[[menu.copyright_footer]]
+  url = "/code-of-conduct"
+  name = "Code of Conduct"
+  weight = 60
+  color = "primary"
+  
+[[menu.copyright_footer]]
+  url = "/license"
+  name = "License"
+  weight = 70
+  color = "primary"
