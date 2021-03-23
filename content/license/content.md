@@ -46,8 +46,9 @@ With the understanding that:
 
 ## Software MIT License
 
-Except where otherwise noted, the software and infrastructure provided by The Research Software Alliance are made available under the [OSI][osi]-approved [MIT license][mit-license].
-The template used for this website is syna which is licensed under the [Apache License, Version 2.0](https://github.com/okkur/syna/blob/master/LICENSE).
+The template used for this website is [syna][syna] which is licensed under the [Apache License, Version 2.0](https://github.com/okkur/syna/blob/master/LICENSE).
+
+Except where otherwise noted, the software and infrastructure provided by The Research Software Alliance are made available under the [OSI][osi]-approved [**MIT license**][mit-license].
 
 Copyright (c) 2021 Research Software Alliance
 
@@ -73,3 +74,4 @@ SOFTWARE.
 [cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
 [mit-license]: https://opensource.org/licenses/mit-license.html
 [osi]: https://opensource.org
+[syna]: https://syna.okkur.org/
