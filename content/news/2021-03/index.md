@@ -15,40 +15,42 @@ This month’s news includes:
 
 ++FAIR4RS Update++
 
-The ReSA/RDA/FORCE11 FAIR for Research Software (FAIR4RS) Working Group will share the first draft of the FAIR principles for research software at the Research Data Alliance (RDA) 17th Plenary from April 20-23. Stay tuned for further information on other opportunities to engage in this discussion on this draft as well. A recent output of this Working Group is also the opinion piece, Taking a fresh look at FAIR for research software (Katz, Gruenpeter & Honeyman).
+The ReSA/RDA/FORCE11 [FAIR for Research Software](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg) (FAIR4RS) Working Group will share the first draft of the FAIR principles for research software at the {Research Data Alliance (RDA) 17th Plenary}(https://www.rd-alliance.org/plenaries/rda-17th-plenary-meeting-edinburgh-virtual) from April 20-23. Stay tuned for further information on other opportunities to engage in this discussion on this draft as well. A recent output of this Working Group is also the opinion piece, [Taking a fresh look at FAIR for research software](https://t.co/tnkoy2aFaf?amp=1) (Katz, Gruenpeter & Honeyman).
 
-There’s still time to sign up to Collaborations Workshop 2021 (CW21) from 30 March to 1 April 2021. The themes of CW21 are:
-FAIR Research Software
-Diversity and Inclusion
-Software Sustainability
-The agenda includes a Keynote on FAIR Research Software by Dr Michelle Barker, discussion sessions and collaborative ideas sessions to develop your own ideas, and mini workshops with a FAIR focus such as: 
+There’s still time to sign up to [Collaborations Workshop 2021](https://www.software.ac.uk/cw21) (CW21) from 30 March to 1 April 2021. The themes of CW21 are:
 
-- Interactive Introduction to the FAIR Research Software discussion 
-- How FAIR is your research software?
-- Tips and traps on the road to FAIR software principles
-- PresQT – Services to Improve Re-use and FAIRness of Research Data and Software
+- FAIR Research Software
+- Diversity and Inclusion
+- Software Sustainability
+
+The [agenda](https://www.software.ac.uk/cw21/agenda) includes a Keynote on FAIR Research Software by Dr Michelle Barker, discussion sessions and collaborative ideas sessions to develop your own ideas, and mini workshops with a FAIR focus such as: 
+
+- [Interactive Introduction to the FAIR Research Software discussion](https://software.ac.uk/cw21/mini-workshops-and-demo-sessions#1.1)
+- [How FAIR is your research software?](https://software.ac.uk/cw21/mini-workshops-and-demo-sessions#1.4)
+- [Tips and traps on the road to FAIR software principles](https://software.ac.uk/cw21/mini-workshops-and-demo-sessions#2.1)
+- [PresQT – Services to Improve Re-use and FAIRness of Research Data and Software](https://software.ac.uk/cw21/mini-workshops-and-demo-sessions#2.4)
 
 See you there!
 
 ++Building research software communities++
 
-More than 50 people joined the recent SORSE event: Building Research Software Communities: How to increase engagement in your community. While you’re waiting for the recording of some of the workshop to become available on the SORSE channel, you can join community engagement for research software communities conversations through options including:
+More than 50 people joined the recent [SORSE](https://sorse.github.io/) event: [Building Research Software Communities: How to increase engagement in your community](https://researchsoft.github.io/community-ws/). While you’re waiting for the recording of some of the workshop to become available on the SORSE channel, you can join community engagement for research software communities conversations through options including:
 
-- Center for Scientific Collaboration and Community Engagement (CSCCE) slack #community channel
-- Society for Research Software Engineering (RSE) slack #communities channel 
+- [Center for Scientific Collaboration and Community Engagement](https://www.cscce.org/) (CSCCE) [slack](https://cscce-slack-invite-bot.herokuapp.com) channels
+- [Society for Research Software Engineering](https://society-rse.org/) (RSE) [slack](https://docs.google.com/forms/d/e/1FAIpQLSc9LqOWGwA1xDvSgy81eimcb9s0cNBFso0zv0_HoZz16G1M5w/viewform?c=0&w=1) #communities channel 
 
 ++Volunteer to be a software expert at EGU21++
 
-Volunteer to be a data or software expert for the upcoming Virtual Data Help Desk to be hosted during the first week of the 2021 European Geosciences Union General Assembly (#vEGU21: Gather Online; 19-23 April 2021). The Data Help Desk, which is a program of the Earth Science Information Partners (ESIP), the European Geosciences Union (EGU), the American Geophysical Union (AGU), and their partners, connects researchers with informatics experts familiar with their scientific domain to learn about skills and techniques that will help further their research and make their data and software more open and FAIR. You can volunteer to take part in one or more of the following ways:
+[Volunteer](https://forms.gle/KfdwZRHZH6CxEyUF9) to be a data or software expert for the upcoming [Virtual Data Help Desk](http://bit.ly/DataHelpEGU21) to be hosted during the first week of the 2021 European Geosciences Union General Assembly ([#vEGU21](https://www.egu21.eu/): Gather Online; 19-23 April 2021). The Data Help Desk, which is a program of the [Earth Science Information Partners](http://esipfed.org/) (ESIP), the European Geosciences Union (EGU), the American Geophysical Union (AGU), and their partners, connects researchers with informatics experts familiar with their scientific domain to learn about skills and techniques that will help further their research and make their data and software more open and FAIR. You can volunteer to take part in one or more of the following ways:
 - Answer earth science data (and software) questions (monitor platform and answer where you can);
 - Share a recorded demo (share a brief recorded demo of a tool or resource, ideally <5 min);
 - Share a one-pager about your tool or resource.
  
-To volunteer, please complete this brief form by 5 April 2021 and see more details in the Volunteer Guidelines. Don't miss this chance to help others with data- or software-related questions and to demo your tool or platform! Questions? Contact megancarter@esipfed.org. 
+To volunteer, please complete [this brief form](https://forms.gle/KfdwZRHZH6CxEyUF9) by 5 April 2021 and see more details in the [Volunteer Guidelines](https://docs.google.com/document/u/0/d/1wYyoHB-COUNRKP7fyxB5jzLwvasnz4vDbL3_qV6xmks/edit). Don't miss this chance to help others with data- or software-related questions and to demo your tool or platform! Questions? Contact [megancarter@esipfed.org](mailto:megancarter@esipfed.org). 
 
 ++Community news++
 
-- The International Neuroinformatics Coordinating Facility (INCF) enables open and FAIR neuroscience. The 2021 INCF Assembly is planned for April 19-28, 2021 as a virtual meeting. Abstract submission is open until March 31. 
+- The International Neuroinformatics Coordinating Facility (INCF) enables open and FAIR neuroscience. The ++[2021 INCF Assembly](https://neuroinformatics.incf.org/)++ is planned for April 19-28, 2021 as a virtual meeting. Abstract submission is open until March 31. 
 - The Chan Zuckerberg Initiative invites applications in support of open source software projects that are essential to biomedical research. The goal of the program is to support software maintenance, growth, development, and community engagement for these critical tools.
 - Research software sustainability in the Netherlands: Current practices and recommendations (van Eeuwijk et al.) is a new report by the National Coordination Point Research Data Management (lcrdm) task group on research software sustainability includes a survey of current research software practices and policy recommendations to stimulate the development, use and recognition of sustainable research software.
 - The upcoming 1st International Workshop on the Body of Knowledge for Software Sustainability (BoKSS’21) seeks to create a knowledge base of actionable results that will transform sustainable software engineering practices from a novel research area into a robust, repeatable, teachable practice area within software engineering. There’s a range of accepted papers that would interest the ReSA community on the BOKSS’21 topics: Practices for software sustainability
