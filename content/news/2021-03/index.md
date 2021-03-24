@@ -1,8 +1,12 @@
-+++ fragment = "content" weight = 100
++++ 
+fragment = "content" 
+weight = 100
 
-title = "ReSA News: March 2021" title_align = "left"
+title = "ReSA News: March 2021" 
+title_align = "left"
 
-display_date = false date = "2021-03-24"
+display_date = false 
+date = "2021-03-24"
 
 summary = """ 
 This month’s news includes:
