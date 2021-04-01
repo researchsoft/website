@@ -7,7 +7,7 @@ position = "Director"
 company = "Research Software Alliance"
 
 reports_to = "ReSA Steering Committee"
-lives_in = "[Cairns, Australia](https://www.timeanddate.com/worldclock/australia/cairns)"
+#lives_in = "[Cairns, Australia](https://www.timeanddate.com/worldclock/australia/cairns)"
 
 [[icons]]
   icon = "fab fa-linkedin-in"
