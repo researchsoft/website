@@ -6,6 +6,11 @@ theme = "syna"
 # Google Analytics tracking
 googleAnalytics = "G-P9VQSP6L49"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+     unsafe = true
+
 [params]
   twitter = "https://twitter.com/researchsoft"
   github = "https://github.com/researchsoft"
