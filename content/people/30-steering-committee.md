@@ -14,7 +14,7 @@ title = "Steering Committee"
 
 **Joris van Eijnatten**, General Director of the Netherlands eScience Center
 
-**Daniel S. Katz**, Assistant Director for Scientific Software and Applications, National Center for Supercomputing Applications (NCSA), University of Illinois, USA
+**Daniel S. Katz**, Chief Scientist, National Center for Supercomputing Applications (NCSA), University of Illinois, USA
 
 **Neil Chue Hong**, Director - Software Sustainability Institute, University of Edinburgh, UK
 
