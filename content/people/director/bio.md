@@ -1,5 +1,5 @@
 +++
-title = "Michelle Barker"
+title = "Dr Michelle Barker"
 weight = 0
 date = "2021-04-01"
 #disabled = true
@@ -17,7 +17,7 @@ lives_in = "[Cairns, Australia](https://www.timeanddate.com/worldclock/australia
   url = "https://www.linkedin.com/in/michelledbarker/"
 
 [[icons]]
-  icon = "fab fa-twitter-in"
+  icon = "fab fa-twitter"
   text = "Twitter"
   url = "https://twitter.com/Michelle1Barker"
 
