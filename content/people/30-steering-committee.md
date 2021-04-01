@@ -2,11 +2,10 @@
 fragment = "content"
 disabled = false
 date = "2020-07-21"
-weight = 100
+weight = 30
 background = "white"
 
 title = "Steering Committee"
-title_align = "left"
 +++
 
 **Tania Allard**, Co Director at Quansight, UK
