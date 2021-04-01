@@ -2,14 +2,12 @@
 title = "Dr Michelle Barker"
 weight = 0
 date = "2021-04-01"
-#disabled = true
 
 position = "Director"
 company = "Research Software Alliance"
 
 reports_to = "ReSA Steering Committee"
 lives_in = "[Cairns, Australia](https://www.timeanddate.com/worldclock/australia/cairns)"
-#lives_in = "[Munich, Germany](https://www.google.com/maps/place/Munich,+Germany/)"
 
 [[icons]]
   icon = "fab fa-linkedin-in"
