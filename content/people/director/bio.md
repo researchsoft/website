@@ -15,6 +15,10 @@ lives_in = "[Cairns, Australia](https://www.timeanddate.com/worldclock/australia
   icon = "fab fa-linkedin-in"
   text = "Linkedin"
   url = "https://www.linkedin.com/in/michelledbarker/"
+  
+  icon = "fab fa-twitter-in"
+  text = "Twitter"
+  url = "https://twitter.com/Michelle1Barker"
 
 [asset]
   image = "michelle-200x200.png"
