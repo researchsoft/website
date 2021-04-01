@@ -6,6 +6,7 @@ weight = 100
 background = "white"
 
 title = "Steering Committee"
+title_align = "left"
 +++
 
 **Tania Allard**, Co Director at Quansight, UK
