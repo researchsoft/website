@@ -20,10 +20,8 @@ lives_in = "[Cairns, Australia](https://www.timeanddate.com/worldclock/australia
   url = "https://twitter.com/Michelle1Barker"
 
 [asset]
-  image = "michelle-200x200.png"
+  image = "michelle-255x300.png"
 +++
-
-Dr Michelle Barker
 
 Dr Michelle Barker has extensive expertise in open science, research software, digital workforce capability and digital research infrastructure. As a sociologist, Michelle is passionate about building collaborative partnerships to achieve system change.
 
