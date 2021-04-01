@@ -21,11 +21,6 @@ company = "Research Software Alliance"
 
 #reports_to = "CTO"
 #lives_in = "[Munich, Germany](https://www.google.com/maps/place/Munich,+Germany/)"
-##scope = [
-##  "UX for [Food Dashboard](#)",
-##  "Maintainer for [Goper Team A](#)",
-##  "Gopher [Community Administration](#)"
-##]
 
 [[icons]]
   icon = "fab fa-linkedin-in"
