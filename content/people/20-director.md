@@ -1,5 +1,5 @@
 +++
-fragment = "member"
+fragment = "content"
 #disabled = false
 date = "2021-04-01"
 weight = 100
