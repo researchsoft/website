@@ -1,14 +1,40 @@
 +++
-fragment = "content"
-disabled = false
-date = "2020-07-21"
+fragment = "member"
+#disabled = false
+date = "2021-04-01"
 weight = 100
 background = "white"
 
-title = "Director"
+#title = "Director"
+#subtitle = "Highly motivated Gophers"
+#title_align = "left" # Default is center, can be left, right or center
 +++
 
-![Michelle Barker](michelle-255x300.png "Michelle Barker")
++++
+title = "Michelle Barker"
+weight = 0
+date = "2021-04-01"
+#disabled = true
+
+position = "Director"
+company = "Research Software Alliance"
+
+#reports_to = "CTO"
+#lives_in = "[Munich, Germany](https://www.google.com/maps/place/Munich,+Germany/)"
+##scope = [
+##  "UX for [Food Dashboard](#)",
+##  "Maintainer for [Goper Team A](#)",
+##  "Gopher [Community Administration](#)"
+##]
+
+[[icons]]
+  icon = "fab fa-linkedin-in"
+  text = "Linkedin"
+  url = "https://www.linkedin.com/in/michelledbarker/"
+
+[asset]
+  image = "michelle-200x200.png"
++++
 
 Dr Michelle Barker has extensive expertise in open science, research software, digital workforce capability and digital research infrastructure. As a sociologist, Michelle is passionate about building collaborative partnerships to achieve system change.
 
