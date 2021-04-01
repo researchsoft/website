@@ -1,5 +1,5 @@
 +++
-fragment = "content"
+fragment = "hero"
 #disabled = true
 date = "2020-07-24"
 weight = 10
@@ -13,3 +13,4 @@ title = "People"
   image = "main-hero.png"
 
 +++
+
