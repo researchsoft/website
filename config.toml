@@ -44,9 +44,15 @@ googleAnalytics = "G-P9VQSP6L49"
   
 [[menu.main]]
   parent = "resources"
+  name = "Outputs"
+  url = "/resa-resources"
+  weight = 41
+  
+[[menu.main]]
+  parent = "resources"
   name = "Policy"
   url = "/policy"
-  weight = 50
+  weight = 42
 
 [[menu.main]]
   url = "/news"
