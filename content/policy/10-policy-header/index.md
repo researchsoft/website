@@ -7,7 +7,7 @@ background = "black"
 particles = true
 
 title_page = false # Default is false
-title = "Policy resources"
+title = "Policy"
 
 [header]
   image = "main-hero.png"
