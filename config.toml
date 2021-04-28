@@ -44,9 +44,9 @@ googleAnalytics = "G-P9VQSP6L49"
   
 [[menu.main]]
   parent = "resources"
-  name = "policy"
+  name = "Policy"
   identifier = "policy"
-  url = "/policy"
+  url = "/policy/"
   weight = 1
 
 [[menu.main]]
