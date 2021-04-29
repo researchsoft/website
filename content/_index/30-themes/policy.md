@@ -2,7 +2,7 @@
 
 weight = 30
 title = "Policy"
-subtitle = "Support policies that recognise and value research software"
+subtitle = "Policy advances to improve funding, careers, and reward structures"
 
 [asset]
 image = "data-mining-500-380.png"

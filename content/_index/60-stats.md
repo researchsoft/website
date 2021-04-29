@@ -28,7 +28,6 @@ title = ""
     text = "own research not possible without research"
 
   [[rows.values]]
-    text = "distict software mentions per paper"
+    text = "distinct software mentions per paper"
 
 +++
-
