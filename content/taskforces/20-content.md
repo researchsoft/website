@@ -20,6 +20,11 @@ To deliver on this mission, we invite the ReSA community to join us on these tas
 2. Identification of opportunities for existing FAIR data initiatives to incorporate a focus on FAIR research software.
 3. Identification of Roadmap elements that are specific (or that apply in a different way to) to research software and that have not been covered by FAIR data initiatives.
 
+Two working groups have now been formed to progress particular elements of the Roadmap:
+
+* [Metrics Working Group](https://docs.google.com/document/d/1BpzecVx4ZvSNfHD-UHhofZVdA6qiP_ENrmozmiq9zY4/edit) to develop FAIR research software metrics.
+* [Life Sciences Working Group](https://docs.google.com/document/d/1yQun2tObksymOrAV4RY7jqbSkZ0r8G6I-vrkDAGHnnI/edit) to support the implementation of the FAIR4RS principles in the life sciences community, with ELIXIR providing a pilot use case.
+
 ## Completed task forces
 
 * **Software sections of [RDA COVID-19 Guidelines and Recommendations](https://www.rd-alliance.org/group/rda-covid19-rda-covid19-omics-rda-covid19-epidemiology-rda-covid19-clinical-rda-covid19-1)** for policy makers, funders and the research community. [Final recommendations](https://www.rd-alliance.org/group/rda-covid19-rda-covid19-omics-rda-covid19-epidemiology-rda-covid19-clinical-rda-covid19-1) helping COVID-19 stakeholders follow best practices to maximize the efficiency of their work, and to act as a blueprint for future emergencies.
