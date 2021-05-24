@@ -13,9 +13,9 @@ To deliver on this mission, we invite the ReSA community to join us on these tas
 
 ## Ongoing task forces
 
-* **[FAIR 4 Research Software](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)** is working to to define and effectively apply FAIR principles to research software, to achieve adoption of these principles, starting from a range of existing community-led discussions. This task force has been convened in partnership with the [Research Data Alliance (RDA)](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) and [FORCE11](https://www.force11.org/group/fair-4-research-software-fair4rs-working-group). [Join the group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg).
+**[FAIR 4 Research Software](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)** is working to to define and effectively apply FAIR principles to research software, to achieve adoption of these principles, starting from a range of existing community-led discussions. This task force has been convened in partnership with the [Research Data Alliance (RDA)](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) and [FORCE11](https://www.force11.org/group/fair-4-research-software-fair4rs-working-group). [Join the group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg).
 
-* **FAIR 4 Research Software Roadmap** aims to identify key stakeholders in areas arising from the application of the FAIR principles to research software, to guide strategic planning and investment. [Subscribe to the FAIR 4 Research Software Roadmap email list](http://eepurl.com/gY9-vv). Consultation with key stakeholders will enable the following outcomes:
+**FAIR 4 Research Software Roadmap** aims to identify key stakeholders in areas arising from the application of the FAIR principles to research software, to guide strategic planning and investment. Consultation with key stakeholders will enable the following outcomes:
 1. Mapping of existing projects that look at applying some of the elements of the FAIR principles to research software into a longer-term framework to improve strategic alignment and potential collaborators/leads for parts of the Roadmap.
 2. Identification of opportunities for existing FAIR data initiatives to incorporate a focus on FAIR research software.
 3. Identification of Roadmap elements that are specific (or that apply in a different way to) to research software and that have not been covered by FAIR data initiatives.
@@ -24,6 +24,8 @@ Two working groups have now been formed to progress particular elements of the R
 
 * [Metrics Working Group](https://docs.google.com/document/d/1BpzecVx4ZvSNfHD-UHhofZVdA6qiP_ENrmozmiq9zY4/edit) to develop FAIR research software metrics.
 * [Life Sciences Working Group](https://docs.google.com/document/d/1yQun2tObksymOrAV4RY7jqbSkZ0r8G6I-vrkDAGHnnI/edit) to support the implementation of the FAIR4RS principles in the life sciences community, with ELIXIR providing a pilot use case.
+
+There are a range of [other areas](https://docs.google.com/document/d/1rV19ZKSyKRmKLsCYbjfdy3z31WovUIMfEYK1OSlbJos/edit#) where the formation of working groups is being considered to apply FAIR research software, such as curriculums and skills; science gateways and platforms; metadata and interoperability and preservation and archiving. If you’re interested in being involved then please contact us.
 
 ## Completed task forces
 
