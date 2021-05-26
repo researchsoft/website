@@ -6,7 +6,7 @@ title = "ReSA Newsletter: May 2021"
 title_align = "left"
 
 display_date = false
-date = "2021-05-25"
+date = "2021-05-27"
 
 summary = """
 This month’s news includes:
@@ -50,7 +50,8 @@ The Lorentz Center in the Netherlands is a workshop center that hosts highly int
 
 ### ReSA Steering Committee update
 
-### The ReSA Steering Committee this month bid farewell to one of its founding members, [Karthik Ram](https://ram.berkeley.edu/). Karthik brought a wealth of expertise to the Steering Committee, as co-founder and director of the [rOpenSci Project](https://ram.berkeley.edu/#), lead of the [US Research Software Sustainability Institute](http://urssi.us/) (URSSI), and board member of the [Software Sustainability Institute](https://www.software.ac.uk/), and as a senior scientist at UC Berkeley Institute for Data Science.
+
+The ReSA Steering Committee this month bid farewell to one of its founding members, [Karthik Ram](https://ram.berkeley.edu/). Karthik brought a wealth of expertise to the Steering Committee, as co-founder and director of the [rOpenSci Project](https://ram.berkeley.edu/#), lead of the [US Research Software Sustainability Institute](http://urssi.us/) (URSSI), and board member of the [Software Sustainability Institute](https://www.software.ac.uk/), and as a senior scientist at UC Berkeley Institute for Data Science.
 
 The ReSA Steering Committee is responsible for the strategic direction of ReSA. The role of the Steering Committee members is to provide strategic inputs to the development of ReSA, to achieve the ReSA vision that research software is recognised and valued as a fundamental and vital component of research worldwide, and the mission to bring research software communities together to collaborate on the advancement of research software.
 
@@ -63,6 +64,6 @@ The ReSA Steering Committee is responsible for the strategic direction of ReSA. 
 - Daniel S. Katz and Neil Chue Hong are editing a[special issue of PeerJ CS on software citation, indexing and discoverability](https://peerj.com/special-issues/84-software). If you are working in this area, please consider submitting it to this[special issue](https://peerj.com/special-issues/84-software). The deadline for abstract submission is July 16, 2021
 - The [2021 US-RSE Virtual Workshop](https://us-rse.org/virtual-workshop-2021/), “A Path Forward for Research Software Engineers”, held on May 24 and 27, 2021, featured talks, community events, and working group sessions. The recordings will be available after the workshop via the[US-RSE YouTube channel](https://www.youtube.com/channel/UC7IQsWv809OQYJ-sJKuQZrw).
 
-_If you’d like to suggest items for inclusion in ReSA News, please send them to_ [_info@researchsoft.org_](mailto:info@researchsoft.org)_. To receive ReSA newsletters, join the_[_ReSA google group_](https://groups.google.com/forum/#!forum/research-software-alliance) _by sending a blank email to_ [_research-software-alliance+subscribe@googlegroups.com_](mailto:research-software-alliance+subscribe@googlegroups.com) _and follow us on twitter_ [_https://twitter.com/researchsoft_](https://twitter.com/researchsoft)_._
+_If you’d like to suggest items for inclusion in ReSA News, please send them to_ [_info@researchsoft.org_](mailto:info@researchsoft.org)_. To receive ReSA newsletters, join the _[ReSA google group](https://groups.google.com/forum/#!forum/research-software-alliance)_ by sending a blank email to _[research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)_ and follow us on twitter [https://twitter.com/researchsoft](https://twitter.com/researchsoft).
 
-_The_ [_Research Software Alliance (ReSA)_](https://www.researchsoft.org/) _is a community of influencers and members of major research software communities, programs, organisations and individuals. ReSA’s vision is that research software be recognised and valued as a fundamental and vital component of research worldwide. The ReSA mission is to bring research software communities together to collaborate on the advancement of research software. ReSA is a fiscally sponsored project of_ [_Code for Science and Society_](https://codeforscience.org/)_._
+_The_ [_Research Software Alliance (ReSA)_](https://www.researchsoft.org/) _is a community of influencers and members of major research software communities, programs, organisations and individuals. ReSA’s vision is that research software be recognised and valued as a fundamental and vital component of research worldwide. The ReSA mission is to bring research software communities together to collaborate on the advancement of research software. ReSA is a fiscally sponsored project of [_Code for Science and Society_](https://codeforscience.org/).
