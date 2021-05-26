@@ -6,7 +6,7 @@ title = "ReSA Newsletter: May 2021"
 title_align = "left"
 
 display_date = false
-date = "2021-05-27"
+date = "2021-05-26"
 
 summary = """
 This month’s news includes:
