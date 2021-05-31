@@ -26,8 +26,6 @@ title = "Steering Committee"
 
 **Serah Njambi Rono**, Director of Community Development and Engagement, The Carpentries, Estonia
 
-**Karthik Ram**, US Research Software Sustainability Institute (URSSI) lead, University of California, Berkeley, USA
-
 **Andrew Treloar**, Director,  Platforms and Software, Australian Research Data Commons, Australia
 
 **Lou Woodley**, Director, Center for Scientific Collaboration and Community Engagement, UK 
