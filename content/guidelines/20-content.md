@@ -140,10 +140,14 @@ recommendations, reports and guidelines that emphasise best practice.
     journals, open access, reproducibility, RSEs, Training, etc
     [*https://www.software.ac.uk/resources/get-speed*](https://www.software.ac.uk/resources/get-speed)
 
--   SSI guides for everything:
+-   SSI guides for everything 
     [*https://www.software.ac.uk/resources/guides*](https://www.software.ac.uk/resources/guides)
     researchers, managers, developers, instructors,
     content distributors
+    
+-   Database of Diverse Databases [*https://editorsofcolor.com/diverse-databases/*](https://editorsofcolor.com/diverse-databases/)
+    toward a more equitable world, every industry is going to need new networks and resources to help them connect with diverse talented people.
+    Have a look at the lists "Coding + Tech", "Tech Policy" and "Science"
 
 ## Do you have resources to add?
 
