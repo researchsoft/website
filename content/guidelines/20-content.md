@@ -136,18 +136,19 @@ recommendations, reports and guidelines that emphasise best practice.
 
 ## Lists of resources
 
--   SSI list of resources about various topics, including policy,
-    journals, open access, reproducibility, RSEs, Training, etc
-    [*https://www.software.ac.uk/resources/get-speed*](https://www.software.ac.uk/resources/get-speed)
+-   [SSI list of resources about various topics](https://www.software.ac.uk/resources/get-speed) - including policy,
+    journals, open access, reproducibility, RSEs, Training, etc.
 
--   SSI guides for everything 
-    [*https://www.software.ac.uk/resources/guides*](https://www.software.ac.uk/resources/guides)
+-   [SSI guides for everything](https://www.software.ac.uk/resources/guides) - guides for
     researchers, managers, developers, instructors,
     content distributors
     
--   Database of Diverse Databases [*https://editorsofcolor.com/diverse-databases/*](https://editorsofcolor.com/diverse-databases/)
+-   [Database of Diverse Databases](https://editorsofcolor.com/diverse-databases/) - 
     toward a more equitable world, every industry is going to need new networks and resources to help them connect with diverse talented people.
     Have a look at the lists "Coding + Tech", "Tech Policy" and "Science"
+    
+-   [Better Scientific Software (BSSw)](https://bssw.io/items?page=1&view=all) - 
+    resources for developer productivity and software sustainability
 
 ## Do you have resources to add?
 
