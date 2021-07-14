@@ -1,7 +1,7 @@
 +++
 date = "2020-07-24"
 fragment = "portfolio"
-weight = 30
+weight = auto
 background = "light"
 
 title = "ReSA themes"
