@@ -153,6 +153,6 @@ recommendations, reports and guidelines that emphasise best practice.
 ## Do you have resources to add?
 
 -   Submit a new resource as an issue via
-    [*GitHub*](https://github.com/researchsoft/Resources/issues/new/choose)
+    [*GitHub*](https://github.com/researchsoft/website/issues/new) 
     (requires a GitHub account)
 -   [Email it directly to ReSA](mailto:info@researchsoft.org).
