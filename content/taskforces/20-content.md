@@ -13,7 +13,7 @@ To deliver on this mission, we invite the ReSA community to join us on these tas
 
 ## Community Consultation
 
-In 2021, The Wellcome Trust supports ReSA to host a series of online workshops to facilitate the connection of existing research software initiatives that are concerned with people issues related to skills and training, career paths and recognition frameworks etc.
+In 2021, The Wellcome Trust supports ReSA to host a series of online workshops to facilitate the connection of existing research software initiatives that are concerned with people issues related to skills and training, career paths and recognition frameworks etc. See [the People road map community consultation plan](https://drive.google.com/file/d/1gpIhXpLNqTUaZUKIGYxuRRNQXlDoojUw/view).
 
 ## Ongoing task forces
 
