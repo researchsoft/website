@@ -11,6 +11,10 @@ ReSA’s mission is to bring research software communities together to collabora
 
 To deliver on this mission, we invite the ReSA community to join us on these task forces:
 
+## Community Consultation
+
+In 2021, The Wellcome Trust supports ReSA to host a series of online workshops to facilitate the connection of existing research software initiatives that are concerned with people issues related to skills and training, career paths and recognition frameworks etc.
+
 ## Ongoing task forces
 
 **[FAIR 4 Research Software](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)** is working to to define and effectively apply FAIR principles to research software, to achieve adoption of these principles, starting from a range of existing community-led discussions. This task force has been convened in partnership with the [Research Data Alliance (RDA)](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) and [FORCE11](https://www.force11.org/group/fair-4-research-software-fair4rs-working-group). [Join the group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg).
