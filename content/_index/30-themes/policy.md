@@ -5,7 +5,7 @@ title = "Policy"
 subtitle = "Policy advances to improve funding, careers, and reward structures"
 
 [asset]
-image = "writing-828911_1280.jpg"
+image = "writing-828911_1920.jpg"
 +++
 
 The [ReSA taskforces](https://www.researchsoft.org/taskforces/) that support **Policy** have achieved outcomes including:
