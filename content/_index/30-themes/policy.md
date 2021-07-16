@@ -5,5 +5,5 @@ title = "Policy"
 subtitle = "Policy advances to improve funding, careers, and reward structures"
 
 [asset]
-image = "eden-constantino-OXmym9cuaEY-unsplash.jpg"
+image = "writing-828911_640.jpg"
 +++
