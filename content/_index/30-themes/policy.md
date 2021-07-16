@@ -2,7 +2,7 @@
 
 weight = 30
 title = "Policy"
-subtitle = "Policy advances to improve funding, careers, and reward structures"
+subtitle = "Advances to improve funding, careers, and reward structures"
 
 [asset]
 image = "writing-828911_1920.jpg"
