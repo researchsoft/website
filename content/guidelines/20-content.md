@@ -74,7 +74,7 @@ data, and code supported by the US Government.
     
 -    French [National Plan for Open Science](https://www.ouvrirlascience.fr/second-national-plan-for-open-science/), 2021. Places software on a par with publications and data in research and Open Science.
 
--    Australian National Agenda for Research Software](https://zenodo.org/record/4940274#.YPT_BBMzZcA), 2021. Addresses recognition of research software as a first class output of research in Australia. 
+-    [Australian National Agenda for Research Software](https://zenodo.org/record/4940274#.YPT_BBMzZcA), 2021. Addresses recognition of research software as a first class output of research in Australia. 
     
 ## Infrastructure
 
