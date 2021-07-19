@@ -21,10 +21,9 @@ recommendations, reports and guidelines that emphasise best practice.
     interventions which could address challenges and highlights areas where the community is
     becoming more diverse.
 
--   ReSA [software landscape analysis](https://doi.org/10.5281/zenodo.3699950), 2020
-    [doi.org/10.5281/zenodo.3699950](https://doi.org/10.5281/zenodo.3699950)
+-   ReSA [software landscape analysis](https://doi.org/10.5281/zenodo.3699950), 2020. 
     identifies 50+ stakeholders in the research software community and topics of interest, e.g., preservation, RSEs,
-    citation, productivity, sustainability.
+    citation, productivity, sustainability. [doi.org/10.5281/zenodo.3699950](https://doi.org/10.5281/zenodo.3699950)
 
 -   [What do we know about RSEs?](https://www.software.ac.uk/blog/2018-03-12-what-do-we-know-about-rses-results-our-international-surveys), 2018. The Software Sustainability Institute analyses results from international
     surveys in 2016, 2017 and 2018 to learn more about RSEs and their work conditions.
@@ -36,49 +35,45 @@ recommendations, reports and guidelines that emphasise best practice.
 
 ## Policy
 
--   FAIR4RS WG subgroup community review June 2021 [via RDA](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs)
-
--   FAIR4RS WG subgroup community consultation March 2021 [doi.org/10.5281/zenodo.4635410](https://doi.org/10.5281/zenodo.4635410)
-
--   Evidence for the importance of research software. This analysis
+-   [Evidence for the importance of research software](http://doi.org/10.5281/zenodo.3884311), 2020. This ReSA analysis
     considers papers relating to meta-research, policy, community,
     education and training, research breakthroughs and
-    specific software. Produced by The Research Software Alliance (ReSA)
-    Taskforce for the importance of research software (2020)
-    [*doi.org/10.5281/zenodo.3884311*](http://doi.org/10.5281/zenodo.3884311)
+    specific software. 
+    [doi.org/10.5281/zenodo.3884311](http://doi.org/10.5281/zenodo.3884311)
 
--   RDA COVID-19 Guidelines and Recommendations (2020). The
-    unprecedented spread of the virus has prompted a rapid and massive
-    research response with a diversity of outputs that pose a challenge
-    to interoperability. To make the most of global efforts these
-    guidelines are shared
+-   "Research Software Sharing for Data Analysis" chapter of [RDA COVID-19 Guidelines and Recommendations](https://doi.org/10.15497/rda00052), 2020. Provides a number of foundational, clear and practical recommendations around research software principles and practices, in order to facilitate open collaborations.
     [doi.org/10.15497/rda00052](https://doi.org/10.15497/rda00052)
 
--   Inform approaches for ensuring broad Public Access to Peer-Reviewed
-    Scholarly Publications, Data and Code Resulting From Federally
-    Funded Research (2020)
-    [doi.org/10.5281/zenodo.3828148](http://doi.org/10.5281/zenodo.3828148)
-
--   Charting the digital transformation of science: [Findings from the
-    2018 OECD International Survey of Scientific
-    Authors (ISSA2)](https://www.oecd-ilibrary.org/science-and-technology/charting-the-digital-transformation-of-science_1b06c47c-en). The paper explores the potential impacts of digitalisation based on a combination of different indicators on research impact. The transformation is uneven across fields and sectors, and is influenced by factors such as norms, experience, skills and data availability.
-
--   [The top 100 papers](https://www.nature.com/articles/514550a). (2014) Nature
+-   [The top 100 papers](https://www.nature.com/articles/514550a), 2014. Nature
     explores the most-cited research of all time. The vast majority
     describe experimental methods or software that have become
     essential in their fields.
-    [*https://www.nature.com/articles/514550a*](https://www.nature.com/articles/514550a)
+    [DOI: 10.1038/514550a](https://www.nature.com/articles/514550a)
 
 -   [The Ecosystem of Technologies for Social Science Research 2020](https://uk.sagepub.com/en-gb/eur/technologies-for-social-science-research).
     Using software tools in the research process is of critical
     importance to a majority of social science researchers.
 
+-   [ReSA Response to US RFI: Public Access to Peer-Reviewed
+    Scholarly Publications, Data and Code Resulting From Federally
+    Funded Research](http://doi.org/10.5281/zenodo.3828148), 2020. Focuses on how improving the recognition and value of research
+software can increase the access to unclassified published research, digital scientific
+data, and code supported by the US Government.
+    [doi.org/10.5281/zenodo.3828148](http://doi.org/10.5281/zenodo.3828148)
+
+-   [Charting the digital transformation of science: Findings from the
+    2018 OECD International Survey of Scientific
+    Authors (ISSA2)](https://www.oecd-ilibrary.org/science-and-technology/charting-the-digital-transformation-of-science_1b06c47c-en), 2020. The paper explores the potential impacts of digitalisation based on a combination of different indicators on research impact, and includes evidence that 25% of research produces new code.
+    
 -   Six Recommendations for implementation of FAIR practice by the FAIR
     in practice task force of the European open science cloud FAIR
     working
     group 2020.
     A separate section details FAIR practice for digital objects other
     than research data [doi.org/10.2777/986252](https://doi.org/10.2777/986252).
+    
+-   Draft [FAIR Priinciples for Research Software] (https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs), June 2021.
+
 
 ## Infrastructure
 
