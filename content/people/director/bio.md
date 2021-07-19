@@ -4,10 +4,7 @@ weight = 0
 date = "2021-04-01"
 
 position = "Director"
-company = "Research Software Alliance"
-
-reports_to = "ReSA Steering Committee"
-#lives_in = "[Cairns, Australia](https://www.timeanddate.com/worldclock/australia/cairns)"
+lives_in = "Australia"
 
 [[icons]]
   icon = "fab fa-linkedin-in"
