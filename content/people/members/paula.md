@@ -4,7 +4,6 @@ weight = 30
 date = "2020-04-01"
 
 position = "Community Manager"
-reports_to = "ReSA Directror"
 lives_in = "[Brisbane, Australia](https://www.timeanddate.com/worldclock/australia/brisbane)"
 
 [[icons]]
@@ -29,7 +28,7 @@ lives_in = "[Brisbane, Australia](https://www.timeanddate.com/worldclock/austral
 Paula joined the Research Software Alliance in January 2021 to support the growing community of ReSA and the 
 [FAIR4RS working group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg). Her activities
 reflect current emphasis on project management and program development as the community starts to mature. Her part-time 
-role with ReSA is funded by grants from Code for Science and Society and the Wellcome Trust.
+role with ReSA is funded by grants from the Alfred P. Sloan Foundation and the Wellcome Trust.
 
 She is also a co-chair of the [FAIR4RS working group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)
 and the Vice Chair of the [Carpentries Executive Council](https://carpentries.org/governance/) where she is developing 
