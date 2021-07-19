@@ -8,8 +8,6 @@ background = "white"
 title = "Steering Committee"
 +++
 
-**Tania Allard**, Co Director at Quansight, UK
-
 **Juan Bicarregui**, Head of the Data Division, Scientific Computing Department, Science and Technology Facilities Council, UK
 
 **Joris van Eijnatten**, General Director of the Netherlands eScience Center
@@ -23,8 +21,6 @@ title = "Steering Committee"
 **Eva Mendez**, Associate Professor, Universidad Carlos III de Madrid, Spain
 
 **Chris Mentzel**, Executive Director, Data Sciences, Stanford Data Science Initiative, Stanford University, USA
-
-**Serah Njambi Rono**, Director of Community Development and Engagement, The Carpentries, Estonia
 
 **Andrew Treloar**, Director,  Platforms and Software, Australian Research Data Commons, Australia
 
