@@ -13,32 +13,26 @@ recommendations, reports and guidelines that emphasise best practice.
 
 ## People
 
--   Chue Hong et al, 2021 [Understanding Equity, Diversity and
+-   [Understanding Equity, Diversity and
     Inclusion Challenges Within the Research Software
-    Community](https://www.researchgate.net/publication/350647200_Understanding_Equity_Diversity_and_Inclusion_Challenges_Within_the_Research_Software_Community).
-    Analysis of survey in 2018 provides evidence for a lack of diversity
-    in the Research Software Engineer community. This paper identifies
-    interventions which could address challenges in the wider research
-    software community and highlights areas where the community is
+    Community](https://www.researchgate.net/publication/350647200_Understanding_Equity_Diversity_and_Inclusion_Challenges_Within_the_Research_Software_Community), 2021.
+    Analysis of 2018 survey provides evidence for a lack of diversity
+    in the Research Software Engineers community. This paper identifies
+    interventions which could address challenges and highlights areas where the community is
     becoming more diverse.
 
--   ReSA [software landscape analysis
-    blog](https://doi.org/10.5281/zenodo.3699950) 2020
+-   ReSA [software landscape analysis](https://doi.org/10.5281/zenodo.3699950), 2020
     [doi.org/10.5281/zenodo.3699950](https://doi.org/10.5281/zenodo.3699950)
-    presents a list of the different communities and topics of interest
-    for the research software community e.g., preservation, RSEs,
+    identifies 50+ stakeholders in the research software community and topics of interest, e.g., preservation, RSEs,
     citation, productivity, sustainability.
 
--   [What do we know about RSEs?](https://www.software.ac.uk/blog/2018-03-12-what-do-we-know-about-rses-results-our-international-surveys) The Software Sustainability Institute collected results from international
-    surveys in 2016, 2017 and 2018.
+-   [What do we know about RSEs?](https://www.software.ac.uk/blog/2018-03-12-what-do-we-know-about-rses-results-our-international-surveys), 2018. The Software Sustainability Institute analyses results from international
+    surveys in 2016, 2017 and 2018 to learn more about RSEs and their work conditions.
 
 -   [UK Research Software
-    Survey](https://doi.org/10.5281/zenodo.14809) 2014. The dataset
-    contains anonymised data
+    Survey](https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers), 2014. Analysis highlights the importance of software in conducting research, e.g., that 92% of academics use research software. The dataset is also available. 
     [doi.org/10.5281/zenodo.14809](https://doi.org/10.5281/zenodo.14809)
-    and the [*reported
-    results*](https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers)
-    highlight the importance of software in conducting research.
+ 
 
 ## Policy
 
