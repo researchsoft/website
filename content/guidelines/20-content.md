@@ -30,8 +30,8 @@ recommendations, reports and guidelines that emphasise best practice.
 
 -   [UK Research Software
     Survey](https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers), 2014. Analysis highlights the importance of software in conducting research, e.g., that 92% of academics use research software. The dataset is also available. 
- 
--   [Database of Diverse Databases](https://editorsofcolor.com/diverse-databases/) - Facilitates networks for a more equitable world - see listings for "Coding + Tech", "Tech Policy" and "Science".
+    
+-   [Database of Diverse Databases](https://editorsofcolor.com/diverse-databases/). Facilitates networks for a more equitable world - see listings for "Coding + Tech", "Tech Policy" and "Science".
     -   
 ## Policy
 
