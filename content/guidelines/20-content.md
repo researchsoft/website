@@ -60,8 +60,7 @@ data, and code supported by the US Government.
     Authors (ISSA2)](https://www.oecd-ilibrary.org/science-and-technology/charting-the-digital-transformation-of-science_1b06c47c-en), 2020. This paper explores the potential impacts of digitalisation based on a combination of different indicators on research impact, and includes evidence that 25% of research produces new code.
     
 -   [The Ecosystem of Technologies for Social Science Research 2020](https://uk.sagepub.com/en-gb/eur/technologies-for-social-science-research).
-    Using software tools in the research process is of critical
-    importance to a majority of social science researchers.
+    Examines the ecosystem of software technologies for social science research. It addresses the challenges facing those who build and use these tools, and looks to the future of technology in social research.
     
 -   [Six Recommendations for implementation of FAIR practice by the FAIR
     in practice task force of the European open science cloud FAIR
@@ -74,7 +73,7 @@ data, and code supported by the US Government.
 
 #### Software development
 
--   Draft [FAIR Priinciples for Research Software](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs), June 2021.
+-   Draft [FAIR Principles for Research Software](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs), June 2021.
 
 -   [Nine Best Practices for Research Software Registries and
     Repositories: A Concise Guide](https://arxiv.org/abs/2012.13117), 2020. These resources improve software
@@ -85,8 +84,7 @@ data, and code supported by the US Government.
     
 -   [Software development guide](https://guide.esciencecenter.nl) by Netherlands eScience Center.
 
--   [DLR Software Engineering Guidelines]
-  (https://doi.org/10.5281/zenodo.1344612), 2018.
+-   [DLR Software Engineering Guidelines](https://doi.org/10.5281/zenodo.1344612), 2018.
 
 -   [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510), 2017.
 
@@ -105,7 +103,7 @@ data, and code supported by the US Government.
 -   [Software Citation Checklist for
     Developers](http://doi.org/10.5281/zenodo.3482769), 2019.
 
--   Software citation principles(https://doi.org/10.7717/peerj-cs.86), 2016
+-   [Software citation principles](https://doi.org/10.7717/peerj-cs.86), 2016,
 
 ## Lists of resources
 
