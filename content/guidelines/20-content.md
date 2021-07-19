@@ -31,7 +31,8 @@ recommendations, reports and guidelines that emphasise best practice.
 -   [UK Research Software
     Survey](https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers), 2014. Analysis highlights the importance of software in conducting research, e.g., that 92% of academics use research software. The dataset is also available. 
  
-
+    -   [Database of Diverse Databases](https://editorsofcolor.com/diverse-databases/) - Facilitates networks for a more equitable world - see listings for "Coding + Tech", "Tech Policy" and "Science".
+    -   
 ## Policy
 
 -   [Evidence for the importance of research software](http://doi.org/10.5281/zenodo.3884311), 2020. This ReSA analysis
@@ -96,7 +97,7 @@ data, and code supported by the US Government.
 
 #### Software citation
 
--   Recognizing the value of software: A software citation guide(https://doi.org/10.12688/f1000research.26932.2), 2021.
+-   [Recognizing the value of software: A software citation guide](https://doi.org/10.12688/f1000research.26932.2), 2021.
 
 -   [Software Citation Checklist for
     Authors](http://doi.org/10.5281/zenodo.3479199), 2019.
@@ -108,17 +109,16 @@ data, and code supported by the US Government.
 
 ## Lists of resources
 
--   [SSI list of resources about various topics](https://www.software.ac.uk/resources/get-speed) - including policy,
-    journals, open access, reproducibility, RSEs, training, etc.
 
--   [SSI guides for everything](https://www.software.ac.uk/resources/guides) - guides for
+-   [SSI guides for everything](https://www.software.ac.uk/resources/guides). Guides for
     researchers, managers, developers, instructors and
     content distributors.
     
--   [Database of Diverse Databases](https://editorsofcolor.com/diverse-databases/) - Facilitates networks for a more equitable world - see listings for "Coding + Tech", "Tech Policy" and "Science".
+-   [SSI list of resources about various topics](https://www.software.ac.uk/resources/get-speed). Includes policy,
+    journals, open access, reproducibility, RSEs, training, etc.
+   
     
--   [Better Scientific Software (BSSw)](https://bssw.io/items?page=1&view=all) - 
-    resources for developer productivity and software sustainability
+-   [Better Scientific Software (BSSw)](https://bssw.io/items?page=1&view=all). Resources for developer productivity and software sustainability
 
 ## Do you have resources to add?
 
