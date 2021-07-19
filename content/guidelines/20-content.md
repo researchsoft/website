@@ -30,7 +30,7 @@ recommendations, reports and guidelines that emphasise best practice.
 
 -   [UK Research Software
     Survey](https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers), 2014. Analysis highlights the importance of software in conducting research, e.g., that 92% of academics use research software. The dataset is also available. 
-    
+     
 -   [Database of Diverse Databases](https://editorsofcolor.com/diverse-databases/). Useful for finding speakers for a more equitable world - see listings for "Coding + Tech", "Tech Policy" and "Science".
 
 
@@ -41,10 +41,6 @@ recommendations, reports and guidelines that emphasise best practice.
     education and training, research breakthroughs and
     specific software. 
 
--   [Scholarly infrastructures for research software (SIRS): Report
-    from the EOSC Executive Board Working Group (WG) Architecture Task
-    Force](https://op.europa.eu/en/publication-detail/-/publication/145fd0f3-3907-11eb-b27b-01aa75ed71a1/language-en), 2020. Establishes a set of recommendations to allow the European Open Science Cloud (EOSC) to include software, next to other research outputs like publications and data, in the realm of its research artifacts. This work is built upon a survey and documentation of a representative panel of current operational infrastructures across Europe, comparing their scopes and approaches. This report summarises the state of the art, identifies best practices, as well as open problems, and paves the way for federating the different approaches in view of supporting the software pillar of EOSC.
-    
 -   [The top 100 papers](https://www.nature.com/articles/514550a), 2014. 
     Explores the most-cited research of all time to show that the vast majority
     describe experimental methods or software that have become
@@ -70,6 +66,16 @@ data, and code supported by the US Government.
     This report analyses the state of FAIR practices within diverse research communities and FAIR-related policies in different countries and offers six practical recommendations on how FAIR can be turned into practice. It includes a separate section details FAIR practice for digital objects other
     than research data.
         
+#### National and regional policies and strategies
+
+-   [Scholarly infrastructures for research software (SIRS): Report
+    from the EOSC Executive Board Working Group (WG) Architecture Task
+    Force](https://op.europa.eu/en/publication-detail/-/publication/145fd0f3-3907-11eb-b27b-01aa75ed71a1/language-en), 2020. Establishes a set of recommendations to allow the European Open Science Cloud (EOSC) to include software, next to other research outputs like publications and data, in the realm of its research artifacts. This work is built upon a survey and documentation of a representative panel of current operational infrastructures across Europe, comparing their scopes and approaches. This report summarises the state of the art, identifies best practices, as well as open problems, and paves the way for federating the different approaches in view of supporting the software pillar of EOSC.
+    
+-    French [National Plan for Open Science](https://www.ouvrirlascience.fr/second-national-plan-for-open-science/), 2021. Places software on a par with publications and data in research and Open Science.
+
+-    Australian National Agenda for Research Software](https://zenodo.org/record/4940274#.YPT_BBMzZcA), 2021. Addresses recognition of research software as a first class output of research in Australia. 
+    
 ## Infrastructure
 
 #### Software development
