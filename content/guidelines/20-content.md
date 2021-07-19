@@ -26,7 +26,7 @@ recommendations, reports and guidelines that emphasise best practice.
     citation, productivity, sustainability. [doi.org/10.5281/zenodo.3699950](https://doi.org/10.5281/zenodo.3699950)
 
 -   [What do we know about RSEs?](https://www.software.ac.uk/blog/2018-03-12-what-do-we-know-about-rses-results-our-international-surveys), 2018. The Software Sustainability Institute analyses results from international
-    surveys in 2016, 2017 and 2018 to learn more about RSEs and their work conditions.
+    surveys in 2016, 2017 and 2018 to learn more about RSEs and their work conditions. [doi.org/10.5281/zenodo.1194668](https://zenodo.org/record/2585783#.YPT2yRMzZcA)
 
 -   [UK Research Software
     Survey](https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers), 2014. Analysis highlights the importance of software in conducting research, e.g., that 92% of academics use research software. The dataset is also available. 
@@ -40,19 +40,11 @@ recommendations, reports and guidelines that emphasise best practice.
     education and training, research breakthroughs and
     specific software. 
     [doi.org/10.5281/zenodo.3884311](http://doi.org/10.5281/zenodo.3884311)
-
--   "Research Software Sharing for Data Analysis" chapter of [RDA COVID-19 Guidelines and Recommendations](https://doi.org/10.15497/rda00052), 2020. Provides a number of foundational, clear and practical recommendations around research software principles and practices, in order to facilitate open collaborations.
-    [doi.org/10.15497/rda00052](https://doi.org/10.15497/rda00052)
-
 -   [The top 100 papers](https://www.nature.com/articles/514550a), 2014. Nature
     explores the most-cited research of all time. The vast majority
     describe experimental methods or software that have become
     essential in their fields.
     [DOI: 10.1038/514550a](https://www.nature.com/articles/514550a)
-
--   [The Ecosystem of Technologies for Social Science Research 2020](https://uk.sagepub.com/en-gb/eur/technologies-for-social-science-research).
-    Using software tools in the research process is of critical
-    importance to a majority of social science researchers.
 
 -   [ReSA Response to US RFI: Public Access to Peer-Reviewed
     Scholarly Publications, Data and Code Resulting From Federally
@@ -65,6 +57,10 @@ data, and code supported by the US Government.
     2018 OECD International Survey of Scientific
     Authors (ISSA2)](https://www.oecd-ilibrary.org/science-and-technology/charting-the-digital-transformation-of-science_1b06c47c-en), 2020. The paper explores the potential impacts of digitalisation based on a combination of different indicators on research impact, and includes evidence that 25% of research produces new code.
     
+-   [The Ecosystem of Technologies for Social Science Research 2020](https://uk.sagepub.com/en-gb/eur/technologies-for-social-science-research).
+    Using software tools in the research process is of critical
+    importance to a majority of social science researchers.
+    
 -   Six Recommendations for implementation of FAIR practice by the FAIR
     in practice task force of the European open science cloud FAIR
     working
@@ -75,27 +71,28 @@ data, and code supported by the US Government.
 -   Draft [FAIR Priinciples for Research Software] (https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs), June 2021.
 
 
+
 ## Infrastructure
 
 -   Nine Best Practices for Research Software Registries and
-    Repositories: A Concise Guide (2020) [*arXiv
-    2012.13117*](https://arxiv.org/abs/2012.13117). Scientific software
+    Repositories: A Concise Guide (2020) [arXiv
+    2012.13117](https://arxiv.org/abs/2012.13117). Scientific software
     registries and repositories serve various roles in their
     respective disciplines. These resources improve software
     discoverability and research transparency, thereby supporting
     research reproducibility and replicability.
 
--   [Scholarly infrastructures for research software (SIRS): Report
+-   Scholarly infrastructures for research software (SIRS): Report
     from the EOSC Executive Board Working Group (WG) Architecture Task
-    Force
-    (TF) 2020. [doi.org/10.2777/28598](https://doi.org/10.2777/28598). It has become
-    essential to archive, preserve and share research software to ensure
-    its persistence and availability.
+    Force, 2020. Establishes a set of recommendations to allow the European Open Science Cloud (EOSC) to include software, next to other research outputs like publications and data, in the realm of its research artifacts. This work is built upon a survey and documentation of a representative panel of current operational infrastructures across Europe, comparing their scopes and approaches. This report summarises the state of the art, identifies best practices, as well as open problems, and paves the way for federating the different approaches in view of supporting the software pillar of EOSC.. [doi.org/10.2777/28598](https://doi.org/10.2777/28598)
 
-### Software development
+#### Software development
 
+-   "Research Software Sharing for Data Analysis" chapter of [RDA COVID-19 Guidelines and Recommendations](https://doi.org/10.15497/rda00052), 2020. Provides foundational, clear and practical recommendations around research software principles and practices, in order to facilitate open collaborations.
+    [doi.org/10.15497/rda00052](https://doi.org/10.15497/rda00052)
+    
 -   Software development guide Netherlands eScience Center
-    [*https://guide.esciencecenter.nl*](https://guide.esciencecenter.nl)
+    [https://guide.esciencecenter.nl](https://guide.esciencecenter.nl)
 
 -   DLR Software Engineering Guidelines (2018)
     [doi.org/10.5281/zenodo.1344612](https://doi.org/10.5281/zenodo.1344612)
@@ -107,7 +104,7 @@ data, and code supported by the US Government.
 
 -   [Top 10 FAIR Data & Software Things: Research Software](https://librarycarpentry.org/Top-10-FAIR/2018/12/01/research-software/) (2018)
 
-### Software citation
+#### Software citation
 
 -   Recognizing the value of software: A software citation guide (2021)
     [doi.org/10.12688/f1000research.26932.2](https://doi.org/10.12688/f1000research.26932.2)
