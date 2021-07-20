@@ -2,14 +2,13 @@
 
 weight = 10
 title = "People"
-subtitle = "Improve social infrastructure for individuals abd communities"
+subtitle = "Enhance social infrastructure for individuals and communities to improve software practices"
 
 [asset]
 image = "young-people-500-380.png"
 +++
 
-The people space supports the aim of research software to be recognised and valued as a fundamental and vital component of research worldwide. ReSA engagement in this area include:
+[ReSA community consultations](https://www.researchsoft.org/taskforces/) with **people** impacts include:
 
- * [Software landscape analysis taskforce](https://www.researchsoft.org/taskforces/). This task force identified and analysed the research software landscape in 2020. 
- * ReSA is one of the organisations coordinating development of the Research Data Alliance-led Open Science Registry. 
- * In 2021, The Wellcome Trust supports ReSA to host a series of online workshops to facilitate the connection of existing research software initiatives that are concerned with people issues related to skills and training, career paths and recognition frameworks etc.
+ * The [People Roadmap](https://drive.google.com/file/d/1gpIhXpLNqTUaZUKIGYxuRRNQXlDoojUw/view) is a community consultation to facilitate identification and prioritisation of the major issues related to people (or personnel) challenges faced by the research software community, including research sofwtare engineers.
+ * The [software landscape analysis taskforce](http://doi.org/10.5281/zenodo.3699950) analysed the research software landscape to identify different communities and topics of interest.
