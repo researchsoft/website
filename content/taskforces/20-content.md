@@ -11,9 +11,17 @@ ReSA’s mission is to bring research software communities together to collabora
 
 To deliver on this mission, we invite the ReSA community to join us on these task forces:
 
-## Community Consultation
+## Community consultations
 
-In 2021, The Wellcome Trust supports ReSA to host a series of online workshops to facilitate the connection of existing research software initiatives that are concerned with people issues related to skills and training, career paths and recognition frameworks etc. See [the People road map community consultation plan](https://drive.google.com/file/d/1gpIhXpLNqTUaZUKIGYxuRRNQXlDoojUw/view).
+ReSA community consultations facilitate discussions to identify and prioritise challenges across ReSA's three key themes: people, policy and infrastructure. Community consultations are core ReSA activities, enabling the community to collaborate on elucidating how to advance visibility of research software. 
+
+**[People Roadmap](https://drive.google.com/file/d/1gpIhXpLNqTUaZUKIGYxuRRNQXlDoojUw/view)** is a community consultation to facilitate identification and prioritization of the major issues related to people (or personnel) challenges faced by the research software community, including research sofwtare engineers (RSEs). The People Roadmap will increase understanding on how to create an environment where research software personnel are recognised, have appropriate skillsets and access to inclusive communities, within policy and infrastructure environments that support their work. It will begin with interviews with 25 key stakeholders to facilitate strategic discussion across research software initiatives, with the intention of developing a collaborative approach to solving common issues in the following areas:
+
+* Roles/careers/recognition, e.g., Research Software Engineers (RSEs), research software product managers, research software community managers
+* Skills needed and provision of training (including resources such as best practice guides)
+* Community/team development, including diversity, equity and inclusion
+* Policy such as best practice examples relating to personnel issues
+* Infrastructure, physical infrastructure and standards in areas such as software citation that support people-themed issues
 
 ## Ongoing task forces
 
