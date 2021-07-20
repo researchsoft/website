@@ -23,7 +23,9 @@ ReSA community consultations facilitate discussions to identify and prioritise c
 * Policy such as best practice examples relating to personnel issues
 * Infrastructure, physical infrastructure and standards in areas such as software citation that support people-themed issues
 
-## Ongoing task forces
+## Task forces
+
+ReSA task forces enable the community to focus and identifying challenges and solutions for a particular area, at the international level.
 
 **[FAIR 4 Research Software](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)** is working to to define and effectively apply FAIR principles to research software, to achieve adoption of these principles, starting from a range of existing community-led discussions. This task force has been convened in partnership with the [Research Data Alliance (RDA)](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) and [FORCE11](https://www.force11.org/group/fair-4-research-software-fair4rs-working-group). [Join the group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg).
 
@@ -39,7 +41,7 @@ Two working groups have now been formed to progress particular elements of the R
 
 There are a range of [other areas](https://docs.google.com/document/d/1rV19ZKSyKRmKLsCYbjfdy3z31WovUIMfEYK1OSlbJos/edit#) where the formation of working groups is being considered to apply FAIR research software, such as curriculums and skills; science gateways and platforms; metadata and interoperability and preservation and archiving. If you’re interested in being involved then please contact us.
 
-## Completed task forces
+## Task forces - completed
 
 * **Software sections of [RDA COVID-19 Guidelines and Recommendations](https://www.rd-alliance.org/group/rda-covid19-rda-covid19-omics-rda-covid19-epidemiology-rda-covid19-clinical-rda-covid19-1)** for policy makers, funders and the research community. [Final recommendations](https://www.rd-alliance.org/group/rda-covid19-rda-covid19-omics-rda-covid19-epidemiology-rda-covid19-clinical-rda-covid19-1) helping COVID-19 stakeholders follow best practices to maximize the efficiency of their work, and to act as a blueprint for future emergencies.
 
