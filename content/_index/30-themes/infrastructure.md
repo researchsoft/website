@@ -8,7 +8,7 @@ subtitle = "Identify and support needed infrastructure"
 image = "programmer-hands-500-380.png"
 +++
 
-In the infrastructure space, ReSA co-leads projects on standards and guidelines.
+[ReSA task forces](https://www.researchsoft.org/taskforces/) with **infrastructure** impacts include:
 
-* ReSA is a joint convenor of the [FAIR 4 Research Software Working Group (FAIR4RS WG) ](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) with the [Research Data Alliance (RDA)](https://www.rd-alliance.org/) and [FORCE11](https://www.force11.org/). FAIR4RS WG is enabling coordination of a range of existing community-led discussions on how to define and effectively apply FAIR principles to research software, to continue to advance the aims of the open science movement.
-* ReSA is also leading the development of a **FAIR 4 Research Software Roadmap** to plan a broad integration across the software landscape of the FAIR principles for software (once developed by FAIR4RS WG). Including initiatives in areas such as: indicators, metrics, maturity models and certification; curriculums and competence centres, career profiles and reward structures; certification of FAIR services; interoperability frameworks; identifiers; metadata; and policy change.
+* [FAIR for Research Software Working Group (FAIR4RS WG)](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg), which is jointly convened with the [Research Data Alliance (RDA)](https://www.rd-alliance.org/) and [FORCE11](https://www.force11.org/) to develop and guide adoption of community-endorsed FAIR principles for research software.
+*  [FAIR for Research Software Roadmap](https://www.researchsoft.org/taskforces/) to guide strategic planning and investment of implementation of the FAIR principles for research software across the sector. Focus areas includes FAIR for research software [metrics](https://docs.google.com/document/d/1BpzecVx4ZvSNfHD-UHhofZVdA6qiP_ENrmozmiq9zY4/edit) and certification, curriculums and competence centres, interoperability and metadata, governance, etc.
