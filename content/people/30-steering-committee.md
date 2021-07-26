@@ -8,11 +8,11 @@ background = "white"
 title = "Steering Committee"
 +++
 
+**CHAIR: Daniel S. Katz**, Chief Scientist, National Center for Supercomputing Applications (NCSA), University of Illinois, USA
+
 **Juan Bicarregui**, Head of the Data Division, Scientific Computing Department, Science and Technology Facilities Council, UK
 
 **Joris van Eijnatten**, General Director, Netherlands eScience Center, Netherlands
-
-**Daniel S. Katz**, Chief Scientist, National Center for Supercomputing Applications (NCSA), University of Illinois, USA
 
 **Neil Chue Hong**, Director - Software Sustainability Institute, University of Edinburgh, UK
 
@@ -32,7 +32,7 @@ Previous Steering Committee members:
 
 **Tania Allard**, Co-Director, Quansight, UK (2021)
 
-**Serah Njambi Rono**, Director of Community Development and Engagement, The Carpentries, Estonia (2022)
+**Serah Njambi Rono**, Director of Community Development and Engagement, The Carpentries, Estonia (2021)
 
 **Karthik Ram**, Senior Research Data Scientist at University of California, Berkeley, USA (2019-2021)
 
