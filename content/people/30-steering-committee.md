@@ -26,6 +26,8 @@ title = "Steering Committee"
 
 **Lou Woodley**, Director, Center for Scientific Collaboration and Community Engagement, UK 
 
+
+
 **Previous Steering Committee members:**
 
 **Tania Allard**, Co-Director, Quansight, UK (2021)
