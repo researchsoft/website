@@ -26,7 +26,15 @@ title = "Steering Committee"
 
 **Lou Woodley**, Director, Center for Scientific Collaboration and Community Engagement, UK 
 
++++
+fragment = "content"
+disabled = false
+date = "2021-07-26"
+weight = 20
+background = "white"
 
+title = "Steering Committee"
++++
 
 **Previous Steering Committee members:**
 
