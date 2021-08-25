@@ -55,7 +55,7 @@ Daniel S. Katz has been announced as the [inaugural Chair](http://www.ncsa.illin
 
 ### Community events
 
-- [Nordic RDA webinar series on FAIR research software]](https://rda-software-webinar.readthedocs.io/en/latest/Program/). Online 30 August, 2021. Registration is free.
+- [Nordic RDA webinar series on FAIR research software](https://rda-software-webinar.readthedocs.io/en/latest/Program/). Online 30 August, 2021. Registration is free.
 - [SeptembRSE](https://society-rse.org/events/septembrse/). Online throughout the month of September. 
 - [Research Software Engineers in HPC](https://us-rse.org/rse-hpc-2021/) (RSE-HPC-2021). To be held as part of SC21, in person and online, 15 November, 2021. [Call for submissions](https://us-rse.org/rse-hpc-2021/call/) closes 6 August, 2021.
 - [New Zealand Research Software Engineering Conference](https://www.rseconference.nz/). 15-17 September 2021. 
