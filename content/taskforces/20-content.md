@@ -42,7 +42,7 @@ A number of initiatives have now been formed to progress particular elements of 
 * [FAIR4RS governance](https://docs.google.com/document/d/1pBBs8hSF8m3WsFRFjJuFHd1sC-jfPV3_0xUTMVzEuMc/edit#heading=h.3wzkqusz7mdh) will create a communications plan and content that clarifies the governance structure of the FAIR4RS principles.
 * [FAIR4RS skills and training curriculums](https://docs.google.com/document/d/1MI7eEWPWEfvx3gOC2PskzZ9ihkHyd28gi3WHAoGhRG0/edit) aims to coordinate discussion on the opportunity for the training and research software communities to advance identification of FAIR research software skills and curriculums, building on both existing work on research software training for researchers and the growing body of FAIR data work in this area.
 
-There are a range of [other areas](https://docs.google.com/document/d/1rV19ZKSyKRmKLsCYbjfdy3z31WovUIMfEYK1OSlbJos/edit#) where the formation of working groups is being considered to apply FAIR research software, such as metadata and interoperability and preservation and archiving. If you’re interested in being involved then please contact us.
+There are a range of [other areas](https://docs.google.com/document/d/1rV19ZKSyKRmKLsCYbjfdy3z31WovUIMfEYK1OSlbJos/edit#) where the formation of working groups is being considered to apply FAIR research software, such as metadata, interoperability, preservation and archiving. If you’re interested in being involved then please contact us.
 
 ## Task forces - completed
 
