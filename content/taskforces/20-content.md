@@ -34,12 +34,16 @@ ReSA task forces enable the community to focus and identifying challenges and so
 2. Identification of opportunities for existing FAIR data initiatives to incorporate a focus on FAIR research software.
 3. Identification of Roadmap elements that are specific (or that apply in a different way to) to research software and that have not been covered by FAIR data initiatives.
 
-Two working groups have now been formed to progress particular elements of the Roadmap:
+A number of initiatives have now been formed to progress particular elements of the Roadmap:
 
 * [Metrics Working Group](https://docs.google.com/document/d/1BpzecVx4ZvSNfHD-UHhofZVdA6qiP_ENrmozmiq9zY4/edit) to develop FAIR research software metrics.
 * [Life Sciences Working Group](https://docs.google.com/document/d/1yQun2tObksymOrAV4RY7jqbSkZ0r8G6I-vrkDAGHnnI/edit) to support the implementation of the FAIR4RS principles in the life sciences community, with ELIXIR providing a pilot use case.
+* [FAIR for Virtual Research Environments](https://www.rd-alliance.org/group/fair-virtual-research-environments-wg/case-statement/fair-virtual-research-environments-vres)
+* [FAIR4RS governance](https://docs.google.com/document/d/1pBBs8hSF8m3WsFRFjJuFHd1sC-jfPV3_0xUTMVzEuMc/edit#heading=h.3wzkqusz7mdh)
+* [FAIR4RS skills and training curriculums](https://docs.google.com/document/d/1MI7eEWPWEfvx3gOC2PskzZ9ihkHyd28gi3WHAoGhRG0/edit)
 
-There are a range of [other areas](https://docs.google.com/document/d/1rV19ZKSyKRmKLsCYbjfdy3z31WovUIMfEYK1OSlbJos/edit#) where the formation of working groups is being considered to apply FAIR research software, such as curriculums and skills; science gateways and platforms; metadata and interoperability and preservation and archiving. If you’re interested in being involved then please contact us.
+
+There are a range of [other areas](https://docs.google.com/document/d/1rV19ZKSyKRmKLsCYbjfdy3z31WovUIMfEYK1OSlbJos/edit#) where the formation of working groups is being considered to apply FAIR research software, such as metadata and interoperability and preservation and archiving. If you’re interested in being involved then please contact us.
 
 ## Task forces - completed
 
