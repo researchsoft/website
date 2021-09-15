@@ -1,11 +1,9 @@
 +++
-
 title = ""
+weight = 28
 
-weight = 28 [asset]
-
-image = "stfc+logo.png"
-
-url = "https://stfc.ukri.org/"
+[asset]
+  image = "stfc+logo.png"
+  url = "https://stfc.ukri.org/"
 
 +++
