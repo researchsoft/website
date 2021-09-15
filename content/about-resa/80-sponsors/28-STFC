@@ -2,7 +2,9 @@
 
 title = ""
 
-weight = 26 [asset]
+weight = 28
+
+[asset]
 
 image = "stfc+logo.png"
 
