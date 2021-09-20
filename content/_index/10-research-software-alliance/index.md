@@ -8,7 +8,7 @@ particles = true
 
 title_page = false # Default is false
 title = "Research Software Alliance"
-subtitle = "Research software: recognised and valued as a fundamental and vital component of research worldwide"
+subtitle = "Our vision: Research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide"
 
 [header]
   image = "main-hero.png"
