@@ -76,6 +76,12 @@ googleAnalytics = "G-P9VQSP6L49"
   url = "https://github.com/researchsoft/website"
   pre = "fab fa-github fa-stack-2x"
 
+[[menu.footer_social]]
+  weight = 40
+  name = "email"
+  url = "https://landing.mailerlite.com/webforms/landing/i5e1h2"
+  pre = "fab fa-envelope"
+
 [[menu.copyright_footer]]
   url = "/license"
   name = "License"
