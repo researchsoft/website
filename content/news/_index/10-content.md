@@ -1,11 +1,12 @@
 +++
-fragment = "content"
-disabled = false
-date = "2020-10-01"
+fragment = "buttons"
+#disabled = false
+#date = "2016-09-07"
 weight = 10
-background = "white"
+background = "secondary"
 
-title = "News"
+[[buttons]]
+  text = "Subscribe to the monthly ReSA newsletter"
+  url = "https://landing.mailerlite.com/webforms/landing/i5e1h2"
+  color = "dark"
 +++
-
-To subscribe to the monthly ReSA newsletter send a blank email to [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)
