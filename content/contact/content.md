@@ -9,4 +9,4 @@ title = "Community"
 #subtitle = ""
 +++
 
-If you want to be part of our community join our current [task forces](https://www.researchsoft.org/taskforces/) ans subscribe to our newsletter.
+If you want to be part of our community join our current [task forces](https://www.researchsoft.org/taskforces/) and subscribe to our newsletter.
