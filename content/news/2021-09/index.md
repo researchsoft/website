@@ -25,4 +25,8 @@ This month’s news includes:
 
 +++
 
-### Community news - this month in research software
+
+**[Read the September Newsletter](https://preview.mailerlite.com/t7l9n6)**
+
+
+_Please note that from September 2021 the ReSA newsletters are hosted on MailerLite_.
