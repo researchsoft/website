@@ -59,16 +59,6 @@ googleAnalytics = "G-P9VQSP6L49"
   name = "News"
   weight = 50
 
-[[menu.main]]
-    url = "/news"
-    name = "News"
-    weight = 60
-
-[[menu.main]]
-  url = "/blog"
-  name = "Blog"
-  weight = 70
-
 [[menu.footer_social]]
   weight = 20
   name = "twitter"
