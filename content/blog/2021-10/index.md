@@ -15,7 +15,13 @@ This is the summary of the post
 """
 
 [sidebar]
+  title = "Important Links"
   align = "right"
+  #sticky = true # Default is false
+  content = """
+  Links [1](#)
+  Links [2](#)
+"""
 
 [asset]
   image = "guide.jpg"
