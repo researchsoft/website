@@ -1,12 +1,16 @@
 +++
 fragment = "content"
-weight = 100
+weight = 10
+title_align = "left"
+display_date = true
+[asset]
+  image = "guide.jpg"
+  text = "lantern"
 +++
-
 
 This is my first blog post.
 
-Test adding content
+ADD content here
 
 
 
