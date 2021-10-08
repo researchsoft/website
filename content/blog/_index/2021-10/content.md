@@ -4,3 +4,5 @@ weight = 100
 +++
 
 This is my first blog post.
+
+Test adding content
