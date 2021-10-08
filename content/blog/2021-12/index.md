@@ -3,7 +3,7 @@ fragment = "content"
 weight = 100
 categories = ["Blog", "Recommendations"]
 
-title = "First Post"
+title = "Second Post"
 #subtitle = ""
 title_align = "left"
 
@@ -22,7 +22,7 @@ This is the summary of the post
   text = "lantern"
 +++
 
-This is my first blog post.
+This is my second blog post.
 
 ADD content here
 

@@ -6,6 +6,6 @@ count = 2 # Show at the end of each post
 images = true
 display_date = true # Default is false
 summary = true
-background = "secondary"
+background = "black"
 title = "Latest Posts"
 +++
