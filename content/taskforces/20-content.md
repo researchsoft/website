@@ -9,7 +9,7 @@ background = "white"
 
 ReSA’s mission is to bring research software communities together to collaborate on the advancement of the research software ecosystem, to achieve the vision that research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide.
 
-To deliver on this mission, we invite the ReSA community to join us on ReSA activities stemming from the [ReSA Strategic Plan](https://drive.google.com/file/d/1nYWCvCnprY-SavEDTSlpk8TOnz_qaOUM/view?usp=sharing):
+To deliver on this mission, we invite the ReSA community to join us on ReSA activities stemming from the [ReSA Strategic Plan](https://www.researchsoft.org/documents/Strategic_Plan_2021-23.pdf):
 
 ## Community consultations
 
