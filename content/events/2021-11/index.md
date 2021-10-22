@@ -3,7 +3,7 @@ fragment = "content"
 weight = 100
 categories = ["Event", "ReSA people"]
 
-title = "2021 Dec: People Roadmap"
+title = "People Roadmap"
 subtitle = ""
 title_align = "left"
 
@@ -23,7 +23,7 @@ Webinar
   """
 
 [asset]
-  image = "surface-unsplash-videoconference"
+  image = "surface-unsplash-videoconference.jpg"
   text = "collaboration"
 +++
 
