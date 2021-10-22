@@ -11,5 +11,6 @@ title = "Code of Conduct"
 
 [header]
   image = "main-hero.png"
+  text = "main character"
 
 +++

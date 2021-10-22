@@ -11,5 +11,6 @@ title = "License"
 
 [header]
   image = "main-hero.png"
+  text = "Main character"
 
 +++

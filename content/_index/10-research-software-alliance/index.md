@@ -12,11 +12,13 @@ subtitle = "Our vision: Research software and those who develop and maintain it 
 
 [header]
   image = "main-hero.png"
+  text = "header people working together"
 
 [asset]
   image = "resa-logo-inverted.svg"
   width = "750px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
+  text = "ReSA logo"
 
 [[buttons]]
   text = "Learn more"

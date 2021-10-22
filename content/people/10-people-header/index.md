@@ -11,6 +11,6 @@ title = "People"
 
 [header]
   image = "main-hero.png"
+  text = "Main character"
 
 +++
-

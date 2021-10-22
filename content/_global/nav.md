@@ -15,7 +15,7 @@ sticky = true
 # Branding options
 [asset]
   image = "resa-logo.svg"
-  text = "ReSA"
+  text = "ReSA logo"
 
 [repo_button]
   url = "https://twitter.com/researchsoft"

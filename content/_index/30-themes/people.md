@@ -1,11 +1,11 @@
- +++
-
++++
 weight = 10
 title = "People"
 subtitle = "Enhance social infrastructure for individuals and communities to improve software practices"
 
 [asset]
-image = "young-people-500-380.png"
+  image = "young-people-500-380.png"
+  text = "young people"
 +++
 
 [ReSA community consultations](https://www.researchsoft.org/taskforces/) with **people** impacts include:

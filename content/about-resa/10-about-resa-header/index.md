@@ -11,5 +11,5 @@ title = "About ReSA"
 
 [header]
   image = "main-hero.png"
-
+  text = "main character"
 +++

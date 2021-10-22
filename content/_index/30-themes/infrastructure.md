@@ -1,11 +1,11 @@
- +++
-
++++
 weight = 20
 title = "Infrastructure"
 subtitle = "Identify and promote needed infrastructure"
 
 [asset]
-image = "programmer-hands-500-380.png"
+  image = "programmer-hands-500-380.png"
+  text = "programmer hands"
 +++
 
 [ReSA task forces](https://www.researchsoft.org/taskforces/) with **infrastructure** impacts include:

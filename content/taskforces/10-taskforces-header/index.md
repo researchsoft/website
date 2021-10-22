@@ -11,5 +11,6 @@ title = "Task forces"
 
 [header]
   image = "main-hero.png"
+  text = "Main character"
 
 +++

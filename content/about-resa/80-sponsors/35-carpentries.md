@@ -1,15 +1,11 @@
-
-
 +++
 
 title = ""
+weight = 35
 
-weight = 35 
 [asset]
-
-image = "carpentries.png"
-
-url = "https://carpentries.org/"
+  image = "carpentries.png"
+  url = "https://carpentries.org/"
+  text = "The carpentries logo"
 
 +++
-

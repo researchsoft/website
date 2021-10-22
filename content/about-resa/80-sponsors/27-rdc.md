@@ -2,11 +2,11 @@
 
 title = ""
 
-weight = 27 
+weight = 27
+
 [asset]
-
-image = "rdc-logo.png"
-
-url = "https://www.rdc-drc.ca/"
+  image = "rdc-logo.png"
+  url = "https://www.rdc-drc.ca/"
+  text = "RDC DCR logo"
 
 +++
