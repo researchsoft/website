@@ -8,3 +8,6 @@ subtitle = "Hybrid event"
   image = "myleon-unsplash-collaboration.jpg"
   text = "Photo from unsplash.com by @ myleon workspace collaboration"
 +++
+
+This event will be a hybrid event
+Sponsored by
