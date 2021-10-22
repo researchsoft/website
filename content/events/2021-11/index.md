@@ -8,7 +8,8 @@ subtitle = ""
 title_align = "left"
 
 display_date = false
-date = "2021-10-01"summary = """
+date = "2021-10-01"
+summary = """
 Webinar
 """
 
