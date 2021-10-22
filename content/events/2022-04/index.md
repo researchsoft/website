@@ -7,8 +7,6 @@ title = "DEI"
 subtitle = "Lorentz workshop"
 title_align = "left"
 
-display_date = true
-date = "2022-04-06"
 summary = """
 This is the summary of the event
 """
