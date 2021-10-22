@@ -1,4 +1,6 @@
 +++
+fragment = "content"
+categories = ["Event", "ReSA people"]
 weight = 20
 title = "Second Title"
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing"

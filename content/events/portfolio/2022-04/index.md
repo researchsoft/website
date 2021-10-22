@@ -30,6 +30,8 @@ This is the summary of the event
 
 ADD content here
 
+This event will be a hybrid event
+Sponsored by CS&S
 
 
 
