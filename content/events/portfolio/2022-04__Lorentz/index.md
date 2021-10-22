@@ -4,7 +4,7 @@ weight = 100
 categories = ["Event", "ReSA people"]
 
 title = "Lorentz workshop"
-#subtitle = "DEI"
+subtitle = "DEI"
 title_align = "left"
 
 display_date = true
@@ -19,12 +19,12 @@ This is the summary of the event
   align = "right"
   #sticky = true # Default is false
   content = """
-  Links [1](#)
-  Links [2](#)
-"""
+  * Link [1](#)
+  * Link [2](#)
+  """
 
 [asset]
-  image = "../myleon-unsplash-collaboration.jpg"
+  image = "myleon-unsplash-collaboration.jpg"
   text = "collaboration"
 +++
 
@@ -33,4 +33,4 @@ ADD content here
 
 
 
-Photo by <a href="https://unsplash.com/@sevhoein?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Severin Höin</a> on <a href="https://unsplash.com/s/photos/guide?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@myleon">Leon</a> on Unsplash.

@@ -11,7 +11,7 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing"
   icon = "fas fa-users"
 
 [[labels]]
-  title = "Cat"
+  title = "Global"
   icon = "fas fa-globe-americas"
 +++
 
