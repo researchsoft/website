@@ -7,8 +7,8 @@ title = "People Roadmap"
 subtitle = "Updates"
 title_align = "left"
 
-display_date = false
-date = "2021-10-01"
+display_date = true
+date = "2021-12-03"
 summary = """
 Webinar
 """
