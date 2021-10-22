@@ -8,5 +8,7 @@ tiled = true
 display_date = false # Default is false
 summary = true
 background = "light"
-title = "Events"
+title = "Research Software Alliance - Events"
+subtitle = "Co-organized and Co-lead events"
+description = "Events"
 +++
