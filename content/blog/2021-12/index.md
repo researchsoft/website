@@ -19,9 +19,9 @@ This is the summary of the post
   align = "right"
   #sticky = true # Default is false
   content = """
-  Links [1](#)
-  Links [2](#)
-"""
+  * Links [1](#)
+  * Links [2](#)
+  """
 
 [asset]
   image = "guide.jpg"
