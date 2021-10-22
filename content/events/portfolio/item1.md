@@ -2,7 +2,7 @@
 weight = 10
 title = "DEI Lorentz workshop"
 subtitle = "Hybrid event"
-item_url = "/2022-04__Lorentz"
+item_url = "./2022-04__Lorentz"
 
 [asset]
   image = "myleon-unsplash-collaboration.jpg"
