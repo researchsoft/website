@@ -3,12 +3,12 @@ fragment = "content"
 weight = 100
 categories = ["Event", "ReSA people"]
 
-title = "Lorentz workshop"
-subtitle = "DEI"
+title = "DEI"
+subtitle = "Lorentz workshop"
 title_align = "left"
 
 display_date = false
-date = "2021-10-10"
+date = "2021-10-20"
 summary = """
 This is the summary of the event
 """
