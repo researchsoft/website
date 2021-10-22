@@ -2,6 +2,7 @@
 fragment = "content"
 categories = ["Event", "ReSA people"]
 weight = 100
+
 title = "Title"
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing"
 

@@ -7,7 +7,7 @@ title = "Lorentz workshop"
 subtitle = "DEI"
 title_align = "left"
 
-display_date = true
+display_date = false
 date = "2021-10-01"
 
 summary = """
