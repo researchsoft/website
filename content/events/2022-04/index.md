@@ -14,7 +14,7 @@ This is the summary of the event
 [sidebar]
   title = "Important Links"
   align = "right"
-  #sticky = true # Default is false
+  sticky = true # Default is false
   content = """
   * Link [1](#)
   * Link [2](#)
