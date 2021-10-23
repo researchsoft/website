@@ -74,7 +74,7 @@ googleAnalytics = "G-P9VQSP6L49"
 [[menu.footer_social]]
   weight = 40
   name = "email"
-  url = "mailto:info@researchsoft.org"
+  url = "https://landing.mailerlite.com/webforms/landing/i5e1h2"
   pre = "fa fa-envelope"
 
 [[menu.copyright_footer]]
