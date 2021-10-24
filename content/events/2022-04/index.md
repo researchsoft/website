@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 
-title = "Vive la differénce - research software engineers"
+title = "Vive la difference - research software engineers"
 subtitle = "Lorentz workshop"
 title_align = "left"
 
