@@ -7,7 +7,7 @@ subtitle = "Report update"
 title_align = "left"
 
 summary = """
-Webinar
+ReSA will convene two webinars in early December to discuss the outcomes of the People Roadmap Report
 """
 
 [sidebar]
