@@ -1,10 +1,9 @@
 +++
 fragment = "content"
 weight = 100
-categories = ["Event", "ReSA people"]
 
 title = "People Roadmap Webinar"
-subtitle = "Updates"
+subtitle = "Report update"
 title_align = "left"
 
 summary = """
