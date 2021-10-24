@@ -16,7 +16,7 @@ Webinar
   align = "right"
   sticky = true # Default is false
   content = """
-  * [People Roadmap Report](https://www.researchsoft.org/documents/people-roadmap.pdf)(#)
+  * [People Roadmap Report](https://www.researchsoft.org/documents/people-roadmap.pdf)
   """
 
 [asset]
