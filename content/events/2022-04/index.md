@@ -1,7 +1,6 @@
 +++
 fragment = "content"
 weight = 100
-categories = ["Event", "ReSA people"]
 
 title = "Vive la differénce - research software engineers"
 subtitle = "Lorentz workshop"
@@ -16,8 +15,7 @@ This is the summary of the event
   align = "right"
   sticky = true # Default is false
   content = """
-  * Link [1](#)
-  * Link [2](#)
+  * [Lorentz Centre](https://www.lorentzcenter.nl/about-us.html)
   """
 
 [asset]
