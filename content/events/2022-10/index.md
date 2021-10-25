@@ -2,6 +2,7 @@
 fragment = "content"
 categories = ["Event", "ReSA people"]
 weight = 100
+date = "2022-10-01" # to filter the event
 
 title = "Title"
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing"
