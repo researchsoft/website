@@ -46,12 +46,14 @@ There are two ways you can become involved:
 * Sign up to the [ReSA newsletter](https://www.researchsoft.org/news/) to hear more about the online public events from March-May 2022 that will be associated with the workshop, as more details become available.
 
 **Who should apply?**
+
 We welcome applications from any of the following, with a preference for individuals working within a technology, software and/or research setting:
 Champions, key influencers and/or leaders of DEI initiatives, be it your team, organisation, region, discipline, etc. Initiatives can range from grassroots or community efforts, to programs by national bodies, funders, research infrastructure providers, etc.
 Champions, key influencers and/or leaders of research software engineering initiatives from across the globe.
 Researchers studying areas such as approaches to improving DEI, impact, challenges, etc.
 
 **Lorentz Center information**
+
 The in-person meeting from 19-22 April 2022 will take place at the Lorentz Center in Leiden, the Netherlands. This conference center hosts international scientific meetings that are characterized by an open and interactive atmosphere and high scientific quality, and typically a week in length. Accommodation is available on-site. We are grateful to the Lorentz Center for their provision of workshop and online facilities, and indirect expenses valued at up to €25,000, based on contributions by Leiden University and Dutch national funding agencies. 
 
 **Workshop organisers**
