@@ -21,7 +21,7 @@ Hybrid workshop on reframing research software engineering to place diversity, e
 [asset]
   image = "myleon-unsplash-collaboration.jpg"
   text = "collaboration"
-  style="width:50px; height:30px;"
+  width="200""
 +++
 
 Would you like to join a conversation on how research software engineering could be reframed to place diversity, equity, and inclusion as a central organising principle? ReSA is calling for expressions of interest in joining a workshop entitled “Vive la differénce - research software engineers”. This will be a hybrid event with an in-person element from 19-22 April 2022 at the [Lorentz Centre](https://www.lorentzcenter.nl/about-us.html) in the Netherlands; and online events from March-May 2022 across different time zones.  This workshop will bring together a wide range of stakeholders who have not previously collaborated, to analyse best practice and available data to identify both research opportunities and solutions to their own local challenges, to create an informal network of champions in this area. 
