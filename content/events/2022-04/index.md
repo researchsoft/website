@@ -39,7 +39,7 @@ The workshop aims to:
 4. Connect efforts on improving DEI in research software engineering with similar efforts in the open source software community.
 5. Bring together representatives of the increasing array of different types of organisations and initiatives in this space, as enabling more alignment and networks between these has the potential to create the critical mass needed for some outcomes. These will include national RSE associations; DEI initiatives in RSE/data science; open source software; and industry. 
 
-More information on the rationale for the workshop and the draft schedule is available on the [Lorentz wokrshop page](https://www.researchsoft.org/lorentz/).
+More information on the rationale for the workshop and the draft schedule is available on the [Lorentz workshop page](https://www.researchsoft.org/lorentz/).
 
 **How to get involved**
 
