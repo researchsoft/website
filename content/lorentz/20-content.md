@@ -32,15 +32,23 @@ until 10:15 Arrival, coffee
 Lorentz Center information
 * Workshop goals and structure
 * Ways of working together - Code of Conduct, diversity equity and inclusion (DEI) guidelines
+
 Brief introductions
+
 11:00-12:00 Setting the scene: Understanding the language we are using
 * Research software engineering (RSE) explainer: eg what is RSE and why is it important
 * DEI explainer: what do we need to understand about DEI to improve it in the research community 
+
 12:00-13:00 Lunch break
+
 13:00-13:30 Early career research viewpoint on future vision for DEI in research software engineering
+
 13:30-15:00 Ice-breaker: Valuing our lived experience. Breakout groups will be used to discuss personal experiences (where participants are comfortable to do so) of DEI and/or their experience of working to address DEI issues. This will enable participants to begin to connect with others and to reflect on their own unique perspectives. 3 x 30 minute breakouts on each of D, E, I. Group sizes of ~8 people across ~6 groups.
+
 15:00-15:30 Break
+
 15:30-16:30 Inspirational keynote 
+
 17:00- Evening reception combined with poster session. (Attendees will be invited to bring relevant posters to stimulate discussion and interaction. Posters will be up all week and available online.)
 
 Day 2 - 20 April 2022
