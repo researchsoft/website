@@ -8,6 +8,6 @@ tiled = true
 display_date = false # Default is false
 summary = true
 background = "light"
-title = "Research Software Alliance - Eventssss"
+title = "Research Software Alliance - Events"
 description = "Events"
 +++
