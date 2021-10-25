@@ -45,10 +45,10 @@ More information on the rationale for the workshop and the draft schedule is ava
 
 There are two ways you can become involved:
 
-* Apply to participate in the workshop, which has a maximum of 55 participants. Participants can attend remotely or in-person. The deadline for submission is Friday 19 November 2021, and all applicants will be advised of the outcome in December. 
+* **[Apply to participate](https://airtable.com/shrMDnjnnFMZRZNMl) in the workshop**, which has a maximum of 55 participants. Participants can attend remotely or in-person. The deadline for submission is Friday 19 November 2021, and all applicants will be advised of the outcome in December. 
 * Sign up to the [ReSA newsletter](https://www.researchsoft.org/news/) to hear more about the online public events from March-May 2022 that will be associated with the workshop, as more details become available.
 
-**Who should apply?**
+**Who should [apply]9https://airtable.com/shrMDnjnnFMZRZNMl)?**
 
 We welcome applications from any of the following, with a preference for individuals working within a technology, software and/or research setting:
 Champions, key influencers and/or leaders of DEI initiatives, be it your team, organisation, region, discipline, etc. Initiatives can range from grassroots or community efforts, to programs by national bodies, funders, research infrastructure providers, etc.
