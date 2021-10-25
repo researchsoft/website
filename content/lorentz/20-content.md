@@ -83,11 +83,13 @@ Aim: Learning from social science approaches to stimulate consideration of the w
 
 Aim: What have we learned so far? What are our next steps?
 
-9:00-10:30 .
+9:00-10:30 Exemplars of successful DEI in the software world.
 
 10:30-11:00 Break
 
-11:00-12:00 The importance of community in research software engineering. 12:00-14:00 Lunch break
+11:00-12:00 The importance of community in research software engineering. 
+
+12:00-14:00 Lunch break
 
 14:00-14:30 Early career researcher experiences of DEI in RSE
 
