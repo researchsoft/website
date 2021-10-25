@@ -12,7 +12,7 @@ This will be a hybrid event with an in-person element from 19-22 April 2022 at t
 
 See the [call for participation](https://www.researchsoft.org/events/2022-04/) for general information and details on how to be involved.
 
-### Importance of this workshop
+### Workshop rationale
 
 Research software engineering is becoming increasingly essential as the role of research software is becoming at once more critical to scientific discovery (Barker et al., 2020), and more difficult to sustain. Research software engineering  combines professional software engineering expertise with an intimate understanding of research, and is critical to achieving open science goals. 
 
