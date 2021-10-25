@@ -19,7 +19,7 @@ Hybrid workshop on reframing research software engineering to place diversity, e
   """
 
 [asset]
-  image = "xx.jpg"
+  image = "myleon-unsplash-collaboration.jpg"
   text = "collaboration"
 +++
 
