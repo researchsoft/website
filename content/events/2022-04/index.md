@@ -50,9 +50,9 @@ There are two ways you can become involved:
 **Who should apply?**
 
 We welcome [applications](https://airtable.com/shrMDnjnnFMZRZNMl) from any of the following, with a preference for individuals working within a technology, software and/or research setting:
-Champions, key influencers and/or leaders of DEI initiatives, be it your team, organisation, region, discipline, etc. Initiatives can range from grassroots or community efforts, to programs by national bodies, funders, research infrastructure providers, etc.
-Champions, key influencers and/or leaders of research software engineering initiatives from across the globe.
-Researchers studying areas such as approaches to improving DEI, impact, challenges, etc.
+* Champions, key influencers and/or leaders of DEI initiatives, be it your team, organisation, region, discipline, etc. Initiatives can range from grassroots or community efforts, to programs by national bodies, funders, research infrastructure providers, etc.
+* Champions, key influencers and/or leaders of research software engineering initiatives from across the globe.
+* Researchers studying areas such as approaches to improving DEI, impact, challenges, etc.
 
 **Lorentz Center information**
 
