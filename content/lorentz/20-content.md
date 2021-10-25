@@ -6,13 +6,13 @@ weight = 20
 background = "white"
 +++
 
-**Vive la differénce - research software engineers**
+## Vive la differénce - research software engineers
 
 This will be a hybrid event with an in-person element from 19-22 April 2022 at the Lorentz Centre in the Netherlands; and online events from March-May 2022 across different time zones. 
 
 See the [call for participation](https://www.researchsoft.org/events/2022-04/) for general information and details on how to be involved.
 
-**Importance of this workshop**
+### Importance of this workshop
 
 Research software engineering is becoming increasingly essential as the role of research software is becoming at once more critical to scientific discovery (Barker et al., 2020), and more difficult to sustain. Research software engineering  combines professional software engineering expertise with an intimate understanding of research, and is critical to achieving open science goals. 
 
@@ -27,7 +27,7 @@ The research software community is well situated to evolve to frame DEI at its c
 
 There are other potential benefits to centering research software engineering on DEI to ensure that publicly funded research supports wider society, such as the critical role that research software engineers could play in avoiding bias in software design that would cause negative social repercussions, such as on questions of algorithmic bias and data ownership
 
-**Schedule**
+### Schedule
 
 Note: There will also be an online program for workshop particpants, and some public events.
 
