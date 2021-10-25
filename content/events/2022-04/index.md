@@ -47,9 +47,9 @@ There are two ways you can become involved:
 * **[Apply to participate](https://airtable.com/shrMDnjnnFMZRZNMl) in the workshop**, which has a maximum of 55 participants. Participants can attend remotely or in-person. The deadline for submission is **Friday 19 November 2021**, and all applicants will be advised of the outcome in December.
 * Sign up to the [ReSA newsletter](https://www.researchsoft.org/news/) to hear more about the online public events from March-May 2022 that will be associated with the workshop, as more details become available.
 
-**Who should apply?**
+**Who should [apply](https://airtable.com/shrMDnjnnFMZRZNMl)?**
 
-[We welcome applications](https://airtable.com/shrMDnjnnFMZRZNMl) from any of the following, with a preference for individuals working within a technology, software and/or research setting:
+We welcome applicationsfrom any of the following, with a preference for individuals working within a technology, software and/or research setting:
 Champions, key influencers and/or leaders of DEI initiatives, be it your team, organisation, region, discipline, etc. Initiatives can range from grassroots or community efforts, to programs by national bodies, funders, research infrastructure providers, etc.
 Champions, key influencers and/or leaders of research software engineering initiatives from across the globe.
 Researchers studying areas such as approaches to improving DEI, impact, challenges, etc.
