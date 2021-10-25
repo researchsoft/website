@@ -39,6 +39,7 @@ The workshop aims to:
 5. Bring together representatives of the increasing array of different types of organisations and initiatives in this space, as enabling more alignment and networks between these has the potential to create the critical mass needed for some outcomes. These will include national RSE associations; DEI initiatives in RSE/data science; open source software; and industry. 
 
 **How to get involved**
+
 There are two ways you can become involved:
 
 * Apply to participate in the workshop, which has a maximum of 55 participants. Participants can attend remotely or in-person. The deadline for submission is Friday 19 November 2021, and all applicants will be advised of the outcome in December. 
