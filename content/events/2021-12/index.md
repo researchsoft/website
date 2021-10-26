@@ -29,7 +29,7 @@ As part of the creation of the People Roadmap, 28 organisations, community initi
 
 ReSA will host two webinars to further discuss this work. Registration is free, and recordings will be available afterwards:
 
-* Session 1: 8 December, 20:30 UTC (convert to [your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ReSA+People+Roadmap&iso=20211208T2030&p1=%3A&ah=1)). [Register in advance for this meeting](https://us02web.zoom.us/meeting/register/tZctcu6qqjIoHd0r709cKVt3s_4y_CRnzeQF)
-* Session 2 (repeat session): 9 December, 09:00 UTC (convert to [your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ReSA+People+Roamap&iso=20211209T09&ah=1)). [Register in advance for this meeting](https://us02web.zoom.us/meeting/register/tZMtdOGopz8uGNHcuFbjeHJsu1cIg8nK1_0Y)
+* Session 1: 8 December, 20:30 UTC (convert to [your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ReSA+People+Roadmap&iso=20211208T2030&p1=%3A&ah=1)). [Register for this meeting](https://us02web.zoom.us/meeting/register/tZctcu6qqjIoHd0r709cKVt3s_4y_CRnzeQF) (free)
+* Session 2 (repeat session): 9 December, 09:00 UTC (convert to [your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ReSA+People+Roamap&iso=20211209T09&ah=1)). [Register for this meeting](https://us02web.zoom.us/meeting/register/tZMtdOGopz8uGNHcuFbjeHJsu1cIg8nK1_0Y) (free)
 
 Photo by <a href="https://unsplash.com/@surface?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Surface</a> on <a href="https://unsplash.com/s/photos/presentation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
