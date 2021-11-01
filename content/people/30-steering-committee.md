@@ -16,7 +16,7 @@ title = "Steering Committee"
 
 **Neil Chue Hong**, Director, Software Sustainability Institute, University of Edinburgh, UK
 
-**Mark Leggott**, Executive Director of Research Data Canada 
+**Mark Leggott**, Director of International Relations, Digital Research Alliance of Canada
 
 **Eva Mendez**, Associate Professor, Universidad Carlos III de Madrid, Spain
 
