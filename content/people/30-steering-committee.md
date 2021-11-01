@@ -14,7 +14,7 @@ title = "Steering Committee"
 
 **Joris van Eijnatten**, General Director, Netherlands eScience Center, Netherlands
 
-**Neil Chue Hong**, Director - Software Sustainability Institute, University of Edinburgh, UK
+**Neil Chue Hong**, Director, Software Sustainability Institute, University of Edinburgh, UK
 
 **Mark Leggott**, Executive Director of Research Data Canada 
 
