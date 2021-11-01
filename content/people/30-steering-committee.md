@@ -12,8 +12,6 @@ title = "Steering Committee"
 
 **Juan Bicarregui**, Head of the Data Division, Scientific Computing Department, Science and Technology Facilities Council, UK
 
-**Joris van Eijnatten**, General Director, Netherlands eScience Center, Netherlands
-
 **Neil Chue Hong**, Director, Software Sustainability Institute, University of Edinburgh, UK
 
 **Mark Leggott**, Director of International Relations, Digital Research Alliance of Canada
@@ -23,6 +21,8 @@ title = "Steering Committee"
 **Chris Mentzel**, Executive Director, Data Sciences, Stanford Data Science Initiative, Stanford University, USA
 
 **Andrew Treloar**, Director,  Platforms and Software, Australian Research Data Commons, Australia
+
+**Joris van Eijnatten**, General Director, Netherlands eScience Center, Netherlands
 
 **Lou Woodley**, Director, Center for Scientific Collaboration and Community Engagement, UK 
 
