@@ -55,12 +55,6 @@ googleAnalytics = "G-P9VQSP6L49"
   weight = 42
 
 [[menu.main]]
-  parent = "/resa-resources"
-  name = "Lorentz"
-  url = "/lorentz"
-  weight = 43
-
-[[menu.main]]
   url = "/news"
   name = "News"
   weight = 50
