@@ -20,6 +20,10 @@ date = "2020-03-11"
   * URSSI [blog post](https://urssi.us/blog/2020/03/11/the-research-software-alliance-resa-and-the-community-landscape/)
   * Netherlands eScience Center [blog post](https://blog.esciencecenter.nl/the-research-software-alliance-resa-and-the-community-landscape-9b8a6290ebb3)
   * US RSE [blog post](https://us-rse.org/blog/2020/urssi-us/the-research-software-alliance-resa-and-the-community-landscape/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [Check the ReSA past Newsletters](/news)
+  * [Check ReSA resources](/resa-resources)
+  * [Contact us](/contact)
   """
 
 [asset]
@@ -89,9 +93,4 @@ The ever-growing number of constituents of the research software community both 
 
 ReSA aims to coordinate across these efforts to leverage investments, to achieve the shared long-term goal of research software valued as a fundamental and vital component of research worldwide. Subscribe to the [ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2) to stay up-to-date on our activities.
 
-[Sign up for our mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-[Check out our Newsletters](/news)
-[Check out our](/resources)
-[Contact us](/contact)
-
-Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft).
+_Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
