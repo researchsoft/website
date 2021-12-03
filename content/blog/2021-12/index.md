@@ -8,7 +8,7 @@ title = "Second Post"
 title_align = "left"
 
 display_date = true
-date = "2021-10-01"
+date = "2021-12-10"
 
 summary = """
 This is the summary of the post
