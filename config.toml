@@ -64,6 +64,11 @@ googleAnalytics = "G-P9VQSP6L49"
   name = "Events"
   weight = 60
 
+[[menu.main]]
+    url = "/blog"
+    name = "Blog"
+    weight = 70
+
 [[menu.footer_social]]
   weight = 20
   name = "twitter"
