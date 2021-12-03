@@ -9,7 +9,6 @@ summary = true
 background = "dark"
 title = "Latest Posts"
 count = 4 # Default value is 10
-section = "syna/example/blog"
 collapsible = true # Default value is false
 subsections = true # Default to true. Shows subsection branch pages
 subsection_leaves = true # Default to false. Shows subsection leaf pages
