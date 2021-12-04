@@ -16,10 +16,10 @@ Membership is open to any initiative that funds research software and is free to
 
 The Research Software Funders Forum aims to provide a formal mechanism to increase:
 
-Sharing of funding practices for research software and the people that develop and maintain it, and learning about those practices, to encourage reflection and advancement.
-Consideration of how to address key research software community challenges, both technical and social (such as diversity, equity and inclusivity) to achieve the significant cultural change needed across the research sector globally.
-Expansion of networks to increase sense of community and identification of collaboration opportunities.
-Consideration of opportunities to achieve long-term sustainability for research software, especially those that are part of key global infrastructures.
+- Sharing of funding practices for research software and the people that develop and maintain it, and learning about those practices, to encourage reflection and advancement.
+- Consideration of how to address key research software community challenges, both technical and social (such as diversity, equity and inclusivity) to achieve the significant cultural change needed across the research sector globally.
+- Expansion of networks to increase sense of community and identification of collaboration opportunities.
+- Consideration of opportunities to achieve long-term sustainability for research software, especially those that are part of key global infrastructures.
 
 The Funders Forum is supported by the [Alfred P. Sloan Foundation](https://sloan.org/).
 
