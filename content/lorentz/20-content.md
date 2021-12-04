@@ -10,7 +10,7 @@ background = "white"
 
 This will be a hybrid event with an in-person element from 19-22 April 2022 at the Lorentz Centre in the Netherlands; and online events from March-May 2022 across different time zones. 
 
-See the [call for participation](https://www.researchsoft.org/events/2022-04/) for general information and details on how to be involved.
+See the [event page](https://www.researchsoft.org/events/2022-04/ for general information and details on how to be involved.
 
 ### Workshop rationale
 
