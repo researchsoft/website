@@ -17,7 +17,7 @@ ReSA outputs can provide useful references to support recognition and valuing of
 * [RDA COVID-19 Guidelines and Recommendations](https://doi.org/10.15497/rda00052) contains a software chapter coordinated by ReSA that provides guidelines to policy makers, funders, publishers, and the research community responding to COVID-19.
 * ReSA's [task force on evidence for the importance of research software](https://www.researchsoft.org/taskforces/) collected evidence about the importance of software in research. An analysis of these resources is available in this [blog](https://zenodo.org/record/3884311#.Xt7-NvJS-lM) to provide information for sharing with key influencers.
 
-## Research Software
+## Evidence for the importance of research software
 
 The significant role that software plays in research has been identified in a range of surveys and studies that include the following:
 
