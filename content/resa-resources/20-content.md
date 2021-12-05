@@ -9,7 +9,7 @@ background = "white"
 
 ## ReSA Outputs
 
-ReSA outputs can provide useful references to support recognition and valuing of research software as a key component of research. Recent items include
+ReSA outputs can provide useful references to support recognition and valuing of research software as a key component of research. Recent items include:
 
 * [FAIR Principles for Research Software](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs) - draft recommendation for final community review in July 2021.
 * [Software landscape analysis blog](https://doi.org/10.5281/zenodo.3699950) posted by [URSSI](http://urssi.us/blog/2020/03/11/the-research-software-alliance-resa-and-the-community-landscape/), [SSI](http://urssi.us/blog/2020/03/11/the-research-software-alliance-resa-and-the-community-landscape/) and [Netherlands eScience Center](https://blog.esciencecenter.nl/the-research-software-alliance-resa-and-the-community-landscape-9b8a6290ebb3) in March 2020.
