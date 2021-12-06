@@ -15,13 +15,13 @@ date = "2020-06-08"
   align = "right"
   #sticky = true # Default is false
   content = """
-  * Evidence for the importance of research software, Zenodo [https://zenodo.org/record/3884311](https://zenodo.org/record/3884311)
+  * [Evidence for the importance of research software](https://zenodo.org/record/3884311)
+  * NLeSC [blog post](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3)
   * SSI [blog post](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software)
   * URSSI [blog post](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/)
-  * Netherlands eScience Center [blog post](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [Check the ReSA past Newsletters](/news)
-  * [Check ReSA resources](/resa-resources)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
   * [Contact us](/contact)
   """
 
@@ -30,7 +30,9 @@ date = "2020-06-08"
   text = "Black hole"
 +++
 
-Cross-posted on 8 June 2020 by [The software Sustainability Institute (SSI), UK](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software),
+[DOI: 10.5281/zenodo.3884311](https://zenodo.org/record/3884311)
+
+ross-posted on 8 June 2020 by [The software Sustainability Institute (SSI), UK](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software),
 [The Netherlands eScience Centre, NL](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3) and [URSSI, US](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/)
 
 Photo from <a href="https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/Black_hole#/media/File:Black_hole_-_Messier_87.jpg">Wikimedia</a>
