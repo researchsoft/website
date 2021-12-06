@@ -32,8 +32,8 @@ date = "2020-06-08"
 
 [DOI: 10.5281/zenodo.3884311](https://zenodo.org/record/3884311)
 
-Cross-posted on 8 June 2020 by the [Netherlands eScience Centre, NL](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3), [Software Sustainability Institute (SSI), UK](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software),
- and [US Research Software Sustainability Institute, US](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/)
+Cross-posted on 8 June 2020 by the [Netherlands eScience Centre](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3), [Software Sustainability Institute](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software),
+ and [US Research Software Sustainability Institute](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/)
 
 Photo from <a href="https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/Black_hole#/media/File:Black_hole_-_Messier_87.jpg">Wikimedia</a>
 
