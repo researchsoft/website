@@ -1,11 +1,11 @@
 +++
 fragment = "content"
 weight = 100
-disable = true
 
 title = "People Roadmap Webinar"
 subtitle = "Report update"
 title_align = "left"
+date = "2021-12-06" # will hide the fragment after the date
 
 summary = """
 ReSA will convene two webinars in early December to discuss the outcomes of the People Roadmap Report
