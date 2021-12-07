@@ -24,8 +24,8 @@ This is the summary of the post
   """
 
 [asset]
-  image = "guide.jpg"
-  text = "lantern"
+  image = "light.jpg"
+  text = "Hands together"
 +++
 
 This is my second blog post.
