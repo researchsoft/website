@@ -8,7 +8,7 @@ title = "Research software is essential for research data, so how should governm
 title_align = "left"
 
 display_date = true
-date = "2021-12-07"
+date = "2021-12-09"
 
 [sidebar]
   title = "Important Links"
@@ -21,9 +21,10 @@ date = "2021-12-07"
       * [National landscape analysis](https://www.researchsoft.org/blog/2021-12/#national-landscape-analysis)
       * [Key recommendations from ReSA](https://www.researchsoft.org/blog/2021-12/#key-recommendations-from-resa)
 
-    * Research software is essential for research data, so how should governments respond?. Zenodo. [https://doi.org/10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
-    * SSI [blog post](https://www.software.ac.uk/blog)
-    NLeSC [blog post](https://blog.esciencecenter.nl/)
+  * Research software is essential for research data, so how should governments respond?. Zenodo. [https://doi.org/10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
+  * SSI [blog post](https://www.software.ac.uk/blog)
+  *  NLeSC [blog post](https://blog.esciencecenter.nl/)
+
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
