@@ -1,6 +1,7 @@
 +++
 fragment = "content"
 weight = 100
+hide = true
 
 title = "People Roadmap Webinar"
 subtitle = "Report update"
