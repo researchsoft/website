@@ -13,11 +13,14 @@ date = "2021-12-07"
 [sidebar]
   title = "Important Links"
   align = "right"
-  #sticky = true # Default is false
+  sticky = true # Default is false
   content = """
   * Barker, Michelle, Chue Hong, Neil P., Katz, Daniel S., Leggott, Mark, Treloar, Andrew, van Eijnatten, Joris, & Aragon, Selina. (2021). Research software is essential for research data, so how should governments respond?. Zenodo. [https://doi.org/10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
   * SSI [blog post](https://www.software.ac.uk/blog)
   NLeSC [blog post](https://blog.esciencecenter.nl/)
+  * Countries mentioned
+      * [Australia](https://www.researchsoft.org/blog/2021-12/#australia)
+      * [United States of America](https://www.researchsoft.org/blog/2021-12/#usa)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
@@ -58,7 +61,7 @@ The OECD Council recommends fostering (and requiring where appropriate) the adop
 
 In the same vein, the UNESCO [Recommendation on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation) was unanimously adopted by member states in November 2021. This recommendation defines open scientific knowledge as:
 
-  >> open access to scientific publications, research data, metadata, open educational resources, software, and source code and hardware that are available in the public domain or under copyright and licensed under an open licence.
+  > _open access to scientific publications, research data, metadata, open educational resources, software, and source code and hardware that are available in the public domain or under copyright and licensed under an open licence_.
 
 In particular, the recommendation argues for users to gain free access to open source software and source code in a timely and user-friendly manner, in human- and machine-readable and modiﬁable format, under an open licence. The source code must be included in the software release and made available on openly accessible repositories, and the chosen licence must allow modiﬁcations, derivative works and sharing under equal or compatible open terms and conditions.
 
@@ -77,6 +80,7 @@ ReSA’s activities influencing policy development emphasise three key recommend
 ## National landscape analysis
 
 While these changes in international policy are valuable steps forward, policy at other levels must also keep step. But how can national policy be improved, and which countries are leading this work? Already in 2021, there has been a range of important national policy initiatives and programs supporting research software:
+
 ### Australia
 The Australian Research Data Commons (ARDC) is a nationally funded digital research infrastructure initiative whose stated purpose is to provide Australian researchers with competitive advantage through data. In 2020 the ARDC recognised that [research software was an essential element to a research data commons](https://ardc.edu.au/resources/working-with-research-software/) and began to increase its investment in this area.
 
