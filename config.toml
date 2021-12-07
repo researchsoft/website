@@ -22,19 +22,26 @@ googleAnalytics = "G-P9VQSP6L49"
     secondary = "darkorange"
 
 [[menu.main]]
+  identifier = "/about-resa"
   url = "/about-resa"
   name = "About"
   weight = 10
 
 [[menu.main]]
+  parent = "/about-resa"
   url = "/people"
   name = "People"
-  weight = 20
+  weight = 11
 
 [[menu.main]]
   url = "/taskforces"
   name = "Task forces"
-  weight = 30
+  weight = 20
+
+  [[menu.main]]
+    url = "/funders-forum"
+    name = "Funders forum"
+    weight = 30
 
 [[menu.main]]
   identifier = "/resa-resources"
