@@ -18,9 +18,11 @@ date = "2021-12-07"
   * Barker, Michelle, Chue Hong, Neil P., Katz, Daniel S., Leggott, Mark, Treloar, Andrew, van Eijnatten, Joris, & Aragon, Selina. (2021). Research software is essential for research data, so how should governments respond?. Zenodo. [https://doi.org/10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
   * SSI [blog post](https://www.software.ac.uk/blog)
   NLeSC [blog post](https://blog.esciencecenter.nl/)
-  * Countries mentioned
-      * [Australia](https://www.researchsoft.org/blog/2021-12/#australia)
-      * [United States of America](https://www.researchsoft.org/blog/2021-12/#usa)
+  * Content
+      * [International adoption](https://www.researchsoft.org/blog/2021-12/# international-adoption)
+      * [National landscape analysis](https://www.researchsoft.org/blog/2021-12/#national-landscape-analysis)
+      * [Key recommendations from ReSA](https://www.researchsoft.org/blog/2021-12/#key-recommendations-from-resa)
+
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
@@ -85,31 +87,41 @@ While these changes in international policy are valuable steps forward, policy a
 The Australian Research Data Commons (ARDC) is a nationally funded digital research infrastructure initiative whose stated purpose is to provide Australian researchers with competitive advantage through data. In 2020 the ARDC recognised that [research software was an essential element to a research data commons](https://ardc.edu.au/resources/working-with-research-software/) and began to increase its investment in this area.
 
 In 2021, a draft [national research software agenda](https://ardc.edu.au/collaborations/strategic-activities/a-research-software-agenda-for-australia/), which undertook an extensive program of consultation, was released. This resulted in a detailed implementation plan that commenced in the latter half of 2021 and will continue in 2022 and 2023. ARDC staff also contributed to the development of the [FAIR for Research Software (FAIR4RS) Principles](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg), and a plan for how to apply these principles to all of the activities of the ARDC is currently being developed ahead of internal implementation. This self-adoption approach will enable the ARDC to both test and advocate for the application of these principles nationally.  
+
 ### Canada
+
 Canada’s activities in the open science context are emerging from a number of key national actors, including funders and federal research agencies. The Office of the Chief Science Advisor released the [Open Science Roadmap](https://www.ic.gc.ca/eic/site/063.nsf/eng/h_97992.html) in February 2020, and, while it is focused on federal science, it provides a useful process and model for others in the Canadian research community.
 
 The [Digital Research Alliance of Canada](https://engagedri.ca/) (the “Alliance”, formerly NDRIO), a new national organisation funded to support research data management, research software, and advanced research computing in a more cohesive and integrated way, is working on a policy framework that will include key elements of an open science approach, starting with its [initial funding opportunities](https://engagedri.ca/funding-opportunities), and including alignment with principles such as FAIR, FAIR4RS, and [CARE](https://www.gida-global.org/care) (Collective benefit, Authority to control, Responsibility, Ethics). The Alliance’s Research Software Position Paper and Strategic Plan (both to be released soon) will include support for open science through a number of initiatives that have emerged from a comprehensive needs assessment, including:
 
 1. Support the development of tools and underlying infrastructure for the evaluation of the adoption of open science practices within research communities.
 1. Promote the impact and value of research software to facilitate culture change in the adoption of open science practices.  
+
 ### European Union
+
 The European Open Science Cloud (EOSC) has convened a [Task Force on Infrastructure for Quality Research Software](https://www.eosc.eu/sites/default/files/tfcharters/eosca_tfinfrastructureforqualityresearchsoftware_draftcharter_20210614.pdf). The main objectives of this task force are to:
 
 1. Foster the development and deployment of tools and services that allow researchers to properly archive, reference, describe with proper metadata, share and reuse research software.
 1. Improve the quality of research software, both from the technical and organisational point of view for research software in general and in particular the software used in the services offered through EOSC.
 1. Increase recognition to software developers and maintainers of research software as a valuable research result, on a par with publications and data, in the open science landscape.
+
 ### France
+
 The [Second French Plan for Open Science](https://www.ouvrirlascience.fr/second-national-plan-for-open-science/), as [summarised](https://www.rd-alliance.org/group/software-source-code-ig-rdaforce11-software-source-code-identification-wg-cure-fair-wg-fair-3) by Roberto Di Cosmo (Director, Software Heritage), squarely puts software on a par with publications and data in research and open science, and announces a number of measures designed to open research software and better recognise software development in research. This includes:
 
 - A clear recommendation to make research software available under an open source licence, unless there are clear strong reasons not to do so.
 - The creation of a high level expert group dedicated to research software in the National Committee for Open Science.
 - The objective to achieve better recognition of software development in career evaluation for researchers and engineers.
 - A renewed and strengthened official support of Software Heritage, with a recommendation to [archive](https://www.softwareheritage.org/howto-archive-and-reference-your-code/) in it all research software produced in France.
+
 ### Netherlands
+
 Key organisations in the Netherlands recognise the crucial importance of software to the research ecosystem. The 2021 [National Roadmap for Large-Scale Research Facilities](https://www.nwo.nl/en/researchprogrammes/national-roadmap-large-scale-research-facilities) published by the Dutch Research Council (NWO) has made FAIR, sustainable software and a software management plan conditional to receiving funding. Software is central to the funding the NWO has made available for developing ‘digital competence centres’ as part of the national roadmap, and the NWO has set up an [open science](https://www.nwo.nl/en/open-science) team to push this agenda.
 
 Established in 2012 by the NWO and [SURF](https://www.surf.nl/en) (the nationally funded ICT service provider) as a national research organisation specifically mandated to pioneer software in direct collaboration with researchers, the Netherlands eScience Center takes a pivotal position in raising awareness about research software in the Netherlands. Among other things, the eScience Center has been involved in the development of the [FAIR4RS Principles](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg) and the[ GitHub software citation tool](https://github.com/citation-file-format/citation-file-format/blob/1.2.0/schema.json), setting up the[ recommendations for the FAIR software website](https://fair-software.nl/), and initiating and supporting the [NL-Research Software Engineering](https://nl-rse.org/) (RSE) network. It establishes clear requirements regarding open science, software sustainability and institutional commitment to software in all its collaborations with research partners.
+
 ### United Kingdom
+
 Software is seen as a key strength of the UK’s research portfolio, and the development, support and sharing of it essential to making advances in computational research. The Government Office for Science’s report on [Large-scale computing: the case for greater UK coordination](https://www.gov.uk/government/news/coordinating-the-uks-large-scale-computing-ecosystem) recognises that “high-quality software is fundamental to realising the benefits of investments in computing” and recommends “software development must keep pace with advances in hardware” noting that:
 
 In academia, testing, sharing, and archiving of software should become an essential part of the research process, ensuring that scientific results can be replicated. New computing architectures will necessitate considerable reengineering of software.
@@ -121,7 +133,9 @@ take specific actions to increase the UK capacity in mathematical and computatio
 While the UK Research and Innovation/Meteorological Office [ExCALIBUR Research Software Engineer Knowledge Integration Landscape Review](https://doi.org/10.5281/zenodo.4986061) notes that:
 
 [a] software programme should ensure that it encompasses a variety of different types of software activity and ensure they are contributing to developing the RSE community with High Performance Computing skills in the UK.
+
 ### USA
+
 While there haven’t been any completely new funding programs in the US in 2021, it appears that awareness of research software as a valued product continues to increase. Some cases have followed the lead of private US philanthropies such as the Alfred P. Sloan Foundation's [Better Software for Science program](https://sloan.org/programs/digital-technology/better-software-for-science) and the Chan Zuckerberg Initiative's [Essential Open Source Software for Science program](https://chanzuckerberg.com/eoss/). Others have continued and grown existing federal programs, such as the NSF's [Cyberinfrastructure for Sustained Scientific Innovation (CSSI)](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21617) program, which has added a new type of award in its 2021 cycle called transition to sustainability, and the Department of Energy's (DoE) support for the [Interoperable Design of Extreme-scale Application Software (IDEAS) projects](https://ideas-productivity.org/), as well as other significant software investments in its [Exascale Computing Project](https://www.exascaleproject.org/).
 
 On the policy side, the new National Academies report on [Next Generation Earth Systems Science at the National Science Foundation](https://www.nationalacademies.org/news/2021/09/national-science-foundation-should-create-next-generation-earth-systems-science-initiative-new-report-says) publicises the need for research software and RSEs:
