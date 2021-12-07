@@ -58,7 +58,7 @@ The OECD Council recommends fostering (and requiring where appropriate) the adop
 
 In the same vein, the UNESCO [Recommendation on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation) was unanimously adopted by member states in November 2021. This recommendation defines open scientific knowledge as:
 
-    open access to scientific publications, research data, metadata, open educational resources, software, and source code and hardware that are available in the public domain or under copyright and licensed under an open licence.
+  > open access to scientific publications, research data, metadata, open educational resources, software, and source code and hardware that are available in the public domain or under copyright and licensed under an open licence.
 
 In particular, the recommendation argues for users to gain free access to open source software and source code in a timely and user-friendly manner, in human- and machine-readable and modiﬁable format, under an open licence. The source code must be included in the software release and made available on openly accessible repositories, and the chosen licence must allow modiﬁcations, derivative works and sharing under equal or compatible open terms and conditions.
 
