@@ -1,6 +1,7 @@
 +++
 fragment = "content"
 weight = 100
+disable = true
 
 title = "Vive la differénce - research software engineers"
 subtitle = "Lorentz workshop"

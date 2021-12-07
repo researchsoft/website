@@ -1,7 +1,7 @@
 +++
 fragment = "content"
 weight = 100
-categories = ["Blog", "taskforce"]
+categories = ["Blog", "Task force"]
 
 title = "Evidence for the importance of research software"
 #subtitle = ""

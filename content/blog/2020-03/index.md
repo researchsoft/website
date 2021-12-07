@@ -1,7 +1,7 @@
 +++
 fragment = "content"
 weight = 100
-categories = ["Blog", "taskforce"]
+categories = ["Blog", "Task force"]
 
 title = "The Research Software Alliance (ReSA) and the community landscape"
 #subtitle = ""
