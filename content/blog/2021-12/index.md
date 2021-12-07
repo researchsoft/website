@@ -17,7 +17,7 @@ date = "2021-12-07"
   content = """
 
   * Table of Contents
-      * [International adoption](https://www.researchsoft.org/blog/2021-12/# international-adoption)
+      * [International adoption](https://www.researchsoft.org/blog/2021-12/#international-adoption)
       * [National landscape analysis](https://www.researchsoft.org/blog/2021-12/#national-landscape-analysis)
       * [Key recommendations from ReSA](https://www.researchsoft.org/blog/2021-12/#key-recommendations-from-resa)
 
@@ -35,11 +35,11 @@ date = "2021-12-07"
   text = "Team thinking together as a diverse group of people coming together joining hands into the shape of an inspirational light bulb 3D elements"
 +++
 
+Image obtained via the SSI from <a href="https://www.shutterstock.com/image-illustration/team-thinking-together-diverse-group-people-1553419640">lightspring on Shutterstock</a>.
+
+Cross-posted on 9 December 2021 by the [Netherlands eScience Centre](https://blog.esciencecenter.nl/) and the [Software Sustainability Institute](https://www.software.ac.uk/blog/).
+
 [DOI: 10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
-
-Cross-posted on 9 December 2021 by the [Netherlands eScience Centre](https://blog.esciencecenter.nl/) and the [Software Sustainability Institute](https://www.software.ac.uk/blog/)
-
-Image bought from <a href="https://www.shutterstock.com/image-illustration/team-thinking-together-diverse-group-people-1553419640">lightspring on Shutterstock</a>
 
 Research software is essential for research data, so how should governments respond?
 -----------------------------------------------------------------
@@ -64,7 +64,7 @@ The OECD Council recommends fostering (and requiring where appropriate) the adop
 
 In the same vein, the UNESCO [Recommendation on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation) was unanimously adopted by member states in November 2021. This recommendation defines open scientific knowledge as:
 
-  >>> _open access to scientific publications, research data, metadata, open educational resources, software, and source code and hardware that are available in the public domain or under copyright and licensed under an open licence_.
+  <span style="font-family:Arial; font-size:12px;">open access to scientific publications, research data, metadata, open educational resources, software, and source code and hardware that are available in the public domain or under copyright and licensed under an open licence.</span>
 
 In particular, the recommendation argues for users to gain free access to open source software and source code in a timely and user-friendly manner, in human- and machine-readable and modiﬁable format, under an open licence. The source code must be included in the software release and made available on openly accessible repositories, and the chosen licence must allow modiﬁcations, derivative works and sharing under equal or compatible open terms and conditions.
 
@@ -85,6 +85,7 @@ ReSA’s activities influencing policy development emphasise three key recommend
 While these changes in international policy are valuable steps forward, policy at other levels must also keep step. But how can national policy be improved, and which countries are leading this work? Already in 2021, there has been a range of important national policy initiatives and programs supporting research software:
 
 ### Australia
+
 The Australian Research Data Commons (ARDC) is a nationally funded digital research infrastructure initiative whose stated purpose is to provide Australian researchers with competitive advantage through data. In 2020 the ARDC recognised that [research software was an essential element to a research data commons](https://ardc.edu.au/resources/working-with-research-software/) and began to increase its investment in this area.
 
 In 2021, a draft [national research software agenda](https://ardc.edu.au/collaborations/strategic-activities/a-research-software-agenda-for-australia/), which undertook an extensive program of consultation, was released. This resulted in a detailed implementation plan that commenced in the latter half of 2021 and will continue in 2022 and 2023. ARDC staff also contributed to the development of the [FAIR for Research Software (FAIR4RS) Principles](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg), and a plan for how to apply these principles to all of the activities of the ARDC is currently being developed ahead of internal implementation. This self-adoption approach will enable the ARDC to both test and advocate for the application of these principles nationally.  
@@ -125,15 +126,15 @@ Established in 2012 by the NWO and [SURF](https://www.surf.nl/en) (the nationall
 
 Software is seen as a key strength of the UK’s research portfolio, and the development, support and sharing of it essential to making advances in computational research. The Government Office for Science’s report on [Large-scale computing: the case for greater UK coordination](https://www.gov.uk/government/news/coordinating-the-uks-large-scale-computing-ecosystem) recognises that “high-quality software is fundamental to realising the benefits of investments in computing” and recommends “software development must keep pace with advances in hardware” noting that:
 
-In academia, testing, sharing, and archiving of software should become an essential part of the research process, ensuring that scientific results can be replicated. New computing architectures will necessitate considerable reengineering of software.
+  > In academia, testing, sharing, and archiving of software should become an essential part of the research process, ensuring that scientific results can be replicated. New computing architectures will necessitate considerable reengineering of software.
 
 Recent reviews commissioned by individual research funders have echoed this. UKRI-BBSRC’s [Review of Data Intensive Bioscience](https://www.ukri.org/news/bbsrc-publishes-review-of-data-intensive-bioscience/) recommends that UKRI-BBSRC should
 
-take specific actions to increase the UK capacity in mathematical and computational skills within the biosciences” and “significantly increase its investment in provision of high-quality software and data resources for the research community.
+  > take specific actions to increase the UK capacity in mathematical and computational skills within the biosciences” and “significantly increase its investment in provision of high-quality software and data resources for the research community.
 
 While the UK Research and Innovation/Meteorological Office [ExCALIBUR Research Software Engineer Knowledge Integration Landscape Review](https://doi.org/10.5281/zenodo.4986061) notes that:
 
-[a] software programme should ensure that it encompasses a variety of different types of software activity and ensure they are contributing to developing the RSE community with High Performance Computing skills in the UK.
+  > [a] software programme should ensure that it encompasses a variety of different types of software activity and ensure they are contributing to developing the RSE community with High Performance Computing skills in the UK.
 
 ### USA
 
@@ -141,11 +142,11 @@ While there haven’t been any completely new funding programs in the US in 2021
 
 On the policy side, the new National Academies report on [Next Generation Earth Systems Science at the National Science Foundation](https://www.nationalacademies.org/news/2021/09/national-science-foundation-should-create-next-generation-earth-systems-science-initiative-new-report-says) publicises the need for research software and RSEs:
 
-Computing in Earth systems science is changing rapidly. Increased complexity and new programming methods and models mean many research teams need a research software engineer, yet NSF computing resources are already stretched thin. NSF should expand computing resources such as hardware, software, data analytics, and a skilled workforce to harness the computational revolution for the benefit of Earth systems science.
+  > Computing in Earth systems science is changing rapidly. Increased complexity and new programming methods and models mean many research teams need a research software engineer, yet NSF computing resources are already stretched thin. NSF should expand computing resources such as hardware, software, data analytics, and a skilled workforce to harness the computational revolution for the benefit of Earth systems science.
 
 The Department of Energy also has recently issued a [Request for Information](https://www.govinfo.gov/content/pkg/FR-2021-10-29/html/2021-23582.htm):
 
-seeking feedback from industry, academia, research laboratories, government agencies, and other stakeholders on issues related to the stewardship of software for scientific and high-performance computing. Scientific software stewardship is multi-faceted, potentially including but not limited to training and workforce support, infrastructure and curation, and shared engineering resources and project support.
+  > seeking feedback from industry, academia, research laboratories, government agencies, and other stakeholders on issues related to the stewardship of software for scientific and high-performance computing. Scientific software stewardship is multi-faceted, potentially including but not limited to training and workforce support, infrastructure and curation, and shared engineering resources and project support.
 
 ## Key recommendations from ReSA
 
@@ -158,3 +159,5 @@ To advance this agenda across the research community as a whole requires both po
 ReSA aims to establish collaborations that  support this work, including the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/). This collaboration of organisations that are committed to supporting research software, and those who develop it, will convene in early 2022 with investment from the [Alfred](https://sloan.org/programs/digital-technology/better-software-for-science)[ P. Sloan Foundation](https://sloan.org/programs/digital-technology/better-software-for-science). The Forum will create a formal mechanism to share funding practices, learn from each other, and propose methods to better tackle common challenges such as resourcing for maintenance of research software investments.
 
 ReSA encourages national governments to review their policies and implementation strategies in light of OECD, UNESCO, and ReSA recommendations. To support the work of individual countries, a more detailed analysis of how a range of countries are progressing should also be undertaken, based on a framework such as the maturity matrix that [Science Europe](https://www.scienceeurope.org/media/b3odxx3s/se-practical-guide-sustainable-research-data.pdf) uses to assess the sustainability of the research data initiatives. This could provide organisations such as OECD and UNESCO with evidence of how government policies are implementing their recommendations and identify geographic regions needing additional support.
+
+_Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
