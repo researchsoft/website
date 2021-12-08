@@ -28,8 +28,8 @@ googleAnalytics = "G-P9VQSP6L49"
   
 [[menu.main]]
   parent = "/about-resa"
-  url = "/about-res"
-  name = "Aboout"
+  url = "/about-resa"
+  name = "About"
   weight = 11
 
 [[menu.main]]
