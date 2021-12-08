@@ -1,6 +1,5 @@
 +++
 fragment = "content"
-disabled = false
 date = "2021-12-05"
 weight = 20
 background = "white"
