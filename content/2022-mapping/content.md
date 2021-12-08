@@ -8,7 +8,8 @@ title = "Understanding the research software landscape in the Global South"
 #subtitle = ""
 +++
 
-Are you familiar with the research software initiatives of a geographic region in the Global South, and interested in a few hours of paid work to share that knowledge?
+
+**Are you familiar with the research software initiatives of a geographic region in the Global South, and interested in a few hours of paid work to share that knowledge?**
 
 ReSA is updating its [mapping](https://zenodo.org/record/3699950) of the research software community and is seeking short-term contractors who can assist with profiling countries in the Global South. This could include listing of research software initiatives, events, funders, and a short contextual narrative. It is anticipated that this work could be undertaken completely via online research. Contractors will be remunerated up to USD$750 to complete approximately 2 days work by mid-February 2022. Contractors will ideally be located in the geographic area that they will review, or have previously resided there. 
 
