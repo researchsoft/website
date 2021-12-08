@@ -4,6 +4,9 @@ disabled = false
 date = "2021-12-05"
 weight = 20
 background = "white"
+
+title = "Understanding the research software landscape in the Global South"
+#subtitle = ""
 +++
 
 ## Expressions of interest
