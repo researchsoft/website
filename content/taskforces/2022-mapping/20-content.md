@@ -6,7 +6,6 @@ weight = 20
 background = "white"
 +++
 
-
 ## Expressions of interest
 
 Are you familiar with the research software initiatives of a geographic region in the Global South, and interested in a few hours of paid work to share that knowledge?
