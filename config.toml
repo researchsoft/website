@@ -23,15 +23,20 @@ googleAnalytics = "G-P9VQSP6L49"
 
 [[menu.main]]
   identifier = "/about-resa"
-  url = "/about-resa"
   name = "About"
   weight = 10
+  
+[[menu.main]]
+  parent = "/about-resa"
+  url = "/about-res"
+  name = "Aboout"
+  weight = 11
 
 [[menu.main]]
   parent = "/about-resa"
   url = "/people"
   name = "People"
-  weight = 11
+  weight = 12
 
 [[menu.main]]
   url = "/taskforces"
