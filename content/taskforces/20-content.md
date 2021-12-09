@@ -13,9 +13,7 @@ To deliver on this mission, we invite the ReSA community to join us on ReSA acti
 
 ## Understanding the research software landscape in the Global South
 
-**Are you familiar with the research software initiatives of a geographic region in the Global South, and interested in a few hours of paid work to share that knowledge?**
-
-ReSA is seeking short-term contractors (for 2 days work) who can assist with profiling countries in the Global South. [Read more](https://www.researchsoft.org/2022-mapping/).
+**Are you familiar with the research software initiatives of a geographic region in the Global South, and interested in a few hours of paid work to share that knowledge?** ReSA is seeking short-term contractors (for 2 days work) who can assist with profiling countries in the Global South. [Read more](https://www.researchsoft.org/2022-mapping/).
 
 ## Community consultations
 
