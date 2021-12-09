@@ -36,7 +36,7 @@ date = "2021-12-09"
   text = "Team thinking together as a diverse group of people coming together joining hands into the shape of an inspirational light bulb 3D elements"
 +++
 
-Image obtained via the SSI from <a href="https://www.shutterstock.com/image-illustration/team-thinking-together-diverse-group-people-1553419640">lightspring on Shutterstock</a>.
+Image by [Lightspring](https://www.shutterstock.com/image-illustration/team-thinking-together-diverse-group-people-1553419640) on Shutterstock.
 
 Cross-posted on 9 December 2021 by the [Netherlands eScience Centre](https://blog.esciencecenter.nl/) and the [Software Sustainability Institute](https://software.ac.uk/news/research-software-alliance-calls-governments-improve-research-software-policies).
 
