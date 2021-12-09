@@ -11,6 +11,12 @@ ReSA’s mission is to bring research software communities together to collabora
 
 To deliver on this mission, we invite the ReSA community to join us on ReSA activities stemming from the [ReSA Strategic Plan](https://www.researchsoft.org/documents/Strategic_Plan_2021-23.pdf):
 
+## Understanding the research software landscape in the Global South
+
+**Are you familiar with the research software initiatives of a geographic region in the Global South, and interested in a few hours of paid work to share that knowledge?**
+
+ReSA is seeking short-term contractors (for 2 days work) who can assist with profiling countries in the Global South. [Read more](https://www.researchsoft.org/2022-mapping/).
+
 ## Community consultations
 
 ReSA community consultations facilitate discussions to identify and prioritise challenges across ReSA's three key themes: people, policy and infrastructure. Community consultations are core ReSA activities, enabling the community to collaborate on elucidating how to advance visibility of research software. 
