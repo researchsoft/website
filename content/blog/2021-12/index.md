@@ -38,7 +38,7 @@ date = "2021-12-09"
 
 Image obtained via the SSI from <a href="https://www.shutterstock.com/image-illustration/team-thinking-together-diverse-group-people-1553419640">lightspring on Shutterstock</a>.
 
-Cross-posted on 9 December 2021 by the [Netherlands eScience Centre](https://blog.esciencecenter.nl/) and the [Software Sustainability Institute](https://www.software.ac.uk/blog/).
+Cross-posted on 9 December 2021 by the [Netherlands eScience Centre](https://blog.esciencecenter.nl/) and the [Software Sustainability Institute](https://software.ac.uk/news/research-software-alliance-calls-governments-improve-research-software-policies).
 
 [DOI: 10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
 
