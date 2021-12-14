@@ -65,7 +65,7 @@ The OECD Council recommends fostering (and requiring where appropriate) the adop
 
 In the same vein, the UNESCO [Recommendation on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation) was unanimously adopted by member states in November 2021. This recommendation defines open scientific knowledge as:
 
-  <span style="padding-left: 50px;">open access to scientific publications, research data, metadata, open educational resources, software, and source code and hardware that are available in the public domain or under copyright and licensed under an open licence.</span>
+_open access to scientific publications, research data, metadata, open educational resources, software, and source code and hardware that are available in the public domain or under copyright and licensed under an open licence._
 
 In particular, the recommendation argues for users to gain free access to open source software and source code in a timely and user-friendly manner, in human- and machine-readable and modiﬁable format, under an open licence. The source code must be included in the software release and made available on openly accessible repositories, and the chosen licence must allow modiﬁcations, derivative works and sharing under equal or compatible open terms and conditions.
 
@@ -127,15 +127,15 @@ Established in 2012 by the NWO and [SURF](https://www.surf.nl/en) (the nationall
 
 Software is seen as a key strength of the UK’s research portfolio, and the development, support and sharing of it essential to making advances in computational research. The Government Office for Science’s report on [Large-scale computing: the case for greater UK coordination](https://www.gov.uk/government/news/coordinating-the-uks-large-scale-computing-ecosystem) recognises that “high-quality software is fundamental to realising the benefits of investments in computing” and recommends “software development must keep pace with advances in hardware” noting that:
 
-  <span style="padding-left: 50px;">In academia, testing, sharing, and archiving of software should become an essential part of the research process, ensuring that scientific results can be replicated. New computing architectures will necessitate considerable reengineering of software.</span>
+_In academia, testing, sharing, and archiving of software should become an essential part of the research process, ensuring that scientific results can be replicated. New computing architectures will necessitate considerable reengineering of software._
 
 Recent reviews commissioned by individual research funders have echoed this. UKRI-BBSRC’s [Review of Data Intensive Bioscience](https://www.ukri.org/news/bbsrc-publishes-review-of-data-intensive-bioscience/) recommends that UKRI-BBSRC should
 
-  <span style="padding-left: 50px;">take specific actions to increase the UK capacity in mathematical and computational skills within the biosciences” and “significantly increase its investment in provision of high-quality software and data resources for the research community.</span>
+_take specific actions to increase the UK capacity in mathematical and computational skills within the biosciences” and “significantly increase its investment in provision of high-quality software and data resources for the research community._
 
 While the UK Research and Innovation/Meteorological Office [ExCALIBUR Research Software Engineer Knowledge Integration Landscape Review](https://doi.org/10.5281/zenodo.4986061) notes that:
 
-  <span style="padding-left: 50px;">[a] software programme should ensure that it encompasses a variety of different types of software activity and ensure they are contributing to developing the RSE community with High Performance Computing skills in the UK.</span>
+_[a] software programme should ensure that it encompasses a variety of different types of software activity and ensure they are contributing to developing the RSE community with High Performance Computing skills in the UK._
 
 ### USA
 
@@ -143,11 +143,11 @@ While there haven’t been any completely new funding programs in the US in 2021
 
 On the policy side, the new National Academies report on [Next Generation Earth Systems Science at the National Science Foundation](https://www.nationalacademies.org/news/2021/09/national-science-foundation-should-create-next-generation-earth-systems-science-initiative-new-report-says) publicises the need for research software and RSEs:
 
-  <span style="padding-left: 50px;">Computing in Earth systems science is changing rapidly. Increased complexity and new programming methods and models mean many research teams need a research software engineer, yet NSF computing resources are already stretched thin. NSF should expand computing resources such as hardware, software, data analytics, and a skilled workforce to harness the computational revolution for the benefit of Earth systems science.</span>
+_Computing in Earth systems science is changing rapidly. Increased complexity and new programming methods and models mean many research teams need a research software engineer, yet NSF computing resources are already stretched thin. NSF should expand computing resources such as hardware, software, data analytics, and a skilled workforce to harness the computational revolution for the benefit of Earth systems science._
 
 The Department of Energy also has recently issued a [Request for Information](https://www.govinfo.gov/content/pkg/FR-2021-10-29/html/2021-23582.htm):
 
-  <span style="padding-left: 50px;">seeking feedback from industry, academia, research laboratories, government agencies, and other stakeholders on issues related to the stewardship of software for scientific and high-performance computing. Scientific software stewardship is multi-faceted, potentially including but not limited to training and workforce support, infrastructure and curation, and shared engineering resources and project support.</span>
+_seeking feedback from industry, academia, research laboratories, government agencies, and other stakeholders on issues related to the stewardship of software for scientific and high-performance computing. Scientific software stewardship is multi-faceted, potentially including but not limited to training and workforce support, infrastructure and curation, and shared engineering resources and project support._
 
 ## Key recommendations from ReSA
 
