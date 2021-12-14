@@ -22,8 +22,8 @@ date = "2021-12-09"
       * [Key recommendations from ReSA](https://www.researchsoft.org/blog/2021-12/#key-recommendations-from-resa)
 
   * Research software is essential for research data, so how should governments respond?. Zenodo. [https://doi.org/10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
-  * SSI [blog post](https://www.software.ac.uk/blog)
-  *  NLeSC [blog post](https://blog.esciencecenter.nl/)
+  * SSI [news post](https://software.ac.uk/news/research-software-alliance-calls-governments-improve-research-software-policies)
+  *  NLeSC [news post](https://www.esciencecenter.nl/news/research-software-alliance-calls-on-governments-to-improve-research-software-policies/)
 
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
@@ -38,7 +38,7 @@ date = "2021-12-09"
 
 Image by [Lightspring](https://www.shutterstock.com/image-illustration/team-thinking-together-diverse-group-people-1553419640) on Shutterstock.
 
-Cross-posted on 9 December 2021 by the [Netherlands eScience Centre](https://blog.esciencecenter.nl/) and the [Software Sustainability Institute](https://software.ac.uk/news/research-software-alliance-calls-governments-improve-research-software-policies).
+Cross-posted on 9 December 2021 by the [Netherlands eScience Centre](https://www.esciencecenter.nl/news/research-software-alliance-calls-on-governments-to-improve-research-software-policies/) and the [Software Sustainability Institute](https://software.ac.uk/news/research-software-alliance-calls-governments-improve-research-software-policies).
 
 [DOI: 10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
 
