@@ -77,7 +77,7 @@ All complaints will be reviewed and investigated and will result in a response t
 
 In some cases the ReSA Steering Committee may determine that a public statement will need to be made. If that is the case, the identities of all involved parties and reporters will normally remain confidential unless those individuals instruct us otherwise. The ReSA Steering Committee may decide to identify details of code of conduct violators in order to safeguard the community as a whole.
 
-Take care of each other. Alert the [ReSA Steering Committe](mailto:info@researchsoft.org) if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
+Take care of each other. Alert the [ReSA Steering Committee](mailto:info@researchsoft.org) if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
 
 **6. How to Submit a Report**
 
