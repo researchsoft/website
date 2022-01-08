@@ -6,7 +6,7 @@ weight = 20
 background = "white"
 +++
 
-## Vive la differénce - research software engineers
+## Vive la différence - research software engineers
 
 This will be a hybrid event with an in-person element from 19-22 April 2022 at the Lorentz Centre in the Netherlands; and online events from March-May 2022 across different time zones. 
 
