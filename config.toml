@@ -5,6 +5,8 @@ googleAnalytics = "G-P9VQSP6L49"
 languageCode = "en-uk"
 title = "Research Software Alliance"
 theme = "syna"
+enableGitInfo = true
+version = "0.17.3"
 
 [markup]
   [markup.goldmark]
