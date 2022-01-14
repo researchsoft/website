@@ -1,10 +1,10 @@
 baseURL = "/"
+# Google Analytics tracking
+googleAnalytics = "G-P9VQSP6L49"
+
 languageCode = "en-uk"
 title = "Research Software Alliance"
 theme = "syna"
-
-# Google Analytics tracking
-googleAnalytics = "G-P9VQSP6L49"
 
 [markup]
   [markup.goldmark]
