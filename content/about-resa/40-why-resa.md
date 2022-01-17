@@ -10,7 +10,7 @@ title = "Why ReSA?"
 
 +++
 
-[Software is pervasive in modern research](resources/), enabling the generation, analysis and/or presentation of research outputs. Research software is a key driver of innovation and the economy. ReSA focuses on software that is developed to serve a research purpose, rather than the standard software that some researchers also use for research purposes.
+[Software is pervasive in modern research](https://zenodo.org/record/3884311#.YeV3C1hBzJw), enabling the generation, analysis and/or presentation of research outputs. Research software is a key driver of innovation and the economy. ReSA focuses on software that is developed to serve a research purpose, rather than the standard software that some researchers also use for research purposes.
 
 While software has started to be recognised internationally as a key part of facilitating trusted, reproducible research outputs and open science, recognition of research software as a valuable research input and output has lagged behind that of research data.
 
