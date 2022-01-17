@@ -19,7 +19,7 @@ The Research Software Funders Forum aims to provide a formal mechanism to increa
 - Expansion of networks to increase sense of community and identification of collaboration opportunities.
 - Consideration of opportunities to achieve long-term sustainability for research software, especially those that are part of key global infrastructures.
 
-Membership is open to any initiative that funds research software and is free to all participants in 2022. In late 2022 the Funders Forum will review its functioning for 2023, which may include continuing with a free membership model, or transitioning to a paid membership model used by forums such as the [Open Research Funders Group](https://www.orfg.org/). 
+Membership is open to any initiative that funds research software and is free to all participants in 2022. In late 2022 the Funders Forum will review its functioning for 2023, which may include continuing with a free membership model, or transitioning to a paid membership model used by forums such as the [Open Research Funders Group](https://www.orfg.org/). To join please contact[info@researchsoft.org](mailto:info@researchsoft.org).
 
 
 
