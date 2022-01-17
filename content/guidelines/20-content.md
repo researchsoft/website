@@ -37,9 +37,7 @@ recommendations, reports and guidelines that emphasise best practice.
 ## Policy
 
 -   [Evidence for the importance of research software](http://doi.org/10.5281/zenodo.3884311), 2020. This ReSA analysis
-    considers papers relating to meta-research, policy, community,
-    education and training, research breakthroughs and
-    specific software. 
+    considers papers relating to meta-research, policy, community, education and training, research breakthroughs and specific software. 
 
 -   [The top 100 papers](https://www.nature.com/articles/514550a), 2014. 
     Explores the most-cited research of all time to show that the vast majority
@@ -59,8 +57,10 @@ data, and code supported by the US Government.
 -   [The Ecosystem of Technologies for Social Science Research 2020](https://uk.sagepub.com/en-gb/eur/technologies-for-social-science-research).
     Examines the ecosystem of software technologies for social science research. It addresses the challenges facing those who build and use these tools, and looks to the future of technology in social research.
     
+-   [Research software is essential for research data, so how should governments respond?](https://www.researchsoft.org/blog/2021-12/), 2021. This ReSA blog post provides an overview of the current state of international adoption of research software policies and how different countries address these, in order to lay out concrete advice and examples for national governments wishing to update their policies.
+-  
 -   [Six Recommendations for implementation of FAIR practice by the FAIR
-    in practice task force of the European open science cloud FAIR
+    in practice task force of the European Open Science Cloud FAIR
     working
     group](https://doi.org/10.2777/986252), 2020.
     This report analyses the state of FAIR practices within diverse research communities and FAIR-related policies in different countries and offers six practical recommendations on how FAIR can be turned into practice. It includes a separate section details FAIR practice for digital objects other
