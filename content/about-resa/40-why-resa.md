@@ -14,4 +14,4 @@ title = "Why ReSA?"
 
 While software has started to be recognised internationally as a key part of facilitating trusted, reproducible research outputs and open science, recognition of research software as a valuable research input and output has lagged behind that of research data.
 
-A lot still needs to be done to influence culture change towards research software across a broad spectrum of stakeholders, including researchers, institutions, funders, and publishers, and to develop and promote standards for developing research software that meets the needs of reliable, reproducible, and reusable research.
+Significatn effort is still needed to influence culture change towards research software across a broad spectrum of stakeholders, including researchers, institutions, funders, and publishers, and to develop and promote standards for developing research software that meets the needs of reliable, reproducible, and reusable research.
