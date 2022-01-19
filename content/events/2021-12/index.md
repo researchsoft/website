@@ -9,6 +9,7 @@ subtitle = "Report update"
 title_align = "left"
 
 display_date = true
+publishdate = "2021-11-01"
 date = "2021-12-08"
 
 type = "past"
