@@ -5,6 +5,7 @@ disabled = true
 title = "People Roadmap Webinar"
 subtitle = "Report update"
 title_align = "left"
+date = "2021-12-08"
 
 summary = """
 ReSA will convene two webinars in early December to discuss the outcomes of the People Roadmap Report
