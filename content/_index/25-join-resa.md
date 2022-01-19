@@ -15,6 +15,6 @@ You can become involved by:
   - Receiving updates through our regular [newsletter](./news/) 
   - Helping to raise awareness of the importance of software in research through use of [ReSA resources](./resa-resources/)
   - Connecting with other community members at our [events](./events/) 
-  - [Contributing](./contact/) ideas for task forces, events or newsletter items 
+  - [Contributing](./contact/) ideas for task forces, events, newsletter items, or if you have other ideas for ReSA, [let us know](./contact/). 
 
 We look forward to welcoming you! 
