@@ -7,7 +7,7 @@ title = "Vive la différence - research software engineers"
 subtitle = "Lorentz workshop"
 title_align = "left"
 
-display_date = true
+display_date = false
 date = "2022-04-19"
 
 summary = """
