@@ -1,4 +1,5 @@
 +++
+date = "2022-01-18"
 fragment = "list" # declare list fragment
 weight = 120
 section = "/events" # section to pull the list of pages
