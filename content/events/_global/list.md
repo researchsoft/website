@@ -9,7 +9,7 @@ summary = true
 background = "light"
 title = "Research Software Alliance - Events"
 count = 2 # Show at the end of each post
-collapsible = true # Default value is false
+collapsible = false # Default value is false
 subsections = true # Default to true. Shows subsection branch pages
 subsection_leaves = true # Default to false. Shows subsection leaf pages
 +++
