@@ -1,10 +1,14 @@
 +++
 fragment = "content"
 weight = 100
+categories = ["Event", "Coming up"]
 
 title = "Vive la différence - research software engineers"
 subtitle = "Lorentz workshop"
 title_align = "left"
+
+display_date = true
+date = "2022-04-19"
 
 summary = """
 Hybrid workshop on reframing research software engineering to place diversity, equity and inclusion as a central organising principle, April 2022
@@ -16,6 +20,7 @@ Hybrid workshop on reframing research software engineering to place diversity, e
   sticky = true # Default is false
   content = """
   * [Lorentz Centre](https://www.lorentzcenter.nl/about-us.html)
+  * [Workshop Page](https://www.lorentzcenter.nl/vive-la-difference-research-software-engineers.html)
   """
 
 [asset]
