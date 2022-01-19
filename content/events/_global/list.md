@@ -7,6 +7,7 @@ images = true
 tiled = true
 display_date = false # Default is false
 summary = true
+sort_order = desc 
 background = "light"
 title = "Research Software Alliance - Events"
 count = 2 # Show at the end of each post
