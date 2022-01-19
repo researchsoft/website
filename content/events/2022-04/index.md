@@ -7,6 +7,8 @@ title = "Vive la différence - research software engineers"
 subtitle = "Lorentz workshop"
 title_align = "left"
 
+type = "current"
+
 summary = """
 Hybrid workshop on reframing research software engineering to place diversity, equity and inclusion as a central organising principle, April 2022
 """
