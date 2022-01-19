@@ -2,9 +2,13 @@
 fragment = "content"
 weight = 100
 disabled = false
+categories = ["Event", "Past"]
+
 title = "People Roadmap Webinar"
 subtitle = "Report update"
 title_align = "left"
+
+display_date = true
 date = "2021-12-08"
 
 summary = """
