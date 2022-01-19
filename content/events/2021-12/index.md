@@ -1,7 +1,7 @@
 +++
 fragment = "content"
 weight = 100
-
+disabled = true
 title = "People Roadmap Webinar"
 subtitle = "Report update"
 title_align = "left"
