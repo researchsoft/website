@@ -12,7 +12,6 @@ display_date = true
 publishdate = "2021-11-01"
 date = "2021-12-08"
 
-type = "past"
 
 summary = """
 ReSA will convene two webinars in early December to discuss the outcomes of the People Roadmap Report
