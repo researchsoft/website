@@ -4,7 +4,7 @@ fragment = "nav"
 date = "2020-07-20"
 weight = 0
 background = "light"
-search = false
+search = true
 sticky = true
 
 [breadcrumb]
