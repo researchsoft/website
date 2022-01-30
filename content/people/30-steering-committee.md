@@ -8,7 +8,7 @@ background = "white"
 title = "Steering Committee"
 +++
 
-**CHAIR: Daniel S. Katz**, Chief Scientist, National Center for Supercomputing Applications (NCSA), University of Illinois, USA
+**[CHAIR](http://www.ncsa.illinois.edu/katz-named-inaugural-resa-steering-committee-chair/): Daniel S. Katz**, Chief Scientist, National Center for Supercomputing Applications (NCSA), University of Illinois, USA
 
 **Juan Bicarregui**, Head of the Data Division, Scientific Computing Department, Science and Technology Facilities Council, UK
 
