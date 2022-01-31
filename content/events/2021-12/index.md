@@ -31,9 +31,9 @@ ReSA will convene two webinars in early December to discuss the outcomes of the 
   text = "collaboration"
 +++
 
-_This event took place in December 2021 and the recording of the webinar is available via the [ReSA YouTube Channel](https://youtu.be/XvvrOZgi5Ns)_
+_This event took place in December 2021 and the recording of the webinar is available via the [ReSA YouTube Channel](https://youtu.be/XvvrOZgi5Ns) with link to [slides](https://tinyurl.com/Roadmap-slides)_
 
-The People Roadmap is a ReSA consultation to map the landscape of research software community initiatives focused on people-themed issues, as part of ReSA’s mission is to bring research software communities together to collaborate on the advancement of the research software ecosystem. Outcomes from the People Roadmap were presented at the [Workshop on Sustainable Software Sustainability](https://www.researchsoft.org/documents/people-roadmap.pdf) (WoSSS) on 8 Oct by ReSA Director, Michelle Barker.
+The People Roadmap is a ReSA consultation to map the landscape of research software community initiatives focused on people-themed issues, as part of ReSA’s mission is to bring research software communities together to collaborate on the advancement of the research software ecosystem. Outcomes from the People Roadmap were presented at the [Workshop on Sustainable Software Sustainability](https://wosss.org/wosss21/S4-MichelleBarker) (WoSSS) on 8 Oct by ReSA Director, Michelle Barker.
 
 As part of the creation of the People Roadmap, 28 organisations, community initiatives and/or projects in the research software community were profiled to facilitate identification of opportunities for accelerating efforts to address major issues related to personnel challenges. The resulting [People Roadmap Report](https://www.researchsoft.org/documents/people-roadmap.pdf) aims to increase understanding on how to create an environment where research software personnel are recognised, have appropriate skill sets and access to inclusive communities, within policy and infrastructure environments that support their work.
 
