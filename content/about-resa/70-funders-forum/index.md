@@ -1,6 +1,7 @@
 +++
 fragment = "content"
 date = "2022-02-17"
+disable = true
 weight = 70
 background = "white"
 
