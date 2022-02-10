@@ -1,11 +1,10 @@
 +++
 fragment = "content"
 date = "2022-02-17"
-disable = true
 weight = 70
 background = "white"
 
-title = "Founding Members"
+title = ""
 +++
 
 In 2022 ReSA announced six Founding Members. Founding Members express their deep commitment to the ReSA vision that research software 
