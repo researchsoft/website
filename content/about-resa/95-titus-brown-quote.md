@@ -2,7 +2,7 @@
 fragment = "buttons"
 #disabled = false
 date = "2020-07-21"
-weight = 95
+weight = 100
 background = "secondary"
 
 title = "Data implies software: it's not much good gathering data if you don't have the ability to analyse it."
