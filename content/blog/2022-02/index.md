@@ -16,11 +16,6 @@ date = "2022-02-17"
   sticky = true # Default is false
   content = """
 
-  * Table of Contents
-      * [International adoption](https://www.researchsoft.org/blog/2021-12/#international-adoption)
-      * [National landscape analysis](https://www.researchsoft.org/blog/2021-12/#national-landscape-analysis)
-      * [Key recommendations from ReSA](https://www.researchsoft.org/blog/2021-12/#key-recommendations-from-resa)
-
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
