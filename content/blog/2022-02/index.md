@@ -3,7 +3,7 @@ fragment = "content"
 weight = 100
 categories = ["Blog", "Press release"]
 
-title = "Founding Members press release"
+title = "Meet our Founding Members!"
 #subtitle = ""
 title_align = "left"
 
@@ -31,7 +31,7 @@ Image courtesy of Bongkarn Thanyakij from Pexels via [canva](https://www.canva.c
 
 Cross-posted on 17 February 2022.
 
-Founding Members press release
+Meet our Founding Members!
 -----------------------------------------------------------------
 
 _February 17, 2022_  
