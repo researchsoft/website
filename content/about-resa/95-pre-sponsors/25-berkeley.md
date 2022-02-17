@@ -1,6 +1,6 @@
 +++
 title = ""
-weight = 40
+weight = 25
 
 [asset]
   image = "UCBerkeley_wordmark_blue.png"
