@@ -1,9 +1,9 @@
 +++
 title = ""
-weight = 5
+weight = 45
 
 [asset]
-  image = "Sloan-logo.png"
-  url = "https://sloan.org/"
-  text = "Sloan logo"
+  image = "Alliance.png"
+  url = "https://alliancecan.ca/"
+  text = "Digital Research Alliance of Canada"
 +++

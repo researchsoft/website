@@ -1,6 +1,6 @@
 +++
 title = ""
-weight = 5
+weight = 40
 
 [asset]
   image = "Sloan-logo.png"
