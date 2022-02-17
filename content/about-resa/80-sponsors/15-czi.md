@@ -1,6 +1,6 @@
 +++
 title = ""
-weight = 25
+weight = 15
 
 [asset]
   image = "CZI_Logo.jpg"

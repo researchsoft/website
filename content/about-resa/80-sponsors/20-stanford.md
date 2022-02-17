@@ -1,6 +1,6 @@
 +++
 title = ""
-weight = 50
+weight = 20
 
 [asset]
   image = "stanford-university-stacked.png"
