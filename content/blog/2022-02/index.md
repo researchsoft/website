@@ -3,7 +3,7 @@ fragment = "content"
 weight = 100
 categories = ["Blog", "Press release"]
 
-title = Founding Members press release"
+title = "Founding Members press release"
 #subtitle = ""
 title_align = "left"
 
