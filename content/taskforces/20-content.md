@@ -13,9 +13,9 @@ To deliver on this mission, we invite the ReSA community to join us on ReSA acti
 
 ## Community consultations
 
-ReSA community consultations facilitate discussions to identify and prioritise challenges across ReSA's three key themes: people, policy and infrastructure. Community consultations are core ReSA activities, enabling the community to collaborate on elucidating how to advance visibility of research software. 
+ReSA community consultations facilitate discussions to identify and prioritise challenges across ReSA's three key themes: people, policy and infrastructure. Community consultations are core ReSA activities, enabling the community to collaborate on elucidating how to advance visibility of research software.
 
-The **[ReSA People Roadmap](https://www.researchsoft.org/documents/people-roadmap.pdf)** community consultation facilitated identification and prioritisation of the major issues related to people (or personnel) challenges faced by the research software community, including research software engineers. The People Roadmap  interviewed 28 research software initiatives to identify strategies and programs across, to identify common issues and priorities. 
+The **[ReSA People Roadmap](https://www.researchsoft.org/documents/people-roadmap.pdf)** community consultation facilitated identification and prioritisation of the major issues related to people (or personnel) challenges faced by the research software community, including research software engineers. The People Roadmap  interviewed 28 research software initiatives to identify strategies and programs across, to identify common issues and priorities.
 
 * Roles/careers/recognition, e.g., Research Software Engineers (RSEs), research software product managers, research software community managers
 * Skills needed and provision of training (including resources such as best practice guides)
@@ -33,7 +33,7 @@ ReSA task forces enable the community to focus and identifying challenges and so
 
 ## Task forces - completed
 
-**FAIR 4 Research Software Roadmap** identified key stakeholders in areas arising from the application of the FAIR principles to research software, to guide strategic planning and investment. Consultation with key stakeholders enabled mapping of existing projects that apply some of the elements of the FAIR principles to research software into a longer-term framework to improve strategic alignment and potential collaborators/leads for parts of the Roadmap. Initiatives progressing particular elements of the Roadmap include:
+[**FAIR 4 Research Software Roadmap**](https://doi.org/10.5281/zenodo.6239373) identified key stakeholders in areas arising from the application of the FAIR principles to research software, to guide strategic planning and investment. Consultation with key stakeholders enabled mapping of existing projects that apply some of the elements of the FAIR principles to research software into a longer-term framework to improve strategic alignment and potential collaborators/leads for parts of the Roadmap. Initiatives progressing particular elements of the Roadmap include:
 
 * [Metrics Working Group](https://docs.google.com/document/d/1BpzecVx4ZvSNfHD-UHhofZVdA6qiP_ENrmozmiq9zY4/edit) to develop FAIR research software metrics.
 * [Life Sciences Working Group](https://docs.google.com/document/d/1yQun2tObksymOrAV4RY7jqbSkZ0r8G6I-vrkDAGHnnI/edit) to support the implementation of the FAIR4RS principles in the life sciences community, with ELIXIR providing a pilot use case.
@@ -43,4 +43,3 @@ ReSA task forces enable the community to focus and identifying challenges and so
 **Software sections of [RDA COVID-19 Guidelines and Recommendations](https://www.rd-alliance.org/group/rda-covid19-rda-covid19-omics-rda-covid19-epidemiology-rda-covid19-clinical-rda-covid19-1)** for policy makers, funders and the research community. [Final recommendations](https://www.rd-alliance.org/group/rda-covid19-rda-covid19-omics-rda-covid19-epidemiology-rda-covid19-clinical-rda-covid19-1) helping COVID-19 stakeholders follow best practices to maximize the efficiency of their work, and to act as a blueprint for future emergencies.
 
 **Evidence for the importance of research software**. This task force presented its outcomes in this [blog](https://doi.org/10.5281/zenodo.3884311) posted by [URSSI](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/), [SSI](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software) and [Netherlands eScience Centre](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3) in June 2020. This work identified and analysed resources that demonstrate the importance of research software to research outcomes, to provide information for sharing with key influencers.
-
