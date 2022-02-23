@@ -187,7 +187,7 @@ Saarinen, Juha. 2021. &quot;Log4j&#39;s Project Sponsorship Skyrockets after Cri
 
 Sufi, Shoaib, Carlos Martinez Ortiz, Cees Hof, Patrick Aerts, Adriaan Klinkenberg, Anna-Lena Lambrecht, Barbara Sierman, et al. 2020. &quot;Report on the Workshop on Sustainable Software Sustainability 2019 (WOSSS19).&quot; Zenodo. https://doi.org/10.5281/ZENODO.3922155.
 
-Technology Association of Grantmakers. 2021. &quot;A Responsibility to Rebuild: Investing in Digital Infrastructure for Civil Society.&quot; https://cdn.ymaws.com/www.tagtech.org/resource/resmgr/digital\infrastructure/digital\infrastructure-repor.pdf.
+Technology Association of Grantmakers. 2021. &quot;A Responsibility to Rebuild: Investing in Digital Infrastructure for Civil Society.&quot; https://cdn.ymaws.com/www.tagtech.org/resource/resmgr/digital_infrastructure/digital_infrastructure-repor.pdf.
 
 UKRI. 2020. &quot;The UK&#39;s Research and Innovation Infrastructure: Landscape Analysis.&quot; https://www.ukri.org/wp-content/uploads/2020/10/UKRI-201020-LandscapeAnalysis-FINAL.pdf.
 
