@@ -6,13 +6,13 @@ fragment = "config"
   block = true # Default is false # If set to true, would inject the code to the <head> tag.
   html = """
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-181241343-1"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MP7EBN8B0D"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'UA-181241343-1');
+    gtag('config', 'G-MP7EBN8B0D');
   </script>
   """
 
