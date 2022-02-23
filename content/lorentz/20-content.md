@@ -27,6 +27,6 @@ The research software community is well situated to evolve to frame DEI at its c
 
 There are other potential benefits to centering research software engineering on DEI to ensure that publicly funded research supports wider society, such as the critical role that research software engineers could play in avoiding bias in software design that would cause negative social repercussions, such as on questions of algorithmic bias and data ownership
 
-### (Schedule)[https://docs.google.com/document/d/1jmJwcnP_xbyk1pYVws7mTX-vHrYp9fnAhfjvD2hdbFY/edit#] 
+### [Schedule](https://docs.google.com/document/d/1jmJwcnP_xbyk1pYVws7mTX-vHrYp9fnAhfjvD2hdbFY/edit#) 
 
 Note: There will also be an online program for workshop particpants, and some associated public events.
