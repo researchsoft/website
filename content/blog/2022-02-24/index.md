@@ -164,30 +164,30 @@ Ficarra, Victoria, Mattia Fosci, Andrea Chiarelli, Bianca Kramer, and Vanessa Pr
 
 GOSH. 2021a. &quot;Funding Open Hardware: Institutional Support.&quot; 2021. https://drive.google.com/file/d/1H6YtXsojx9oFmSVblAiq7J87TI7xlM1V/view.
 
-———. 2021b. &quot;Funding Open Hardware: Outputs and Impacts.&quot; 2021. https://drive.google.com/file/d/1QWEJ1hSZ4dwrgZKRhgyp3HTAvZ4i0YFa/view?usp=sharing&amp;usp=embed\_facebook.
+———. 2021b. &quot;Funding Open Hardware: Outputs and Impacts.&quot; 2021. https://drive.google.com/file/d/1QWEJ1hSZ4dwrgZKRhgyp3HTAvZ4i0YFa/view?usp=sharing&amp;usp=embed\facebook.
 
 Gruenpeter, Morane, Katz, Daniel S., Lamprecht, Anna-Lena, Honeyman, Tom, Garijo, Daniel, Struck, Alexander, Niehues, Anna, et al. 2021. &quot;Defining Research Software: A Controversial Discussion.&quot; Zenodo. https://doi.org/10.5281/ZENODO.5504016.
 
-Hinsen, Konrad. 2019. &quot;Dealing With Software Collapse.&quot;_Computing in Science & Engineering 21 (3): 104–8. https://doi.org/10/gf2dh9.
+Hinsen, Konrad. 2019. &quot;Dealing With Software Collapse.&quot; Computing in Science & Engineering 21 (3): 104–8. https://doi.org/10/gf2dh9.
 [Huerta, Melissa. 2021. &quot;Building a Toolkit for Funders to Grow Their Digital Infrastructure Portfolio.&quot; 2021. https://simplysecure.org/blog/building-a-toolkit-for-funders-to-grow-their-digital-infrastructure-portfolio/.
 
 Katerbow, Matthias, and Georg Feulner. 2018. &quot;Recommendations On The Development, Use And Provision Of Research Software,&quot; March. https://doi.org/10.5281/ZENODO.1172988.
 
 Katz, Daniel S. 2021. &quot;Towards Sustainable Research Software.&quot; December 1. https://doi.org/10.5281/zenodo.5748175.
 
-Katz, Daniel S., Stephan Druskat, Robert Haines, Caroline Jay, and Alexander Struck. 2019. &quot;The State of Sustainable Research Software: Results from the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1).&quot; Journal of Open Research Software_7 (April): 11. https://doi.org/10.5334/jors.242.
+Katz, Daniel S., Stephan Druskat, Robert Haines, Caroline Jay, and Alexander Struck. 2019. &quot;The State of Sustainable Research Software: Results from the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1).&quot; Journal of Open Research Software 7 (April): 11. https://doi.org/10.5334/jors.242.
 
 Knowles, Rebecca, Bilal A. Mateen, and Yo Yehudi. 2021. &quot;We Need to Talk about the Lack of Investment in Digital Research Infrastructure.&quot; Nature Computational Science 1 (3): 169–71. https://doi.org/10.1038/s43588-021-00048-5.
 
-Mons, Barend. 2020. &quot;Invest 5% of Research Funds in Ensuring Data Are Reusable.&quot;_Nature 578 (7796): 491–491. https://doi.org/10.1038/d41586-020-00505-7.
+Mons, Barend. 2020. &quot;Invest 5% of Research Funds in Ensuring Data Are Reusable.&quot; Nature 578 (7796): 491–491. https://doi.org/10.1038/d41586-020-00505-7.
 
-Nangia, Udit, and Daniel S. Katz. 2017. &quot;Understanding Software in Research: Initial Results from Examining Nature and a Call for Collaboration.&quot; In_2017 IEEE 13th International Conference on E-Science (e-Science)_, 486–87. https://doi.org/10/ggfkvb.
+Nangia, Udit, and Daniel S. Katz. 2017. &quot;Understanding Software in Research: Initial Results from Examining Nature and a Call for Collaboration.&quot; In 2017 IEEE 13th International Conference on E-Science (e-Science), 486–87. https://doi.org/10/ggfkvb.
 
 Saarinen, Juha. 2021. &quot;Log4j&#39;s Project Sponsorship Skyrockets after Critical Bug Exploitation.&quot; ITnews. 2021. https://www.itnews.com.au/news/log4js-project-sponsorship-skyrockets-after-critical-bug-exploitation-573914.
 
 Sufi, Shoaib, Carlos Martinez Ortiz, Cees Hof, Patrick Aerts, Adriaan Klinkenberg, Anna-Lena Lambrecht, Barbara Sierman, et al. 2020. &quot;Report on the Workshop on Sustainable Software Sustainability 2019 (WOSSS19).&quot; Zenodo. https://doi.org/10.5281/ZENODO.3922155.
 
-Technology Association of Grantmakers. 2021. &quot;A Responsibility to Rebuild: Investing in Digital Infrastructure for Civil Society.&quot; https://cdn.ymaws.com/www.tagtech.org/resource/resmgr/digital\_infrastructure/digital\_infrastructure-repor.pdf.
+Technology Association of Grantmakers. 2021. &quot;A Responsibility to Rebuild: Investing in Digital Infrastructure for Civil Society.&quot; https://cdn.ymaws.com/www.tagtech.org/resource/resmgr/digital\infrastructure/digital\infrastructure-repor.pdf.
 
 UKRI. 2020. &quot;The UK&#39;s Research and Innovation Infrastructure: Landscape Analysis.&quot; https://www.ukri.org/wp-content/uploads/2020/10/UKRI-201020-LandscapeAnalysis-FINAL.pdf.
 
@@ -198,9 +198,7 @@ UKRI. 2020. &quot;The UK&#39;s Research and Innovation Infrastructure: Landscape
 
 [3](#sdfootnote3anc) This framework is often applied to examinations of research infrastructure funding (.e.g, Asmi et al. 2019).
 
-[4](#sdfootnote4anc) Open hardware funding can be classified as supporting outputs in four categories:
-
-community-related outputs, documentation, hardware and usage or adoption (GOSH 2021b).
+[4](#sdfootnote4anc) Open hardware funding can be classified as supporting outputs in four categories: community-related outputs, documentation, hardware and usage or adoption (GOSH 2021b).
 
 ----
 _Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
