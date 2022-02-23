@@ -181,15 +181,15 @@ Knowles, Rebecca, Bilal A. Mateen, and Yo Yehudi. 2021. &quot;We Need to Talk ab
 
 Mons, Barend. 2020. &quot;Invest 5% of Research Funds in Ensuring Data Are Reusable.&quot;_Nature 578 (7796): 491–491. https://doi.org/10.1038/d41586-020-00505-7.
 
-[Nangia, Udit, and Daniel S. Katz. 2017. &quot;Understanding Software in Research: Initial Results from Examining Nature and a Call for Collaboration.&quot; In](https://www.zotero.org/google-docs/?BI84sv)[_2017 IEEE 13th International Conference on E-Science (e-Science)_](https://www.zotero.org/google-docs/?BI84sv)[, 486–87. https://doi.org/10/ggfkvb.](https://www.zotero.org/google-docs/?BI84sv)
+Nangia, Udit, and Daniel S. Katz. 2017. &quot;Understanding Software in Research: Initial Results from Examining Nature and a Call for Collaboration.&quot; In_2017 IEEE 13th International Conference on E-Science (e-Science)_, 486–87. https://doi.org/10/ggfkvb.
 
-[Saarinen, Juha. 2021. &quot;Log4j&#39;s Project Sponsorship Skyrockets after Critical Bug Exploitation.&quot; ITnews. 2021. https://www.itnews.com.au/news/log4js-project-sponsorship-skyrockets-after-critical-bug-exploitation-573914.](https://www.zotero.org/google-docs/?BI84sv)
+Saarinen, Juha. 2021. &quot;Log4j&#39;s Project Sponsorship Skyrockets after Critical Bug Exploitation.&quot; ITnews. 2021. https://www.itnews.com.au/news/log4js-project-sponsorship-skyrockets-after-critical-bug-exploitation-573914.
 
-[Sufi, Shoaib, Carlos Martinez Ortiz, Cees Hof, Patrick Aerts, Adriaan Klinkenberg, Anna-Lena Lambrecht, Barbara Sierman, et al. 2020. &quot;Report on the Workshop on Sustainable Software Sustainability 2019 (WOSSS19).&quot; Zenodo. https://doi.org/10.5281/ZENODO.3922155.](https://www.zotero.org/google-docs/?BI84sv)
+Sufi, Shoaib, Carlos Martinez Ortiz, Cees Hof, Patrick Aerts, Adriaan Klinkenberg, Anna-Lena Lambrecht, Barbara Sierman, et al. 2020. &quot;Report on the Workshop on Sustainable Software Sustainability 2019 (WOSSS19).&quot; Zenodo. https://doi.org/10.5281/ZENODO.3922155.
 
-[Technology Association of Grantmakers. 2021. &quot;A Responsibility to Rebuild: Investing in Digital Infrastructure for Civil Society.&quot; https://cdn.ymaws.com/www.tagtech.org/resource/resmgr/digital\_infrastructure/digital\_infrastructure-repor.pdf.](https://www.zotero.org/google-docs/?BI84sv)
+Technology Association of Grantmakers. 2021. &quot;A Responsibility to Rebuild: Investing in Digital Infrastructure for Civil Society.&quot; https://cdn.ymaws.com/www.tagtech.org/resource/resmgr/digital\_infrastructure/digital\_infrastructure-repor.pdf.
 
-[UKRI. 2020. &quot;The UK&#39;s Research and Innovation Infrastructure: Landscape Analysis.&quot; https://www.ukri.org/wp-content/uploads/2020/10/UKRI-201020-LandscapeAnalysis-FINAL.pdf.](https://www.zotero.org/google-docs/?BI84sv)
+UKRI. 2020. &quot;The UK&#39;s Research and Innovation Infrastructure: Landscape Analysis.&quot; https://www.ukri.org/wp-content/uploads/2020/10/UKRI-201020-LandscapeAnalysis-FINAL.pdf.
 
 ----
 [1](#sdfootnote1anc) Invest in Open Infrastructure are utilising this approach for their analysis of open infrastructure providers [(Dunks 2021a)](https://www.zotero.org/google-docs/?G4DHEw).
