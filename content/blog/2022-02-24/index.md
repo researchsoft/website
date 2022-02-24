@@ -169,7 +169,8 @@ GOSH. 2021a. &quot;Funding Open Hardware: Institutional Support.&quot; 2021. htt
 Gruenpeter, Morane, Katz, Daniel S., Lamprecht, Anna-Lena, Honeyman, Tom, Garijo, Daniel, Struck, Alexander, Niehues, Anna, et al. 2021. &quot;Defining Research Software: A Controversial Discussion.&quot; Zenodo. https://doi.org/10.5281/ZENODO.5504016.
 
 Hinsen, Konrad. 2019. &quot;Dealing With Software Collapse.&quot; Computing in Science & Engineering 21 (3): 104–8. https://doi.org/10/gf2dh9.
-[Huerta, Melissa. 2021. &quot;Building a Toolkit for Funders to Grow Their Digital Infrastructure Portfolio.&quot; 2021. https://simplysecure.org/blog/building-a-toolkit-for-funders-to-grow-their-digital-infrastructure-portfolio/.
+
+Huerta, Melissa. 2021. &quot;Building a Toolkit for Funders to Grow Their Digital Infrastructure Portfolio.&quot; 2021. https://simplysecure.org/blog/building-a-toolkit-for-funders-to-grow-their-digital-infrastructure-portfolio/.
 
 Katerbow, Matthias, and Georg Feulner. 2018. &quot;Recommendations On The Development, Use And Provision Of Research Software,&quot; March. https://doi.org/10.5281/ZENODO.1172988.
 
