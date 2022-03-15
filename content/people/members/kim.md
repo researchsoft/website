@@ -9,17 +9,17 @@ lives_in = "[Canada](https://www.timeanddate.com/worldclock/canada/ontario)"
 [[icons]]
   icon = "fab fa-twitter"
   text = "Twitter"
-  url = "https://twitter.com/"
+  url = "https://twitter.com/HartleyKim_"
 
 [[icons]]
   icon = "fab fa-github"
   text = "Github"
-  url = "https://github.com/"
+  url = "https://github.com/Kim-hartley"
 
 [[icons]]
   icon = "fab fa-linkedin-in"
   text = "Linkedin"
-  url = "https://www.linkedin.com/"
+  url = "https://www.linkedin.com/in/kim-hartley-456808232/"
 
 [asset]
   image = "kim_sq.jpg"
