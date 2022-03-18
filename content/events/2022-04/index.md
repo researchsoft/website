@@ -55,6 +55,9 @@ Sign up to the [ReSA newsletter](https://www.researchsoft.org/news/) to hear mor
 * Sean Goggins - Professor, University of Missouri, USA | Community Health Analytics Open Source Software (CHAOSS) Project lead
 * Anna-Lena Lamprecht - Assistant Professor of Software Technology, Utrecht University, Netherlands
 
-
+This workshop is sponsored by:
+<img src="Viveladifference_sponsors.png" 
+     alt="Leiden University, Chan Zuckerberg Initiative, Ford Foundation, Research Software Alliance, Alfred P. Sloan Foundation, Dutch Research Council, Lorentz Center" />
+     
 
 Photo by <a href="https://unsplash.com/@myleon">Leon</a> on Unsplash.
