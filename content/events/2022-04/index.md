@@ -58,6 +58,8 @@ Sign up to the [ReSA newsletter](https://www.researchsoft.org/news/) to hear mor
 This workshop is sponsored by:
 <img src="Viveladifference_sponsors.png" 
      alt="Leiden University, Chan Zuckerberg Initiative, Ford Foundation, Research Software Alliance, Alfred P. Sloan Foundation, Dutch Research Council, Lorentz Center" />
-     
 
-Photo by <a href="https://unsplash.com/@myleon">Leon</a> on Unsplash.
+[Download the event poster](Vive-la-Difference-Poster.pdf) to share.
+
+
+Event photo by <a href="https://unsplash.com/@myleon">Leon</a> on Unsplash.
