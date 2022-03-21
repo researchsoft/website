@@ -29,6 +29,6 @@ There are other potential benefits to centering research software engineering on
 
 ### [Click to read the full schedule](https://docs.google.com/document/d/1jmJwcnP_xbyk1pYVws7mTX-vHrYp9fnAhfjvD2hdbFY/edit#). 
 
-There is also be an online-only program for workshop particpants that runs from late March to the end of April.
+There is also be an online-only program for workshop participants that runs from late March to the end of April.
 
 ReSA is also collaborating with national research software engineering associations on [DiveRSE](https://diverse-rse.github.io/), a series of talks that provides a public forum to complement the “Vive la différence - research software engineers” workshop, which is limited to 55 participants.  Find out more about the DiveRSE [event series](https://diverse-rse.github.io/about).
