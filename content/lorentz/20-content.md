@@ -27,6 +27,8 @@ The research software community is well situated to evolve to frame DEI at its c
 
 There are other potential benefits to centering research software engineering on DEI to ensure that publicly funded research supports wider society, such as the critical role that research software engineers could play in avoiding bias in software design that would cause negative social repercussions, such as on questions of algorithmic bias and data ownership
 
-### [Click to read the full schedule](https://docs.google.com/document/d/1jmJwcnP_xbyk1pYVws7mTX-vHrYp9fnAhfjvD2hdbFY/edit#). There is also be an online-only program for workshop particpants that runs from late March to the end of April.
+### [Click to read the full schedule](https://docs.google.com/document/d/1jmJwcnP_xbyk1pYVws7mTX-vHrYp9fnAhfjvD2hdbFY/edit#). 
+
+There is also be an online-only program for workshop particpants that runs from late March to the end of April.
 
 ReSA is also collaborating with national research software engineering associations on [DiveRSE](https://diverse-rse.github.io/), a series of talks that provides a public forum to complement the “Vive la différence - research software engineers” workshop, which is limited to 55 participants.  Find out more about the DiveRSE [event series](https://diverse-rse.github.io/about).
