@@ -11,7 +11,7 @@ background = "white"
 
 ReSA outputs can provide useful references to support recognition and valuing of research software as a key component of research. Recent items include:
 
-* [FAIR Principles for Research Software](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs) draft recommendation, 2021.
+* [FAIR Principles for Research Software](https://rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0), 2022.
 * [Research software is essential for research data, so how should governments respond?](https://www.researchsoft.org/blog/2021-12/) 2021.
 * [Research software landscape analysis](https://doi.org/10.5281/zenodo.3699950) blog post shared by [URSSI](http://urssi.us/blog/2020/03/11/the-research-software-alliance-resa-and-the-community-landscape/), [SSI](http://urssi.us/blog/2020/03/11/the-research-software-alliance-resa-and-the-community-landscape/) and [Netherlands eScience Center](https://blog.esciencecenter.nl/the-research-software-alliance-resa-and-the-community-landscape-9b8a6290ebb3), 2020.
 * [ReSA Response to US RFI: Public Access to Peer-Reviewed Scholarly Publications, Data and Code Resulting From Federally Funded Research](https://doi.org/10.5281/zenodo.3828148), 2020
