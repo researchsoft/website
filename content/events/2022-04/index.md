@@ -9,6 +9,8 @@ subtitle = "Lorentz workshop"
 title_align = "left"
 
 publishdate = "2021-10-25"
+display_date = true
+date = "2022-04-19"
 
 summary = """
 Hybrid workshop on reframing research software engineering to place diversity, equity and inclusion as a central organising principle, April 2022
