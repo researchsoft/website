@@ -9,7 +9,7 @@ subtitle = "Supporting EDI within the RSE community"
 title_align = "left"
 
 display_date = true
-publishdate = "2022-05-10"
+publishdate = "2022-05-04"
 date = "2021-05-04"
 
 
@@ -23,7 +23,7 @@ ReSA supports "DiveRSE" a series of talks and related activities supporting Equi
   align = "right"
   sticky = true # Default is false
   content = """
-  * [Diverse Website](https://diverse-rse.github.io/)
+  * [DiveRSE website](https://diverse-rse.github.io/)
   * [Videos](https://www.youtube.com/channel/UCL7rYOIAP1Rx_VajLPDF-hA)
   """
 
@@ -44,6 +44,6 @@ The role title “Research Software Engineer” (RSE) was first used only around
 
 As an open, friendly and welcoming community, there is enthusiasm for discussion about EDI challenges and successes. There have already been various examples within the community of events and related activties providing opportunities for discussing and understanding aspects of EDI.
 
-ReSA is also collaborating with national research software engineering associations on [DiveRSE](https://diverse-rse.github.io/), a series of talks that provides a public forum to complement the “Vive la différence - research software engineers” workshop. Find out more about the DiveRSE [event series](https://diverse-rse.github.io/about).
+ReSA is also collaborating with national research software engineering associations on [DiveRSE](https://diverse-rse.github.io/), a series of talks that provides a public forum to complement the [“Vive la différence - research software engineers” workshop](https://www.researchsoft.org/events/2022-04/). Find out more about the DiveRSE [event series](https://diverse-rse.github.io/about).
 
 Photo by <a href="https://unsplash.com/@melpoole?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mel Poole</a> on <a href="https://unsplash.com/photos/ToI01Apo4Pk">Unsplash</a>.
