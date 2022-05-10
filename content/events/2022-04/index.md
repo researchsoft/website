@@ -1,7 +1,8 @@
 +++
 fragment = "content"
 weight = 100
-categories = ["Event", "Coming up"]
+disabled = false
+categories = ["Event", "Past"]
 
 title = "Vive la différence - research software engineers"
 subtitle = "Lorentz workshop"
