@@ -8,8 +8,8 @@ title = "Vive la différence - research software engineers"
 subtitle = "Lorentz workshop"
 title_align = "left"
 
-publishdate = "2021-10-25"
 display_date = true
+publishdate = "2021-10-25"
 date = "2022-04-19"
 
 summary = """
