@@ -13,7 +13,7 @@ ReSA outputs can provide useful references to support recognition and valuing of
 
 * [FAIR Principles for Research Software](https://rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0), 2022.
 * [Research software is essential for research data, so how should governments respond?](https://www.researchsoft.org/blog/2021-12/), 2021.
-* [ReSA People Roadmap](https://www.researchsoft.org/documents/people-roadmap.pdf)
+* [ReSA People Roadmap](https://www.researchsoft.org/documents/people-roadmap.pdf), 2021
 * [Overview of research software funding landscape](https://www.researchsoft.org/blog/2022-02-24/), 2021
 * [Research software landscape analysis](https://doi.org/10.5281/zenodo.3699950), 2020.
 * [ReSA Response to US RFI: Public Access to Peer-Reviewed Scholarly Publications, Data and Code Resulting From Federally Funded Research](https://doi.org/10.5281/zenodo.3828148), 2020
