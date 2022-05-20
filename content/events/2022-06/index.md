@@ -24,9 +24,9 @@ ReSA mission is to bring research software communities together to collaborate o
   align = "right"
   sticky = true # Default is false
   content = """
-    * [Contact ReSA](../../contact/)
-    * [ReSA’s Code of Conduct](../../code-of-conduct/)
-    * [Register your email](https://forms.gle/ttsXNgWzqk12yiBk9)
+  * [Contact ReSA](../../contact/)
+  * [ReSA’s Code of Conduct](../../code-of-conduct/)
+  * [Register your email](https://forms.gle/ttsXNgWzqk12yiBk9)
   """
 
 [asset]
