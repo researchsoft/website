@@ -1,13 +1,16 @@
 +++
 fragment = "content"
 weight = 100
-categories = ["Event", "Coming up"]
+disabled = false
+categories = ["Event", "Past"]
 
 title = "Vive la différence - research software engineers"
 subtitle = "Lorentz workshop"
 title_align = "left"
 
+display_date = true
 publishdate = "2021-10-25"
+date = "2022-04-19"
 
 summary = """
 Hybrid workshop on reframing research software engineering to place diversity, equity and inclusion as a central organising principle, April 2022
@@ -27,7 +30,7 @@ Hybrid workshop on reframing research software engineering to place diversity, e
   text = "collaboration"
 +++
 
-Would you like to join a conversation on how research software engineering could be reframed to place diversity, equity, and inclusion (DEI) as a central organising principle? “Vive la différence - research software engineers” is a hybrid event with an in-person element from 19-22 April 2022 at the [Lorentz Centre](https://www.lorentzcenter.nl/about-us.html) in the Netherlands; and online events from March-May 2022 across different time zones.  This workshop will bring together a wide range of stakeholders who have not previously collaborated, to analyse best practice and available data to identify both research opportunities and solutions to their own local challenges, to create an informal network of champions in this area.
+“Vive la différence - research software engineers” is a hybrid event with an in-person element from 19-22 April 2022 at the [Lorentz Centre](https://www.lorentzcenter.nl/about-us.html) in the Netherlands; and online events from March-April 2022 across different time zones.  This workshop will bring together a wide range of stakeholders who have not previously collaborated, to analyse best practice and available data to identify both research opportunities and solutions to their own local challenges, to create an informal network of champions in this area.
 
 **About the workshop**
 
@@ -42,7 +45,7 @@ The workshop aims to:
 4. Connect efforts on improving DEI in research software engineering with similar efforts in the open source software community.
 5. Bring together representatives of the increasing array of different types of organisations and initiatives in this space, as enabling more alignment and networks between these has the potential to create the critical mass needed for some outcomes. These will include national RSE associations; DEI initiatives in RSE/data science; open source software; and industry.
 
-More information on the rationale for the workshop and the draft schedule is available on the **[Lorentz workshop page](https://www.researchsoft.org/lorentz/)**.
+More information on the rationale for the workshop and the **[event agenda](https://docs.google.com/document/d/1jmJwcnP_xbyk1pYVws7mTX-vHrYp9fnAhfjvD2hdbFY/edit#)** is available on the **[Lorentz workshop page](https://www.researchsoft.org/lorentz/)**. ReSA is also collaborating with national research software engineering associations on [DiveRSE](https://diverse-rse.github.io/), a series of talks that provides a public forum to complement the “Vive la différence - research software engineers” workshop, which is limited to 55 participants.  Find out more about the DiveRSE [event series](https://diverse-rse.github.io/about).
 
 **How to get involved**
 
@@ -55,6 +58,11 @@ Sign up to the [ReSA newsletter](https://www.researchsoft.org/news/) to hear mor
 * Sean Goggins - Professor, University of Missouri, USA | Community Health Analytics Open Source Software (CHAOSS) Project lead
 * Anna-Lena Lamprecht - Assistant Professor of Software Technology, Utrecht University, Netherlands
 
+This workshop is sponsored by:
+<img src="Viveladifference_sponsors.png" 
+     alt="Leiden University, Chan Zuckerberg Initiative, Ford Foundation, Research Software Alliance, Alfred P. Sloan Foundation, Dutch Research Council, Lorentz Center" />
+
+[Download the event poster](Vive-la-Difference-Poster.pdf) to share.
 
 
-Photo by <a href="https://unsplash.com/@myleon">Leon</a> on Unsplash.
+Event photo by <a href="https://unsplash.com/@myleon">Leon</a> on Unsplash.

@@ -100,23 +100,24 @@ data, and code supported by the US Government.
 
 -   [Top 10 FAIR Data & Software Things: Research Software](https://librarycarpentry.org/Top-10-FAIR/2018/12/01/research-software/), 2018.
 
-#### Software citation
+-   [Software Heritage](https://www.softwareheritage.org) published the [General Index of Software Engineering Papers](https://doi.org/10.48550/arXiv.2204.03254) on arXiv. This dataset is a big contribution to the field of meta-research, enabling the review of outputs of software engineering, 2022. 
+
+#### Software sharing and citation
+
+-   UK National Institutes of Health [Best Practices for Sharing Research Software](https://datascience.nih.gov/tools-and-analytics/best-practices-for-sharing-research-software-faq), 2021.
 
 -   [Recognizing the value of software: A software citation guide](https://doi.org/10.12688/f1000research.26932.2), 2021.
 
--   [Software Citation Checklist for
-    Authors](http://doi.org/10.5281/zenodo.3479199), 2019.
+-   [Software Citation Checklist for Authors](http://doi.org/10.5281/zenodo.3479199), 2019.
 
--   [Software Citation Checklist for
-    Developers](http://doi.org/10.5281/zenodo.3482769), 2019.
+-   [Software Citation Checklist for Developers](http://doi.org/10.5281/zenodo.3482769), 2019.
 
 -   [Software citation principles](https://doi.org/10.7717/peerj-cs.86), 2016.
 
 ## Lists of resources
 
 
--   [SSI guides for everything](https://www.software.ac.uk/resources/guides). Guides for
-    researchers, managers, developers, instructors and
+-   [SSI guides for everything](https://www.software.ac.uk/resources/guides). Guides for researchers, managers, developers, instructors and
     content distributors.
     
 -   [SSI list of resources about various topics](https://www.software.ac.uk/resources/get-speed). Includes policy,
