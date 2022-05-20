@@ -5,7 +5,7 @@ disabled = false
 categories = ["Event", "On Going"]
 
 title = "ReSA Community Forum"
-subtitle = "Supporting EDI within the RSE community"
+subtitle = "Bringing together the research software community"
 title_align = "left"
 
 display_date = true
@@ -14,7 +14,7 @@ date = "2022-05-19"
 
 
 summary = """
-ReSA mission is to bring research software communities together to collaborate on the advancement of the research software ecosystem.
+ReSA's mission is to bring research software communities together to collaborate on the advancement of the research software ecosystem.
 
 """
 
