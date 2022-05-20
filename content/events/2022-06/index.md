@@ -24,6 +24,9 @@ ReSA mission is to bring research software communities together to collaborate o
   align = "right"
   sticky = true # Default is false
   content = """
+    * [Contact ReSA](https://www.researchsoft.org/contact/)
+    * [ReSA’s Code of Conduct](https://www.researchsoft.org/code-of-conduct/)
+    * [Register your email to get news](https://forms.gle/ttsXNgWzqk12yiBk9)
   """
 
 [asset]
@@ -48,8 +51,10 @@ Meeting details, including a Zoom link and password, are included below. If you 
 
 The first call is scheduled for:
 
-19 July 2022 11 am to 12 pm UTC. See the time in [your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Community+Forum&iso=20220719T11&p1=1440&ah=1 )
-Zoom link: ​​https://us02web.zoom.us/j/2187873236?pwd=cXpmZXQzalhMcGlUN0J1bWUzdVM3QT09
+* 19 July 2022 11 am to 12 pm UTC. See the time in [your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Community+Forum&iso=20220719T11&p1=1440&ah=1 )
+
+[Zoom link](https://us02web.zoom.us/j/2187873236?pwd=cXpmZXQzalhMcGlUN0J1bWUzdVM3QT09)
+
 Passcode: 446688
 
 Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sharon McCutcheon</a> on <a href="https://unsplash.com/s/photos/connected-dots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
