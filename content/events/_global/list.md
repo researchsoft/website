@@ -8,13 +8,12 @@ tiled = true
 display_date = false # Default is false
 summary = true
 sort = "PublishDate" #default: PublishDate
-sort_order = "desc" 
+sort_order = "desc"
 background = "light"
 title = "Research Software Alliance - Events"
-count = 1 # Show at the end of each post
+count = 2 # Show at the end of each post
 collapsible = false # Default value is false
 subsections = true # Default to true. Shows subsection branch pages
 subsection_leaves = true # Default to false. Shows subsection leaf pages
 read_more = true
 +++
-
