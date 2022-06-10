@@ -4,7 +4,7 @@ weight = 100
 disabled = false
 categories = ["Event", "On Going"]
 
-title = "ReSA Community Forum"
+title = "ReSA Monthly Community Forum "
 subtitle = "Bringing together the research software community"
 title_align = "left"
 
@@ -26,7 +26,7 @@ ReSA's mission is to bring research software communities together to collaborate
   content = """
   * [Contact ReSA](../../contact/)
   * [ReSA’s Code of Conduct](../../code-of-conduct/)
-  * [Register your email](https://forms.gle/ttsXNgWzqk12yiBk9)
+  * [Register your email for updates](https://landing.mailerlite.com/webforms/landing/o1n4v3)
   """
 
 [asset]
@@ -37,7 +37,7 @@ ReSA's mission is to bring research software communities together to collaborate
 
 ## About the Research Software Community Forum
 
-The [Research Software Alliance (ReSA)](https://www.researchsoft.org/) is hosting a monthly online community forum for the global research software community. The Research Software Community Forum is open to anyone. Meetings will occur monthly at 8-hourly alternating times to maximize attendance by participants in different time zones.
+The [Research Software Alliance (ReSA)](https://www.researchsoft.org/) is hosting a monthly online community forum for the global research software community. The Research Software Community Forum is open to everyone. Meetings will occur monthly at 8-hourly alternating times to maximize attendance by participants in different time zones.
 
 The Community Forum offers an opportunity for participants to meet and share information. Each monthly call will feature a short talk and follow-up discussion, with the aim of facilitating community consideration about what’s needed next to address particular issues.
 
@@ -47,9 +47,9 @@ The Community Forum aims to provide a welcoming and inclusive environment, and t
 To help us plan accessible meetings, please identify any requirements you may have by [contacting ReSA](https://www.researchsoft.org/contact/).
 
 ### Meeting Details
-Meeting details, including a Zoom link and password, are included below. If you have any questions or would like to receive a calendar invite via email, please email [ReSA](https://www.researchsoft.org/contact/).
+Meeting details, including a Zoom link and password, are included below. If you have any questions or would like to receive a calendar invite via email, please sign up for the [Community Forum](https://landing.mailerlite.com/webforms/landing/o1n4v3).
 
-The first call is scheduled for:
+### The first call is scheduled for:
 
 * 19 July 2022 11 am to 12 pm UTC. See the time in [your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Community+Forum&iso=20220719T11&p1=1440&ah=1 )
 
