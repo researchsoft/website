@@ -17,7 +17,7 @@ ReSA outputs can provide useful references to support recognition and valuing of
 * [Overview of research software funding landscape](https://www.researchsoft.org/blog/2022-02-24/), 2021
 * [Research software landscape analysis](https://doi.org/10.5281/zenodo.3699950), 2020
 * [ReSA Response to US RFI: Public Access to Peer-Reviewed Scholarly Publications, Data and Code Resulting From Federally Funded Research](https://doi.org/10.5281/zenodo.3828148), 2020
-* [RDA COVID-19 Guidelines and Recommendations](https://doi.org/10.15497/rda00052) contains a software chapter coordinated by ReSA that provides guidelines to policy makers, funders, publishers, and the research community responding to COVID-19, 2020.
+* [RDA COVID-19 Guidelines and Recommendations](https://doi.org/10.15497/rda00052) contains a software chapter coordinated by ReSA that provides guidelines to policy makers, funders, publishers, and the research community responding to COVID-19, 2020
 * [Evidence for the importance of research software](https://zenodo.org/record/3884311#.YeV3C1hBzJw), 2020
 
 ## Evidence for the importance of research software
