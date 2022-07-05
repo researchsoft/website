@@ -14,7 +14,7 @@ date = "2022-07-08"
   title = "Important Links"
   align = "right"
   sticky = true # Default is false
-  content = content = """
+  content = """
   * [Lorentz Centre](https://www.lorentzcenter.nl/about-us.html)
   * [Workshop Page](https://www.lorentzcenter.nl/vive-la-difference-research-software-engineers.html)
   * [Invitation to the event](https://www.researchsoft.org/events/2022-04/)
