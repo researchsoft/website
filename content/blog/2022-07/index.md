@@ -8,7 +8,7 @@ subtitle = "A hybrid DEI-focused workshop"
 title_align = "left"
 
 display_date = true
-date = "2022-07-05"
+date = "2022-07-12"
 
 [sidebar]
   title = "Important Links"
@@ -49,7 +49,9 @@ If you&#39;re interested in exploring this topic and sharing information with ot
 
 **To join the July meeting:**
 
-<button name="button" onclick="https://us02web.zoom.us/j/2187873236?pwd=cXpmZXQzalhMcGlUN0J1bWUzdVM3QT09">Join the zoom meeting on 19 July 11-12 UTC</button>
+Join the zoom meeting on 19 July 11-12 UTC
+
+https://us02web.zoom.us/j/2187873236?pwd=cXpmZXQzalhMcGlUN0J1bWUzdVM3QT09
 
 Zoom ID: 2187873236 and (passcode: 446688)
 
