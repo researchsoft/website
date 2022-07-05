@@ -8,7 +8,7 @@ subtitle = "A hybrid DEI-focused workshop"
 title_align = "left"
 
 display_date = true
-date = "2022-07-12"
+date = "2022-07-05"
 
 [sidebar]
   title = "Important Links"
