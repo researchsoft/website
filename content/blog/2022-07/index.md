@@ -17,13 +17,13 @@ date = "2022-07-12"
   content = """
   * [Lorentz Centre](https://www.lorentzcenter.nl/about-us.html)
   * [Workshop Page](https://www.lorentzcenter.nl/vive-la-difference-research-software-engineers.html)
-  * [Invitation to the event](https://www.researchsoft.org/events/2022-04/)
+  * [DOI: 10.5281/zenodo.6816193](https://zenodo.org/record/6816193#.YstWk-xBycZ)
   * [Community Forum calendar invite](https://drive.google.com/file/d/1b0Bd2OdKH5xRYf4HjclUot7lqKV4veU1/view)
   """
 
 +++
 
-How can we reframe research software engineering (RSE) to place diversity, equity, and inclusion (DEI) as a central organising principle in the community? This compelling question was the impetus for the [_Vive la différence - research software engineers_](https://www.researchsoft.org/events/2022-04/)[workshop](https://www.researchsoft.org/events/2022-04/), a hybrid event that took place both in person at the [Lorentz Center](https://www.lorentzcenter.nl/about-us.html) in Leiden, the Netherlands, from 19-22 April 2022; and online from March to April 2022. The workshop brought together 40 participants from across the globe, including representatives from international RSE communities and others interested in DEI.
+How can we reframe research software engineering (RSE) to place diversity, equity, and inclusion (DEI) as a central organising principle in the community? This compelling question was the impetus for the [_Vive la différence - research software engineers_](https://www.researchsoft.org/events/2022-04/)[workshop](https://10.5281/zenodo.6807755), a hybrid event that took place both in person at the [Lorentz Center](https://www.lorentzcenter.nl/about-us.html) in Leiden, the Netherlands, from 19-22 April 2022; and online from March to April 2022. The workshop brought together 40 participants from across the globe, including representatives from international RSE communities and others interested in DEI.
 
 The workshop offered a unique opportunity for a broad range of stakeholders – who had not previously collaborated – to analyse best practices and available data, identify research opportunities, and share experiences in solving their own local challenges. The workshop aimed to address two key questions: (1) _What approaches to repositioning DEI as central to the RSE community will prove most promising?_ and (2) _Which combinations of social processes and supporting technology show effectiveness in advancing the community of RSE workers to direct research toward a future centred on DEI?_
 
