@@ -50,7 +50,7 @@ To help us plan accessible meetings, please identify any requirements you may ha
 
 Sign up to receive the [Community Forum](https://landing.mailerlite.com/webforms/landing/o1n4v3) monthly calendar invites automatically.
 
-* 19 July 2022 11 am to 12 pm UTC. See the time in [your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Community+Forum&iso=20220719T11&p1=1440&ah=1 )
+* 19 July 2022 11 am to 12 pm UTC [convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Community+Forum&iso=20220719T11&p1=1440&ah=1 )
 [Zoom link](https://us02web.zoom.us/j/2187873236?pwd=cXpmZXQzalhMcGlUN0J1bWUzdVM3QT09)
 Passcode: 446688
 
