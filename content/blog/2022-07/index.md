@@ -22,6 +22,7 @@ date = "2022-07-12"
   """
 
 +++
+_Cross-posted by [Better Scientific Software (BSSw)](https://bssw.io/blog_posts/vive-la-difference-research-software-engineers-a-hybrid-dei-focused-workshop) and ReSA_.
 
 How can we reframe research software engineering (RSE) to place diversity, equity, and inclusion (DEI) as a central organising principle in the community? This compelling question was the impetus for the [_Vive la différence - research software engineers_](https://www.researchsoft.org/events/2022-04/)  [workshop](https://zenodo.org/record/6816193#.Ys1kIezMJhG), a hybrid event that took place both in person at the [Lorentz Center](https://www.lorentzcenter.nl/about-us.html) in Leiden, the Netherlands, from 19-22 April 2022; and online from March to April 2022. The workshop brought together 40 participants from across the globe, including representatives from international RSE communities and others interested in DEI.
 
