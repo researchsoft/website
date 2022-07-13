@@ -12,7 +12,7 @@ background = "white"
 ReSA outputs can provide useful references to support recognition and valuing of research software as a key component of research. Recent items include:
 
 * [FAIR Principles for Research Software](https://rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0), 2022
-* [Vive la différence - research software engineers](https://www.researchsoft.org/blog/2022-07/), outcomes of a hybrid workshop on centralising diversity, equity and inclusion at the heart of research software engineering. 2022
+* [Vive la différence - research software engineers](https://www.researchsoft.org/blog/2022-07/), outcomes of a hybrid workshop on centralising diversity, equity and inclusion at the heart of research software engineering, 2022
 * [Research software is essential for research data, so how should governments respond?](https://www.researchsoft.org/blog/2021-12/), 2021
 * [ReSA People Roadmap](https://www.researchsoft.org/documents/people-roadmap.pdf), 2021
 * [Overview of research software funding landscape](https://www.researchsoft.org/blog/2022-02-24/), 2021
