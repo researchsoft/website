@@ -17,7 +17,7 @@ date = "2022-07-12"
   content = """
   * [Lorentz Centre](https://www.lorentzcenter.nl/about-us.html)
   * [Workshop Page](https://www.lorentzcenter.nl/vive-la-difference-research-software-engineers.html)
-  * [DOI: 10.5281/zenodo.6816193](https://zenodo.org/record/6816193#.YstWk-xBycZ)
+  * [DOI: 10.5281/zenodo.6859709](https://zenodo.org/record/6859709#.YtY74OxBx24)
   * [Community Forum calendar invite](https://drive.google.com/file/d/1b0Bd2OdKH5xRYf4HjclUot7lqKV4veU1/view)
   """
 
@@ -44,7 +44,7 @@ ReSA is grateful to the Alfred P. Sloan Foundation, the Chan Zuckerberg Initiati
 
 ### Next steps
 
-A [full report](https://zenodo.org/record/6816193#.YstWk-xBycZ) written and edited collectively by workshop participants has been published. Speakers&#39; videos are available via ReSA&#39;s Lorentz Centre workshop YouTube [playlist](https://www.youtube.com/playlist?list=PL9LY1bVcxGJd8QhKQYgWd7jtArqrxw7oO). [Slides](https://drive.google.com/drive/u/0/folders/1zDauVIR5OSfU7Gt2pSNtb7AhZFdrpifN) are also publicly available.
+A [full report](https://zenodo.org/record/6859709#.YtY74OxBx24) written and edited collectively by workshop participants has been published. Speakers&#39; videos are available via ReSA&#39;s Lorentz Centre workshop YouTube [playlist](https://www.youtube.com/playlist?list=PL9LY1bVcxGJd8QhKQYgWd7jtArqrxw7oO). [Slides](https://drive.google.com/drive/u/0/folders/1zDauVIR5OSfU7Gt2pSNtb7AhZFdrpifN) are also publicly available.
 
 If you&#39;re interested in exploring this topic and sharing information with others in the global research software community, please join ReSA&#39;s monthly [Community Forum](https://www.researchsoft.org/events/2022-06/). The first call will take place on **19 July 11-12 UTC** ([convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Community+Forum&amp;iso=20220719T11&amp;p1=1440&amp;ah=1)). Dr. Michelle Barker, ReSA Director, will give a short talk on the outcomes of the _Vive la différence - research software engineers_ workshop. To receive calendar invites and agendas for ReSA&#39;s monthly Community Forum meetings, please sign up [here](https://landing.mailerlite.com/webforms/landing/o1n4v3).
 
