@@ -52,6 +52,7 @@ Sign up to receive the [Community Forum](https://landing.mailerlite.com/webforms
 
 * 15 August 2022, 17:00–18:00 UTC ([convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Community+Forum+&iso=20220815T17&p1=1440&ah=1)), 
 [zoom link](https://us02web.zoom.us/j/2187873236?pwd=cXpmZXQzalhMcGlUN0J1bWUzdVM3QT09) and passcode: 446688
+Download a [calendar invite](https://drive.google.com/file/d/1E2dcMYIoKJKtelJ3t9kSUr8S3xJ4XbfX/view)
 
 ### Past calls:
 
