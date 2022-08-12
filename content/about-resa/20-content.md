@@ -12,6 +12,6 @@ The vision of the Research Software Alliance (ReSA) is that research software an
 A [wide range](https://arxiv.org/abs/1811.08473) of research software organisations and programs exist internationally to address the varied challenges in
 software productivity, quality, reproducibility, and sustainability. ReSA aims to coordinate across these efforts to leverage investments, to achieve shared goals. The [ReSA Strategic Plan](https://www.researchsoft.org/documents/Strategic_Plan_2021-23.pdf) provides details and a opportunity to [comment](https://github.com/researchsoft/website/discussions/5). The [ReSA engagement plan for 2021](https://www.researchsoft.org/documents/Engagement_Plan_2021.pdf) contains more information on how community engagement occurs.
 
-ReSA is a fiscally sponsored project of [Code for Science & Society](https://codeforscience.org/).
+ReSA is a fiscally sponsored project of [Code for Science & Society](https://codeforscience.org/) and led by the ReSA [Steering Committee](https://www.researchsoft.org/people/). An open call for Steering Committee members occurred in 2020 to add new members.
 
 Members of the ReSA community are expected to adhere to the ReSA [Code of Conduct](https://www.researchsoft.org/code-of-conduct/).
