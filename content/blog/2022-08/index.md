@@ -8,7 +8,7 @@ title = "FAIR for Research Software (FAIR4RS): A summary"
 title_align = "left"
 
 display_date = true
-date = "2022-08-22"
+date = "2022-08-15"
 
 [sidebar]
   title = "Important Links"
@@ -101,13 +101,13 @@ F4. Metadata are FAIR, searchable and indexable.
 
 
 
-A: Software, and its metadata, is retrievable via standardised protocols. 
+A: Software, and its metadata, is retrievable via standardized protocols. 
 
-A1. Software is retrievable by its identifier using a standardised communications protocol.
+A1. Software is retrievable by its identifier using a standardized communications protocol.
 
 A1.1. The protocol is open, free, and universally implementable.
 
-A1.2. The protocol allows for an authentication and authorisation procedure, where necessary.
+A1.2. The protocol allows for an authentication and authorization procedure, where necessary.
 
 A2. Metadata are accessible, even when the software is no longer available.
 
