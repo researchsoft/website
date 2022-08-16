@@ -55,7 +55,7 @@ Sign up to receive the [Community Forum](https://landing.mailerlite.com/webforms
 ### Past calls:
 
 * 5 August 2022, 17:00–18:00 UTC, [agenda](https://drive.google.com/drive/folders/1MN6ahMk-gts6iYuXbct8TbgI-oeJ_Pj_)
-* 19 July 2022 11:00-12:00 UTC, [agenda](https://docs.google.com/document/d/1tRaqpolrr_LOxyHjvBNUvHgze16IkQ9uUD4HuHU1gAM/edit).
+* 19 July 2022 11:00-12:00 UTC, [agenda](https://docs.google.com/document/d/1tRaqpolrr_LOxyHjvBNUvHgze16IkQ9uUD4HuHU1gAM/edit)
 
 
 Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sharon McCutcheon</a> on <a href="https://unsplash.com/s/photos/connected-dots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
