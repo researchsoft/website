@@ -25,7 +25,7 @@ date = "2022-08-15"
   
 +++
 
-_July, 2022_  
+_August, 2022_  
 
 Authors: Daniel S. Katz, Tom Honeyman, Paula Andrea Martinez, Michelle Barker, Leyla Jael Castro, Neil Chue Hong, Morane Gruenpeter, Jennifer Harrow, Anna-Lena Lamprecht, Carlos Martinez-Ortiz, Fotis Psomopoulos
 
