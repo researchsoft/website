@@ -101,6 +101,12 @@ version = "0.17.3"
   url = "/contact/"
   pre = "fa fa-envelope"
 
+[[menu.footer_social]]
+  weight = 50
+  name = "slack"
+  url = "https://join.slack.com/t/researchsoft/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w"
+  pre = "fab fa-slack"
+
 [[menu.copyright_footer]]
   url = "/license"
   name = "License"
