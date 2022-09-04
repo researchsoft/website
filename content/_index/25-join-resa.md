@@ -11,6 +11,7 @@ In line with this mission, ReSA offers opportunities for community members repre
 
 You can become involved by: 
 
+  - Come to our monthly [Research Softaware Community Froum](https://www.researchsoft.org/events/2022-06/)
   - Joining [task forces](./taskforces/) focused on specific activities 
   - Receiving updates through our regular [newsletter](./news/) 
   - Helping to raise awareness of the importance of software in research through use of [ReSA resources](./resa-resources/)
