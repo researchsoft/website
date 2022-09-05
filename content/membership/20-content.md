@@ -68,5 +68,5 @@ Please contact Michelle Barker, [michelle@researchsoft.org](mailto:michelle@rese
 
 ## Founding Members 
 
-<img src="ReSAFoundingMembersSquare.jpg" width="450" height="350"/>
+<img src="ReSAFoundingMembersSquare.jpg" width="500" height="350"/>
 
