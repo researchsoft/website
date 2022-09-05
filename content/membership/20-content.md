@@ -46,12 +46,12 @@ By joining us, you will have the opportunity to collaborate with decision makers
 **To become a ReSA Organisational Member**, please [provide your organisational details and nominate a payment method](https://airtable.com/shrI5UKJesqNoFiD7). Invoices or formal agreements can be provided where needed.
 
 # Recent ReSA Achievements
-- Influencing of national government policies through international OECD recommendations
-- Creation of a community of research software funders to better coordinate global investment
-- Development of COVID-19 research software sharing guidelines for policy makers, funders, publishers and the research community
-- Provision of resources to raise awareness of the importance of software in research
-- Facilitation of international consultation to identify community priorities
-- Hosting of global community events 
+- Influencing of national government policies through international [OECD recommendations](https://www.oecd.org/sti/recommendation-access-to-research-data-from-public-funding.htm)
+- Creation of a [community of research software funders](https://www.researchsoft.org/funders-forum/) to better coordinate global investment
+- Development of [COVID-19 research software sharing guidelines](https://zenodo.org/record/3932953#.Xx_f7Z4za70) for policy makers, funders, publishers and the research community
+- Provision of [resources](https://www.researchsoft.org/resa-resources/) to raise awareness of the importance of software in research
+- Facilitation of [international consultation](https://www.researchsoft.org/resa-resources/) to identify community priorities
+- Hosting of global community events including the regular [Research Software Funders Forum](https://www.researchsoft.org/events/2022-06/)
 
 ## Enquiries
 Please contact Michelle Barker, [michelle@researchsoft.org](mailto:michelle@researchsoft.org).    
