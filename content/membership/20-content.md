@@ -24,35 +24,9 @@ By joining us, you will have the opportunity to collaborate with decision makers
 - Receive regular communications
 - ReSA Organisational Member Logo 
 
-![ReSAOrganisationalMember]("../../static/images/ReSAOrganisationalMember.jpg")
-
 ## How to join
 
 **To become a ReSA Organisational Member**, please [provide your organisational details and nominate a payment method](https://airtable.com/shrI5UKJesqNoFiD7) to our fiscal sponsor, [Code for Science and Society](https://codeforscience.org/). Invoices or formal agreements can be provided where needed.
-
-## Costs
-
-<style>
-  table {
-    border: 1px solid;
-  }
-  table thead td {
-    border: 1px solid;
-  }
- background-color: #1e6439;
- color: #ffffff;
- font-weight: bold;
- font-size: 13px;
- border: 1px solid;
-}
-</style>
-
-|Category  | Annual Investment  |
-|---|---:|
-|Organisational Members from Global South|US$1,000|
-|Organisational Members from Global North|US$2,500|
-|Sustaining Organisational Members. Additional benefits include: <br>- A higher-level commitment of support to ReSA<br>- Public recognition of this commitment as an Sustaining Organisational Member of ReSA<br>- Priority placement on ReSA website and other lists of members<br>- Annual opportunity for 1:1 discussion with ReSA officers|US$5,000|
-
 
 
 ## Recent ReSA Achievements
@@ -68,5 +42,5 @@ Please contact Michelle Barker, [michelle@researchsoft.org](mailto:michelle@rese
 
 ## Founding Members 
 
-<img src="ReSAFoundingMembersSquare.jpg" width="500" height="350"/>
+<img src="ReSAFoundingMembersSquare.jpg">
 
