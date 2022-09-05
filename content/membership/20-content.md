@@ -35,9 +35,9 @@ By joining us, you will have the opportunity to collaborate with decision makers
 
 |Category  | Annual Investment  |
 |---|---:|
-|Organisational Members from Global South|US$1000|
-|Organisational Members from Global North|US$2500|
-|Sustaining Organisational Members. Additional benefits include: <br>- A higher-level commitment of support to ReSA<br>- Public recognition of this commitment as an Sustaining Organisational Member of ReSA<br>- Priority placement on ReSA website and other lists of members<br>- Annual opportunity for 1:1 discussion with ReSA officers|US$5000+|
+|Organisational Members from Global South|US$1,000|
+|Organisational Members from Global North|US$2,500|
+|Sustaining Organisational Members. Additional benefits include: <br>- A higher-level commitment of support to ReSA<br>- Public recognition of this commitment as an Sustaining Organisational Member of ReSA<br>- Priority placement on ReSA website and other lists of members<br>- Annual opportunity for 1:1 discussion with ReSA officers|US$5,000+|
 
 
 
