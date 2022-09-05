@@ -45,10 +45,23 @@ version = "0.17.3"
   name = "Task forces"
   weight = 20
 
-  [[menu.main]]
-    url = "/funders-forum"
-    name = "Funders forum"
-    weight = 30
+[[menu.main]]
+  identifier = "/forums"
+  name = "Forums"
+  weight = 30
+  
+[[menu.main]]
+  parent = "/funders-forum"
+  url = "/funders-forum"
+  name = "Funders Forum"
+  weight = 31
+
+[[menu.main]]
+  parent = "/funders-forum"
+  url = "/community-forum"
+  name = "Community Forum"
+  weight = 32
+  
 
 [[menu.main]]
   identifier = "/resa-resources"
