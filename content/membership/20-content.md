@@ -24,10 +24,15 @@ By joining us, you will have the opportunity to collaborate with decision makers
 - Receive regular communications
 
 <style>
-  table th { background-color: #50C878!important; }
-  tr:nth-child(even) {
-    background-color: #50C878!important;
-    color: #f4f4f4!important;
+  table {
+    border: 1px solid;
+  }
+  table thead td {
+	  background-color: #1e6439;
+	  color: #ffffff;
+	  font-weight: bold;
+	  font-size: 13px;
+	  border: 1px solid;
 }
 </style>
 
@@ -52,5 +57,5 @@ By joining us, you will have the opportunity to collaborate with decision makers
 Please contact Michelle Barker, [michelle@researchsoft.org](mailto:michelle@researchsoft.org).    
 
 ## Founding Members 
-<img src="/static/images/ReSAFoundingMembersSquare.jpg" alt="ReSA Founding Members" title="ReSA Founding Members" style="width:500px;height:350px;">
+<img src="../static/images/ReSAFoundingMembersSquare.jpg" alt="ReSA Founding Members" title="ReSA Founding Members" style="width:500px;height:350px;">
 
