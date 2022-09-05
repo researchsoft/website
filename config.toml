@@ -51,13 +51,13 @@ version = "0.17.3"
   weight = 30
   
 [[menu.main]]
-  parent = "/funders-forum"
+  parent = "/forums"
   url = "/funders-forum"
   name = "Funders Forum"
   weight = 31
 
 [[menu.main]]
-  parent = "/funders-forum"
+  parent = "/forums"
   url = "/community-forum"
   name = "Community Forum"
   weight = 32
