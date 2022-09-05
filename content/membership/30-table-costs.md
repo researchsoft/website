@@ -15,6 +15,10 @@ title_align = "left" # Default is center, can be left, right or center
 
   [[header.values]]
     text = "Annual Investment"
+    
+  [[header.values]]
+    text = ""
+    immage = "ReSAOrganisationalMember.jpg"
 
 [[rows]]
   [[rows.values]]
@@ -47,4 +51,5 @@ title_align = "left" # Default is center, can be left, right or center
   [[rows.values]]
     text = "US$5,000"
     align = "right"
+    
 +++
