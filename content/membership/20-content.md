@@ -23,8 +23,6 @@ By joining us, you will have the opportunity to collaborate with decision makers
 - Attend global community events
 - Receive regular communications
 
-# Organisational Membership Investment
-
 <style>
   table th { background-color: #50C878!important; }
   tr:nth-child(even) {
