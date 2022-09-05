@@ -23,6 +23,7 @@ By joining us, you will have the opportunity to collaborate with decision makers
 - Attend global community events
 - Receive regular communications
 - ReSA Organisational Member Logo 
+<img src="ReSAOrganisationalMember.jpg">
 
 ## How to join
 
