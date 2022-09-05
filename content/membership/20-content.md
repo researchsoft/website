@@ -24,13 +24,28 @@ By joining us, you will have the opportunity to collaborate with decision makers
 - Receive regular communications
 - ReSA Organisational Member Logo 
 
-![ReSAOrganisationalMember](/static/images/ReSAOrganisationalMember.jpg)
+![ReSAOrganisationalMember](../../static/images/ReSAOrganisationalMember.jpg)
 
 ## How to join
 
 **To become a ReSA Organisational Member**, please [provide your organisational details and nominate a payment method](https://airtable.com/shrI5UKJesqNoFiD7) to our fiscal sponsor, [Code for Science and Society](https://codeforscience.org/). Invoices or formal agreements can be provided where needed.
 
 ## Costs
+
+<style>
+  table {
+    border: 1px solid;
+  }
+  table thead td {
+    border: 1px solid;
+  }
+ background-color: #1e6439;
+ color: #ffffff;
+ font-weight: bold;
+ font-size: 13px;
+ border: 1px solid;
+}
+</style>
 
 |Category  | Annual Investment  |
 |---|---:|
@@ -53,5 +68,5 @@ Please contact Michelle Barker, [michelle@researchsoft.org](mailto:michelle@rese
 
 ## Founding Members 
 
-![ReSAFoundingMembers](/static/images/ReSAFoundingMembersSquare.jpg)
+![ReSAFoundingMembers](../../static/images/ReSAFoundingMembersSquare.jpg)
 
