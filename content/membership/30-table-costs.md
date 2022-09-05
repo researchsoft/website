@@ -34,11 +34,11 @@ title_align = "left" # Default is center, can be left, right or center
 
 [[rows]]
   [[rows.values]]
-    text = "Sustaining Organisational Members. Additional benefits include:
+    text = """Sustaining Organisational Members. Additional benefits include:
 - A higher-level commitment of support to ReSA
 - Public recognition of this commitment as an Sustaining Organisational Member of ReSA
 - Priority placement on ReSA website and other lists of members
-- Annual opportunity for 1:1 discussion with ReSA officers"
+- Annual opportunity for 1:1 discussion with ReSA officers"""
 
   [[rows.values]]
     text = "US$5,000"
