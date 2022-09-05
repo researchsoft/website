@@ -27,18 +27,7 @@ By joining us, you will have the opportunity to collaborate with decision makers
 ## How to join
 **To become a ReSA Organisational Member**, please [provide your organisational details and nominate a payment method](https://airtable.com/shrI5UKJesqNoFiD7) to our fiscal sponsor, [Code for Science and Society](https://codeforscience.org/). Invoices or formal agreements can be provided where needed.
 
-<style>
-  table {
-    border: 1px solid;
-  }
-  table thead td {
-	  background-color: #1e6439;
-	  color: #ffffff;
-	  font-weight: bold;
-	  font-size: 13px;
-	  border: 1px solid;
-}
-</style>
+
 
 |Category  | Annual Investment  |
 |---|---:|
@@ -58,5 +47,5 @@ By joining us, you will have the opportunity to collaborate with decision makers
 Please contact Michelle Barker, [michelle@researchsoft.org](mailto:michelle@researchsoft.org).    
 
 ## Founding Members 
-<img src="../static/images/ReSAFoundingMembersSquare.jpg" alt="ReSA Founding Members" title="ReSA Founding Members" style="width:500px;height:350px;">
+<img src="../../static/images/ReSAFoundingMembersSquare.jpg" alt="ReSA Founding Members" title="ReSA Founding Members" style="width:500px;height:350px;">
 
