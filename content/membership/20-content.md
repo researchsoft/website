@@ -41,6 +41,7 @@ By joining us, you will have the opportunity to collaborate with decision makers
 
 
 
+
 # Recent ReSA Achievements
 - Influencing of national government policies through international OECD recommendations
 - Creation of a community of research software funders to better coordinate global investment
