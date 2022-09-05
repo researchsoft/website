@@ -5,12 +5,12 @@ weight = 20
 background = "white"
 +++
 
-# Welcome to ReSA
+## Welcome to ReSA
 ReSA brings research software communities together to collaborate on the advancement of the research software ecosystem.
 *ReSA organisational membership** will demonstrate your commitment to international collaboration and innovation for research, by supporting the ReSA vision that research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide.
 By joining us, you will have the opportunity to collaborate with decision makers and key influencers to create outcomes that will achieve both your goals and those of the international community. 
 
-# Organisational Membership Benefits 
+## Organisational Membership Benefits 
 - Influence at the international level
 - Access to decision makers and key influencers 
 - Collaborate with the international research software community to solve common issues
@@ -24,7 +24,7 @@ By joining us, you will have the opportunity to collaborate with decision makers
 - Receive regular communications
 
 
-# How to join
+## How to join
 **To become a ReSA Organisational Member**, please [provide your organisational details and nominate a payment method](https://airtable.com/shrI5UKJesqNoFiD7). Invoices or formal agreements can be provided where needed.
 
 <style>
@@ -46,7 +46,7 @@ By joining us, you will have the opportunity to collaborate with decision makers
 |Organisational Members from Global North|US$2,500|
 |Sustaining Organisational Members. Additional benefits include: <br>- A higher-level commitment of support to ReSA<br>- Public recognition of this commitment as an Sustaining Organisational Member of ReSA<br>- Priority placement on ReSA website and other lists of members<br>- Annual opportunity for 1:1 discussion with ReSA officers|US$5,000|
 
-# Recent ReSA Achievements
+## Recent ReSA Achievements
 - Influencing of national government policies through international [OECD recommendations](https://www.oecd.org/sti/recommendation-access-to-research-data-from-public-funding.htm)
 - Creation of a [community of research software funders](https://www.researchsoft.org/funders-forum/) to better coordinate global investment
 - Development of [COVID-19 research software sharing guidelines](https://zenodo.org/record/3932953#.Xx_f7Z4za70) for policy makers, funders, publishers and the research community
