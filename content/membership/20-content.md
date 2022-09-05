@@ -25,7 +25,7 @@ By joining us, you will have the opportunity to collaborate with decision makers
 
 
 ## How to join
-**To become a ReSA Organisational Member**, please [provide your organisational details and nominate a payment method](https://airtable.com/shrI5UKJesqNoFiD7). Invoices or formal agreements can be provided where needed.
+**To become a ReSA Organisational Member**, please [provide your organisational details and nominate a payment method](https://airtable.com/shrI5UKJesqNoFiD7) to our fiscal sponsor, [Code for Science and Society](https://codeforscience.org/). Invoices or formal agreements can be provided where needed.
 
 <style>
   table {
