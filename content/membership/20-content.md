@@ -24,7 +24,7 @@ By joining us, you will have the opportunity to collaborate with decision makers
 - Receive regular communications
 - ReSA Organisational Member Logo 
 
-![ReSAOrganisationalMember](../../static/images/ReSAOrganisationalMember.jpg)
+![ReSAOrganisationalMember]("../../static/images/ReSAOrganisationalMember.jpg")
 
 ## How to join
 
@@ -68,5 +68,5 @@ Please contact Michelle Barker, [michelle@researchsoft.org](mailto:michelle@rese
 
 ## Founding Members 
 
-<img src="ReSAFoundingMembersSquare.jpg" width="350" height="350"/>
+<img src="ReSAFoundingMembersSquare.jpg" width="450" height="350"/>
 
