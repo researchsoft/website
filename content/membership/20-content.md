@@ -68,5 +68,6 @@ Please contact Michelle Barker, [michelle@researchsoft.org](mailto:michelle@rese
 
 ## Founding Members 
 
-![ReSAFoundingMembers](../../static/images/ReSAFoundingMembersSquare.jpg)
+{{ $image := .Resources.GetMatch "ReSAFoundingMembersSquare.jpg" }}
+<img src="{{ $image.RelPermalink }}" width="350" height="350">
 
