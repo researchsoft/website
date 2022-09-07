@@ -46,7 +46,7 @@ The Community Forum aims to provide a welcoming and inclusive environment, and t
 ### Accessibility
 To help us plan accessible meetings, please identify any requirements you may have by [contacting ReSA](https://www.researchsoft.org/contact/).
 
-### Upcominig calls:
+### Upcoming calls:
 
 Sign up to receive the [Community Forum](https://landing.mailerlite.com/webforms/landing/o1n4v3) monthly calendar invites automatically.
 
