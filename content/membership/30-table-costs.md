@@ -3,7 +3,7 @@ fragment = "table"
 #disabled = false
 date = "2022-09-06"
 weight = 30
-background = "dark"
+background = "white"
 
 title = "Annual Investment"
 title_align = "left" # Default is center, can be left, right or center
