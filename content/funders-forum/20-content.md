@@ -29,15 +29,15 @@ Funding organisations that have engaged include:
 - Cancer Research UK
 - Chan Zuckerberg Initiative (CZI)
 - Department of Energy (DoE)
-- Digital Research Alliance of Canada (the Alliance)
+- Digital Research Alliance of Canada 
 - Dutch Research Council (NWO)
 - Engineering and Physical Sciences Research Council (EPSRC)
-- European Commission (EC)
+- European Commission
 - German Research Foundation (DFG)
 - Japan Agency for Medical Research and Development (AMED)
 - Japan Science and Technology Agency (JST)
 - Medical Research Council (UKRI)
-- NASA Open Source Science Initiative
+- NASA
 - National Institutes of Health (NIH)
 - Netherlands eScience Center (NLeSC)
 - Nordic eInfrastructure Collaboration (NeIC)
