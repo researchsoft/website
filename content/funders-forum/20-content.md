@@ -21,5 +21,32 @@ The Research Software Funders Forum aims to provide a formal mechanism to increa
 
 Membership is open to any initiative that funds research software and is free to all participants in 2022. In late 2022 the Funders Forum will review its functioning for 2023, which may include continuing with a free membership model, or transitioning to a paid membership model used by forums such as the [Open Research Funders Group](https://www.orfg.org/). To join please contact [info@researchsoft.org](mailto:info@researchsoft.org).
 
+Funding organisations that have engaged include:
+
+- Alfred P. Sloan Foundation
+- Australian Research Data Commons (ARDC)
+- Biotechnology and Biological Sciences Research Council (BBSRC)
+- Cancer Research UK
+- Chan Zuckerberg Initiative (CZI)
+- Department of Energy (DoE)
+- Digital Research Alliance of Canada (the Alliance)
+- Dutch Research Council (NWO)
+- Engineering and Physical Sciences Research Council (EPSRC)
+- European Commission (EC)
+- German Research Foundation (DFG)
+- Japan Agency for Medical Research and Development (AMED)
+- Japan Science and Technology Agency (JST)
+- Medical Research Council (UKRI)
+- NASA Open Source Science Initiative
+- National Institutes of Health (NIH)
+- Netherlands eScience Center (NLeSC)
+- Nordic eInfrastructure Collaboration (NeIC)
+- Oracle for Research
+- Sage Publishing
+- São Paulo Research Foundation (FAPESP)
+- Schmidt Futures
+- Social Sciences and Humanities Research Council (SSHRC)
+- UK Research and Innovation (UKRI)
+- Volkswagen Foundation
 
 
