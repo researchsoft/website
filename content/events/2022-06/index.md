@@ -50,8 +50,8 @@ To help us plan accessible meetings, please identify any requirements you may ha
 
 **Sign up to receive the [Community Forum](https://landing.mailerlite.com/webforms/landing/o1n4v3) monthly calendar invites automatically**.
 
-* **12 October, 03:00–04:00 UTC** ([convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ReSA+Community+Forum+&iso=20221012T03&p1=1440&ah=1)), see [agenda](https://docs.google.com/document/d/10QO3F_1_rHHHrDHwXQchPaohmbJmq-uG6cmxLV4xe-U/edit) for connection information or download a [calendar invite](https://drive.google.com/file/d/1o2lkLHaA2zERIuWL5ZYevuXIr1S55P_s/view).
-
+* **12 October, 03:00–04:00 UTC** ([convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ReSA+Community+Forum+&iso=20221012T03&p1=1440&ah=1)), see [agenda](https://docs.google.com/document/d/10QO3F_1_rHHHrDHwXQchPaohmbJmq-uG6cmxLV4xe-U/edit) for connection information or download a [calendar invite](https://drive.google.com/file/d/1o2lkLHaA2zERIuWL5ZYevuXIr1S55P_s/view). This month's meeting is jointly convened with [RSE Australian/New Zealand](rse-aunz.org) and the [Visible Research Software Interest Group](https://bit.ly/vrs-ig)
+.
 ### Past calls:
 
 * 14 September, 23:00 UTC, see [agenda](https://docs.google.com/document/d/18679k_7PFSQGn2amhHiy1Py4XdK4jhQXko613CBWarA/edit) and [slides](https://docs.google.com/presentation/d/1yVic0jUJjuZKGLHuWUgmDqMteVgcBg641Jm3heAPC-A/edit#slide=id.gf0a02d822b_2_48) for talk by Tom Honeyman, Software Program Manager for the Australian Research Data Commons (ARDC) about aligning publisher policies for sharing code.
