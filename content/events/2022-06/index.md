@@ -54,8 +54,10 @@ To help us plan accessible meetings, please identify any requirements you may ha
 
 ### Past calls:
 
-* 14 September, 23:00 UTC, see [agenda](https://docs.google.com/document/d/18679k_7PFSQGn2amhHiy1Py4XdK4jhQXko613CBWarA/edit) and [slides](https://docs.google.com/presentation/d/1yVic0jUJjuZKGLHuWUgmDqMteVgcBg641Jm3heAPC-A/edit#slide=id.gf0a02d822b_2_48) for details of talk by Dr Tom Honeyman, Software Program Manager for the Australian Research Data Commons (ARDC) about aligning publisher policies for sharing code.
-* 5 August 2022, 17:00–18:00 UTC, [agenda](https://drive.google.com/drive/folders/1MN6ahMk-gts6iYuXbct8TbgI-oeJ_Pj_)
+* 14 September, 23:00 UTC, see [agenda](https://docs.google.com/document/d/18679k_7PFSQGn2amhHiy1Py4XdK4jhQXko613CBWarA/edit) and [slides](https://docs.google.com/presentation/d/1yVic0jUJjuZKGLHuWUgmDqMteVgcBg641Jm3heAPC-A/edit#slide=id.gf0a02d822b_2_48) for talk by Dr Tom Honeyman, Software Program Manager for the Australian Research Data Commons (ARDC) about aligning publisher policies for sharing code.
+* 5 August 2022, 17:00–18:00 UTC, see [agenda](https://drive.google.com/drive/folders/1MN6ahMk-gts6iYuXbct8TbgI-oeJ_Pj_) and [slides](https://drive.google.com/drive/folders/1MN6ahMk-gts6iYuXbct8TbgI-oeJ_Pj_) for talk by Qian Zhang, Digital Research Alliance of Canada, on the Research Software Roadmap.
+Questions: RS-LR@alliancecan.ca 
+Slides 
 * 19 July 2022 11:00-12:00 UTC, [agenda](https://docs.google.com/document/d/1tRaqpolrr_LOxyHjvBNUvHgze16IkQ9uUD4HuHU1gAM/edit)
 
 
