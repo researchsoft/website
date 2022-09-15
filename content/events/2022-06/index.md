@@ -48,13 +48,13 @@ To help us plan accessible meetings, please identify any requirements you may ha
 
 ### Upcoming calls:
 
-Sign up to receive the [Community Forum](https://landing.mailerlite.com/webforms/landing/o1n4v3) monthly calendar invites automatically.
+**Sign up to receive the [Community Forum](https://landing.mailerlite.com/webforms/landing/o1n4v3) monthly calendar invites automatically**.
 
-* **14 September, 23:00 UTC** ([convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Community+Forum&iso=20220914T23&p1=%3A&ah=1)), see [agenda](https://docs.google.com/document/d/18679k_7PFSQGn2amhHiy1Py4XdK4jhQXko613CBWarA/edit) for connection information or download a [calendar invite](https://drive.google.com/file/d/1uIO-LEiEC5Jtaw_RxoskQxxePvP-J4WJ/view?usp=sharing). Dr Tom Honeyman, Software Program Manager for the Australian Research Data Commons (ARDC), will speak about aligning publisher policies for sharing code.
 * **12 October, 03:00–04:0 0UTC** ([convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ReSA+Community+Forum+&iso=20221012T03&p1=1440&ah=1)), see [agenda](https://docs.google.com/document/d/10QO3F_1_rHHHrDHwXQchPaohmbJmq-uG6cmxLV4xe-U/edit) for connection information or download a [calendar invite](https://drive.google.com/file/d/1o2lkLHaA2zERIuWL5ZYevuXIr1S55P_s/view).
 
 ### Past calls:
 
+* 14 September, 23:00 UTC, see [agenda](https://docs.google.com/document/d/18679k_7PFSQGn2amhHiy1Py4XdK4jhQXko613CBWarA/edit) for details of talk by Dr Tom Honeyman, Software Program Manager for the Australian Research Data Commons (ARDC) about aligning publisher policies for sharing code.
 * 5 August 2022, 17:00–18:00 UTC, [agenda](https://drive.google.com/drive/folders/1MN6ahMk-gts6iYuXbct8TbgI-oeJ_Pj_)
 * 19 July 2022 11:00-12:00 UTC, [agenda](https://docs.google.com/document/d/1tRaqpolrr_LOxyHjvBNUvHgze16IkQ9uUD4HuHU1gAM/edit)
 
