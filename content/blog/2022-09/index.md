@@ -15,6 +15,7 @@ date = "2022-09-28"
   align = "right"
   #sticky = true # Default is false
   content = """
+  * [DOI: 10.5281/zenodo.7117842](https://zenodo.org/record/7117842#.YzOwGOxByUl)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
@@ -26,6 +27,7 @@ date = "2022-09-28"
 _September, 2022_  
 
 Authors: Michelle Barker and Daniel S. Katz
+DOI: [10.5281/zenodo.7117842](https://zenodo.org/record/7117842#.YzOwGOxByUl)
 
 ## 1. Introduction
 
