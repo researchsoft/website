@@ -55,7 +55,7 @@ This section examines how to achieve this across three areas: encouraging entry,
 
 This covers two areas: encouraging entry and ensuring diversity in this.
 
-(*3.1.1 Encouraging entry*)
+*3.1.1 Encouraging entry*
 
 The community of RSEs itself recognises this issue. [What do we (not) know about RSE?](http://doi.org/10.5281/zenodo.6395908), a crowd-sourced exercise to create an inventory of research questions about RSE that it would be beneficial to answer, prioritised questions including:
 
@@ -67,7 +67,7 @@ Consideration of this area could include broadening awareness of the opportunity
 
 There is little on encouraging pipelines specifically into research software careers because there is no real career track to highlight. Consequently, what there is tends to focus more on research staff who are interested in improving their RSE skills through training initiatives such as [the Carpentries](https://carpentries.org/), [Code Refinery](https://coderefinery.org/), [INnovative Training Enabled by a Research Software Engineering Community of Trainers (INTERSECT)](https://intersect-training.org/overview/), etc. 
 
-(_3.1.2 Ensuring diversity_)
+_3.1.2 Ensuring diversity_
 
 Some of the small pieces of study on diversity in the research software community include: 
 
@@ -89,7 +89,7 @@ However, there is broader work on entry into computer science that could be usef
 
 This covers two areas: retention of staff and inclusive practices.
 
-(_3.2.1 Retention of staff_)
+_3.2.1 Retention of staff_
 
 The need for recognition, career paths, and inclusion is well recognised in the broader community through initiatives for change in research assessment practices such as the [San Francisco Declaration on Research Assessment](https://sfdora.org/) (DORA) and the European [Agreement on Reforming Research Assessment](https://research-and-innovation.ec.europa.eu/system/files/2022-07/rra-agreement-2022.pdf). Some work is more specifically focused on digital research careers; for example, [Professionalisation in Cyberinfrastructure](https://papers.ssrn.com/abstract=3138592) addresses whether the cyberinfrastructure community should professionalise as it continues to encourage participation in cyberinfrastructure-related occupations, provide a career path, and continue to gain academic legitimacy. The community-created list of questions resulting from [What do we (not) know about RSE?](http://doi.org/10.5281/zenodo.6395908) also prioritised questions relevant to retention, including:
 
@@ -113,7 +113,7 @@ National level solutions are generally lacking, but there are career paths for p
 
 There are some good examples for other emerging digital research professions such as data stewards, where work is more mature on some of these topics. For example, the [European Open Science Cloud (EOSC) Association Task Force on data stewardship curricula and career paths](https://www.fairsfair.eu/sites/default/files/20210915_EOSC-A_TaskForcePresentation_Training%20the%20trainers.pdf) aims to define a minimal data stewardship curricula, and career paths for data stewards and associated roles. This builds on work including [Towards FAIR data steward as profession for the lifesciences, and Professionalising data stewardship in the Netherlands. Competences, training and education: Dutch roadmap towards national implementation of FAIR data stewardship](http://doi.org/10.5281/zenodo.3471708). Similarly, the Research Data Alliance (RDA) [Professionalising data stewardship Interest Group](https://www.rd-alliance.org/groups/professionalising-data-stewardship-ig) is tackling challenges related to business cases, job profiles, training, career tracks and certification.
 
-(*3.2.2 Inclusive practices*)
+*3.2.2 Inclusive practices*
 
 Research on inclusive practices for research software staff is limited, with more resources coming from similar discussions in the open source community. These address the different aspects of diversity and inclusion in software engineering, as well as the tools, methods, and practices proposed to foster diversity and to build inclusive software teams, inclusive development environments, and inclusive software that supports a diverse user-base. ReSA’s [Report on Vive la Différence - Research Software Engineers](https://zenodo.org/record/6859709#.Yxbn0exBzok) identifies some of the social science approaches to developing diverse research software communities and teams from this broader perspective. 
 
