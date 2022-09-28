@@ -10,42 +10,81 @@ title_align = "left" # Default is center, can be left, right or center
 
 [header]
   [[header.values]]
-    text = "Category"
-    # hide_on_mobile = true
+    text = "Number of employees"
 
   [[header.values]]
-    text = "Annual Investment"
+    text = "High income Country Not-For-Profit (USD$)"
+
+  [[header.values]]
+    text = "High income Country For-Profit (USD$)"
+    
+  [[header.values]]
+    text = "Low/Middle income Country Not-For-Profit (USD$)"
+
+  [[header.values]]
+    text = "Low/Middle income Country For-Profit (USD$)"
 
 [[rows]]
   [[rows.values]]
-    text = "Organisational Members from Global South"
-    align = "left"
-
+    text = "< 150"
+     align = "right"
+    
   [[rows.values]]
-    text = "US$1,000"
+    text = "$2,500"
+    align = "right"
+    
+  [[rows.values]]
+    text = "$4,000"
     align = "right"
 
-[[rows]]
   [[rows.values]]
-    text = "Organisational Members from Global North"
-    align = "left"
-
-  [[rows.values]]
-    text = "US$2,500"
+    text = "$500"
     align = "right"
 
-[[rows]]
   [[rows.values]]
-    text = """Sustaining Organisational Members. Additional benefits include:
-- A higher-level commitment of support to ReSA
-- Public recognition of this commitment as an Sustaining Organisational Member of ReSA
-- Priority placement on ReSA website and other lists of members
-- Annual opportunity for 1:1 discussion with ReSA officers
-"""
-   align = "left"
+    text = "$800"
+    align = "right"
+
+[[rows]] 
+    [[rows.values]]
+    text = "151-250"
+     align = "right"
+    
+  [[rows.values]]
+    text = "$5,000"
+    align = "right"
+    
+  [[rows.values]]
+    text = "$8,000"
+    align = "right"
 
   [[rows.values]]
-    text = "US$5,000"
+    text = "$1,000"
+    align = "right"
+
+  [[rows.values]]
+    text = "$1,600"
+    align = "right"
+
+[[rows]] 
+   [[rows.values]]
+    text = "250"
+     align = "right"
+    
+  [[rows.values]]
+    text = "$12,500"
+    align = "right"
+    
+  [[rows.values]]
+    text = "$20,000"
+    align = "right"
+
+  [[rows.values]]
+    text = "$2,500"
+    align = "right"
+
+  [[rows.values]]
+    text = "$4,000"
     align = "right"
     
 +++
