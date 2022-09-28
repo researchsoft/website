@@ -102,7 +102,7 @@ This need is also recognised in the RSE community through initiatives such as:
 * In the [ReSA People Roadmap Report](https://www.researchsoft.org/documents/people-roadmap.pdf), career paths and recognition for research software personnel was the most commonly identified priority area (by 40% of the initiatives that were involved).
 * [Senior level RSE career paths (with an s)](https://danielskatzblog.wordpress.com/2021/09/27/senior-rse-paths/) identifies a range of possible career paths as shown in the following figure:
 
-INSERT FIGURE
+<img src="CareerPaths.png">
 
 * A [report](https://bssw.io/blog_posts/a-report-on-the-sc21-research-software-engineers-in-hpc-rse-hpc-2021-workshop) on RSE in HPC noted that the role of HPC RSEs is still missing good career paths in academia and that their expertise is often not acknowledged.
 * In the UK, the [ExCALIBUR RSE Knowledge Integration Landscape Review](https://doi.org/10.5281/zenodo.4986061) highlights that investment in software means investment in people, and identifies where major training and skills gaps exist to address issues of long-term career development for RSEs in HPC.
