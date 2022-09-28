@@ -134,7 +134,7 @@ There is a range of research on mobility issues in general; an [analysis of digi
 
 This analysis has shown that there are some useful initiatives and research available, although they are sparse. How could we build on these foundations to accelerate progress in this area? One option could be a landscape analysis identifying initiatives and gaps in this area. This could be structured utilising the Australian Research Data Commons’s [framework](https://zenodo.org/record/6378082#.YqAvdBNBxQM) for recognition of research software and the people responsible for it, which identifies three levels at which coordinated action is needed: to see software (increase visibility), to shape software (increase fit-for purpose), and to sustain software (increase sustainability). The table below includes some possible questions that could be asked of a variety of organisations to guide identification of useful initiatives going forward.
 
-INSERT TABLE
+<img src="Table.png">
 
 ## Acknowledgements
 
