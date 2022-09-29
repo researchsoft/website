@@ -68,7 +68,7 @@ title_align = "left" # Default is center, can be left, right or center
 
 [[rows]] 
    [[rows.values]]
-    text = "250"
+    text = ">250"
      align = "right"
     
   [[rows.values]]
