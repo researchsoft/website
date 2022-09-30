@@ -27,7 +27,7 @@ The **[ReSA People Roadmap](https://www.researchsoft.org/documents/people-roadma
 
 ReSA task forces enable the community to focus and identifying challenges and solutions for a particular area, at the international level.
 
-**The Code Availability group** is a joint ReSA task force and FORCE11 Group working towards greater alignment on policy and other related actions for code availability. Code availability is concerned with the code associated with the findings of an article being made available alongside (or prior to) the publication of the article. The group has an initial focus on publisher policies concerning code availability. Then they will look at ways that tools and guidance might help with policy adoption, with the overarching aim of getting more code shared.
+**The Code Availability group** is a joint ReSA task force and FORCE11 Group working towards greater alignment on policy and other related actions for code availability. Code availability is concerned with the code associated with the findings of an article being made available alongside (or prior to) the publication of the article. The group has an initial focus on publisher policies concerning code availability. Then the group will look at ways that tools and guidance might help with policy adoption, with the overarching aim of getting more code shared.
 
 In this phase, the current timeline is working towards a session at the [Research Data Alliance plenary](https://www.rd-alliance.org/plenaries/rda-20th-plenary-meeting-gothenburg-hybrid) in March 2022:
 
