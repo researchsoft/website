@@ -27,7 +27,16 @@ The **[ReSA People Roadmap](https://www.researchsoft.org/documents/people-roadma
 
 ReSA task forces enable the community to focus and identifying challenges and solutions for a particular area, at the international level.
 
-**Aligning publisher policies for sharing code**: This task force builds on the International Data Week session, Sharing code that supports research articles: is it time to align goals and publisher policies? ([agenda](https://www.rd-alliance.org/sharing-code-supports-research-articles-it-time-align-goals-and-publisher-policies), [slides](https://docs.google.com/presentation/d/1wtKgR78PIDbL2tKkyok8UClN4cG7g70NqhccFL4M73o/edit#slide=id.p![image](https://user-images.githubusercontent.com/8003204/189754810-4f62c27b-2795-41e5-8402-79f28235f8cc.png)) and [video](https://www.youtube.com/watch?v=IIkWpke1lnY&t=1385s)). Started July 2022 and now working towards [RDA plenary 20](https://www.rd-alliance.org/plenaries/rda-20th-plenary-meeting-gothenburg-hybrid) (March 2023) for the next phase of the group. 
+**The Code Availability group** is a joint ReSA task force and FORCE11 Group working towards greater alignment on policy and other related actions for code availability. Code availability is concerned with the code associated with the findings of an article being made available alongside (or prior to) the publication of the article. The group has an initial focus on publisher policies concerning code availability. Then they will look at ways that tools and guidance might help with policy adoption, with the overarching aim of getting more code shared.
+
+In this phase, the current timeline is working towards a session at the [Research Data Alliance plenary](https://www.rd-alliance.org/plenaries/rda-20th-plenary-meeting-gothenburg-hybrid) in March 2022:
+
+- Draft overview of the landscape analysis and headline results
+- Draft shared with the group for feedback
+- Achieve consensus for approach to next RDA plenary
+- Produce proper analysis of the landscape survey
+
+Contact [code-availability+owner@googlegroups.com](mailto:code-availability+owner@googlegroups.com) to request to join or for any questions.
 
 **Software landscape analysis**: This task force is now updating its work to include more initiatives from across the globe, which will complete in late 2022. Previous results were presented in this [blog](http://doi.org/10.5281/zenodo.3699950) posted by [URSSI](http://urssi.us/blog/2020/03/11/the-research-software-alliance-resa-and-the-community-landscape/), [SSI](http://urssi.us/blog/2020/03/11/the-research-software-alliance-resa-and-the-community-landscape/) and [Netherlands eScience Center](https://blog.esciencecenter.nl/the-research-software-alliance-resa-and-the-community-landscape-9b8a6290ebb3) on 11 March 2020. Help us keep the [ReSA list of research software communities](https://docs.google.com/spreadsheets/d/15JHqOxR4HIKHYe821IPvbxIuXP1zMjXKGEIJwB-GPqE/edit#gid=0) up to date by making comments in the spreadsheet.
 
