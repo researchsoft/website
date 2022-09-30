@@ -66,9 +66,9 @@ title_align = "left" # Default is center, can be left, right or center
     text = "$1,600"
     align = "right"
 
-[[rows]] 
-   [[rows.values]]
-    text = " > 250"
+[[rows]]   
+  [[rows.values]]
+    text = "> 250"
     align = "right"
     
   [[rows.values]]
