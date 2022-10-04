@@ -27,5 +27,5 @@ By joining us, you will have the opportunity to collaborate with decision makers
 
 ## How to join
 
-**To become a ReSA Organisational Member**, provide your [organisational details to receive the membership agreement (LINK STILL BEING FINALISED)](). Payments are to our fiscal sponsor, [Code for Science and Society](https://codeforscience.org/). 
+**To become a ReSA Organisational Member**, provide your organisational details to receive the membership agreement (FORM STILL BEING FINALISED). Payments are to our fiscal sponsor, [Code for Science and Society](https://codeforscience.org/). 
 
