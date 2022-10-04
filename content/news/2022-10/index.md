@@ -13,7 +13,7 @@ This month’s news includes:
 
 * This month in research software: Community news
 * ReSA’s Research Software Community Forum - monthly update
-* * ReSA update
+* ReSA update
 * Opportunities to get involved with community initiatives
 * Community events and resources
 
