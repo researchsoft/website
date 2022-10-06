@@ -18,12 +18,6 @@ sticky = true
   text = "ReSA logo"
 
 [repo_button]
-  url = "https://twitter.com/researchsoft"
-  text = "Twitter" # default: "Star"
-  title = "Twitter"
-  icon = "fab fa-twitter" # defaults: "fab fa-github"
-
-[repo_button]
   url = "https://join.slack.com/t/researchsoft/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w"
   text = "Slack"
   title = "Slack"
