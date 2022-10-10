@@ -11,16 +11,16 @@ ReSA brings research software communities together to collaborate on the advance
 By joining us, you will have the opportunity to collaborate with decision makers and key influencers to create outcomes that will achieve both your goals and those of the international community. 
 
 ## Organisational Membership Benefits 
-- Influence at the international level
-- Access to decision makers and key influencers 
+
+Opportunities to:
 - Collaborate with the international research software community to solve common issues
-- Further the international standing of your organisation
-- Public recognition as an Organisational Member of ReSA
-- Use of the official ReSA Organisational Member logo
+- Further the international standing anf influence of your organisation
+- Gain public recognition as an Organisational Member of ReSA and se of the official ReSA Organisational Member logo
 - Learn and share best practice 
 - Promote your work to a global audience 
 - Broaden your reach by collaborating on ReSA projects
 - Attend global community events
+- Access decision makers and key influencers 
 - Receive regular communications
 - ReSA Organisational Member Logo 
 <img src="ReSAOrganisationalMember.jpg">
