@@ -51,6 +51,7 @@ To help us plan accessible meetings, please identify any requirements you may ha
 **Sign up to receive the [Community Forum](https://landing.mailerlite.com/webforms/landing/o1n4v3) monthly calendar invites automatically**.
 
 * **12 October, 03:00–04:00 UTC** ([convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ReSA+Community+Forum+&iso=20221012T03&p1=1440&ah=1)), see [agenda](https://docs.google.com/document/d/10QO3F_1_rHHHrDHwXQchPaohmbJmq-uG6cmxLV4xe-U/edit) for connection information or download a [calendar invite](https://drive.google.com/file/d/1o2lkLHaA2zERIuWL5ZYevuXIr1S55P_s/view). This month's meeting is jointly convened with [RSE Australian/New Zealand](rse-aunz.org) and the [Visible Research Software Interest Group](https://bit.ly/vrs-ig).
+* * * **29 November, 16:00-17.00 CET ** ([convert to your timezone]( https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Community+Forum+&iso=20221129T15&p1=1440&ah=1), see [agenda](https://docs.google.com/document/d/1vpSlEcrkmmuBV6HFOHaoihIzT5HGLwoNRNwez5GFqYw/edit) for connection information or download a [calendar invite]( https://drive.google.com/file/d/1SEU-q-m19uDnq4abfBwZDYGttyt-mPLD/view?usp=sharing). ![image](https://user-images.githubusercontent.com/8003204/194979371-cbe8fea0-f4c2-432d-8d43-058e468864f1.png)
 
 ### Past calls:
 
