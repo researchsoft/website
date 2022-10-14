@@ -27,5 +27,5 @@ Opportunities to:
 
 ## How to join
 
-**To become a ReSA Organisational Member**, please review the [membership agreement](https://docs.google.com/document/d/1arCDTzFaM8gavaSBOFcuHSI_m_WmvV4pJjwDVdNwmbk/edit) and either send to [michelle@researchsoft.org][emailto:michelle@researchsoft.org) or contact her to discuss further. Payments are then invoiced through our fiscal sponsor, [Code for Science and Society](https://codeforscience.org/). 
+**To become a ReSA Organisational Member**, please review the [membership agreement](https://docs.google.com/document/d/1arCDTzFaM8gavaSBOFcuHSI_m_WmvV4pJjwDVdNwmbk/edit) and either send to [michelle@researchsoft.org][emailto:michelle@researchsoft.org) or contact her to discuss further. Payments are then invoiced through our fiscal sponsor, [Code for Science and Society](https://codeforscience.org/). An [overview of Organisational Membership](https://docs.google.com/document/d/1BGRqfSlW9_iBW-qerJLqnzW_z94qg1t8/edit?usp=sharing&ouid=113559921308900252830&rtpof=true&sd=true) (which summarises this webpage) is also available for use.
 
