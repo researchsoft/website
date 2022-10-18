@@ -48,7 +48,7 @@ Authors: [Michelle Barker](https://orcid.org/0000-0002-3623-172X),
 
 This blog analyses work evidencing the importance of research software to research outcomes, to enable the research software community to find useful evidence to share with key influencers. This analysis considers papers relating to meta-research, policy, community, education and training, research breakthroughs and specific software.
 
-The Research Software Alliance (ReSA) [Taskforce for the importance of research software](http://www.researchsoft.org/resa-taskforces-join-us/) was formed initially to bring together existing evidence showing the importance of research software in the research process. This kind of information is critical to achieving ReSA’s vision to have research software recognised and valued as a fundamental and vital component of research worldwide.
+The Research Software Alliance (ReSA) [Taskforce for the importance of research software](https://www.researchsoft.org/taskforces/) was formed initially to bring together existing evidence showing the importance of research software in the research process. This kind of information is critical to achieving ReSA’s vision to have research software recognised and valued as a fundamental and vital component of research worldwide.
 
 #### Methodology
 
