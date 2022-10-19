@@ -80,7 +80,7 @@ data, and code supported by the US Government.
 
 #### Software development
 
--   Draft [FAIR Principles for Research Software](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs), June 2021.
+-   [FAIR Principles for Research Software]{https://doi.org/10.15497/RDA00068), 2022.
 
 -   [Nine Best Practices for Research Software Registries and
     Repositories: A Concise Guide](https://arxiv.org/abs/2012.13117), 2020. These resources improve software
