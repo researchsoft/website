@@ -43,6 +43,6 @@ jobs:
           global_template_repository: varunsridharan/varunsridharan
           commit_message: '📝 docs(current): Current Opportunities update'
           files: |
-            content/funding-opportunities/template/30-current.md=content/funding-opportunities/30-current.md
+            content/funding-opportunities/templates/30-current.md=content/funding-opportunities/30-current.md
 
           
