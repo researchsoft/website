@@ -41,6 +41,13 @@ version = "0.17.3"
   weight = 12
 
 [[menu.main]]
+  parent = "/about-resa"
+  url = "/membership"
+  name = "Membership"
+  weight = 13
+  
+
+[[menu.main]]
   url = "/taskforces"
   name = "Task forces"
   weight = 20
