@@ -10,6 +10,4 @@ background = "white"
 
 Collection of current research software funding opportunities.
 
-${{ env.TABLE_VAR }}
-
 
