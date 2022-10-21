@@ -3,7 +3,7 @@ fragment = "content"
 weight = 100
 categories = ["Blog"]
 
-title = ""
+title = "Expanding the mapping of the global research software community"
 #subtitle = ""
 title_align = "left"
 
