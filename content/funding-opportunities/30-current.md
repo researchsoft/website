@@ -10,4 +10,8 @@ background = "white"
 
 Collection of current research software funding opportunities.
 
+<style>
+  <table class="class="table-condensed table-bordered table-hover">
+</style>
+
 
