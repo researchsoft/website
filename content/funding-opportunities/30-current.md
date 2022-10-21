@@ -1,6 +1,0 @@
-+++
-fragment = "content"
-background = "white"
-+++
-
-
