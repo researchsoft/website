@@ -2,7 +2,7 @@ name: CSV to Table md
 on:
   push:
     branches: 
-      - 'master' 
+      - master
     paths:
       - './content/funding-opportunities/ReSA_Funding_Current_opportunities.csv'
     
