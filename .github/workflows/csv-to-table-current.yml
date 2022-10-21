@@ -1,0 +1,50 @@
+name: CSV to Table md
+on:
+  push:
+    branches: 
+      - 'main' 
+    paths:
+      - './content/funding-opportunities/ReSA_Funding_Current_opportunities.csv'
+    
+jobs:
+  build:
+    name: CSV as Table
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥 Checkout Repo"
+        uses: actions/checkout@master
+
+      - name: "💾  Github Repository Metadata"
+        uses: varunsridharan/action-repository-meta@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📡 Read CSV"
+        id: csv
+        uses: juliangruber/read-file-action@v1
+        with:
+          path: ./content/funding-opportunities/ReSA_Funding_Current_opportunities.csv
+
+      - name : "🧮 Convert Current opportunities CVS to Table"
+        id: csv-table-output-current
+        uses: petems/csv-to-md-table-action@master
+        with:
+          csvinput: ${{ steps.csv.outputs.content }}
+      
+      - name: "🔡 Set ENV TABLE_VAR"
+        run: |
+          echo 'TABLE_VAR<<EOF' >> $GITHUB_ENV
+          echo "${{steps.csv-table-output.outputs.markdown-table}}" >> $GITHUB_ENV
+          echo 'EOF' >> $GITHUB_ENV
+
+      - name: "💫 Update current.md"
+        uses: varunsridharan/action-dynamic-readme@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          global_template_repository: varunsridharan/varunsridharan
+          commit_message: '📝 docs(current): Current Opportunities update'
+          files: |
+            content/funding-opportunities/template/30-current.md=content/funding-opportunities/30-current.md
+
+          
