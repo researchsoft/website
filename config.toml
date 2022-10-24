@@ -43,7 +43,7 @@ version = "0.17.3"
 [[menu.main]]
   parent = "/about-resa"
   url = "/membership"
-  name = "Membership"
+  name = "Organisational Membership"
   weight = 13
   
 
