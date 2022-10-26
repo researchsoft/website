@@ -25,7 +25,7 @@ jobs:
         with:
           path: ./content/funding-opportunities/ReSA_Funding_Past_opportunities.csv
 
-      - name : "🧮 Convert Current opportunities CVS to Table"
+      - name : "🧮 Convert Past opportunities CVS to Table"
         id: csv-table-output
         uses: petems/csv-to-md-table-action@master
         with:
@@ -37,7 +37,7 @@ jobs:
           echo "${{steps.csv-table-output.outputs.markdown-table}}" >> $GITHUB_ENV
           echo 'EOF' >> $GITHUB_ENV
 
-      - name: "💫 Update current.md"
+      - name: "💫 Update past.md"
         uses: varunsridharan/action-dynamic-readme@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
