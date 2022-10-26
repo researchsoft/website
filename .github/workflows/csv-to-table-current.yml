@@ -34,17 +34,17 @@ jobs:
       - name: "🔡 Set ENV TABLE_VAR"
         run: |
           echo 'TABLE_VAR<<EOF' >> $GITHUB_ENV
-          echo "${{steps.csv-table-output.outputs.markdown-table}}" >> $GITHUB_OUTPUT
-          echo 'EOF' >> $GITHUB_OUTPUT
+          echo "${{steps.csv-table-output.outputs.markdown-table}}" >> $GITHUB_ENV
+          echo 'EOF' >> $GITHUB_ENV
 
       - name: "💫 Update current.md"
         uses: varunsridharan/action-dynamic-readme@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          global_template_repository: varunsridharan/varunsridharan
+          global_template_repository: content/funding-opportunities/templates
           commit_message: '📝 docs(current): Current Opportunities update'
           files: |
-            content/funding-opportunities/templates/30-current.md=content/funding-opportunities/30-current.md
+           ./30-current.md=content/funding-opportunities/30-current.md
 
           
