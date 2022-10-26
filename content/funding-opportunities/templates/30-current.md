@@ -10,4 +10,10 @@ background = "white"
 
 Collection of current research software funding opportunities.
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+    border: 1px solid black; padding:10px;
+    }
+</style>
+
 ${{ env.TABLE_VAR }}
