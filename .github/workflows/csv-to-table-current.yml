@@ -26,7 +26,7 @@ jobs:
           path: ./content/funding-opportunities/ReSA_Funding_Current_opportunities.csv
 
       - name : "🧮 Convert Current opportunities CVS to Table"
-        id: csv-table-output-current
+        id: csv-table-output
         uses: petems/csv-to-md-table-action@master
         with:
           csvinput: ${{ steps.csv.outputs.content }}
