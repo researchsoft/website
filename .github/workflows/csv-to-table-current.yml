@@ -45,6 +45,6 @@ jobs:
           global_template_repository: content/funding-opportunities/templates
           commit_message: '📝 docs(current): Current Opportunities update'
           files: |
-           ./30-current.md=content/funding-opportunities/30-current.md
+           content/funding-opportunities/templates/30-current.md=content/funding-opportunities/30-current.md
 
           
