@@ -10,7 +10,7 @@ background = "white"
 
 Collection of current research software funding opportunities.
 
-<style>
+<style type="text/css">
     .markdown-body table {
       display: inline-grid;
       border: 1px solid black; padding:10px;
