@@ -8,6 +8,12 @@ background = "white"
 
 ## Research Software Past Funding Opportunities
 
-Collection of past research software funding opportunities.
+Collection of past research software funding opportunities order by deadline.
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+  border: 1px solid black;
+ }
+</style>
 ${{ env.TABLE_VAR }}
+{:.tablelines}
