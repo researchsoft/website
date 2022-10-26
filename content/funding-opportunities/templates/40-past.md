@@ -12,7 +12,9 @@ Collection of past research software funding opportunities order by deadline.
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
-  border: 1px solid black;
+  border: 2px solid black;
+  vertical-align: top;
+  !important;
  }
 </style>
 ${{ env.TABLE_VAR }}
