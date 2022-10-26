@@ -11,15 +11,17 @@ background = "white"
 Collection of current research software funding opportunities.
 
 <style>
-    body .tablelines table, 
-    body .tablelines td, 
-    body .tablelines th {
-        border: 1px solid black; padding:10px;
+    .markdown-body table {
+      display: inline-grid;
+      border: 1px solid black; padding:10px;
     }
-    th {
+    .markdown-body tbody {
+      overflow: auto;
+    }
+    .markdown-body .tablelines td, 
+    .markdown-body .tablelines th {
+      border: 1px solid black; padding:10px;
       text-align: left;
-    }
-    td {
       vertical-align: bottom;
     }
 </style>
