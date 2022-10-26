@@ -42,7 +42,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          global_template_repository: content/funding-opportunities/templates
+          global_template_repository: varunsridharan/varunsridharan
           commit_message: '📝 docs(current): Current Opportunities update'
           files: |
            content/funding-opportunities/templates/30-current.md=content/funding-opportunities/30-current.md
