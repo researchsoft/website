@@ -34,8 +34,8 @@ jobs:
       - name: "🔡 Set ENV TABLE_VAR"
         run: |
           echo 'TABLE_VAR<<EOF' >> $GITHUB_ENV
-          echo "${{steps.csv-table-output.outputs.markdown-table}}" >> $GITHUB_ENV
-          echo 'EOF' >> $GITHUB_ENV
+          echo "${{steps.csv-table-output.outputs.markdown-table}}" >> $GITHUB_OUTPUT
+          echo 'EOF' >> $GITHUB_OUTPUT
 
       - name: "💫 Update current.md"
         uses: varunsridharan/action-dynamic-readme@main
