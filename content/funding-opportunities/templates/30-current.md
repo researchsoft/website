@@ -22,7 +22,13 @@ Collection of current research software funding opportunities.
     .markdown-body .tablelines th {
       border: 1px solid black; padding:10px;
       text-align: left;
-      vertical-align: bottom;
+      vertical-align: top;
+    }
+    .markdown-body td {
+        border: 1px solid black; padding:10px;
+    }
+    .markdown-body th {
+        border: 1px solid black; padding:10px;
     }
 </style>
 
