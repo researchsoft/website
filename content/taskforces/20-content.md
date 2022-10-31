@@ -31,7 +31,7 @@ ReSA task forces enable the community to focus and identifying challenges and so
 
 In this phase, the current timeline is working towards a session at the [Research Data Alliance plenary](https://www.rd-alliance.org/plenaries/rda-20th-plenary-meeting-gothenburg-hybrid) in March 2022:
 
-- Draft overview of the landscape analysis and headline results
+- [Draft overview](https://www.researchsoft.org/taskforces/publisher_policies.pdf) of the landscape analysis and headline results
 - Draft shared with the group for feedback
 - Achieve consensus for approach to next RDA plenary
 - Produce proper analysis of the landscape survey
