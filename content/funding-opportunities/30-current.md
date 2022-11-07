@@ -11,7 +11,7 @@ background = "white"
 Collection of current research software funding opportunities order by deadline.
 
 <style>
-.tablelines table, .tablelines td, .tablelines th {
+table, td, th {
   border: 2px solid black;
   vertical-align: top;
   !important;
@@ -22,4 +22,4 @@ Collection of current research software funding opportunities order by deadline.
 | CHIST-ERA                                 | Open &amp; Re-usable Research Data &amp; Software                      |  https://www.chistera.eu/call-ord-announcement                                     | 2022/12/14 | Open call where the project consortia must have a minimum of 3 partners from at least 3 of the following countries: Belgium, Brazil, Czech Republic, France, Lithuania, Luxembourg, Poland, Slovakia, Switzerland, Turkey, United Kingdom. This call addresses any research domain                                                                                                              | open software                                                     |                                                 |
 | Japan Science and Technology Agency (JST) | Advanced International Collaborative Research Program (AdCORP) | https://www.jst.go.jp/inter/english/program_e/announce_e/announce_adcorp_2022.html | 2022/11/30 |  Field 6. Quantum. Research area: Research related to quantum computers and quantum software which contributes to the realization of a productivity revolution. The Japanese-side researchers must be affiliated with a university research institution or company in Japan. The foreign research partners should be based in Canada, France, Germany, The UK or Japan the UK or the USA. |  Japan, Applied sciences, Computer science, Natural sciences |  https://www.jst.go.jp/inter/english/index.html |
 | IEEE Computer Society                     | Diversity &amp; Inclusion Fund                                     | https://www.computer.org/about/diversity-inclusion/project-proposals               | 2022/11/14 | Looking for new types of projects/activities/events not already covered by the Computer Society to impact diversity, equity, and inclusion                                                                                                                                                                                                                                                      | D&amp;I, DEI, Diversity, Equity and Inclusion                         |  https://www.computer.org/                      |
-{:.tablelines}
+
