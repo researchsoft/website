@@ -18,4 +18,3 @@ Collection of current research software funding opportunities order by deadline.
  }
 </style>
 ${{ env.TABLE_VAR }}
-{:.tablelines}
