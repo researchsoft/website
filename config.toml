@@ -126,6 +126,12 @@ version = "0.17.3"
   name = "slack"
   url = "https://join.slack.com/t/researchsoft/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w"
   pre = "fab fa-slack"
+  
+[[menu.footer_social]]
+  weight = 60
+  name = "Mastodon"
+  url = "https://fosstodon.org/@researchsoft "
+  pre = "fab fa-mastodon"
 
 [[menu.copyright_footer]]
   url = "/license"
