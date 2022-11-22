@@ -130,7 +130,7 @@ version = "0.17.3"
 [[menu.footer_social]]
   weight = 60
   name = "Mastodon"
-  url = "https://fosstodon.org/@researchsoft "
+  url = "https://fosstodon.org/@researchsoft"
   pre = "fab fa-mastodon"
 
 [[menu.copyright_footer]]
