@@ -13,7 +13,8 @@ title_align = "left" # Default is center, can be left, right or center
     text = "Number of employees"
 
   [[header.values]]
-    text = "High Income Country            Not-For-Profit (USD$)"
+    text = "High Income Country
+   Not-For-Profit (USD$)"
 
   [[header.values]]
     text = "High Income Country For-Profit (USD$)"
