@@ -36,7 +36,7 @@ _November, 2022_
 
 Authors: Michelle Barker, Valentina Azzarà, Tom Bakker, Lieke de Boer, Neil Chue Hong, Maria Cruz, Niels Drost, Joris van Eijnatten, Maaike de Jong, Daniel S. Katz, Carlos Martinez-Ortiz, Veronica Pang
 
-This blog post is being cross-posted by the [_Research Software Alliance_](https://www.researchsoft.org/blog/2022-11/)and [_Netherlands eScience Center_](https://blog.esciencecenter.nl/).
+This blog post is being cross-posted by the [_Research Software Alliance_](https://www.researchsoft.org/blog/2022-11/) and [ Netherlands eScience Center_](https://blog.esciencecenter.nl/).
 
 _On 8 and 9 November,_ _the_ [_Research Software Alliance (ReSA)_](https://www.researchsoft.org/) _and_ [_Netherlands eScience Center_](https://www.esciencecenter.nl/) _organized_ _the_ [_International Funders Workshop: The Future of Research Software_](https://www.future-of-research-software.org/)_. During this workshop,_ _a number of members from the_ [_Research Software Funders Forum_](https://www.researchsoft.org/funders-forum/) _came together with other organisations that support research software. During the workshop, participants explored how to effectively fund new and existing research software. In total, more than 60 representatives from_ [_45 organisations_](https://future-of-research-software.org/participants/) _attended the workshop._
 
