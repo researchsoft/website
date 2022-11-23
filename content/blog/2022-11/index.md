@@ -28,7 +28,7 @@ date = "2022-11-24 11:00:00 UTC"
 
 [asset]
   image = "FF_CaroleGlobe.jpg"
-  text = "Figure 1. Carole Globe presenting “Research Software Sustainability Takes a Village”. Photo credit: Annelies Verhelst"
+  text = "Carole Globe presenting “Research Software Sustainability Takes a Village”. Photo credit: Annelies Verhelst"
 +++
 Figure 1. Carole Globe presenting “Research Software Sustainability Takes a Village”. Photo credit: [Annelies Verhelst](https://anneliesverhelst.com/)
 
