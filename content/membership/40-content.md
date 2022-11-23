@@ -14,7 +14,7 @@ background = "white"
 - Hosting of global community events including the regular [Research Software Funders Forum](https://www.researchsoft.org/events/2022-06/)
 
 ## Enquiries
-Please contact Michelle Barker, [michelle@researchsoft.org](mailto:michelle@researchsoft.org).    
+Please contact Michelle Barker, [memberships@researchsoft.org](mailto:memberships@researchsoft.org).    
 
 ## Founding Members 
 
