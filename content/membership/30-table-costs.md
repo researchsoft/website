@@ -26,7 +26,7 @@ title_align = "left" # Default is center, can be left, right or center
 
 [[rows]]
   [[rows.values]]
-    text = "less than 150"
+    text = **"less than 150"**
      align = "right"
     
   [[rows.values]]
@@ -47,7 +47,7 @@ title_align = "left" # Default is center, can be left, right or center
 
 [[rows]] 
     [[rows.values]]
-    text = "151-250"
+    text = **"151-250"**
      align = "right"
     
   [[rows.values]]
@@ -68,7 +68,7 @@ title_align = "left" # Default is center, can be left, right or center
 
 [[rows]]   
     [[rows.values]]
-    text = "250 or more"
+    text = **"250 or more"**
     align = "right"
     
   [[rows.values]]
