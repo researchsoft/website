@@ -30,7 +30,7 @@ date = "2022-11-24 11:00:00 UTC"
   image = "FF_CaroleGlobe.jpg"
   text = "Carole Globe presenting “Research Software Sustainability Takes a Village”. Photo credit: Annelies Verhelst"
 +++
-Figure 1. Carole Globe presenting “Research Software Sustainability Takes a Village”. Photo credit: [Annelies Verhelst](https://anneliesverhelst.com/)
+Carole Globe presenting “Research Software Sustainability Takes a Village”. Photo credit: [Annelies Verhelst](https://anneliesverhelst.com/)
 
 _November, 2022_  
 
