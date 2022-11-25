@@ -13,4 +13,4 @@ table, td, th {
   !important;
  }
 </style>
-${{ env.TABLE_VAR }}
+
