@@ -8,7 +8,7 @@ title = "Global gathering of research software funders sets the agenda for suppo
 title_align = "left"
 
 display_date = true
-date = "2022-11-24 11:00:00 UTC"
+date = "2022-11-24 0:00:00 UTC"
 
 [sidebar]
   title = "Important Links"
