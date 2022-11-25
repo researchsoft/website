@@ -6,10 +6,6 @@ weight = 40
 background = "white"
 +++
 
-## Research Software Past Funding Opportunities
-
-Collection of past research software funding opportunities order by deadline.
-
 <style>
 table, td, th {
   border: 2px solid black;
