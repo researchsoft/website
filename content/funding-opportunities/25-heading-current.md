@@ -6,6 +6,6 @@ weight = 25
 background = "white"
 +++
 
-## Research Software Current Funding Opportunities
+## Current Funding Opportunities for Research Software
 
 Collection of current research software funding opportunities order by deadline.
