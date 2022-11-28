@@ -6,6 +6,6 @@ weight = 38
 background = "white"
 +++
 
-## Research Software Past Funding Opportunities
+## Past Funding Opportunities for Research Software 
 
-Collection of past research software funding opportunities order by deadline.
+Collection of past opportunities  for research software funding, ordered by deadline.
