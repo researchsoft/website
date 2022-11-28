@@ -8,5 +8,4 @@ background = "white"
 
 # Research Software Funding Opportunities
 
-The Research Software Alliance (ReSA) invites its community to add information about current "Funding Opportunities" that support research software.
-We aim to create together an open access funding database with research software funding information. The database might cover global or local funding across all disciplines areas of research, or a specific discipline area. We invite funders to include their funding opportunities, such as Goverment funding, Foundations and Innovation grants. If you know of new funding opportunities, please let us know by [filling in this short form](https://forms.gle/r4Jw4swUd1SXigZc9), which will be curated before making the data available. 
+ReSA has created a public database of current and past research software funding opportunities to improve the findability of this important information. Members of the community can add current funding opportunities via this [short form](https://forms.gle/r4Jw4swUd1SXigZc9). Funding opportunities are also posted in our [newsletter](https://www.researchsoft.org/news/), on [Mastodon](https://fosstodon.org/@researchsoft), [Twitter](https://twitter.com/researchsoft) and [Slack](https://researchsoft.slack.com/ssb/redirect).
