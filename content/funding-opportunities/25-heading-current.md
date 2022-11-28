@@ -8,4 +8,4 @@ background = "white"
 
 ## Current Funding Opportunities for Research Software
 
-Collection of current research software funding opportunities order by deadline.
+Collection of current research software funding opportunities, ordered by deadline.
