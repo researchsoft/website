@@ -65,7 +65,7 @@ version = "0.17.3"
 
 [[menu.main]]
   parent = "/forums"
-  url = "../events/2022-06/"
+  url = " https://www.researchsoft.org/events/2022-06/"
   name = "Community Forum"
   weight = 32
   
@@ -87,6 +87,12 @@ version = "0.17.3"
   name = "Guidelines"
   url = "/guidelines"
   weight = 42
+ 
+[[menu.main]]
+  parent = "/resa-resources"
+  name = "Funding Opportunities"
+  url = "/funding-opportunities"
+  weight = 43
 
 [[menu.main]]
   url = "/news"
