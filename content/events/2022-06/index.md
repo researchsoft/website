@@ -4,7 +4,7 @@ weight = 100
 disabled = false
 categories = ["Event", "Ongoing"]
 
-title = "ReSA Monthly Community Forum "
+title = "ReSA  Community Forum "
 subtitle = "Bringing together the research software community"
 title_align = "left"
 
@@ -37,7 +37,7 @@ ReSA's mission is to bring research software communities together to collaborate
 
 ## About the Research Software Community Forum
 
-The [Research Software Alliance (ReSA)](https://www.researchsoft.org/) is hosting occasional online community forum for the global research software community. The Research Software Community Forum is open to everyone. Meetings will occur monthly at alternating times to maximise attendance by participants in different time zones.
+The [Research Software Alliance (ReSA)](https://www.researchsoft.org/) is hosting occasional online community forum for the global research software community. The Research Software Community Forum is open to everyone. Meetings will occur at alternating times to maximise attendance by participants in different time zones.
 
 The Community Forum offers an opportunity for participants to meet and share information. Each call will feature a short talk and follow-up discussion, with the aim of facilitating community consideration about what’s needed next to address particular issues.
 
