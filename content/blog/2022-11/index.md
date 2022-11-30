@@ -28,9 +28,9 @@ date = "2022-11-24"
 
 [asset]
   image = "FF_CaroleGlobe.jpg"
-  text = "Carole Globe presenting “Research Software Sustainability Takes a Village”. Photo credit: Annelies Verhelst"
+  text = "Carole Goble presenting “Research Software Sustainability Takes a Village”. Photo credit: Annelies Verhelst"
 +++
-Image: Carole Globe presenting “Research Software Sustainability Takes a Village”. Photo credit: [Annelies Verhelst](https://anneliesverhelst.com/)
+Image: Carole Goble presenting “Research Software Sustainability Takes a Village”. Photo credit: [Annelies Verhelst](https://anneliesverhelst.com/)
 
 _November, 2022_  
 
