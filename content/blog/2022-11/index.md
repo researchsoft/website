@@ -27,7 +27,7 @@ date = "2022-11-24"
   """
 
 [asset]
-  image = "FF_CaroleGlobe.jpg"
+  image = "FF_CaroleGoble.jpg"
   text = "Carole Goble presenting “Research Software Sustainability Takes a Village”. Photo credit: Annelies Verhelst"
 +++
 Image: Carole Goble presenting “Research Software Sustainability Takes a Village”. Photo credit: [Annelies Verhelst](https://anneliesverhelst.com/)
