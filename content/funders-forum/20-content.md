@@ -49,4 +49,4 @@ Funding organisations that have engaged include:
 - UK Research and Innovation (UKRI)
 - Volkswagen Foundation
 
-See also ReSA's [Resarch Softare Funding Opportunities](https://www.researchsoft.org/funding-opportunities/) to find resourcing or contribute information on [new calls](https://docs.google.com/forms/d/e/1FAIpQLSdeZrx0kXAhD4XfpDrQ8Dmg4qJTRZWboMd-zvgjjtgBs1I68g/viewform).
+See also ReSA's [Resarch Softare Funding Opportunities](https://www.researchsoft.org/funding-opportunities/) to find funding opportunities or contribute information on [new calls](https://docs.google.com/forms/d/e/1FAIpQLSdeZrx0kXAhD4XfpDrQ8Dmg4qJTRZWboMd-zvgjjtgBs1I68g/viewform).
