@@ -88,8 +88,8 @@ data, and code supported by the US Government.
 
 -   [FAIR Principles for Research Software](https://doi.org/10.15497/RDA00068), 2022.
 
--   [Practical Guide to Software Management Plans(https://zenodo.org/record/7185371) by the Dutch Research Council (NWO) and the Netherlands eScience Center, 2022.
--  
+-   [Practical Guide to Software Management Plans](https://zenodo.org/record/7185371) by the Dutch Research Council (NWO) and the Netherlands eScience Center, 2022.
+
 -   [Nine Best Practices for Research Software Registries and
     Repositories: A Concise Guide](https://arxiv.org/abs/2012.13117), 2020. These resources improve software
     discoverability and research transparency, thereby supporting
