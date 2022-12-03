@@ -89,7 +89,7 @@ data, and code supported by the US Government.
 
 #### Software development
 
--   [FAIR Principles for Research Software](https://doi.org/10.15497/RDA00068), 2022.
+-   [FAIR Principles for Research Software](https://doi.org/10.15497/RDA00068), 2022,  introduced in this [article](https://www.nature.com/articles/s41597-022-01710-x) in *Scientific Data*.
 
 -   [Practical Guide to Software Management Plans](https://zenodo.org/record/7185371) by the Dutch Research Council (NWO) and the Netherlands eScience Center, 2022.
 
