@@ -81,7 +81,13 @@ data, and code supported by the US Government.
 
 - Italy: The [Italian National Plan for Open Science](https://www.mur.gov.it/sites/default/files/2022-06/Piano_Nazionale_per_la_Scienza_Aperta.pdf) proposes an overall vision, with specific strategies for five axes of intervention, which must interact to create an open ecosystem of publications, data, analysis tools, networked ICT infrastructures and services, evaluation and training.
 
+- Netherlands: The [2021 National Roadmap for Large-Scale Research Facilitie](https://www.nwo.nl/en/researchprogrammes/national-roadmap-large-scale-research-facilities)s published by the Dutch Research Council (NWO) has made FAIR, sustainable software and a software management plan conditional to receiving funding. Software is central to the funding the NWO has made available for developing ‘digital competence centres’ as part of the national roadmap, and the NWO has set up an [open science team](https://www.nwo.nl/en/open-science) to push this agenda.
+
 - New Zealand: The New Zealand eScience Initiative (NeSI) are sharing how they enable research communities to truly value the contributions of research software in underpinning contemporary science in [Contributing to local & global kōrero around the value, impacts and future of Research Software](https://www.nesi.org.nz/news/2022/11/contributing-local-global-k%C5%8Drero-around-value-impacts-and-future-research-software).
+
+- United Kingdom: The Government Office for Science’s report on [Large-scale computing: the case for greater UK coordination](https://www.gov.uk/government/news/coordinating-the-uks-large-scale-computing-ecosystem) recognises that “high-quality software is fundamental to realising the benefits of investments in computing” and recommends “software development must keep pace with advances in hardware”. Recent reviews commissioned by individual research funders have echoed this including, BBSRC’s [Review of Data Intensive Bioscience](https://www.ukri.org/news/bbsrc-publishes-review-of-data-intensive-bioscience/).
+
+- USA: Major programs include the National Science Foundation (NSF)’s [Cyberinfrastructure for Sustained Scientific Innovation](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21617) (CSSI) program and the Department of Energy’s (DoE) support for the [Interoperable Design of Extreme-scale Application Software](https://ideas-productivity.org/) (IDEAS) projects, as well as other significant software investments in its [Exascale Computing Project](https://www.exascaleproject.org/).
 
 ### Research institutions policies
 
