@@ -27,16 +27,7 @@ The **[ReSA People Roadmap](https://www.researchsoft.org/documents/people-roadma
 
 ReSA task forces enable the community to focus and identifying challenges and solutions for a particular area, at the international level. There are also task forces associated with the [Research Software Funders Group](https://www.researchsoft.org/taskforces/) focusing on improving coordination of funding, and implementation of the [FAIR4RS Principles](https://www.researchsoft.org/blog/2022-06/).
 
-**The Code Availability group** is a joint ReSA task force and FORCE11 working group working towards greater alignment on policy and other related actions for code availability. Code availability is concerned with the code associated with the findings of an article being made available alongside (or prior to) the publication of the article. The group has an initial focus on publisher policies concerning code availability. Then the group will look at ways that tools and guidance might help with policy adoption, with the overarching aim of getting more code shared.
-
-In this phase, the current timeline is working towards a session at the [Research Data Alliance plenary](https://www.rd-alliance.org/plenaries/rda-20th-plenary-meeting-gothenburg-hybrid) in March 2022:
-
-- [Draft overview](https://www.researchsoft.org/taskforces/publisher_policies.pdf) of the landscape analysis and headline results
-- Draft shared with the group for feedback
-- Achieve consensus for approach to next RDA plenary
-- Produce proper analysis of the landscape survey
-
-Contact [code-availability+owner@googlegroups.com](mailto:code-availability+owner@googlegroups.com) to request to join or for any questions.
+**The Code Availability group** is a joint ReSA task force and FORCE11 working group working towards greater alignment on policy and other related actions for code availability. Code availability is concerned with the code associated with the findings of an article being made available alongside (or prior to) the publication of the article. The group has an initial focus on publisher policies concerning code availability. Then the group will look at ways that tools and guidance might help with policy adoption, with the overarching aim of getting more code shared. Contact [code-availability+owner@googlegroups.com](mailto:code-availability+owner@googlegroups.com) to request to join or for any questions.
 
 **Database of {Research Software Funding Opportunities)**: ReSA has created a public [database of current and past research software funding opportunities](https://www.researchsoft.org/funding-opportunities/) to improve the findability of this important information. Members of the community can [add](https://forms.gle/r4Jw4swUd1SXigZc9) current funding opportunities. ReSA will also be adding more details of past funding opportunities to enable analysis of patterns in research software funding, to build on ReSA’s [Overview of the research software funding landscape](https://www.researchsoft.org/blog/2022-02-24/). If you’re interested in joining a task force to analyse this data in order to make recommendations to stakeholders (including the ReSA [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/)) on how to improve the research software funding landscape then please contact [info@researchsoft.org](mailto:info@researchsoft.org).
 
