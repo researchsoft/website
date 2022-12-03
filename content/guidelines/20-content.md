@@ -36,6 +36,8 @@ recommendations, reports and guidelines that emphasise best practice.
 
 ## Policy
 
+-   [Ten simple rules for funding scientific open source software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010627) by Strasser, et al., provides guidance and considerations for funders and other community members interested in supporting scientific software; addressing specific issues related to software, including contributor community development, governance, sustainability, and diversity and inclusion, based on experiences from the Chan Zuckerberg Initiative and Alfred P. Sloan Foundation program officers.
+-   
 -   [Evidence for the importance of research software](http://doi.org/10.5281/zenodo.3884311), 2020. This ReSA analysis
     considers papers relating to meta-research, policy, community, education and training, research breakthroughs and specific software. 
 
@@ -78,10 +80,14 @@ data, and code supported by the US Government.
     
 ## Infrastructure
 
+- The [Research Software Directory](https://research-software-directory.org/) is a tool to promote the visibility, reuse and impact of research software, from the Netherlands eScience Center
+
 #### Software development
 
 -   [FAIR Principles for Research Software](https://doi.org/10.15497/RDA00068), 2022.
 
+-   [Practical Guide to Software Management Plans(https://zenodo.org/record/7185371) by the Dutch Research Council (NWO) and the Netherlands eScience Center, 2022.
+-  
 -   [Nine Best Practices for Research Software Registries and
     Repositories: A Concise Guide](https://arxiv.org/abs/2012.13117), 2020. These resources improve software
     discoverability and research transparency, thereby supporting
