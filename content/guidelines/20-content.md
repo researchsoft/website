@@ -39,7 +39,7 @@ recommendations, reports and guidelines that emphasise best practice.
 ## Policy
 
 -   [Ten simple rules for funding scientific open source software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010627) by Strasser, et al., provides guidance and considerations for funders and other community members interested in supporting scientific software; addressing specific issues related to software, including contributor community development, governance, sustainability, and diversity and inclusion, based on experiences from the Chan Zuckerberg Initiative and Alfred P. Sloan Foundation program officers.
--   
+
 -   [Evidence for the importance of research software](http://doi.org/10.5281/zenodo.3884311), 2020. This ReSA analysis
     considers papers relating to meta-research, policy, community, education and training, research breakthroughs and specific software. 
 
