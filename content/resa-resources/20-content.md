@@ -9,7 +9,7 @@ background = "white"
 
 ## ReSA Outputs
 
-ReSA outputs can provide useful references to support recognition and valuing of research software as a key component of research. Recent items include:
+ReSA outputs can provide useful references to support recognition and valuing of research software as a key component of research, and can also be found in the ReSA [Zenodo community](https://zenodo.org/communities/resa/?page=1&size=20). Recent items include:
 
 * [Research Software Funding Opportunities](https://www.researchsoft.org/funding-opportunities/) - updated regularly
 * [FAIR Principles for Research Software](https://rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0), 2022, which were introuced in this [article](https://www.nature.com/articles/s41597-022-01710-x) in *Scientific Data*
