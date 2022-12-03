@@ -72,19 +72,20 @@ data, and code supported by the US Government.
         
 #### National and regional policies and strategies
 
--   [Policies of open science and research in Finland](https://avointiede.fi/en/policies/policies-open-science-and-research-finland) are being drafted for four areas: culture for open scholarship, open access to scholarly publications, open access of research data and methods, and open education and open access to educational resources.
--
--   [Scholarly infrastructures for research software (SIRS): Report
-    from the EOSC Executive Board Working Group (WG) Architecture Task
+-   Australia: [Australian National Agenda for Research Software](https://ardc.edu.au/project/research-software-agenda-for-australia/), 2021. Addresses recognition of research software as a first class output of research in Australia. 
+
+-   Canada: The [Tri-Agency Research Data Management Policy](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy) includes code deposit as a requirement, in addition to data and other outputs; and that grantees have a publicly accessible strategy to support policy around research data/software management per the Policy.
+
+-   Finland: [Policies of open science and research](https://avointiede.fi/en/policies/policies-open-science-and-research-finland) are being drafted for four areas: culture for open scholarship, open access to scholarly publications, open access of research data and methods, and open education and open access to educational resources.
+
+-   European Union: [Scholarly infrastructures for research software (SIRS): Report from the EOSC Executive Board Working Group (WG) Architecture Task
     Force](https://op.europa.eu/en/publication-detail/-/publication/145fd0f3-3907-11eb-b27b-01aa75ed71a1/language-en), 2020. Establishes a set of recommendations to allow the European Open Science Cloud (EOSC) to include software, next to other research outputs like publications and data, in the realm of its research artifacts. This work is built upon a survey and documentation of a representative panel of current operational infrastructures across Europe, comparing their scopes and approaches. This report summarises the state of the art, identifies best practices, as well as open problems, and paves the way for federating the different approaches in view of supporting the software pillar of EOSC.
     
--    French [National Plan for Open Science](https://www.ouvrirlascience.fr/second-national-plan-for-open-science/), 2021. Places software on a par with publications and data in research and Open Science.
+-    France: French [National Plan for Open Science](https://www.ouvrirlascience.fr/second-national-plan-for-open-science/), 2021. Places software on a par with publications and data in research and Open Science. See also the [activities](https://www.ouvrirlascience.fr/research-software-as-a-pillar-of-open-science/) of the Software College of the French National Committee on Open Science and [Opportunity Note: Encouraging a wider usage of software derived from research](https://www.ouvrirlascience.fr/opportunity-note-encouraging-a-wider-usage-of-software-derived-from-research/).
 
--    [Australian National Agenda for Research Software](https://zenodo.org/record/4940274#.YPT_BBMzZcA), 2021. Addresses recognition of research software as a first class output of research in Australia. 
+- New Zealand: The New Zealand eScience Initiative (NeSI) are sharing how they enable research communities to truly value the contributions of research software in underpinning contemporary science in [Contributing to local & global kōrero around the value, impacts and future of Research Software](https://www.nesi.org.nz/news/2022/11/contributing-local-global-k%C5%8Drero-around-value-impacts-and-future-research-software).
     
 ## Infrastructure
-
-- The [Research Software Directory](https://research-software-directory.org/) is a tool to promote the visibility, reuse and impact of research software, from the Netherlands eScience Center
 
 #### Software development
 
