@@ -45,23 +45,11 @@ recommendations, reports and guidelines that emphasise best practice.
 -   [Evidence for the importance of research software](http://doi.org/10.5281/zenodo.3884311), 2020. This ReSA analysis
     considers papers relating to meta-research, policy, community, education and training, research breakthroughs and specific software. 
 
--   [The top 100 papers](https://www.nature.com/articles/514550a), 2014. 
-    Explores the most-cited research of all time to show that the vast majority
-    describe experimental methods or software that have become
-    essential in their fields.
-
 -   [ReSA Response to US RFI: Public Access to Peer-Reviewed
     Scholarly Publications, Data and Code Resulting From Federally
     Funded Research](http://doi.org/10.5281/zenodo.3828148), 2020. Focuses on how improving the recognition and value of research
 software can increase the access to unclassified published research, digital scientific
 data, and code supported by the US Government.
-
--   [Charting the digital transformation of science: Findings from the
-    2018 OECD International Survey of Scientific
-    Authors (ISSA2)](https://www.oecd-ilibrary.org/science-and-technology/charting-the-digital-transformation-of-science_1b06c47c-en), 2020. This paper explores the potential impacts of digitalisation based on a combination of different indicators on research impact, and includes evidence that 25% of research produces new code.
-    
--   [The Ecosystem of Technologies for Social Science Research 2020](https://uk.sagepub.com/en-gb/eur/technologies-for-social-science-research).
-    Examines the ecosystem of software technologies for social science research. It addresses the challenges facing those who build and use these tools, and looks to the future of technology in social research.
     
 -   [Research software is essential for research data, so how should governments respond?](https://www.researchsoft.org/blog/2021-12/), 2021. This ReSA blog post provides an overview of the current state of international adoption of research software policies and how different countries address these, in order to lay out concrete advice and examples for national governments wishing to update their policies.
 
@@ -76,7 +64,7 @@ data, and code supported by the US Government.
 
 -   Australia: [Australian National Agenda for Research Software](https://ardc.edu.au/project/research-software-agenda-for-australia/), 2021. Addresses recognition of research software as a first class output of research in Australia. 
 
--   Canada: The [Tri-Agency Research Data Management Policy](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy) includes code deposit as a requirement, in addition to data and other outputs; and that grantees have a publicly accessible strategy to support policy around research data/software management per the Policy. See also the 
+-   Canada: The [Tri-Agency Research Data Management Policy](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy) includes code deposit as a requirement, in addition to data and other outputs; and that grantees have a publicly accessible strategy to support policy around research data/software management per the Policy. 
 
 -   Finland: [Policies of open science and research](https://avointiede.fi/en/policies/policies-open-science-and-research-finland) are being drafted for four areas: culture for open scholarship, open access to scholarly publications, open access of research data and methods, and open education and open access to educational resources.
 
