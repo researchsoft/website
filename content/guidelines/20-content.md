@@ -13,10 +13,12 @@ recommendations, reports and guidelines that emphasise best practice.
 
 ## People
 
+-   [Research Software Engineering (RSE) International Survey](https://softwaresaved.github.io/international-survey-2022/): 2022 results now available to help understand the RSE community, inform policies and create incentives that advance RSE interests, building on the 2018 and 2016 survey results. 
+
 -   [Understanding Equity, Diversity and
     Inclusion Challenges Within the Research Software
     Community](https://www.researchgate.net/publication/350647200_Understanding_Equity_Diversity_and_Inclusion_Challenges_Within_the_Research_Software_Community), 2021.
-    Analysis of 2018 survey provides evidence for a lack of diversity
+    Analysis of 2018 international RSE survey provides evidence for a lack of diversity
     in the Research Software Engineers community. This paper identifies
     interventions which could address challenges and highlights areas where the community is
     becoming more diverse.
