@@ -72,6 +72,8 @@ data, and code supported by the US Government.
         
 #### National and regional policies and strategies
 
+-   [Policies of open science and research in Finland](https://avointiede.fi/en/policies/policies-open-science-and-research-finland) are being drafted for four areas: culture for open scholarship, open access to scholarly publications, open access of research data and methods, and open education and open access to educational resources.
+-
 -   [Scholarly infrastructures for research software (SIRS): Report
     from the EOSC Executive Board Working Group (WG) Architecture Task
     Force](https://op.europa.eu/en/publication-detail/-/publication/145fd0f3-3907-11eb-b27b-01aa75ed71a1/language-en), 2020. Establishes a set of recommendations to allow the European Open Science Cloud (EOSC) to include software, next to other research outputs like publications and data, in the realm of its research artifacts. This work is built upon a survey and documentation of a representative panel of current operational infrastructures across Europe, comparing their scopes and approaches. This report summarises the state of the art, identifies best practices, as well as open problems, and paves the way for federating the different approaches in view of supporting the software pillar of EOSC.
