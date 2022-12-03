@@ -76,7 +76,7 @@ data, and code supported by the US Government.
 
 -   Australia: [Australian National Agenda for Research Software](https://ardc.edu.au/project/research-software-agenda-for-australia/), 2021. Addresses recognition of research software as a first class output of research in Australia. 
 
--   Canada: The [Tri-Agency Research Data Management Policy](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy) includes code deposit as a requirement, in addition to data and other outputs; and that grantees have a publicly accessible strategy to support policy around research data/software management per the Policy.
+-   Canada: The [Tri-Agency Research Data Management Policy](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy) includes code deposit as a requirement, in addition to data and other outputs; and that grantees have a publicly accessible strategy to support policy around research data/software management per the Policy. See also the 
 
 -   Finland: [Policies of open science and research](https://avointiede.fi/en/policies/policies-open-science-and-research-finland) are being drafted for four areas: culture for open scholarship, open access to scholarly publications, open access of research data and methods, and open education and open access to educational resources.
 
@@ -108,16 +108,16 @@ data, and code supported by the US Government.
 
 -   [DLR Software Engineering Guidelines](https://doi.org/10.5281/zenodo.1344612), 2018.
 
--   [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510), 2017.
-
 -   [4 Open Source Software
     Recommendations](https://softdev4research.github.io/4OSS-lesson/), 2018.
 
 -   [Top 10 FAIR Data & Software Things: Research Software](https://librarycarpentry.org/Top-10-FAIR/2018/12/01/research-software/), 2018.
 
--   [Software Heritage](https://www.softwareheritage.org) published the [General Index of Software Engineering Papers](https://doi.org/10.48550/arXiv.2204.03254) on arXiv. This dataset is a big contribution to the field of meta-research, enabling the review of outputs of software engineering, 2022. 
+-   [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510), 2017.
 
 #### Software sharing and citation
+
+-   [CHORUS Software Citation Policies Index](https://www.chorusaccess.org/resources/software-citation-policies-index/) provides assistance to authors and publishers.
 
 -   UK National Institutes of Health [Best Practices for Sharing Research Software](https://datascience.nih.gov/tools-and-analytics/best-practices-for-sharing-research-software-faq), 2021.
 
@@ -131,6 +131,7 @@ data, and code supported by the US Government.
 
 ## Lists of resources
 
+-   [Software Heritage](https://www.softwareheritage.org) [General Index of Software Engineering Papers](https://doi.org/10.48550/arXiv.2204.03254) enables the review of outputs of software engineering, 2022. 
 
 -   [SSI guides for everything](https://www.software.ac.uk/resources/guides). Guides for researchers, managers, developers, instructors and
     content distributors.
