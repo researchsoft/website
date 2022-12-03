@@ -82,7 +82,11 @@ data, and code supported by the US Government.
 - Italy: The [Italian National Plan for Open Science](https://www.mur.gov.it/sites/default/files/2022-06/Piano_Nazionale_per_la_Scienza_Aperta.pdf) proposes an overall vision, with specific strategies for five axes of intervention, which must interact to create an open ecosystem of publications, data, analysis tools, networked ICT infrastructures and services, evaluation and training.
 
 - New Zealand: The New Zealand eScience Initiative (NeSI) are sharing how they enable research communities to truly value the contributions of research software in underpinning contemporary science in [Contributing to local & global kōrero around the value, impacts and future of Research Software](https://www.nesi.org.nz/news/2022/11/contributing-local-global-k%C5%8Drero-around-value-impacts-and-future-research-software).
-    
+
+### Research institutions policies
+
+ReSA is creating a listing of [institutional policies that support research software](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0) in a range of organisations - please add to this or join the [task force](https://www.researchsoft.org/taskforces/) undertaking this work.
+
 ## Infrastructure
 
 #### Software development
