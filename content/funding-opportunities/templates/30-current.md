@@ -14,6 +14,7 @@ table, td, th {
  }
 </style>
 
-<div style="display: none;">
+
 ${{ env.TABLE_VAR }}
-</div>
+
+
