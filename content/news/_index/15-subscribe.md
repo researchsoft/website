@@ -6,7 +6,7 @@ weight = 15
 background = "white"
 
 [[buttons]]
-  text = "Subscribe to the monthly ReSA newsletter"
+  text = "Subscribe to the ReSA newsletter"
   url = "https://landing.mailerlite.com/webforms/landing/i5e1h2"
   color = "success"
 +++
