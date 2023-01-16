@@ -1,6 +1,6 @@
 +++
 fragment = "content"
-disabled = false
+disabled = true
 date = "2022-10-21"
 weight = 30
 background = "white"
@@ -16,5 +16,3 @@ table, td, th {
 
 
 ${{ env.TABLE_VAR }}
-
-
