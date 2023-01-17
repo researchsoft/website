@@ -7,10 +7,6 @@ title = "Join ReSA"
 #title_align = "center" # Default is center, can be left, right or center
 +++
 
-**WE'RE RECRUITING! ReSA is hiring [two part-time Community Managers](https://docs.google.com/document/d/1FgRKdLr4wSrUabLluaWb93Q0W70I6MK3qSL8SqxYggk/edit) to be located in Africa and Asia**.
-
-In line with this mission, ReSA offers **opportunities for community members representing multiple stakeholders** to work together to achieve shared goals. As per our [Code of Conduct](./code-of-conduct/), ReSA welcomes and encourages participation by people of all backgrounds and identities.  
-
 You can become involved by: 
 
   - Attending our [Research Software Community Forum](https://www.researchsoft.org/events/2022-06/)
