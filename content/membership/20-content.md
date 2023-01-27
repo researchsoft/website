@@ -14,7 +14,7 @@ By joining us, you will have the opportunity to collaborate with decision makers
 
 Opportunities to:
 - Collaborate with the international research software community to solve common issues
-- Further the international standing anf influence of your organisation
+- Further the international standing and influence of your organisation
 - Gain public recognition as an Organisational Member of ReSA and se of the official ReSA Organisational Member logo
 - Learn and share best practice 
 - Promote your work to a global audience 
