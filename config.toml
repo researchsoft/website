@@ -46,6 +46,11 @@ version = "0.17.3"
   name = "Organisational Membership"
   weight = 13
   
+[[menu.main]]
+  parent = "/about-resa"
+  url = "/donate"
+  name = "Donate"
+  weight = 14
 
 [[menu.main]]
   url = "/taskforces"
