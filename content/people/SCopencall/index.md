@@ -16,7 +16,7 @@ The ReSA [Steering Committee](https://www.researchsoft.org/people/) is calling f
 +++
 
 
-The[ Research Software Alliance](https://www.researchsoft.org/) (ReSA) [Steering Committee ](https://www.researchsoft.org/people/) is calling for nominations for additional members of the Steering Committee in 2023.
+The[ Research Software Alliance](https://www.researchsoft.org/) (ReSA) [Steering Committee ](https://www.researchsoft.org/people/) is calling for nominations for additional members of the Steering Committee.
 
 ReSA is interested in forming a more diverse Steering Committee and **nominations are encouraged from a broad range of ethnicities, genders, disciplines of study, geographies, career stages and backgrounds**. Nominated individuals are expected to have a broad understanding of, and a demonstrated commitment to research software or another relevant area, such as open science, open source software, open research infrastructure, open communities, community governance, etc.
 
