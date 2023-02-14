@@ -6,7 +6,7 @@ title = "Call for Steering Committee nominations 2023"
 title_align = "left"
 
 display_date = false
-date = "2023-03-13"
+date = "2023-02-13"
 
 summary = """
 
