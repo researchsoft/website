@@ -10,13 +10,11 @@ date = "2023-02-13"
 
 summary = """
 
-The ReSA [Steering Committee](https://www.researchsoft.org/people/) is calling for nominations for 4 new members of the Steering Committee in 2021.
+The ReSA [Steering Committee](https://www.researchsoft.org/people/) is calling for nominations for new members of the Steering Committee in 2023.
 """
 
 +++
 
-
-# Open call for ReSA Steering Committee nominations 2023
 
 The[ Research Software Alliance](https://www.researchsoft.org/) (ReSA) [Steering Committee ](https://www.researchsoft.org/people/) is calling for nominations for additional members of the Steering Committee in 2023.
 
