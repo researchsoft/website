@@ -33,4 +33,8 @@ The **benefits of ReSA Steering Committee membership** include:
 
 ReSA Steering Committee members are expected to commit to attend meetings in their time zone (i.e., at least every second meeting, as the meeting time alternates between two options), and to engage for a few hours a month in additional actions such as reviewing written materials or a more in-depth discussion online. The ReSA Steering Committee decides on the frequency and mechanisms for its meetings, which are currently monthly at times agreed to by the members. All ReSA events are held under the [ReSA Code of Conduct](https://www.researchsoft.org/code-of-conduct/). Legal responsibility for ReSA is held by ReSA’s fiscal sponsors, [Code for Science and Society](https://codeforscience.org/).  
 
-If you are interested in nominating yourself or someone else to be a ReSA Steering Committee member, then please **fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeyoNCBLDHemj1EKIZpnzOSiTuEm1BykSZnLZfyQB_t4L27yA/viewform?vc=0&c=0&w=1&flr=0) by Friday 10 March, 2023**. If you would like further information then please contact [Michelle Barker](michelle@researchsoft.org), Director, ReSA. The current Steering Committee will make decisions on membership and successful nominees will be contacted in April 2023.
+If you are interested in nominating yourself or someone else to be a ReSA Steering Committee member, then please 
+
+**[fill out this form by Friday 10 March, 2023](https://docs.google.com/forms/d/e/1FAIpQLSeyoNCBLDHemj1EKIZpnzOSiTuEm1BykSZnLZfyQB_t4L27yA/viewform)**.
+
+If you would like further information then please contact [Michelle Barker](michelle@researchsoft.org), Director, ReSA. The current Steering Committee will make decisions on membership and successful nominees will be contacted in April 2023.
