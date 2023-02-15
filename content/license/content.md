@@ -11,14 +11,13 @@ title = "ReSA License"
 
 The Research Software Alliance makes all of their materials publicly available under open source licenses.
 
-The documents and data are made available under a CC-BY 4.0 International license, unless otherwise specified, and Software are made available under the MIT license.
+The documents and data are made available under a CC-BY 4.0 International license, unless otherwise specified, software are made available under the MIT license.
 
-The license text listed below (describing both CC-BY 4.0 International and MIT licenses as well as their usage in The Research Software Alliance) is re-used under a CC-BY license from The Carpentries community materials.
-(Specifically from the [R novice gapminder](https://github.com/swcarpentry/r-novice-gapminder/blob/main/LICENSE.md)).
+The license text listed below (describing both CC-BY 4.0 International and MIT licenses) is re-used under a CC-BY license from The Carpentries community materials (from the [R novice gapminder](https://github.com/swcarpentry/r-novice-gapminder/blob/main/LICENSE.md)).
 
 ## Documents and data CC by 4.0 International
 
-All documentation in this repository are made available under the [Creative Commons Attribution license 4.0 International][cc-by-human].
+All documentation in this repository ais made available under the [Creative Commons Attribution license 4.0 International][cc-by-human].
 The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license][cc-by-legal].
 
 You are free:
@@ -32,7 +31,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 Under the following terms:
 
-* **Attribution**---You must give appropriate credit (mentioning that your work is derived from work of the Research Software Alliance and, where practical, linking to [https://www.researchsoft.org](https://www.researchsoft.org)), provide a [link to the license][cc-by-human], and indicate if changes were made.
+* **Attribution**---You must give appropriate credit (mentioning that your work is derived from work of the Research Software Alliance, and where practical, link to [https://www.researchsoft.org](https://www.researchsoft.org)), provide a [link to the license][cc-by-human], and indicate if changes were made.
   You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 * **No additional restrictions**---You may not apply legal terms or technological measures that legally restrict others from doing
 anything the license permits.
@@ -48,7 +47,7 @@ With the understanding that:
 
 The template used for this website is [syna][syna] which is licensed under the [Apache License, Version 2.0](https://github.com/okkur/syna/blob/master/LICENSE).
 
-Except where otherwise noted, the software and infrastructure provided by The Research Software Alliance are made available under the [OSI][osi]-approved [**MIT license**][mit-license].
+Except where otherwise noted, the software and infrastructure provided by the Research Software Alliance are made available under the [OSI][osi]-approved [**MIT license**][mit-license].
 
 Copyright (c) 2021 Research Software Alliance
 
