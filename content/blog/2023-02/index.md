@@ -32,4 +32,4 @@ This blog post gives you access to the ReSA 2022 Year in review, have a look at 
 
 <br/>
 <br/>
-<iframe src="https://drive.google.com/file/d/1IclWEjLDr-Q2EWLa3rqd0ridUlAzhNZt/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1IclWEjLDr-Q2EWLa3rqd0ridUlAzhNZt/preview" width="740" height="520" allow="autoplay"></iframe>
