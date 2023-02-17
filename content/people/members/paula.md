@@ -26,7 +26,7 @@ lives_in = "[Brisbane, Australia](https://www.timeanddate.com/worldclock/austral
   text = "Paula Andrea Martinez"
 +++
 
-Paula joined ReSA 2021 to support the growing community of ReSA and the
+Paula joined ReSA in 2021 to support the growing community of ReSA and the
 [FAIR4RS working group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg). Her activities
 reflect current emphasis on project management and program development as the community starts to mature. Her part-time
 role with ReSA is currently supported by the Australian Research Data Commons, and previously by grants from the
