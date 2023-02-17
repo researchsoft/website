@@ -26,7 +26,7 @@ lives_in = "[Canada](https://www.timeanddate.com/worldclock/canada/ontario)"
   text = "Kim Hartley"
 +++
 
-Kim joined the Research Software Alliance in Janurary 2022, with support from the [Digital Research Alliance of Canada](https://alliancecan.ca/), to facilitate the
+Kim joined ReSA in 2022, with support from the [Digital Research Alliance of Canada](https://alliancecan.ca/), to facilitate the
 [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/), a formal mechanism for international funding organisations to collaborate.
 Kim supports the Funders Forum by engaging the community in collaborative activities designed to share practices and address common challenges, with the
 intention of advancing the research software ecosystem. Her part-time role is funded by the Alfred P. Sloan Foundation.
