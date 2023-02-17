@@ -2,6 +2,7 @@
 title = "Alicia Lochard"
 weight = 33
 date = "2023-02-16"
+disabled = true
 
 position = "Fiscally Sponsored Projects Program Manager at CS&S"
 lives_in = "[United States](https://www.timeanddate.com/worldclock/timezone/utc-5)"
