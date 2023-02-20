@@ -1,6 +1,6 @@
 +++
 title = "Kim Hartley"
-weight = 29
+weight = 30
 date = "2022-01-21"
 
 position = "Community Manager"
