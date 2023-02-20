@@ -32,6 +32,4 @@ The South African-based consulting company has been involved in numerous contine
 
 The Talarify team consists of Anelda van der Walt (Executive director), Nomalungelo Maphanga (Project manager and data science mentor), and Noxolo Chalale (Marketing and community engagement manager). Anelda has a background in Bioinformatics and 20 years of experience bridging the Global North and South contexts. Noma is qualified as a chemical engineer, codes in Python and R and is growing her research software skills. Noxolo brings expertise from more than ten years in media and digital marketing.
 
-Talarify works with ReSA to create more awareness within the African research ecosystem about ReSA initiatives and opportunities whilst simultaneously advocating for recognition of African expertise in the global research software space.
-
 [Email Anelda at Talarify](mailto:anelda@talarify.co.za).
