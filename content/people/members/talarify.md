@@ -1,6 +1,6 @@
 +++
 title = "Talarify"
-weight = 32
+weight = 33
 date = "2023-02-16"
 
 position = "Africa Community Engagement Partner"
