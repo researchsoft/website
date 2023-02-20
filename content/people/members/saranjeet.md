@@ -1,6 +1,6 @@
 +++
 title = "Saranjeet Kaur Bhogal"
-weight = 31
+weight = 29
 date = "2023-02-08"
 
 position = "Asia Community Manager"
