@@ -3,7 +3,7 @@ title = "Paula Andrea Martinez"
 weight = 32
 date = "2020-04-01"
 
-position = "Community Manager"
+position = "Community <br/> Manager"
 lives_in = "[Brisbane, Australia](https://www.timeanddate.com/worldclock/australia/brisbane)"
 
 [[icons]]
