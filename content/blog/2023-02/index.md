@@ -20,6 +20,7 @@ date = "2023-02-17"
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
   * [Contact us](/contact)
+  * [Download the report](https://doi.org/10.5281/zenodo.7683174)
   """
 
 +++
@@ -29,6 +30,9 @@ _February, 2023_
 Authors: Kimberley Hartley and Michelle Barker
 
 This blog post gives you access to the ReSA 2022 Year in review, have a look at our accomplishments during 2022.
+
+Cite as
+Hartley, Kim & Barker, Michelle (2023). Research Software Alliance - 2022 year in review. Zenodo. [https://doi.org/10.5281/zenodo.7683174](https://doi.org/10.5281/zenodo.7683174)
 
 <br/>
 <br/>
