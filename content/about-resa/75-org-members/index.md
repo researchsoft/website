@@ -2,7 +2,7 @@
 fragment = "items"
 #disabled = false
 date = "2020-08-31"
-weight = 80
+weight = 75
 background = "white"
 
 title = "Organisational Members"
