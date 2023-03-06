@@ -17,7 +17,7 @@ lives_in = "Australia"
   url = "https://twitter.com/Michelle1Barker"
 
 [asset]
-  image = "michelle.jpg
+  image = "michelle.jpg"
   text = "Michelle Barker"
 +++
 
