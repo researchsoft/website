@@ -37,7 +37,7 @@ ReSA has created a public database of current and past [research software fundin
 
 ### Research institution policies to support research software
 
-Are you interested in research institution's policies that support research software and the people who develop and maintain it? **Join this task force to help build our collection of [institutional policies](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0)** and consider how to better share these with interested stakeholders. To join please contact [info@researchsoft.org](mailto:info@researchsoft.org) - or simply add your organisation's policy to the [public list](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0).
+Are you interested in research institution's policies that support research software and the people who develop and maintain it? Join this task force to help build our collection of **[institutional policies](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0)** and consider how to better share these with interested stakeholders. To join please contact [info@researchsoft.org](mailto:info@researchsoft.org) - or simply add your organisation's policy to the [public list](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0).
 
 For a commencing guide, we recommend Chue Hong, Neil (2022): Implementation of policies on research software. figshare. Presentation. [https://doi.org/10.6084/m9.figshare.21347697.v2](https://doi.org/10.6084/m9.figshare.21347697.v2).
 
