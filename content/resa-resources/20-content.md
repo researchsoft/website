@@ -12,7 +12,8 @@ background = "white"
 ReSA outputs can provide useful references to support recognition and valuing of research software as a key component of research, and can also be found in the ReSA [Zenodo community](https://zenodo.org/communities/resa/?page=1&size=20). Recent items include:
 
 * [Research Software Funding Opportunities](https://www.researchsoft.org/funding-opportunities/) - updated regularly.
-* [Global gathering of research software funders sets the agenda for supporting sustainable research software](https://zenodo.org/record/7384410#.Y4rZ-exBwU5), 2022.
+* [Research institution policies to support research software -  Collection](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0) - updated regularly.
+* [Global gathering of research software funders sets the agenda for supporting sustainable research software](https://zenodo.org/record/7384410), 2022.
 * [Encouraging entry, retention, diversity and inclusion in research software careers](https://www.researchsoft.org/blog/2022-09/), 2022.
 * [FAIR Principles for Research Software](https://rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0), 2022, which were introduced in this [article](https://www.nature.com/articles/s41597-022-01710-x) in *Scientific Data*.
 * [Vive la différence - research software engineers](https://www.researchsoft.org/blog/2022-07/), outcomes of a hybrid workshop on centralising diversity, equity and inclusion at the heart of research software engineering, 2022.
@@ -42,4 +43,3 @@ Do you have resources to add?
 * Add resources directly to the [ReSA Zotero group library](https://www.zotero.org/groups/2400609/resa/library) (requires Zotero account)
 * Submit a resource as an issue in [GitHub](https://github.com/researchsoft/Resources/issues/new/choose) (requires GitHub account)
 * [Email it directly to ReSA](mailto:info@researchsoft.org)
-
