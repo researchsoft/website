@@ -1,11 +1,11 @@
 +++
-date = "2023-03-06"
-weight = 75
-background = "secondary"
 title = "SAGE publishing"
+weight = 25
+date = "2023-03-06"
 
 [asset]
-  icon = "fas fa-university"
   text = "SAGE publishing"
   url = "https://group.sagepub.com/about"
+  color = "secondary" 
 +++
+SAGE publishing
