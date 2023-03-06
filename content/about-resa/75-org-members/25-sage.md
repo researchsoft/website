@@ -2,6 +2,7 @@
 date = "2023-03-06"
 weight = 75
 background = "secondary"
+title = "SAGE publishing"
 
 [asset]
   icon = "fas fa-university"
