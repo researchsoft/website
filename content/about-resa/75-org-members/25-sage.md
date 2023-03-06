@@ -2,7 +2,7 @@
 fragment = "buttons"
 #disabled = false
 date = "2023-03-06"
-weight = 77
+weight = 76
 background = "secondary"
 
 [[buttons]]
