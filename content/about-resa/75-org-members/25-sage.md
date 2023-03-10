@@ -1,11 +1,11 @@
 +++
-title = "SAGE publishing"
+title = "SAGE Publishing"
 weight = 25
 date = "2023-03-06"
 
 [asset]
-  text = "SAGE publishing"
+  text = "SAGE Publishing"
   url = "https://group.sagepub.com/about"
   color = "dark" 
 +++
-SAGE publishing
+SAGE Publishing
