@@ -1,6 +1,7 @@
 +++
 fragment = "content"
 weight = 100
+disabled = true
 
 title = "Call for Steering Committee nominations 2023"
 title_align = "left"
