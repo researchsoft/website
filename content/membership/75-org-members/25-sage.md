@@ -1,11 +1,12 @@
 +++
-title = "SAGE Publishing"
+title = "SAGE publishing"
 weight = 25
 date = "2023-03-06"
 
 [asset]
-  text = "SAGE Publishing"
+  image = "sage_logo.png"
+  text = "SAGE publishing"
   url = "https://group.sagepub.com/about"
-  color = "dark" 
+  color = "dark"
 +++
-SAGE Publishing
+SAGE publishing
