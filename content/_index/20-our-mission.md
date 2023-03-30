@@ -5,6 +5,6 @@ weight = 20
 
 background = "light"
 title = "Our mission"
-subtitle = "To bring research software communities together to collaborate on the advancement of the research software ecosystem."
+subtitle = "To advance the research software ecosystem by collaborating with key influencers and decision makers."
 #title_align = "center" # Default is center, can be left, right or center
 +++
