@@ -24,6 +24,7 @@ Membership is open to any initiative that funds research software. To join pleas
 Funding organisations that have engaged include:
 
 - Alfred P. Sloan Foundation
+- Amazon Web Services (AWS)
 - Australian Research Data Commons (ARDC)
 - Biotechnology and Biological Sciences Research Council (BBSRC)
 - Cancer Research UK
@@ -37,6 +38,7 @@ Funding organisations that have engaged include:
 - Japan Agency for Medical Research and Development (AMED)
 - Japan Science and Technology Agency (JST)
 - Medical Research Council (UKRI)
+- Michael J. Fox Foundation
 - NASA
 - National Institutes of Health (NIH)
 - Netherlands eScience Center (NLeSC)
@@ -45,6 +47,7 @@ Funding organisations that have engaged include:
 - Sage Publishing
 - São Paulo Research Foundation (FAPESP)
 - Schmidt Futures
+- Science for Africa Foundation
 - Social Sciences and Humanities Research Council (SSHRC)
 - UK Research and Innovation (UKRI)
 - Volkswagen Foundation
