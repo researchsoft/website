@@ -1,9 +1,8 @@
 +++
-title = ""
-#weight = 
+title = "Ford Foundation"
+#weight =
 
 [asset]
   url = "https://www.fordfoundation.org/"
   text = "Ford Foundation"
 +++
-Ford Foundation
