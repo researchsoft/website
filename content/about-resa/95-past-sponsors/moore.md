@@ -1,6 +1,6 @@
 +++
 title = ""
-weight = 15
+# weight = 
 
 [asset]
   image = "moore-logo-color-small.png"

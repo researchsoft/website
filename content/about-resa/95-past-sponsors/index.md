@@ -4,5 +4,5 @@ date = "2022-02-16"
 weight = 95
 background = "white"
 
-title = "Previous Sponsors"
+title = "Past Sponsors"
 +++

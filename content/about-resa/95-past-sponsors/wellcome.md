@@ -1,6 +1,6 @@
 +++
 title = ""
-weight = 35
+#weight = 
 
 [asset]
   image = "wellcome-trust-logo.png"
