@@ -1,6 +1,6 @@
 +++
 title = ""
-weight = 35
+#weight = 
 
 [asset]
   image = "NCSA.png"

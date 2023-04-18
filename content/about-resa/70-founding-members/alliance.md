@@ -1,6 +1,6 @@
 +++
 title = ""
-weight = 45
+#weight = 
 
 [asset]
   image = "Alliance.png"

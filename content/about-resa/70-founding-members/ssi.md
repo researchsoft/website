@@ -1,6 +1,6 @@
 +++
 title = ""
-weight = 30
+#weight = 
 
 [asset]
   image = "ssi_logo_with_name-small2.png"
