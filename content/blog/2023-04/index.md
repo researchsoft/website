@@ -176,6 +176,7 @@ However, it was at the [55th Asia Pacific Advanced Network (APAN55)](https://apa
 
 </br>
 </br>
+
 At APAN55, I presented the ["RSE Asia Association: Journey and Future Plans"](https://zenodo.org/record/7817687) at the “Open and Sharing Data Working Group (OSDWG): Asia Pacific Open-Sharing Data and NRENs Open Science” session. Additionally, to promote the RSE Asia Association, I shared swag (sponsored by the [Open Life Science](https://openlifesci.org) programme). During the session, I also organised an activity in which participants were asked to share their ideas on Research Software Engineering (RSEng) as a career path and how open science could benefit researchers globally. I noticed several parallels between the duties and expertise of the staff at NRENs who develop research software infrastructure and those of RSEs while interacting with the attendees.
 </br>
 </br>
