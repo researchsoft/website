@@ -3,7 +3,7 @@ fragment = "items"
 #disabled = false
 date = "2023-03-06"
 weight = 75
-background = "dark"
+background = "#E6E6E6"
 
 title = "Organisational Members"
 subtitle= ""
