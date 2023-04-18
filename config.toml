@@ -22,12 +22,13 @@ version = "0.17.3"
   [params.colors]
     primary = "darkgreen"
     secondary = "darkorange"
+    terciary = "#E6E6E6"
 
 [[menu.main]]
   identifier = "/about-resa"
   name = "About"
   weight = 10
-  
+
 [[menu.main]]
   parent = "/about-resa"
   url = "/about-resa"
@@ -45,7 +46,7 @@ version = "0.17.3"
   url = "/membership"
   name = "Organisational Membership"
   weight = 13
-  
+
 [[menu.main]]
   parent = "/about-resa"
   url = "/donate"
@@ -61,7 +62,7 @@ version = "0.17.3"
   identifier = "/forums"
   name = "Forums"
   weight = 30
-  
+
 [[menu.main]]
   parent = "/forums"
   url = "/funders-forum"
@@ -73,7 +74,7 @@ version = "0.17.3"
   url = "https://www.researchsoft.org/events/2022-06/"
   name = "Community Forum"
   weight = 32
-  
+
 
 [[menu.main]]
   identifier = "/resa-resources"
@@ -92,7 +93,7 @@ version = "0.17.3"
   name = "Guidelines"
   url = "/guidelines"
   weight = 42
- 
+
 [[menu.main]]
   parent = "/resa-resources"
   name = "Funding Opportunities"
@@ -137,7 +138,7 @@ version = "0.17.3"
   name = "slack"
   url = "https://join.slack.com/t/researchsoft/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w"
   pre = "fab fa-slack"
-  
+
 [[menu.footer_social]]
   weight = 60
   name = "Mastodon"
