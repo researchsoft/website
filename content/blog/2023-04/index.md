@@ -13,7 +13,7 @@ date = "2023-04-17"
 [sidebar]
   title = "Important Links"
   align = "right"
-  #sticky = true # Default is false
+  sticky = false # Default is false
   content = """
   * [Event website APAN55](https://apan55.apan.net/)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
