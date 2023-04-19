@@ -45,137 +45,28 @@ However, it was at the [55th Asia Pacific Advanced Network (APAN55)](https://apa
 
 ### National Research and Education Networks in Asia
 
-<table>
-  <tr>
-   <td><strong>Country/Region</strong>
-   </td>
-   <td><strong>National Research and Education Network</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Afghanistan
-   </td>
-   <td>Afghanistan NREN (AfgREN)
-   </td>
-  </tr>
-  <tr>
-   <td>Bangladesh
-   </td>
-   <td><a href="https://www.bdren.net.bd">Bangladesh NREN (BdREN)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>China
-   </td>
-   <td><a href="https://www.cstcloud.net/cstnet.htm">China Science and Technology Network (CSTNET)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>China
-   </td>
-   <td><a href="https://www.edu.cn/english/">China Education and Research Network (CERNET)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Hong Kong
-   </td>
-   <td><a href="https://www.jucc.edu.hk/harnet/">Hong Kong Academic and Research Network (HARNET)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>India
-   </td>
-   <td><a href="https://ernet.in">Education and Research Network of India (ERNET)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>India
-   </td>
-   <td><a href="https://nkn.gov.in/en/">National Knowledge Network (NKN) India</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Indonesia
-   </td>
-   <td><a href="https://idren.id">Indonesia Research and Education Network (IdREN)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Japan
-   </td>
-   <td><a href="https://www.sinet.ad.jp/en/aboutsinet-en">Science Information Network (SINET) Japan</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Korea
-   </td>
-   <td><a href="https://www.koren.kr/eng/index.asp">Korea Advanced Research Network (KOREN)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Korea
-   </td>
-   <td><a href="https://www.kreonet.net/eng/">Korea Research Environment Open Network (KREONET)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Malaysia
-   </td>
-   <td><a href="https://www.myren.net.my">Malaysian Research and Education Network (MyREN)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Nepal
-   </td>
-   <td><a href="https://www.nren.net.np">Nepal Research and Education Network (NREN)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Pakistan
-   </td>
-   <td><a href="https://pern.edu.pk">Pakistan Education and Research Network (PERN)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Philippines
-   </td>
-   <td><a href="https://asti.dost.gov.ph/projects/preginet/">Philippine Research , Education and Government Information Network (PREGINET)</a><span style="text-decoration:underline;"> </span>
-   </td>
-  </tr>
-  <tr>
-   <td>Singapore
-   </td>
-   <td><a href="https://www.singaren.net.sg">Singapore Advanced Research and Education Network (SingAREN)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Sri Lanka
-   </td>
-   <td><a href="https://www.ac.lk">Lanka Education and Research Network (LEARN)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Taiwan
-   </td>
-   <td><a href="https://www.twaren.net/english/">Taiwan Advanced Research and Education Network (TWAREN)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Thailand
-   </td>
-   <td><a href="https://www.uni.net.th">Thailand Education and Research Network (UniNet)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Vietnam
-   </td>
-   <td><a href="https://www.vista.gov.vn/vinaren.html">Vietnam Research and Education Network (VinaREN)</a>
-   </td>
-  </tr>
-</table>
-
-<br/>
-<br/>
+| Country/Region | National Research and Education Network |
+| -------------- | -------------- |
+| Afghanistan | Afghanistan NREN (AfgREN) |
+| Bangladesh | [Bangladesh NREN (BdREN)](https://www.bdren.net.bd) |
+| China | [China Science and Technology Network (CSTNET)](https://www.cstcloud.net/cstnet.htm) |
+| China | [China Education and Research Network (CERNET)](https://www.edu.cn/english/) |
+| Hong Kong | [Hong Kong Academic and Research Network (HARNET)](https://www.jucc.edu.hk/harnet/) |
+| India | [Education and Research Network of India (ERNET)](https://ernet.in) |
+| India | [National Knowledge Network (NKN) India](https://nkn.gov.in/en/) |
+| Indonesia | [Indonesia Research and Education Network (IdREN)](https://idren.id) |
+| Japan | [Science Information Network (SINET) Japan](https://www.sinet.ad.jp/en/aboutsinet-en) |
+| Korea | [Korea Advanced Research Network (KOREN)](https://www.koren.kr/eng/index.asp) |
+| Korea | [Korea Research Environment Open Network (KREONET)](https://www.kreonet.net/eng/) |
+| Malaysia | [Malaysian Research and Education Network (MyREN)](https://www.myren.net.my) |
+| Nepal | [Nepal Research and Education Network (NREN)](https://www.nren.net.np) |
+| Pakistan | [Pakistan Education and Research Network (PERN)](https://pern.edu.pk) |
+| Philippines | [Philippine Research , Education and Government Information Network (PREGINET)](https://asti.dost.gov.ph/projects/preginet/) |
+| Singapore | [Singapore Advanced Research and Education Network (SingAREN)](https://www.singaren.net.sg) |
+| Sri Lanka | [Lanka Education and Research Network (LEARN)](https://www.ac.lk) |
+| Taiwan | [Taiwan Advanced Research and Education Network (TWAREN)](https://www.twaren.net/english/) |
+| Thailand | [Thailand Education and Research Network (UniNet)](https://www.uni.net.th) |
+| Vietnam | [Vietnam Research and Education Network (VinaREN)](https://www.vista.gov.vn/vinaren.html) |
 
 At APAN55, I presented the ["RSE Asia Association: Journey and Future Plans"](https://zenodo.org/record/7817687) at the “Open and Sharing Data Working Group (OSDWG): Asia Pacific Open-Sharing Data and NRENs Open Science” session. Additionally, to promote the RSE Asia Association, I shared swag (sponsored by the [Open Life Science](https://openlifesci.org) programme). During the session, I also organised an activity in which participants were asked to share their ideas on Research Software Engineering (RSEng) as a career path and how open science could benefit researchers globally. I noticed several parallels between the duties and expertise of the staff at NRENs who develop research software infrastructure and those of RSEs while interacting with the attendees.
 <br/>
