@@ -50,7 +50,7 @@ fragment = "table"
 #disabled = false
 date = "2023-04-17"
 weight = 110
-background = "secondary"
+background = "light"
 
 subtitle= "NRENs in Asia"
 title_align = "left" # Default is center, can be left, right or center
@@ -64,14 +64,14 @@ title_align = "left" # Default is center, can be left, right or center
 
 [[rows]]
   [[rows.values]]
-    text = "Afghanistan"
+    header = "Afghanistan"
 
   [[rows.values]]
     text = "Afghanistan NREN (AfgREN)"
     
 [[rows]]
   [[rows.values]]
-    text = "Bangladesh"
+    header = "Bangladesh"
 
   [[rows.values]]
     text = "Bangladesh NREN (BdREN)"
@@ -79,7 +79,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "China"
+    header = "China"
 
   [[rows.values]]
     text = "China Science and Technology Network (CSTNET)"
@@ -87,7 +87,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "China"
+    header = "China"
 
   [[rows.values]]
     text = "China Education and Research Network (CERNET)"
@@ -95,7 +95,7 @@ title_align = "left" # Default is center, can be left, right or center
 
 [[rows]]
   [[rows.values]]
-    text = "Hong Kong"
+    header = "Hong Kong"
 
   [[rows.values]]
     text = "Hong Kong Academic and Research Network (HARNET)"
@@ -103,7 +103,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "India"
+    header = "India"
 
   [[rows.values]]
     text = "Education and Research Network of India (ERNET)"
@@ -111,7 +111,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "India"
+    header = "India"
 
   [[rows.values]]
     text = "National Knowledge Network (NKN) India"
@@ -119,7 +119,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "Indonesia"
+    header = "Indonesia"
 
   [[rows.values]]
     text = "Indonesia Research and Education Network (IdREN)"
@@ -127,7 +127,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "Japan"
+    header = "Japan"
 
   [[rows.values]]
     text = "Science Information Network (SINET) Japan"
@@ -135,7 +135,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "Korea"
+    header = "Korea"
 
   [[rows.values]]
     text = "Korea Advanced Research Network (KOREN)"
@@ -143,7 +143,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "Korea"
+    header = "Korea"
 
   [[rows.values]]
     text = "Korea Research Environment Open Network (KREONET)"
@@ -151,7 +151,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "Malaysia"
+    header = "Malaysia"
 
   [[rows.values]]
     text = "Malaysian Research and Education Network (MyREN)"
@@ -159,7 +159,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "Nepal"
+    header = "Nepal"
 
   [[rows.values]]
     text = "Nepal Research and Education Network (NREN)"
@@ -167,7 +167,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "Pakistan"
+    header = "Pakistan"
 
   [[rows.values]]
     text = "Pakistan Education and Research Network (PERN)"
@@ -175,7 +175,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "Philippines"
+    header = "Philippines"
 
   [[rows.values]]
     text = "Philippine Research , Education and Government Information Network (PREGINET)"
@@ -183,7 +183,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "Singapore"
+    header = "Singapore"
 
   [[rows.values]]
     text = "Singapore Advanced Research and Education Network (SingAREN)"
@@ -191,7 +191,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "Sri Lanka"
+    header = "Sri Lanka"
 
   [[rows.values]]
     text = "Lanka Education and Research Network (LEARN)"
@@ -199,7 +199,7 @@ title_align = "left" # Default is center, can be left, right or center
     
 [[rows]]
   [[rows.values]]
-    text = "Taiwan"
+    header = "Taiwan"
 
   [[rows.values]]
     text = "Taiwan Advanced Research and Education Network (TWAREN)"
@@ -207,7 +207,7 @@ title_align = "left" # Default is center, can be left, right or center
 
 [[rows]]
   [[rows.values]]
-    text = "Thailand"
+    header = "Thailand"
 
   [[rows.values]]
     text = "Thailand Education and Research Network (UniNet)"
@@ -215,7 +215,7 @@ title_align = "left" # Default is center, can be left, right or center
 
 [[rows]]
   [[rows.values]]
-    text = "Vietnam"
+    header = "Vietnam"
 
   [[rows.values]]
     text = "Vietnam Research and Education Network (VinaREN)"
