@@ -45,30 +45,183 @@ However, it was at the [55th Asia Pacific Advanced Network (APAN55)](https://apa
 
 ### National Research and Education Networks in Asia
 
-| Country/Region | National Research and Education Network |
-| -------------- | -------------- |
-| Afghanistan | Afghanistan NREN (AfgREN) |
-| Bangladesh | [Bangladesh NREN (BdREN)](https://www.bdren.net.bd) |
-| China | [China Science and Technology Network (CSTNET)](https://www.cstcloud.net/cstnet.htm) |
-| China | [China Education and Research Network (CERNET)](https://www.edu.cn/english/) |
-| Hong Kong | [Hong Kong Academic and Research Network (HARNET)](https://www.jucc.edu.hk/harnet/) |
-| India | [Education and Research Network of India (ERNET)](https://ernet.in) |
-| India | [National Knowledge Network (NKN) India](https://nkn.gov.in/en/) |
-| Indonesia | [Indonesia Research and Education Network (IdREN)](https://idren.id) |
-| Japan | [Science Information Network (SINET) Japan](https://www.sinet.ad.jp/en/aboutsinet-en) |
-| Korea | [Korea Advanced Research Network (KOREN)](https://www.koren.kr/eng/index.asp) |
-| Korea | [Korea Research Environment Open Network (KREONET)](https://www.kreonet.net/eng/) |
-| Malaysia | [Malaysian Research and Education Network (MyREN)](https://www.myren.net.my) |
-| Nepal | [Nepal Research and Education Network (NREN)](https://www.nren.net.np) |
-| Pakistan | [Pakistan Education and Research Network (PERN)](https://pern.edu.pk) |
-| Philippines | [Philippine Research , Education and Government Information Network (PREGINET)](https://asti.dost.gov.ph/projects/preginet/) |
-| Singapore | [Singapore Advanced Research and Education Network (SingAREN)](https://www.singaren.net.sg) |
-| Sri Lanka | [Lanka Education and Research Network (LEARN)](https://www.ac.lk) |
-| Taiwan | [Taiwan Advanced Research and Education Network (TWAREN)](https://www.twaren.net/english/) |
-| Thailand | [Thailand Education and Research Network (UniNet)](https://www.uni.net.th) |
-| Vietnam | [Vietnam Research and Education Network (VinaREN)](https://www.vista.gov.vn/vinaren.html) |
-<br/>
-<br/>
++++
+fragment = "table"
+#disabled = false
+date = "2023-04-17"
+weight = 110
+background = "secondary"
+
+subtitle= "NRENs in Asia"
+title_align = "left" # Default is center, can be left, right or center
+
+[header]
+  [[header.values]]
+    text = "Country/ Region"
+
+  [[header.values]]
+    text = "National Research and Education Network"
+
+[[rows]]
+  [[rows.values]]
+    text = "Afghanistan"
+
+  [[rows.values]]
+    text = "Afghanistan NREN (AfgREN)"
+    
+[[rows]]
+  [[rows.values]]
+    text = "Bangladesh"
+
+  [[rows.values]]
+    text = "Bangladesh NREN (BdREN)"
+    url = "#https://www.bdren.net.bd"
+    
+[[rows]]
+  [[rows.values]]
+    text = "China"
+
+  [[rows.values]]
+    text = "China Science and Technology Network (CSTNET)"
+    url = "#https://www.cstcloud.net/cstnet.htm"
+    
+[[rows]]
+  [[rows.values]]
+    text = "China"
+
+  [[rows.values]]
+    text = "China Education and Research Network (CERNET)"
+    url = "#https://www.edu.cn/english/"
+
+[[rows]]
+  [[rows.values]]
+    text = "Hong Kong"
+
+  [[rows.values]]
+    text = "Hong Kong Academic and Research Network (HARNET)"
+    url = "#https://www.jucc.edu.hk/harnet/"
+    
+[[rows]]
+  [[rows.values]]
+    text = "India"
+
+  [[rows.values]]
+    text = "Education and Research Network of India (ERNET)"
+    url = "#https://ernet.in"  
+    
+[[rows]]
+  [[rows.values]]
+    text = "India"
+
+  [[rows.values]]
+    text = "National Knowledge Network (NKN) India"
+    url = "#https://nkn.gov.in/en/"  
+    
+[[rows]]
+  [[rows.values]]
+    text = "Indonesia"
+
+  [[rows.values]]
+    text = "Indonesia Research and Education Network (IdREN)"
+    url = "#https://idren.id"     
+    
+[[rows]]
+  [[rows.values]]
+    text = "Japan"
+
+  [[rows.values]]
+    text = "Science Information Network (SINET) Japan"
+    url = "#https://www.sinet.ad.jp/en/aboutsinet-en"  
+    
+[[rows]]
+  [[rows.values]]
+    text = "Korea"
+
+  [[rows.values]]
+    text = "Korea Advanced Research Network (KOREN)"
+    url = "#https://www.koren.kr/eng/index.asp"   
+    
+[[rows]]
+  [[rows.values]]
+    text = "Korea"
+
+  [[rows.values]]
+    text = "Korea Research Environment Open Network (KREONET)"
+    url = "#https://www.kreonet.net/eng/"  
+    
+[[rows]]
+  [[rows.values]]
+    text = "Malaysia"
+
+  [[rows.values]]
+    text = "Malaysian Research and Education Network (MyREN)"
+    url = "#https://www.myren.net.my"     
+    
+[[rows]]
+  [[rows.values]]
+    text = "Nepal"
+
+  [[rows.values]]
+    text = "Nepal Research and Education Network (NREN)"
+    url = "#https://www.nren.net.np"    
+    
+[[rows]]
+  [[rows.values]]
+    text = "Pakistan"
+
+  [[rows.values]]
+    text = "Pakistan Education and Research Network (PERN)"
+    url = "#https://pern.edu.pk"     
+    
+[[rows]]
+  [[rows.values]]
+    text = "Philippines"
+
+  [[rows.values]]
+    text = "Philippine Research , Education and Government Information Network (PREGINET)"
+    url = "#https://asti.dost.gov.ph/projects/preginet/"   
+    
+[[rows]]
+  [[rows.values]]
+    text = "Singapore"
+
+  [[rows.values]]
+    text = "Singapore Advanced Research and Education Network (SingAREN)"
+    url = "#https://www.singaren.net.sg"     
+    
+[[rows]]
+  [[rows.values]]
+    text = "Sri Lanka"
+
+  [[rows.values]]
+    text = "Lanka Education and Research Network (LEARN)"
+    url = "#https://www.ac.lk"  
+    
+[[rows]]
+  [[rows.values]]
+    text = "Taiwan"
+
+  [[rows.values]]
+    text = "Taiwan Advanced Research and Education Network (TWAREN)"
+    url = "#https://www.twaren.net/english/"  
+
+[[rows]]
+  [[rows.values]]
+    text = "Thailand"
+
+  [[rows.values]]
+    text = "Thailand Education and Research Network (UniNet)"
+    url = "#https://www.uni.net.th"     
+
+[[rows]]
+  [[rows.values]]
+    text = "Vietnam"
+
+  [[rows.values]]
+    text = "Vietnam Research and Education Network (VinaREN)"
+    url = "#https://www.vista.gov.vn/vinaren.html"  
++++
+
 At APAN55, I presented the ["RSE Asia Association: Journey and Future Plans"](https://zenodo.org/record/7817687) at the “Open and Sharing Data Working Group (OSDWG): Asia Pacific Open-Sharing Data and NRENs Open Science” session. Additionally, to promote the RSE Asia Association, I shared swag (sponsored by the [Open Life Science](https://openlifesci.org) programme). During the session, I also organised an activity in which participants were asked to share their ideas on Research Software Engineering (RSEng) as a career path and how open science could benefit researchers globally. I noticed several parallels between the duties and expertise of the staff at NRENs who develop research software infrastructure and those of RSEs while interacting with the attendees.
 <br/>
 <br/>
