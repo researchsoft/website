@@ -10,4 +10,4 @@ subtitle= ""
 #title_align = "left" # Default is center, can be left, right or center
 +++
 
-[To become a ReSA Organisational Member](../membership/)
+[To become a ReSA Organisational Member, go to our membership page](../membership/)
