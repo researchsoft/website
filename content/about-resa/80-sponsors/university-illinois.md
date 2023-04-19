@@ -1,6 +1,6 @@
 +++
 title = ""
-weight = 10
+#weight = 
 
 [asset]
   image = "illinois-logo-internal-collaboration.png"
