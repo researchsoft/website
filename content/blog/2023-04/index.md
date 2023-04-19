@@ -75,7 +75,7 @@ In a [Twitter thread](https://twitter.com/RSE_Asia/status/1635942735948414978?s=
 <br/>
 <img src="APAN55_RSEAsia_Nepal.png" alt="From left to right and top to bottom) Saranjeet's presentation about the RSE Asia Association, RSE Asia Association swags, Twitter thread about the activity. Image credit:Saranjeet Kaur Bhogal"/>
 
-_(From left to right and top to bottom) My presentation about the RSE Asia Association, RSE Asia Association swags, Twitter thread about the activity. **Image credit:** [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/)_
+_(From left to right and top to bottom) My presentation about the RSE Asia Association, RSE Asia Association swags, Twitter thread about the activity._ **Image credit:** [Saranjeet Kaur Bhogal](mailto:kaur.saranjeet3@gmail.com)
 
 ## Call to Action
 
