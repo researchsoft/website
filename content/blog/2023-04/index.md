@@ -45,35 +45,31 @@ However, it was at the [55th Asia Pacific Advanced Network (APAN55)](https://apa
 
 ### National Research and Education Networks in Asia
 
-| Country/Region | National Research and Education Network |
-| -------------- | -------------- |
-| Afghanistan | Afghanistan NREN (AfgREN) |
-| Bangladesh | [Bangladesh NREN (BdREN)](https://www.bdren.net.bd) |
-| China | [China Science and Technology Network (CSTNET)](https://www.cstcloud.net/cstnet.htm) |
-| China | [China Education and Research Network (CERNET)](https://www.edu.cn/english/) |
-| Hong Kong | [Hong Kong Academic and Research Network (HARNET)](https://www.jucc.edu.hk/harnet/) |
-| India | [Education and Research Network of India (ERNET)](https://ernet.in) |
-| India | [National Knowledge Network (NKN) India](https://nkn.gov.in/en/) |
-| Indonesia | [Indonesia Research and Education Network (IdREN)](https://idren.id) |
-| Japan | [Science Information Network (SINET) Japan](https://www.sinet.ad.jp/en/aboutsinet-en) |
-| Korea | [Korea Advanced Research Network (KOREN)](https://www.koren.kr/eng/index.asp) |
-| Korea | [Korea Research Environment Open Network (KREONET)](https://www.kreonet.net/eng/) |
-| Malaysia | [Malaysian Research and Education Network (MyREN)](https://www.myren.net.my) |
-| Nepal | [Nepal Research and Education Network (NREN)](https://www.nren.net.np) |
-| Pakistan | [Pakistan Education and Research Network (PERN)](https://pern.edu.pk) |
-| Philippines | [Philippine Research , Education and Government Information Network (PREGINET)](https://asti.dost.gov.ph/projects/preginet/) |
-| Singapore | [Singapore Advanced Research and Education Network (SingAREN)](https://www.singaren.net.sg) |
-| Sri Lanka | [Lanka Education and Research Network (LEARN)](https://www.ac.lk) |
-| Taiwan | [Taiwan Advanced Research and Education Network (TWAREN)](https://www.twaren.net/english/) |
-| Thailand | [Thailand Education and Research Network (UniNet)](https://www.uni.net.th) |
-| Vietnam | [Vietnam Research and Education Network (VinaREN)](https://www.vista.gov.vn/vinaren.html) |
-<br/>
-<br/>
+- Afghanistan: Afghanistan NREN (AfgREN)
+- Bangladesh: [Bangladesh NREN (BdREN)](https://www.bdren.net.bd)
+- China: [China Science and Technology Network (CSTNET)](https://www.cstcloud.net/cstnet.htm)
+- China: [China Education and Research Network (CERNET)](https://www.edu.cn/english/)
+- Hong Kong: [Hong Kong Academic and Research Network (HARNET)](https://www.jucc.edu.hk/harnet/)
+- India: [Education and Research Network of India (ERNET)](https://ernet.in) 
+- India: [National Knowledge Network (NKN) India](https://nkn.gov.in/en/)  
+- Indonesia: [Indonesia Research and Education Network (IdREN)](https://idren.id)    
+- Japan: [Science Information Network (SINET) Japan](https://www.sinet.ad.jp/en/aboutsinet-en)  
+- Korea: [Korea Advanced Research Network (KOREN)](https://www.koren.kr/eng/index.asp)  
+- Korea: [Korea Research Environment Open Network (KREONET)](https://www.kreonet.net/eng/)  
+- Malaysia: [Malaysian Research and Education Network (MyREN)](https://www.myren.net.my)    
+- Nepal: [Nepal Research and Education Network (NREN)](https://www.nren.net.np)    
+- Pakistan: [Pakistan Education and Research Network (PERN)](https://pern.edu.pk)    
+- Philippines: [Philippine Research , Education and Government Information Network (PREGINET)](https://asti.dost.gov.ph/projects/preginet/)   
+- Singapore: [Singapore Advanced Research and Education Network (SingAREN)](https://www.singaren.net.sg)     
+- Sri Lanka: [Lanka Education and Research Network (LEARN)](https://www.ac.lk)  
+- Taiwan: [Taiwan Advanced Research and Education Network (TWAREN)](https://www.twaren.net/english/) 
+- Thailand: [Thailand Education and Research Network (UniNet)](https://www.uni.net.th)    
+- Vietnam: [Vietnam Research and Education Network (VinaREN)](https://www.vista.gov.vn/vinaren.html) 
+
 At APAN55, I presented the ["RSE Asia Association: Journey and Future Plans"](https://zenodo.org/record/7817687) at the “Open and Sharing Data Working Group (OSDWG): Asia Pacific Open-Sharing Data and NRENs Open Science” session. Additionally, to promote the RSE Asia Association, I shared swag (sponsored by the [Open Life Science](https://openlifesci.org) programme). During the session, I also organised an activity in which participants were asked to share their ideas on Research Software Engineering (RSEng) as a career path and how open science could benefit researchers globally. I noticed several parallels between the duties and expertise of the staff at NRENs who develop research software infrastructure and those of RSEs while interacting with the attendees.
-<br/>
-<br/>
+
 In a [Twitter thread](https://twitter.com/RSE_Asia/status/1635942735948414978?s=20), I compiled responses from APAN55 participants regarding their opinions on RSEng as a profession and a career path. One person from Malaysia responded, "I think it's an interesting path to choose especially for people who like to do research and also want to develop software". An attendee from Nepal commented, "For me it's a domain of software engineering”, while someone from South Korea observed that software has a significant impact in various domains. They stated that with software being integrated into almost every domain, there is a need for research to enhance its capabilities. Another participant from Nepal mentioned that they believed the role of RSEng to be important and its significance had grown over time. They further stated that the particular requirements of researchers could only be met by specialised software engineers who develop an understanding of the research ecosystem, have knowledge of existing solutions, and are capable of bridging any gaps that may exist. Quoting an attendee from India, "Indeed there could be a wonderful career for a software engineer in academia. If they get a rich experience over technology it can help the researchers to facilitate their theory into a workable project or product. Software Engineering could be a backbone where concepts can be transformed into productive algorithms and results can be automated. It can also set up a process path for executing a project. Problem statements can be set up by a software engineer for a group of students and academics."
-<br/>
+
 <img src="APAN55_RSEAsia_Nepal.png" alt="From left to right and top to bottom) Saranjeet's presentation about the RSE Asia Association, RSE Asia Association swags, Twitter thread about the activity. Image credit:Saranjeet Kaur Bhogal"/>
 
 _(From left to right and top to bottom) My presentation about the RSE Asia Association, RSE Asia Association swags, Twitter thread about the activity._ **Image credit:** [Saranjeet Kaur Bhogal](mailto:kaur.saranjeet3@gmail.com)
