@@ -12,7 +12,7 @@ ReSA has created this public database of current and past research software fund
 
 This database focuses on funding calls or programs that are **targeted at research software** and/or those who develop and maintain it (such as research software engineers). The database does not include broader funding calls for which research software is one of many options for investment, such as research projects in general, open science, open infrastructure, etc. 
 
-Updated on February 10, 2023.
+Updated on April 20, 2023.
 
 <br>
 <br>
