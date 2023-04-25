@@ -29,7 +29,7 @@ ReSA task forces enable the community to focus and identifying challenges and so
 
 ### The Code Availability group
 
-Is a joint ReSA task force and FORCE11 working group working towards greater alignment on policy and other related actions for code availability. Code availability is concerned with the code associated with the findings of an article being made available alongside (or prior to) the publication of the article. The group has an initial focus on publisher policies concerning code availability. Then the group will look at ways that tools and guidance might help with policy adoption, with the overarching aim of getting more code shared. Contact [code-availability+owner@googlegroups.com](mailto:code-availability+owner@googlegroups.com) to request to join or for any questions.
+This is a joint ReSA task force and FORCE11 working group working towards greater alignment on policy and other related actions for code availability. Code availability is concerned with the code associated with the findings of an article being made available alongside (or prior to) the publication of the article. The group has an initial focus on publisher policies concerning code availability. Then the group will look at ways that tools and guidance might help with policy adoption, with the overarching aim of getting more code shared. Contact [code-availability+owner@googlegroups.com](mailto:code-availability+owner@googlegroups.com) to request to join or for any questions.
 
 ### Database of Research Software Funding Opportunities
 
@@ -39,9 +39,8 @@ ReSA has created a public database of current and past [research software fundin
 
 Are you interested in research institution's policies that support research software and the people who develop and maintain it? Join this task force to help build our collection of **[institutional policies](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0)** and consider how to better share these with interested stakeholders. To join please contact [info@researchsoft.org](mailto:info@researchsoft.org) - or simply add your organisation's policy to the [public list](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0).
 
-For a commencing guide, we recommend Chue Hong, Neil (2022): Implementation of policies on research software. figshare. Presentation. [https://doi.org/10.6084/m9.figshare.21347697.v2](https://doi.org/10.6084/m9.figshare.21347697.v2).
-
-To learn about [international and national policies, please see our blogpost](https://www.researchsoft.org/blog/2021-12/). Also, Barker, Michelle (2022): Landscape of policies around research software. Presentation. [https://tinyurl.com/se-software](https://tinyurl.com/se-software).
+Useful resources on policies also include [our blogpost](https://www.researchsoft.org/blog/2021-12/) on intenrational and ndational policies, Neil Chue Hong's [Implementation of policies on research software](https://doi.org/10.6084/m9.figshare.21347697.v2), and Michelle Barker's 
+ [Landscape of policies around research software](https://tinyurl.com/se-software).
 
 ## Completed task forces
 
