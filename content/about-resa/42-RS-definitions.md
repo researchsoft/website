@@ -2,6 +2,7 @@
 fragment = "content"
 date = "2023-04-25"
 weight = 42
+background = white
 
 title = ""
 +++
