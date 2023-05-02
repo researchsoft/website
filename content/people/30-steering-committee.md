@@ -27,7 +27,7 @@ title = "Steering Committee"
 **Lou Woodley**, Director, Center for Scientific Collaboration and Community Engagement, UK 
 
 <p>&nbsp;</p>
-An open call for Steering Committee members occurred in 2020 to add new members. Previous Steering Committee members:
+The most recent open call for Steering Committee members occurred in 2023 and members will be announced soon. Before that the latest open call occurred in 2020. Below are listed the previous Steering Committee members:
 <p>&nbsp;</p>
 
 **Tania Allard**, Co-Director, Quansight, UK (2021)
