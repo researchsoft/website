@@ -6,7 +6,9 @@ weight = 40
 position = "Chief Scientist"
 company = "National Center for Supercomputing Applications (NCSA)"
 lives_in = "USA"
-scope = ["Chair"]
+scope = [
+        "Chair"
+]
 
 [asset]
   image = "dan.jpg"

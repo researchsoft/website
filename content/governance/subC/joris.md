@@ -5,7 +5,9 @@ date = "2023-04-25"
 position = "Director"
 company = "The Netherlands eScience Centre"
 lives_in = "The Netherlands"
-scope = "ADORE.software governance"
+scope = [
+    "ADORE.software governance"
+]
 
 [asset]
   image = "joris.jpg"
