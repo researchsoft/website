@@ -2,8 +2,8 @@
 title = "Juan Bicarregui"
 date = "2023-04-25"
 
-position = ""
-company = ""
+position = "Head of the Data Division"
+company = "Science and Technology Facilities Council UK"
 lives_in = "UK"
 
 [asset]

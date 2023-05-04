@@ -2,8 +2,8 @@
 title = "Neil Chue Hong"
 date = "2023-04-25"
 
-position = ""
-company = ""
+position = "Director"
+company = "Software Sustainability Institute, University of Edinburgh"
 lives_in = "UK"
 
 [asset]
