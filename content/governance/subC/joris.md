@@ -2,7 +2,7 @@
 title = "Joris van Eijnatten"
 date = "2023-04-25"
 
-position = ""
+position = "Director"
 company = "The Netherlands eScience Centre"
 lives_in = "The Netherlands"
 scope = "ADORE.software governance"
@@ -11,3 +11,5 @@ scope = "ADORE.software governance"
   image = "joris.jpg"
   text = "Joris van Eijnatten"
 +++
+
+Joris van Eijnatten is director of the Netherlands eScience Center, the Dutch national centre of expertise for innovative software solutions in academic research. He is also a professor of digital history at Utrecht University in the Netherlands, where he conducts research into recurring patterns of words and concepts in nineteenth and twentieth-century newspapers, periodicals, parliamentary records and other digitized texts.
