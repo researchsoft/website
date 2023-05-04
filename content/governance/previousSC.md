@@ -4,18 +4,18 @@ date = "2023-05-04"
 weight = 60
 background = "white"
 
-title = "Previous Steering Committee Members"
+title = "Former Steering Committee Members"
 +++
 
-Below are listed the previous Steering Committee members:
+Below are listed the former Steering Committee members:
 
-**Eva Mendez**, Associate Professor, Universidad Carlos III de Madrid, Spain (2022)
+**Eva Mendez**, Associate Professor, Universidad Carlos III de Madrid, Spain (2021 -2022)
 
-**Chris Mentzel**, Executive Director, Data Sciences, Stanford Data Science Initiative, Stanford University, USA (2022)
+**Chris Mentzel**, Executive Director, Data Sciences, Stanford Data Science Initiative, Stanford University, USA (2021 - 2022)
 
-**Andrew Treloar**, Director,  Platforms and Software, Australian Research Data Commons, Australia (2022)
+**Andrew Treloar**, Director,  Platforms and Software, Australian Research Data Commons, Australia (2021 -2022)
 
-**Lou Woodley**, Director, Center for Scientific Collaboration and Community Engagement, UK (2022)
+**Lou Woodley**, Director, Center for Scientific Collaboration and Community Engagement, UK (2021 - 2022)
 
 **Tania Allard**, Co-Director, Quansight, UK (2021)
 
