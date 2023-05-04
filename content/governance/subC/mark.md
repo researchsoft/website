@@ -2,8 +2,7 @@
 title = "Mark Leggott"
 date = "2023-04-25"
 
-position = "Director of International Relations"
-company = "Digital Research Alliance of Canada"
+position = "Director of International Relations, Digital Research Alliance of Canada"
 lives_in = "Canada"
 scope = [
     "Global Partnerships"
