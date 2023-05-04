@@ -2,7 +2,8 @@
 title = "Nicolás Palopoli"
 date = "2023-04-25"
 
-position = "Adjunct Researcher at the National Research Council in Argentina (CONICET)"
+position = "Adjunct Researcher"
+company = "National Research Council in Argentina (CONICET)"
 lives_in = "Argentina"
 
 [asset]

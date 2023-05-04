@@ -2,7 +2,8 @@
 title = "Shurui Zhou"
 date = "2023-04-25"
 
-position = "Assistant Professor at the University of Toronto"
+position = "Assistant Professor"
+company = "The University of Toronto"
 lives_in = "Canada"
 
 [asset]

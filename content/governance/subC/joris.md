@@ -1,10 +1,11 @@
 +++
 title = "Joris van Eijnatten"
-subtitle = "ADORE.software governance"
 date = "2023-04-25"
 
-position = "The Netherlands eScience Centre"
+position = ""
+company = "The Netherlands eScience Centre"
 lives_in = "The Netherlands"
+scope = "ADORE.software governance"
 
 [asset]
   image = "joris.jpg"
