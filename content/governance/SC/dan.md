@@ -1,14 +1,15 @@
 +++
-title = "Daniel S. Katz"
+title = "Chair: Daniel S. Katz"
 date = "2023-04-25"
 weight = 40
 
 position = "Chief Scientist"
-company = "National Center for Supercomputing Applications (NCSA), University of Illinois"
-lives_in = "USA"
 scope = [
-        "Chair"
+        "National Center for Supercomputing Applications (NCSA)",
+        "University of Illinois"
 ]
+lives_in = "USA"
+
 
 [asset]
   image = "dan.jpg"
