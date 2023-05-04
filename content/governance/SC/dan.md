@@ -1,9 +1,14 @@
 +++
 title = "Chair: Daniel S. Katz"
+subtitle = "Chair"
 date = "2023-04-25"
 weight = 40
 
 position = "Chief Scientist"
+company = [
+        "National Center for Supercomputing Applications (NCSA)",
+        "University of Illinois"
+]
 scope = [
         "National Center for Supercomputing Applications (NCSA)",
         "University of Illinois"
