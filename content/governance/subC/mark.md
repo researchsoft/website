@@ -5,7 +5,7 @@ date = "2023-05-09"
 position = "Director of International Relations, Digital Research Alliance of Canada"
 lives_in = "Canada"
 scope = [
-    "Global Partnerships"
+    "**Subcomittee: Global Partnerships**"
     ]
 
 [asset]

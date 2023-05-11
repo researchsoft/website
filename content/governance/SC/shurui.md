@@ -1,6 +1,7 @@
 +++
 title = "Shurui Zhou"
 date = "2023-04-25"
+weight = 46
 
 position = "Assistant Professor, The University of Toronto"
 lives_in = "Canada"

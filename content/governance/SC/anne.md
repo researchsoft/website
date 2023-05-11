@@ -1,6 +1,7 @@
 +++
 title = "Anne Fouilloux"
 date = "2023-04-25"
+weight = 41
 
 position = "Senior Research Engineer at Simula Research Laboratory"
 lives_in = "Norway"

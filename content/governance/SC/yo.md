@@ -1,6 +1,7 @@
 +++
 title = "Yo Yehudi"
 date = "2023-04-25"
+weight = 47
 
 position = "Co-founder of Open Life Science (OLS)"
 lives_in = "UK"

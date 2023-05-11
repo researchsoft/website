@@ -1,6 +1,7 @@
 +++
 title = "Juan Bicarregui"
 date = "2023-05-10"
+weight = 43
 
 position = "Head of the Data Division, Science and Technology Facilities Council UK"
 lives_in = "UK"

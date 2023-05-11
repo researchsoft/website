@@ -1,6 +1,7 @@
 +++
 title = "Nicolás Palopoli"
 date = "2023-04-25"
+weight = 45
 
 position = "Adjunct Researcher, National Research Council in Argentina (CONICET)"
 lives_in = "Argentina"
