@@ -1,7 +1,7 @@
 +++
 fragment = "content"
 date = "2023-05-04"
-weight = 60
+weight = 140
 background = "white"
 
 title = "Former Steering Committee Members"

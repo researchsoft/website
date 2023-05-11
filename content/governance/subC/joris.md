@@ -5,7 +5,7 @@ date = "2023-04-25"
 position = "Director, The Netherlands eScience Centre"
 lives_in = "The Netherlands"
 scope = [
-    "ADORE.software governance"
+    "**Subcomittee: ADORE.software governance**"
 ]
 
 [asset]

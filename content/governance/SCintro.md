@@ -7,4 +7,4 @@ background = "white"
 
 Meet the Steering Committee members from 2023.
 
-_Last updated on 09 May 2023._
+_Last updated on 11 May 2023._
