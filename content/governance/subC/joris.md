@@ -2,8 +2,8 @@
 title = "Joris van Eijnatten"
 date = "2023-04-25"
 
-position = "Director, The Netherlands eScience Centre"
-lives_in = "The Netherlands"
+position = "Director, Netherlands eScience Centre"
+lives_in = "Netherlands"
 scope = [
     "**Subcomittee: ADORE.software governance**"
 ]
