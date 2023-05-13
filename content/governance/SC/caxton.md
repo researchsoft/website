@@ -3,7 +3,7 @@ title = "Caxton Murira"
 date = "2023-04-25"
 weight = 42
 
-position = "Product Specialist, team lead, Clinical Research and Trials Community (CRTC) programme at the Science for Africa Foundation"
+position = "Product Specialist, Team Lead, Clinical Research and Trials Community (CRTC) programme at the Science for Africa Foundation"
 lives_in = "Kenya"
 
 [asset]
