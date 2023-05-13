@@ -30,5 +30,5 @@ Alicia Lochard is the Fiscally Sponsored Projects Program Manager at [Code for S
 
 Alicia’s experience includes operations and knowledge management, human resources and recruitment, learning and development, and process design in a variety of nonprofit and research organisations. She is passionate about designing transparent, supportive systems and processes that enable knowledge sharing and learning in community. She is a co-founder of the Black Cultural Studies Collective, a Black feminist working group that promotes open knowledge practices and creative methods in research about Black life and culture among artists, academics, librarians, curators and students. Prior to CS&S, Alicia was a researcher at the University of Pennsylvania and Brooklyn College/CUNY.
 
-[Email us to ask questions](mailto:info@researchsoft.org).
+[Email Alicia](mailto:info@researchsoft.org).
 
