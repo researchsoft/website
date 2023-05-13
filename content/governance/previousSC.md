@@ -7,7 +7,7 @@ background = "white"
 title = "Former Steering Committee Members"
 +++
 
-Below are listed the former Steering Committee members:
+
 
 **Eva Mendez**, Associate Professor, Universidad Carlos III de Madrid, Spain (2021 -2023)
 
