@@ -1,6 +1,6 @@
 +++
 fragment = "content"
-disabled = false
+disabled = true
 date = "2020-07-21"
 weight = 30
 background = "white"
@@ -24,7 +24,7 @@ title = "Steering Committee"
 
 **Joris van Eijnatten**, General Director, Netherlands eScience Center, Netherlands
 
-**Lou Woodley**, Director, Center for Scientific Collaboration and Community Engagement, UK 
+**Lou Woodley**, Director, Center for Scientific Collaboration and Community Engagement, UK
 
 <p>&nbsp;</p>
 The most recent open call for Steering Committee members occurred in 2023 and members will be announced soon. Before that the latest open call occurred in 2020. Below are listed the previous Steering Committee members:
@@ -39,8 +39,3 @@ The most recent open call for Steering Committee members occurred in 2023 and me
 **Catherine Jones**, Energy Data Centre Lead, Science and Technologies Facilities Council, UK (2019-2020)
 
 **Scott Henwood**, Senior Director, Programs, CANARIE, Canada (2019)
-
-
-
-
-
