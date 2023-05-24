@@ -31,16 +31,16 @@ The task force has the following members:
 
 Are you interested in research institution’s policies that support research software? Join this task force to help build our collection of institutional policies and consider how to better share these with interested stakeholders.
 
-** To join please contact info@researchsoft.org**
+**To join please contact info@researchsoft.org**
 
 ## Collection
 
-The ReSA collection on institutional policies to support research software is open for input of new policies. Please add your organisation’s policy to it.
+The ReSA collection on institutional policies to support research software is open for input of new policies. [Please add your organisation’s policy to it](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0).
 
 Updated on May 25, 2023.
 
 <br>
-<br>
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFcGM-SZIA-IJ7Kb9jN0-CZNI6wWFKxXX6lFejoMDvVnn_N-tqTxHsRi_EMCYXeNUjYU8CPXJ8BbtU/pubhtml?widget=true&amp;headers=false"  frameborder="0" height="1000" width="100%"></iframe>
 
+<br>
 Many of the policies in this collection are focussed on research software. Some discuss open source software and a few are focussed on licensing software from a commercial perspective. There is also one example when research software is integrated into a Research Data Management Policy under the "Special Considerations for data" section, which includes software as a data type.
