@@ -8,7 +8,16 @@ background = "white"
 
 # Research institution policies to support research software
 
-The ReSA task force on “Research institution policies to support research software” was established early in 2023 with the following members:
+The ReSA task force on “Research institution policies to support research software” was established early in 2023.
+
+## Aim
+
+This task force aims to collect institutional policies for further dissemination as examples and encouragement to increase the value of research software assets worldwide.
+
+For this task force, software policies, which can cover general software, open source software, and research software, refers to a set of guidelines, rules, and regulations established by an organisation around software or research software, meant to govern the creation, maintenance, acquisition, use, distribution and management of software within their environment, as well as to recognise such work. Software policies might cover multiple aspects of management to ensure legal, ethical, and secure use of software, as well as the protection of intellectual property rights, and can discuss how software work is used in hiring, evaluation, and promotion.
+
+## Membership
+The task force has the following members:
 
 * Michelle Barker (ReSA, Australia)
 * Jeremy Cohen, University (Imperial College London, UK)
@@ -18,15 +27,20 @@ The ReSA task force on “Research institution policies to support research soft
 * Dan Rudmann (Leiden University, Netherlands)
 * Hugh Shanahan (Royal Holloway, University of London)
 
+### Join us!
 
+Are you interested in research institution’s policies that support research software? Join this task force to help build our collection of institutional policies and consider how to better share these with interested stakeholders.
 
+** To join please contact info@researchsoft.org**
 
-ReSA has created this public database of current and past research software funding opportunities to improve the findability of this important information. Members of the community can add current funding opportunities via this **[short form](https://forms.gle/r4Jw4swUd1SXigZc9)**. Funding opportunities are also posted in our [newsletter](https://www.researchsoft.org/news/), on [Mastodon](https://fosstodon.org/@researchsoft), [Twitter](https://twitter.com/researchsoft) and [Slack](https://researchsoft.slack.com/).
+## Collection
 
-This database focuses on funding calls or programs that are **targeted at research software** and/or those who develop and maintain it (such as research software engineers). The database does not include broader funding calls for which research software is one of many options for investment, such as research projects in general, open science, open infrastructure, etc.
+The ReSA collection on institutional policies to support research software is open for input of new policies. Please add your organisation’s policy to it.
 
-Updated on April 20, 2023.
+Updated on May 25, 2023.
 
 <br>
 <br>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTIFHT0hSWxM7wQEB6urRZTMAwK9tEzkUtiRW8p32J574PYGZcacTp79e07OU5yjgNu_Ekv3sDyDSiC/pubhtml?gid=397049867&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false&amp;tab=false" frameborder="0" height="1000" width="100%"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFcGM-SZIA-IJ7Kb9jN0-CZNI6wWFKxXX6lFejoMDvVnn_N-tqTxHsRi_EMCYXeNUjYU8CPXJ8BbtU/pubhtml?widget=true&amp;headers=false"  frameborder="0" height="1000" width="100%"></iframe>
+
+Many of the policies in this collection are focussed on research software. Some discuss open source software and a few are focussed on licensing software from a commercial perspective. There is also one example when research software is integrated into a Research Data Management Policy under the "Special Considerations for data" section, which includes software as a data type.
