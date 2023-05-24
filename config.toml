@@ -34,28 +34,40 @@ version = "0.17.3"
   name = "About"
   weight = 11
 
+  [[menu.main]]
+    parent = "/about-resa"
+    url = "/governance"
+    name = "Governance"
+    weight = 12
+
 [[menu.main]]
   parent = "/about-resa"
   url = "/people"
   name = "People"
-  weight = 12
+  weight = 13
 
 [[menu.main]]
   parent = "/about-resa"
   url = "/membership"
   name = "Organisational Membership"
-  weight = 13
+  weight = 14
 
 [[menu.main]]
   parent = "/about-resa"
   url = "/donate"
   name = "Donate"
-  weight = 14
+  weight = 15
 
 [[menu.main]]
   url = "/taskforces"
   name = "Task forces"
   weight = 20
+
+[[menu.main]]
+  parent = "/taskforces"
+  url = "/software-policies"
+  name = "Institutional Software Policies"
+  weight = 21
 
 [[menu.main]]
   identifier = "/forums"
