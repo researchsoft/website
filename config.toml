@@ -34,7 +34,7 @@ version = "0.17.3"
   name = "About"
   weight = 11
 
-  [[menu.main]]
+[[menu.main]]
     parent = "/about-resa"
     url = "/governance"
     name = "Governance"
@@ -59,9 +59,9 @@ version = "0.17.3"
   weight = 15
 
 [[menu.main]]
-  url = "/taskforces"
-  name = "Task forces"
-  weight = 20
+    identifier = "/taskforces"
+    name = "Task forces"
+    weight = 20
 
 [[menu.main]]
   parent = "/taskforces"
