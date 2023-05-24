@@ -59,15 +59,21 @@ version = "0.17.3"
   weight = 15
 
 [[menu.main]]
-    identifier = "/taskforces"
-    name = "Task forces"
-    weight = 20
+  identifier = "/taskforces"
+  name = "Task forces"
+  weight = 20
+
+[[menu.main]]
+  parent = "/taskforces"
+  url = "/taskforces"
+  name = "Task forces"
+  weight = 21
 
 [[menu.main]]
   parent = "/taskforces"
   url = "/software-policies"
   name = "Institutional Software Policies"
-  weight = 21
+  weight = 22
 
 [[menu.main]]
   identifier = "/forums"
