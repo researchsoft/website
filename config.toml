@@ -104,12 +104,6 @@ version = "0.17.3"
   url = "/funding-opportunities"
   weight = 43
 
-[menu.main]]
-  parent = "/resa-resources"
-  name = "Institutional Software Policies"
-  url = "/software-policies"
-  weight = 44
-
 [[menu.main]]
   url = "/news"
   name = "News"
