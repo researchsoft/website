@@ -7,7 +7,8 @@ title = "Research institution policies to support research software - Task Force
 #subtitle = ""
 title_align = "left"
 
-display_date = false
+disabled = true
+display_date = true
 date = "2023-05-31"
 
 [sidebar]
