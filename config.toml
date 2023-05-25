@@ -107,8 +107,8 @@ version = "0.17.3"
 
 [menu.main]]
   parent = "/resa-resources"
-  url = "/software-policies"
   name = "Institutional Software Policies"
+  url = "/software-policies"
   weight = 44
 
 [[menu.main]]
