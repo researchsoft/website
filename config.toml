@@ -59,21 +59,9 @@ version = "0.17.3"
   weight = 15
 
 [[menu.main]]
-  identifier = "/taskforces"
-  name = "Task forces"
-  weight = 20
-
-[[menu.main]]
-  parent = "/taskforces"
   url = "/taskforces"
   name = "Task forces"
-  weight = 21
-
-[[menu.main]]
-  parent = "/taskforces"
-  url = "/software-policies"
-  name = "Institutional Software Policies"
-  weight = 22
+  weight = 20
 
 [[menu.main]]
   identifier = "/forums"
@@ -116,6 +104,12 @@ version = "0.17.3"
   name = "Funding Opportunities"
   url = "/funding-opportunities"
   weight = 43
+
+[menu.main]]
+  parent = "/resa-resources"
+  url = "/software-policies"
+  name = "Institutional Software Policies"
+  weight = 44
 
 [[menu.main]]
   url = "/news"
