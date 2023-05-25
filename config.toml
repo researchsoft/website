@@ -60,7 +60,7 @@ version = "0.17.3"
 
 [[menu.main]]
   url = "/taskforces"
-  name = "Task forces"
+  name = "Task Forces"
   weight = 20
 
 [[menu.main]]
@@ -79,7 +79,6 @@ version = "0.17.3"
   url = "https://www.researchsoft.org/events/2022-06/"
   name = "Community Forum"
   weight = 32
-
 
 [[menu.main]]
   identifier = "/resa-resources"
