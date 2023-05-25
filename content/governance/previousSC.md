@@ -13,9 +13,9 @@ title = "Former Steering Committee Members"
 
 **Chris Mentzel**, Executive Director, Data Sciences, Stanford Data Science Initiative, Stanford University, USA (2019 - 2023)
 
-**Andrew Treloar**, Director,  Platforms and Software, Australian Research Data Commons, Australia (2019 -2022)
+**Andrew Treloar**, Director,  Platforms and Software, Australian Research Data Commons, Australia (2019 -2023)
 
-**Lou Woodley**, Director, Center for Scientific Collaboration and Community Engagement, UK (2021 - 2022)
+**Lou Woodley**, Director, Center for Scientific Collaboration and Community Engagement, UK (2021 - 2023)
 
 **Tania Allard**, Co-Director, Quansight, UK (2021)
 
