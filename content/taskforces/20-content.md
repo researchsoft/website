@@ -27,8 +27,6 @@ ReSA has created a public database of current and past [research software fundin
 
 Are you interested in research institution policies that support research software and the people who develop and maintain it? Join this task force to help build our collection of **[institutional policies](https://www.researchsoft.org/software-policies/)** and consider how to better share these with interested stakeholders. You can add your organisation's policy to the [public list](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0).
 
-Useful resources on policies also include [our blogpost](https://www.researchsoft.org/blog/2021-12/) on international and national policies, Neil Chue Hong's [Implementation of policies on research software](https://doi.org/10.6084/m9.figshare.21347697.v2), and Michelle Barker's [Landscape of policies around research software](https://tinyurl.com/se-software).
-
 This task force is currently considering expansion to become a joint ReSA/Research Data Alliance Working Group (RDA), with the following co-chairs:
 
 * Michelle Barker (ReSA, Australia)
@@ -36,7 +34,6 @@ This task force is currently considering expansion to become a joint ReSA/Resear
 * Pedro Hernández Serrano (Maastricht University, Netherlands)
 * Daniel S. Katz (University of Illinois, US)
 * Kim Martin (Stellenbosch University, South Africa)
-* Paula Andrea Martinez (Australian Research Data Commons, Australia)
 * Dan Rudmann (Leiden University, Netherlands)
 * Hugh Shanahan (Royal Holloway, University of London)
 
