@@ -89,9 +89,9 @@ data, and code supported by the US Government.
 
 - USA: Major programs include the National Science Foundation (NSF)’s [Cyberinfrastructure for Sustained Scientific Innovation](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21617) (CSSI) program and the Department of Energy’s (DoE) support for the [Interoperable Design of Extreme-scale Application Software](https://ideas-productivity.org/) (IDEAS) projects, as well as other significant software investments in its [Exascale Computing Project](https://www.exascaleproject.org/).
 
-### Research institutions policies
+### Research institution policies
 
-ReSA is creating a listing of [institutional policies that support research software](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0) in a range of organisations - please add to this or join the [task force](https://www.researchsoft.org/taskforces/) undertaking this work.
+ReSA is creating a listing of [institutional policies that support research software](https://www.researchsoft.org/software-policies/) in a range of organisations - please add to this or join the [task force](https://www.researchsoft.org/taskforces/) undertaking this work.
 
 ## Infrastructure
 
