@@ -1,16 +1,28 @@
-+++ fragment = "content" weight = 100 categories = ["Blog"]
++++
+fragment = "content"
+weight = 100
+categories = ["Blog"]
 
-title = "How Can Open Source Program Offices (OSPOs) Support Research Software?" #subtitle = "" title_align = "left"
+title = "How Can Open Source Program Offices (OSPOs) Support Research Software?"
+#subtitle = ""
+title_align = "left"
 
-disabled = false display_date = true date = "2023-06-01"
+disabled = true
+display_date = true
+date = "2023-06-01"
 
-[sidebar] title = "Important Links" align = "right" sticky = false # Default is false content = """
+[sidebar]
+  title = "Important Links"
+  align = "right"
+  sticky = false # Default is false
+  content = """
+  * [Research Software Policies Page](https://www.researchsoft.org/software-policies/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)
+  """
 
-Research Software Policies Page
-Sign up for the ReSA mailing list
-ReSA newsletters
-ReSA resources
-Contact us """
 +++
 
 June 2023
