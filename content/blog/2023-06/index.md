@@ -9,7 +9,7 @@ title_align = "left"
 
 disabled = true
 display_date = true
-date = "2023-06-15"
+date = "2023-06-01"
 
 [sidebar]
   title = "Important Links"
@@ -49,9 +49,7 @@ The [Australian Research Data Commons](https://ardc.edu.au/) (ARDC) is currently
 
 The purpose of an OSPO is twofold: to provide internal value for the organisation through compliance, security, and governance of OSS and to contribute to the external community through collaboration, networking, and procurement. In [The OSPO: A New Tool for Digital Government](https://openforumeurope.org/wp-content/uploads/2022/06/The-OSPO-A-New-Tool-for-Digital-Government-2.pdf), the authors recommend the following:
 <blockquote>
-  <p>
 The OSPO needs to provide direct value for the organisation that it serves through its internal mandate. Due to the nature of Open Source, however, OSPO-enabled organisations are meant to be part of communities that co-create value. Thus, the modern OSPO has a significant external mandate to be able to identify new projects, tools, actors and practices that can improve the organisation's work, effectiveness and future strategies of the OSPO and of the organisation as a whole. (OpenForum Europe & the OSPO Alliance, 2022, p. 10)
-  </p>
 </blockquote>
 In addition to supporting OSS within institutions, OSPOs embrace an external component of networking with the broader OSS community, including other OSPOs. Moreover, OSPOs encourage collaboration and offer a mechanism for institutions to work together in novel ways. Whereas universities have typically engaged through competitive research grants, open source activities present additional opportunities to collaborate (Stalfort, 2020; Littauer, 2020). Through OSPOs, institutions may have increased opportunities to broaden their engagement with the external community – for example, by networking and collaborating with stakeholders from other sectors.
 </p>
@@ -68,9 +66,7 @@ OSPOS can play an important role in supporting open source activity within the p
 
 While governments across the globe have introduced national policies on open science, to support OSS effectively, institutions need a formal mechanism to implement these policies. As Grzegorzewska (2021) notes,
 <blockquote>
-  <p>
 The level of prescriptiveness or the exact legal instrument of an Open Source policy seem to be less crucial for reaping benefits of Open Source than their enforcement and maintenance in a more horizontal, strategic manner coupled with ensuring its implementation in a daily practice of public sector institutions.
-  </p>
  </blockquote>
 
 OSPOs can function as a tool for the public sector to manage research software practices and processes and draw on the benefits of open source.
