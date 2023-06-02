@@ -49,11 +49,7 @@ The [Australian Research Data Commons](https://ardc.edu.au/) (ARDC) is currently
 
 The purpose of an OSPO is twofold: to provide internal value for the organisation through compliance, security, and governance of OSS and to contribute to the external community through collaboration, networking, and procurement. In [The OSPO: A New Tool for Digital Government](https://openforumeurope.org/wp-content/uploads/2022/06/The-OSPO-A-New-Tool-for-Digital-Government-2.pdf), the authors recommend the following:
 
-> The OSPO needs to provide direct value for the organisation that it serves through its internal mandate. Due to the 
-> nature of Open Source, however, OSPO-enabled organisations are meant to be part of communities that co-create >
-> value. Thus, the modern OSPO has a significant external mandate to be able to identify new projects, tools, actors
-> and practices that can improve the organisation's work, effectiveness and future strategies of the OSPO and of the
-> organisation as a whole. (OpenForum Europe & the OSPO Alliance, 2022, p. 10)
+_"The OSPO needs to provide direct value for the organisation that it serves through its internal mandate. Due to the nature of Open Source, however, OSPO-enabled organisations are meant to be part of communities that co-create value. Thus, the modern OSPO has a significant external mandate to be able to identify new projects, tools, actors and practices that can improve the organisation's work, effectiveness and future strategies of the OSPO and of the organisation as a whole." (OpenForum Europe & the OSPO Alliance, 2022, p. 10)_
 
 In addition to supporting OSS within institutions, OSPOs embrace an external component of networking with the broader OSS community, including other OSPOs. Moreover, OSPOs encourage collaboration and offer a mechanism for institutions to work together in novel ways. Whereas universities have typically engaged through competitive research grants, open source activities present additional opportunities to collaborate (Stalfort, 2020; Littauer, 2020). Through OSPOs, institutions may have increased opportunities to broaden their engagement with the external community – for example, by networking and collaborating with stakeholders from other sectors.
 </p>
@@ -69,9 +65,8 @@ At universities, researchers work with technology transfer offices (TTOs) to com
 OSPOS can play an important role in supporting open source activity within the public sector: they offer institutions a more transparent and innovative approach to managing research software. OSPOs can provide stakeholders with more pragmatic options (in terms of cost, flexibility, and control) than proprietary solutions, in order to meet diverse and complex demands encountered within and by their organisations. For example, OSPOs can strategically help public sector organisations through digital sovereignty, economic growth, service interoperability, career development, and accountability (OpenForum Europe and The OSPO Alliance, 2022). And considering that many organisations are developing strategies and policies related to open source practices, OSPOs can help implement and maintain them.
 
 While governments across the globe have introduced national policies on open science, to support OSS effectively, institutions need a formal mechanism to implement these policies. As Grzegorzewska (2021) notes,
-<blockquote>
-The level of prescriptiveness or the exact legal instrument of an Open Source policy seem to be less crucial for reaping benefits of Open Source than their enforcement and maintenance in a more horizontal, strategic manner coupled with ensuring its implementation in a daily practice of public sector institutions.
- </blockquote>
+
+_"The level of prescriptiveness or the exact legal instrument of an Open Source policy seem to be less crucial for reaping benefits of Open Source than their enforcement and maintenance in a more horizontal, strategic manner coupled with ensuring its implementation in a daily practice of public sector institutions."_
 
 OSPOs can function as a tool for the public sector to manage research software practices and processes and draw on the benefits of open source.
 
