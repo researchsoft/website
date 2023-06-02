@@ -7,9 +7,9 @@ title = "How Can Open Source Program Offices (OSPOs) Support Research Software?"
 #subtitle = ""
 title_align = "left"
 
-disabled = true
+disabled = False
 display_date = true
-date = "2023-06-15"
+date = "2023-06-02"
 
 [sidebar]
   title = "Important Links"
