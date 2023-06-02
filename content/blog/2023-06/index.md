@@ -9,7 +9,7 @@ title_align = "left"
 
 disabled = False
 display_date = true
-date = "2023-06-02"
+date = "2023-06-01"
 
 [sidebar]
   title = "Important Links"
