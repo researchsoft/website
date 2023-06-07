@@ -41,7 +41,9 @@ Funding organisations that have engaged include:
 - Michael J. Fox Foundation
 - NASA
 - National Institutes of Health (NIH)
+- National Science and Technology Council 
 - Netherlands eScience Center (NLeSC)
+- New Zealand eScience Infrastructure (NeSI)
 - Nordic eInfrastructure Collaboration (NeIC)
 - Oracle for Research
 - Sage Publishing
@@ -52,4 +54,4 @@ Funding organisations that have engaged include:
 - UK Research and Innovation (UKRI)
 - Volkswagen Foundation
 
-See also ReSA's [Resarch Softare Funding Opportunities](https://www.researchsoft.org/funding-opportunities/) to find funding opportunities or contribute information on [new calls](https://docs.google.com/forms/d/e/1FAIpQLSdeZrx0kXAhD4XfpDrQ8Dmg4qJTRZWboMd-zvgjjtgBs1I68g/viewform).
+See also ReSA's [Resarch Software Funding Opportunities](https://www.researchsoft.org/funding-opportunities/) to find funding opportunities or contribute information on [new calls](https://docs.google.com/forms/d/e/1FAIpQLSdeZrx0kXAhD4XfpDrQ8Dmg4qJTRZWboMd-zvgjjtgBs1I68g/viewform).
