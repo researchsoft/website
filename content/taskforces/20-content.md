@@ -23,21 +23,9 @@ This is a joint ReSA task force and FORCE11 working group working towards greate
 
 ReSA has created a public database of current and past [research software funding opportunities](https://www.researchsoft.org/funding-opportunities/) to improve the findability of this important information. Members of the community can [add](https://forms.gle/r4Jw4swUd1SXigZc9) current funding opportunities. ReSA will also be adding more details of past funding opportunities to enable analysis of patterns in research software funding, to build on ReSA’s [Overview of the research software funding landscape](https://www.researchsoft.org/blog/2022-02-24/). If you’re interested in joining a task force to analyse this data in order to make recommendations to stakeholders (including the ReSA [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/)) on how to improve the research software funding landscape then please contact [info@researchsoft.org](mailto:info@researchsoft.org).
 
-### Research institution policies to support research software
+### [Policies in Research Organisations for Research Software (PRO4RS)](https://www.rd-alliance.org/groups/policies-research-organisations-research-software-pro4rs)
 
-Are you interested in research institution policies that support research software and the people who develop and maintain it? Join this task force to help build our collection of **[institutional policies](https://www.researchsoft.org/software-policies/)** and consider how to better share these with interested stakeholders. You can add your organisation's policy to the [public list](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0).
-
-This task force is currently considering expansion to become a joint ReSA/Research Data Alliance Working Group (RDA), with the following co-chairs:
-
-* Michelle Barker (ReSA, Australia)
-* Jeremy Cohen, University (Imperial College London, UK)
-* Pedro Hernández Serrano (Maastricht University, Netherlands)
-* Daniel S. Katz (University of Illinois, US)
-* Kim Martin (Stellenbosch University, South Africa)
-* Dan Rudmann (Leiden University, Netherlands)
-* Hugh Shanahan (Royal Holloway, University of London)
-
-To join please contact [info@researchsoft.org](mailto:info@researchsoft.org).
+Are you interested in research institution policies that support research software and the people who develop and maintain it? Join this joint [working group](https://www.rd-alliance.org/groups/policies-research-organisations-research-software-pro4rs) with the Research Data Alliance to help build our collection of **[institutional policies](https://www.researchsoft.org/software-policies/)** and consider how to better share these with interested stakeholders. You can add your organisation's policy to the [public list](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0).
 
 ## Completed task forces
 
