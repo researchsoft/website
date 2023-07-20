@@ -16,3 +16,5 @@ software productivity, quality, reproducibility, and sustainability. ReSA aims t
 ReSA is a fiscally sponsored project of [Code for Science & Society](https://codeforscience.org/) and led by the ReSA [Steering Committee](https://www.researchsoft.org/people/). 
 
 Members of the ReSA community are expected to adhere to the ReSA [Code of Conduct](https://www.researchsoft.org/code-of-conduct/).
+
+*To cite ReSA*, please refer to [The Research Software Alliance (ReSA)](https://upstream.force11.org/the-research-software-alliance-resa/), by Daniel S. Katz and Michelle Barker, 2023, [doi.org/10.54900/zwm7q-vet94](https://doi.org/10.54900/zwm7q-vet94).
