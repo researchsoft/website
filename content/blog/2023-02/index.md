@@ -27,7 +27,7 @@ date = "2023-02-17"
 
 _February, 2023_  
 
-This [downloadable report]([https://doi.org/10.5281/zenodo.7683174) documents the Research Software Alliance (ReSA) engagement in 2022 with key decision-makers and influencers in research software across the globe, as well as the broader research software community.
+This [downloadable report](https://doi.org/10.5281/zenodo.7683174) documents the Research Software Alliance (ReSA) engagement in 2022 with key decision-makers and influencers in research software across the globe, as well as the broader research software community.
 
 ReSA acts as a hub, working through and with other communities, to bring together a diverse range of stakeholders – including funding agencies, research organisations, and research communities – who advocate for the recognition of research software and its integral role within the research ecosystem.
 

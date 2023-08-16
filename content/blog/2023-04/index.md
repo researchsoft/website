@@ -9,6 +9,7 @@ title_align = "left"
 
 display_date = true
 date = "2023-04-17"
+author = ["Saranjeet Kaur Bhogal"]
 
 [sidebar]
   title = "Important Links"

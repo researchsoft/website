@@ -9,6 +9,7 @@ title_align = "left"
 
 display_date = true
 date = "2022-11-24"
+author = ["Michelle Barker", "Valentina Azzarà", "Tom Bakker", "Lieke de Boer", "Neil Chue Hong", "Maria Cruz", "Niels Drost", "Joris van Eijnatten", "Maaike de Jong", "Daniel S. Katz", "Carlos Martinez-Ortiz", "Veronica Pang"]
 
 [sidebar]
   title = "Important Links"
