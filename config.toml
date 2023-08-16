@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://research-software.org"
 # Google Analytics tracking
 googleAnalytics = "UA-181241343-1"
 
@@ -7,6 +7,23 @@ title = "Research Software Alliance"
 theme = "syna"
 enableGitInfo = true
 version = "0.17.3"
+rssLimit = 100
+
+[mediaTypes]
+  [mediaTypes."application/atom+xml"]
+    suffixes = ["xml"]
+
+[outputs]
+  home = ["ATOM", "HTML"]
+  page = ["HTML"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
+[outputFormats]
+  [outputFormats.ATOM]
+    mediaType = "application/atom+xml"
+    baseName  = "feed"
 
 [markup]
   [markup.goldmark]
@@ -18,6 +35,15 @@ version = "0.17.3"
   github = "https://github.com/researchsoft"
   site_logo = "img/resa-logo-software-green.png"
   name = "The Research Software Alliance"
+
+  date_format = "January 2, 2006"
+  dateFormatAtomFeed = "2006-01-02T15:04:05-07:00"
+  dateFormatTag = "2006"
+  feedUUID = "283aaa54-faf6-4bcd-9cb8-74a13b96063c"
+  # icon = ""
+  # icon96 = ""
+  # logo = "img/resa-logo-software-green.png"
+  mainSections = ["blog"]
 
   [params.colors]
     primary = "darkgreen"
@@ -155,6 +181,12 @@ version = "0.17.3"
   url = "https://fosstodon.org/@researchsoft"
   pre = "fab fa-mastodon"
 
+[[menu.footer_social]]
+  weight = 70
+  name = "Atom Feed"
+  url = "/feed.xml"
+  pre = "fa fa-rss"
+
 [[menu.copyright_footer]]
   url = "/license"
   name = "License"
@@ -166,3 +198,6 @@ version = "0.17.3"
   name = "Code of Conduct"
   weight = 70
   color = "primary"
+
+[author]
+  name = "Research Software Alliance"
