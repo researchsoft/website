@@ -10,6 +10,7 @@ title_align = "left"
 disabled = false
 display_date = true
 date = "2023-06-01"
+author = ["Kim Hartley", "Michelle Barker", "Mark Leggott", "Daniel S. Katz"]
 
 [sidebar]
   title = "Important Links"

@@ -9,6 +9,7 @@ title_align = "left"
 
 display_date = true
 date = "2022-06-21"
+author = ["FAIR4RS Working Group Steering Committee"]
 
 [sidebar]
   title = "Important Links"

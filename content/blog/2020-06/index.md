@@ -9,6 +9,7 @@ title_align = "left"
 
 display_date = true
 date = "2020-06-08"
+author = ["Michelle Barker", "Daniel S. Katz", "Alejandra Gonzalez-Beltran"]
 
 [sidebar]
   title = "Important Links"

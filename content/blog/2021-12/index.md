@@ -9,6 +9,7 @@ title_align = "left"
 
 display_date = true
 date = "2021-12-09"
+author = ["Michelle Barker", "Neil Chue Hong", "Daniel S. Katz", "Mark Leggott", "Andrew Treloar", "Joris van Eijnatten", "Selina Aragon"]
 
 [sidebar]
   title = "Important Links"

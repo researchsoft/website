@@ -9,6 +9,7 @@ title_align = "left"
 
 display_date = true
 date = "2022-08-15"
+authors = ["Daniel S. Katz", "Tom Honeyman", "Paula Andrea Martinez", "Michelle Barker", "Leyla Jael Castro", "Neil Chue Hong", "Morane Gruenpeter", "Jennifer Harrow", "Anna-Lena Lamprecht", "Carlos Martinez-Ortiz", "Fotis Psomopoulos"]
 
 [sidebar]
   title = "Important Links"
