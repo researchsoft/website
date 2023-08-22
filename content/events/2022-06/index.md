@@ -9,8 +9,8 @@ subtitle = "Bringing together the research software community"
 title_align = "left"
 
 display_date = true
-publishdate = "2022-05-19"
-date = "2022-05-19"
+publishdate = "2023-08-22"
+date = "2023-08-22"
 
 
 summary = """
@@ -35,22 +35,25 @@ ReSA's mission is to bring research software communities together to collaborate
 +++
 
 
-## About the Research Software Community Forum
+## Research Software Community Leaders Forum 
 
-The [Research Software Alliance (ReSA)](https://www.researchsoft.org/) is hosting occasional online community forum for the global research software community. The Research Software Community Forum is open to everyone. Meetings will occur at alternating times to maximise attendance by participants in different time zones.
+The [Community Leaders Forum](https://www.researchsoft.org/events/2022-06/) (CLF) offers an opportunity for participants to meet other community leaders, engage in interactive discussions, and consider how to address common issues to achieve shared goals. The CLF is one of the online forums that ReSA hosts for decision makers and key influencers in the global research software community. ReSA aims to coordinate discussions across a wide range of research software organisations and programs, enabling the community to create outcomes that will achieve both local goals and those of the international community.
 
-The Community Forum offers an opportunity for participants to meet and share information. Each call will feature a short talk and follow-up discussion, with the aim of facilitating community consideration about what’s needed next to address particular issues.
+The CLF is open to everyone and features a short talk and follow-up discussion, with the aim of facilitating community consideration about next steps to address particular issues. We welcome input about topics for discussion. Please let us know if you’d like to suggest a topic for an upcoming call. 
 
-The Community Forum aims to provide a welcoming and inclusive environment, and to engage a broad range of participants from across the globe. Meetings utilise [ReSA’s Code of Conduct](https://www.researchsoft.org/code-of-conduct/).
+Meetings occur at alternating times to maximise attendance by participants in different time zones. The CLF endeavours to provide a welcoming and inclusive environment, and to engage a broad range of participants from across the globe. Meetings utilise ReSA’s [Code of Conduct](https://www.researchsoft.org/code-of-conduct/). To help us plan accessible calls, please let us know any requirements you may have by contacting info@researchsoft.org. 
 
-### Accessibility
-To help us plan accessible meetings, please identify any requirements you may have by [contacting ReSA](https://www.researchsoft.org/contact/).
 
 ### Upcoming calls:
 
-**Sign up to receive the [Community Forum](https://landing.mailerlite.com/webforms/landing/o1n4v3) calendar invites automatically**.
+**[Sign up](https://landing.mailerlite.com/webforms/landing/o1n4v3) to receive the Community Leaders Forum calendar invites automatically and recordings of the talks.**.
 
-* Stay tuned for the date of the next Community Forum.
+* 18 October, 10:00 UTC (see in your time zone)
+  * Topic: Debrief on the second International Research Software Funders Workshop and release of the Amsterdam Declaration for Funding Research. Do you adore software? Let your funders know so they can get involved with the Declaration.
+  * Zoom link to join the call (Passcode: 446688)
+  * Download a calendar invite  
+* 15 November, 
+  * Topic: Update on Research Software Alliance (ReSA) strategy, engagement and operations, including the proposed ReSA-RDA Working Group on Policies in Research Organisations for Research Software (PRO4Rs), our Organisational Membership program, and the work of our Community Managers in Asia and Africa.
 
 ### Past calls:
 
