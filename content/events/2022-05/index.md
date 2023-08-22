@@ -33,9 +33,9 @@ ReSA supports "DiveRSE" a series of talks and related activities supporting Equi
 +++
 
 
-## About DiveRSE
+## About [DiveRSE](https://diverse-rse.github.io/)
 
-[DiveRSE](https://diverse-rse.github.io/)(Diverse RSE) is a series of [talks and related activities](https://diverse-rse.github.io/) including discussion and panel sessions designed to support and raise awareness of EDI challenges and successes within the research software community.
+[DiveRSE](https://diverse-rse.github.io/) (Diverse RSE) is a series of [talks and related activities](https://diverse-rse.github.io/) including discussion and panel sessions designed to support and raise awareness of EDI challenges and successes within the research software community.
 
 ## DiveRSE: An Introduction
 Supporting Equity, Diversity and Inclusion (EDI) within the Research Software Engineering community
