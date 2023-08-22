@@ -4,7 +4,7 @@ weight = 100
 disabled = false
 categories = ["Event", "Ongoing"]
 
-title = "ReSA  Community Forum "
+title = "ReSA  Community Leaders Forum "
 subtitle = "Bringing together the research software community"
 title_align = "left"
 
@@ -46,14 +46,14 @@ Meetings occur at alternating times to maximise attendance by participants in di
 
 ### Upcoming calls:
 
-**[Sign up](https://landing.mailerlite.com/webforms/landing/o1n4v3) to receive the Community Leaders Forum calendar invites automatically and recordings of the talks.**.
+**[Sign up](https://landing.mailerlite.com/webforms/landing/o1n4v3) to receive the Community Leaders Forum calendar invites automatically and recordings of the talks**.
 
-* 18 October, 10:00 UTC (see in your time zone)
-  * Topic: Debrief on the second International Research Software Funders Workshop and release of the Amsterdam Declaration for Funding Research. Do you adore software? Let your funders know so they can get involved with the Declaration.
-  * Zoom link to join the call (Passcode: 446688)
-  * Download a calendar invite  
+* 18 October, 10:00 UTC [(see in your time zone)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Community+Leaders+Forum+&iso=20231018T10&p1=1440&ah=1)
+  * Topic: Debrief on the second [International Research Software Funders Workshop](https://adore.software/international-research-software-funders-workshop/) and release of the [Amsterdam Declaration for Funding Research](https://adore.software/declaration/). Do you adore software? Let your funders know so they can get involved with the Declaration.
+  * [Zoom link to join the call](https://us02web.zoom.us/j/2187873236?pwd=cXpmZXQzalhMcGlUN0J1bWUzdVM3QT09) (Passcode: 446688)
+  * Download a [calendar invite](https://drive.google.com/file/d/1gsECwR7nK-NqbtUFfYSUx6_f9pDsMSKY/view?usp=drive_link)  
 * 15 November, 
-  * Topic: Update on Research Software Alliance (ReSA) strategy, engagement and operations, including the proposed ReSA-RDA Working Group on Policies in Research Organisations for Research Software (PRO4Rs), our Organisational Membership program, and the work of our Community Managers in Asia and Africa.
+  * Topic: Update on Research Software Alliance (ReSA) strategy, engagement and operations, including the proposed ReSA-RDA Working Group on [Policies in Research Organisations for Research Software (PRO4RS)](https://www.rd-alliance.org/groups/policies-research-organisations-research-software-pro4rs), our Organisational Membership program, and the work of our [Community Managers](https://www.researchsoft.org/people/) in Asia and Africa.
 
 ### Past calls:
 
