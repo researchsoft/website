@@ -9,7 +9,7 @@ title_align = "left"
 
 disabled = true
 display_date = true
-date = "2023-08-31"
+date = "2024-08-31"
 author = ["Paula Andrea Martinez"]
 
 [sidebar]
