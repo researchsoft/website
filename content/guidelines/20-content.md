@@ -119,6 +119,8 @@ ReSA is creating a listing of [institutional policies that support research soft
 
 -   [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510), 2017.
 
+-   [Making Biomedical Research Software FAIR: Actionable Step-by-step Guidelines with a User-support Tool](https://doi.org/10.1038/s41597-023-02463-x), 2023.
+
 #### Software sharing and citation
 
 -   [CHORUS Software Citation Policies Index](https://www.chorusaccess.org/resources/software-citation-policies-index/) provides assistance to authors and publishers.
