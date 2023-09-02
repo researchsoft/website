@@ -3,6 +3,7 @@ baseURL = "https://researchsoft.org"
 googleAnalytics = "UA-181241343-1"
 
 languageCode = "en-uk"
+LanguageCode = "en-uk"
 title = "Research Software Alliance"
 theme = "syna"
 enableGitInfo = true
@@ -14,15 +15,14 @@ rssLimit = 100
     suffixes = ["xml"]
 
 [outputs]
-  home = ["ATOM", "HTML"]
+  home = ["RSS", "HTML"]
   page = ["HTML"]
   section = ["HTML"]
   taxonomy = ["HTML"]
   term = ["HTML"]
 
 [outputFormats]
-  [outputFormats.ATOM]
-    mediaType = "application/atom+xml"
+  [outputFormats.RSS]
     baseName  = "feed"
 
 [markup]
