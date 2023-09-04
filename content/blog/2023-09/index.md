@@ -10,7 +10,7 @@ title_align = "left"
 disabled = false
 display_date = true
 date = "2023-09-04"
-author = ["Eric Allen Jensen", "Dabiel S. Katz"]
+author = ["Eric Allen Jensen", "Daniel S. Katz"]
 
 [sidebar]
   title = "Important Links"
