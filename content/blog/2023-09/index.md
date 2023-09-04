@@ -9,7 +9,7 @@ title_align = "left"
 
 disabled = false
 display_date = true
-date = "2023-09-03"
+date = "2023-09-04"
 author = ["Eric Allen Jensen", "Dabiel S. Katz"]
 
 [sidebar]
@@ -17,7 +17,7 @@ author = ["Eric Allen Jensen", "Dabiel S. Katz"]
   align = "right"
   sticky = false # Default is false
   content = """
-  * [Research Software Policies Page](https://www.researchsoft.org/software-policies/)
+  * [Research Blog](https://www.researchsoft.org/blog/)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
@@ -26,7 +26,7 @@ author = ["Eric Allen Jensen", "Dabiel S. Katz"]
 
 +++
 
-September 2023
+4 September 2023
 
 Authors: Eric Allen Jensen, Daniel S. Katz
 
