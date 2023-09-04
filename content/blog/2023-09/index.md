@@ -22,7 +22,7 @@ author = ["Eric Allen Jensen", "Dabiel S. Katz"]
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
   * [Contact us](/contact)
-    
+  """
 
 +++
 
