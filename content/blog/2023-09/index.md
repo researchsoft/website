@@ -58,47 +58,47 @@ If you are interested in research software and related policy, we hope you will 
 
 Some of these activities include:
 
-#### _The Tenure Track Reimagined_
+_The Tenure Track Reimagined_
 
 - Scope: Investigate how software contributions factor into academic promotions and tenure at a research organisation.
 - Impact: Aims to influence policy changes by revealing disparities between traditional research outputs and software contributions.
 
-#### _Best Practices Unveiled_
+_Best Practices Unveiled_
 
 - Scope: Document and share examples of successful recognition practices for research software contributions.
 - Impact: Provides a blueprint for academic institutions to integrate software contributions into their recognition systems.
 
-#### _Guidance Galore_
+_Guidance Galore_
 
 - Scope: Create guidance documents to assist stakeholders in faculty hiring and tenure evaluations.
 - Impact: Aims to reshape traditional practices, emphasising the role of software in modern research.
 
-#### _Demographics Decoded_
+_Demographics Decoded_
 
 - Scope: Conduct research to profile research software engineers (RSEs) demographically.
 - Impact: Provides a baseline for understanding RSEs, aiding in targeted policy and program development.
 
-#### _Job Descriptions Demystified_
+_Job Descriptions Demystified_
 
 - Scope: Create an online repository of research software-related job descriptions.
 - Impact: Helps individuals make informed career decisions and serves as a data source for secondary analysis.
 
-#### _Community Connect_
+_Community Connect_
 
 - Scope: Create a mailing list to foster community and information exchange among those interested in research software careers.
 - Impact: Aims to build a more robust and informed community in the research software domain.
 
-#### _Case Studies: The Good, The Bad, The Ugly_
+_Case Studies: The Good, The Bad, The Ugly_
 
 - Scope: Develop case studies revealing diverse career paths of RSEs.
 - Impact: Provides a holistic understanding of the field, helping RSEs navigate their career landscape.
 
-#### _Sector-Specific Insights_
+_Sector-Specific Insights_
 
 - Scope: Compare RSE career paths in academia, industry, and government.
 - Impact: Offers actionable recommendations for individuals and policymakers across sectors.
 
-#### _Pay Parity Probed_
+_Pay Parity Probed_
 
 - Scope: Conduct a comparative economic study on RSE salaries versus other researchers.
 - Impact: Aims to identify disparities and inform organisational and funding decisions.
