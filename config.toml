@@ -15,14 +15,15 @@ rssLimit = 100
     suffixes = ["xml"]
 
 [outputs]
-  home = ["RSS", "HTML"]
+  home = ["ATOM", "HTML"]
   page = ["HTML"]
   section = ["HTML"]
   taxonomy = ["HTML"]
   term = ["HTML"]
 
 [outputFormats]
-  [outputFormats.RSS]
+  [outputFormats.ATOM]
+    mediaType = "application/atom+xml"
     baseName  = "feed"
 
 [markup]
