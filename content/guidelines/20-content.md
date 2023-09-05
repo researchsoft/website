@@ -97,6 +97,8 @@ ReSA is creating a listing of [institutional policies that support research soft
 
 #### Software development
 
+-   [Making Biomedical Research Software FAIR: Actionable Step-by-step Guidelines with a User-support Tool](https://doi.org/10.1038/s41597-023-02463-x), 2023.
+  
 -   [FAIR Principles for Research Software](https://doi.org/10.15497/RDA00068), 2022,  introduced in this [article](https://www.nature.com/articles/s41597-022-01710-x) in *Scientific Data*.
 
 -   [Practical Guide to Software Management Plans](https://zenodo.org/record/7185371) by the Dutch Research Council (NWO) and the Netherlands eScience Center, 2022.
@@ -119,7 +121,6 @@ ReSA is creating a listing of [institutional policies that support research soft
 
 -   [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510), 2017.
 
--   [Making Biomedical Research Software FAIR: Actionable Step-by-step Guidelines with a User-support Tool](https://doi.org/10.1038/s41597-023-02463-x), 2023.
 
 #### Software sharing and citation
 
