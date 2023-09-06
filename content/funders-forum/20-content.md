@@ -41,6 +41,7 @@ Funding organisations that have engaged include:
 - Michael J. Fox Foundation
 - NASA
 - National Institutes of Health (NIH)
+- National Science Foundation (NSF)
 - National Science and Technology Council 
 - Netherlands eScience Center (NLeSC)
 - New Zealand eScience Infrastructure (NeSI)
@@ -51,6 +52,7 @@ Funding organisations that have engaged include:
 - Schmidt Futures
 - Science for Africa Foundation
 - Social Sciences and Humanities Research Council (SSHRC)
+- UEFISCDI
 - UK Research and Innovation (UKRI)
 - Volkswagen Foundation
 
