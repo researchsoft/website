@@ -32,7 +32,7 @@ Authors: Eric Allen Jensen, Daniel S. Katz
 
 DOI: [10.5281/zenodo.8312543](https://zenodo.org/record/8312543)
 
-![My Image](252891110-f7f7219e-9d80-4496-b6ed-8c4a86d20eb9.png)
+![My Image](shutterstock_2007818042.jpg)
 
 **ADORE.software is ready for signing**
 
