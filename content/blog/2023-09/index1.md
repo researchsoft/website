@@ -10,7 +10,6 @@ title_align = "left"
 disabled = false
 display_date = true
 date = "2023-09-15"
-author = ["Eric Allen Jensen", "Daniel S. Katz"]
 
 [sidebar]
   title = "Important Links"
@@ -27,10 +26,6 @@ author = ["Eric Allen Jensen", "Daniel S. Katz"]
 +++
 
 15 September 2023
-
-Authors: Eric Allen Jensen, Daniel S. Katz
-
-DOI: [10.5281/zenodo.8312543](https://zenodo.org/record/8312543)
 
 ![My Image](shutterstock_2007818042.jpg)
 
