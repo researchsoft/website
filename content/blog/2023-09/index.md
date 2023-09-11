@@ -34,8 +34,6 @@ DOI: [10.5281/zenodo.8312543](https://zenodo.org/record/8312543)
 
 ![My Image](252891110-f7f7219e-9d80-4496-b6ed-8c4a86d20eb9.png)
 
-**Elevating Research Software: Developing a Roadmap**
-
 Research software is the unsung hero of modern science. Yet it often plays second fiddle to traditional scholarly outputs such as journal articles. As research grows increasingly computational, the need to recognise software contributions becomes imperative. However, there are a number of challenges that must be overcome to achieve this. How do we measure and extend the impact of research software? How do we integrate it into academic evaluations? A set of answers may be found through policy-related activities, including advocacy, organising, and research.
 
 Building on discussions in the US Research Software Sustainability Institute ([URSSI)](https://urssi.us/), including a number of workshops and an [implementation plan](https://plan.urssi.us/) that URSSI developed, we've created a set of possible activities aimed at elevating the role of research software in academic career paths, recognition, and beyond. As part of the Alfred P. Sloan-funded [URSSI Policy project](https://urssi.us/projects/policy/about/), we've assembled 44 of these ideas as a starting point, and we've posted them as [issues in GitHub](https://github.com/si2-urssi/policy/issues?q=is%3Aissue+is%3Aopen+label%3AActivity).
