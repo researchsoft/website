@@ -43,7 +43,6 @@ This version of the declaration is released in advance of the [International Res
 
 Organisations and individuals who do not fully identify with the definition of funders can choose to support the declaration, publicly stating that they agree with the recommendations. Supporters could potentially range from government funding agencies and academic research institutes to private companies and philanthropic organisations.
 
-"_Through new programs and funding opportunities at NIH, such as the Open Source Software program and the Software Research Engineers program, the agency is supporting sustainable foundations for the development and deployment of software tools in the biomedical and behavioral sciences_"
-\- Susan Gregurick, Director of the Office of Data Science Strategy at the National Institutes of Health (NIH)
+"_Through new programs and funding opportunities at NIH, such as the Open Source Software program and the Software Research Engineers program, the agency is supporting sustainable foundations for the development and deployment of software tools in the biomedical and behavioral sciences._" \- Susan Gregurick, Director of the Office of Data Science Strategy at the National Institutes of Health (NIH)
 
 In the coming months we expect to see many funders signing the declaration and other non-funders showing their support! To stay updated on this declaration, [subscribe](https://www.researchsoft.org/news/) to the ReSA newsletter for updates.
