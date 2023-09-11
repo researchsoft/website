@@ -28,6 +28,7 @@ date = "2023-09-15"
 15 September 2023
 
 ![My Image](shutterstock_2007818042.jpg)
+Source: [Prostock-studio], [Shutterstock](https://www.shutterstock.com/image-photo/contract-signing-female-customer-sign-papers-2007818042)
 
 **ADORE.software is ready for signing**
 
