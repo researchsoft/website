@@ -16,7 +16,7 @@ date = "2023-09-15"
   align = "right"
   sticky = false # Default is false
   content = """
-  * [Research Blog](https://www.researchsoft.org/blog/)
+  * [ResSA Blog](https://www.researchsoft.org/blog/)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
