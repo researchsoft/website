@@ -26,8 +26,7 @@ date = "2023-09-15"
 +++
 
 15 September 2023
-DOI: [10.59350/a0wh3-y3057](https://doi.org/10.59350/a0wh3-y3057![image](https://github.com/researchsoft/website/assets/8003204/b1648e1d-5f7d-44ec-a1bc-760cf7cffb18)
-)![image](https://github.com/researchsoft/website/assets/8003204/831455b4-8505-4885-bcd3-643dbd4a672c)
+DOI: [10.59350/a0wh3-y3057](https://doi.org/10.59350/a0wh3-y3057)
 
 
 ![My Image](shutterstock_2007818042.jpg)
