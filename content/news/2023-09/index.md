@@ -24,4 +24,4 @@ This month’s news includes:
 
 +++
 
-**[Read the September Newsletter]()**
+**[Read the September Newsletter](https://preview.mailerlite.com/y3f8o0g6z1/2308610683622660641/v0v4/)**
