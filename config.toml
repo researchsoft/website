@@ -140,7 +140,7 @@ rssLimit = 100
 [[menu.main]]
   parent = "/resa-resources"
   name = "ADORE.software Declaration"
-  url = "/ADORE.software-declaration"
+  url = "https://adore.software/"
   weight = 45
   
 [[menu.main]]
