@@ -48,7 +48,7 @@ Meetings occur at alternating times to maximise attendance by participants in di
 
 **[Sign up](https://landing.mailerlite.com/webforms/landing/o1n4v3) to receive the Community Leaders Forum calendar invites automatically and recordings of the talks**.
 
-* 18 October 2023, 10:00 UTC [(see in your time zone)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Community+Leaders+Forum+&iso=20231018T10&p1=1440&ah=1)
+* 18 October 2023, 10:00 UTC [(see in your time zone)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Community+Leaders+Forum+&iso=20231018T10&p1=1440&ah=1) - [**Agenda**](https://docs.google.com/document/d/1rUBoqc31ydFgbGNN0vDplIOrfrMJTPpFQgPoEpzWcRY/edit)
   * Topic: Debrief on the second [International Research Software Funders Workshop](https://adore.software/international-research-software-funders-workshop/) and release of the [Amsterdam Declaration for Funding Research Software Sustainability](https://adore.software/declaration/). Do you adore software? Let your funders know so they can get involved with the Declaration.
   * [Zoom link to join the call](https://us02web.zoom.us/j/2187873236?pwd=cXpmZXQzalhMcGlUN0J1bWUzdVM3QT09) (Passcode: 446688)
   * Download a [calendar invite](https://drive.google.com/file/d/1gsECwR7nK-NqbtUFfYSUx6_f9pDsMSKY/view?usp=drive_link)  
