@@ -17,7 +17,7 @@ author = ["Kim Hartley", "Michelle Barker"]
   align = "right"
   sticky = false # Default is false
   content = """
-  * [Research Software Policies Page](https://www.researchsoft.org/software-policies/)
+  * [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
