@@ -58,9 +58,9 @@ Josh Greenberg from the Alfred P. Sloan Foundation delivered a [keynote](https:/
 
 The recommendations in ADORE.software informed the structure of the workshop's breakout sessions, with a focus on research software practice; research software ecosystem; research software personnel; and research software ethics. During the first breakout, attendees discussed capacity building through funder practices. Key takeaways include:
 
-- Funders benefit from investing both before (community/need development) and after (ongoing maintenance and re-use) research software development
-- International collaboration and collective action are critical and valuable (e.g., building a multilateral funding initiative due to the global nature of research software)
-- Funders should consider how to support and sustain Research Software Engineers (RSEs) but also incentivise researcher-developers to develop better software engineering practices
+- Funders benefit from investing both before (community/need development) and after (ongoing maintenance and re-use) research software development.
+- International collaboration and collective action are critical and valuable (e.g., building a multilateral funding initiative due to the global nature of research software).
+- Funders should consider how to support and sustain Research Software Engineers (RSEs) but also incentivise researcher-developers to develop better software engineering practices.
 - The research software community needs a set of high-level classes to measure the impact of research software, such as citations and mentions of software maturity, or combining mention analysis and dependency analysis.
 
 Malvika Sharan from The Alan Turing Institute and Open Life Science provided a research software community perspective in her [talk](https://zenodo.org/records/8361334) on "Exploring 'Do No Harm' Principles in Open Research Communities." Malvika's compelling keynote encouraged funders to become leaders in the research software ecosystem by incentivising and recognising all types of research roles; investing in capacity-building goals that focus on bridging scientific and economic divides; and applying community-oriented frameworks to extend the benefits of research to the broader community that 'do no harm', thereby ensuring open science practices enable equitable research and research outcomes.
