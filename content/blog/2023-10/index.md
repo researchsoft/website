@@ -26,8 +26,6 @@ author = ["Kim Hartley", "Michelle Barker"]
 
 +++
 
-**Investing in People: Anticipating the Future of Research Software **
-
 25 October, 2023
 
 Authors: Kim Hartley and Michelle Barker
