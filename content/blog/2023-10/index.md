@@ -40,7 +40,7 @@ This second iteration of the funders workshop built on the inaugural [Internatio
 
 The first workshop marked a further step in the development of the research software community. Stakeholders have continued to build on this momentum through involvement in the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/), convened by ReSA, and its funder-led working groups. The Alliance and ReSA, together with the workshop Steering Committee, organised the 2nd International Research Software Funders Workshop to continue this important work and facilitate global collaboration among funders and other key decision makers and influencers across the research software ecosystem.
 
-**2nd International Research Software Funders Workshop **
+**2nd International Research Software Funders Workshop**
 
 **Pre-workshop - September 18**
 
