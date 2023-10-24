@@ -9,7 +9,7 @@ title_align = "left"
 
 disabled = false
 display_date = true
-date = "2023-10-25"
+date = "2023-10-24"
 author = ["Kim Hartley", "Michelle Barker"]
 
 [sidebar]
