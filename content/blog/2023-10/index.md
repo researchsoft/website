@@ -46,7 +46,7 @@ The first workshop marked a further step in the development of the research soft
 
 **Pre-workshop - September 18**
 
-The event commenced with a pre-workshop, including a session on [How to Explicitly Support Research Software as Part of Your Funding Program](https://docs.google.com/presentation/d/1Ik3j6uy_-ZlOKwANtTdSn4NDO_Gma5A8nMjvOsiLpOU/edit#slide=id.g241153165a8_0_0), delivered by ReSA, and a session on [CiteSoftware](https://zenodo.org/records/8356278), led by a group of stakeholders aiming to drive the adoption of a common research software preservation and citation guidance resource for the research community.
+The event commenced with a pre-workshop, including a session on [How to Explicitly Support Research Software as Part of Your Funding Program](https://docs.google.com/presentation/d/1UP_UGOPxYi0R4UAE5PRpGWoJzrQ2FkVmCdDBILR6t2U/edit#slide=id.g241153165a8_0_0), delivered by ReSA, and a session on [CiteSoftware](https://zenodo.org/records/8356278), led by a group of stakeholders aiming to drive the adoption of a common research software preservation and citation guidance resource for the research community.
 
 **Workshop Day 1 - September 19**
 
