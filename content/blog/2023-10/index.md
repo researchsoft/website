@@ -26,7 +26,7 @@ author = ["Kim Hartley", "Michelle Barker"]
 
 +++
 
-25 October, 2023
+October 2023
 
 Authors: Kim Hartley and Michelle Barker
 
