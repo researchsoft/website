@@ -189,6 +189,12 @@ rssLimit = 100
   pre = "fab fa-mastodon"
 
 [[menu.footer_social]]
+  weight = 60
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/company/research-software-alliance"
+  pre = "fab fa-linkedin"  
+
+[[menu.footer_social]]
   weight = 70
   name = "Atom Feed"
   url = "/feed.xml"
