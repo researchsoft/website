@@ -25,7 +25,7 @@ author = ["Kim Hartley", "Michelle Barker"]
   """
 
 +++
-
+![My Image](IMG_3080-1440x1080.jpg)
 October 2023
 
 Authors: Kim Hartley and Michelle Barker
