@@ -48,7 +48,7 @@ Meetings occur at alternating times to maximise attendance by participants in di
 
 **[Sign up](https://landing.mailerlite.com/webforms/landing/o1n4v3) to receive the Community Leaders Forum calendar invites automatically and recordings of the talks**.
 
-* 15 November 2023, 20:00 UTC [(see in your time zone)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Community+Leaders+Forum+&iso=20231115T20&p1=1440&ah=1) 
+* 15 November 2023, 20:00 UTC [(see in your time zone)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Community+Leaders+Forum+&iso=20231115T20&p1=1440&ah=1) - [agenda](https://docs.google.com/document/d/1CRYoycC-uwmRfC10nlLTHMfuwDai-RwEqjWQedfrG3U/edit) and [slides](https://docs.google.com/presentation/d/1pvgggk_3MNGWrPTKKIINWy5XQyuoNuHB-07RZed-AkU/edit#slide=id.g241153165a8_0_0)
   * Topic: Update on Research Software Alliance (ReSA) strategy, engagement and operations, including the proposed ReSA-RDA Working Group on [Policies in Research Organisations for Research Software (PRO4RS)](https://www.rd-alliance.org/groups/policies-research-organisations-research-software-pro4rs), our Organisational Membership program, and the work of our [Community Managers](https://www.researchsoft.org/people/) in Asia and Africa.
   * [Zoom link to join the call](https://us02web.zoom.us/j/2187873236?pwd=cXpmZXQzalhMcGlUN0J1bWUzdVM3QT09) (Passcode: 446688)
   * Download a [calendar invite](https://drive.google.com/file/d/1yKe_ZebIHv6xFkxw5xiqSABzDus_zTmC/view?usp=drive_link)
