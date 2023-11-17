@@ -24,6 +24,12 @@ This is a joint ReSA task force and FORCE11 working group working towards greate
 
 Are you interested in research institution policies that support research software and the people who develop and maintain it? Join the joint [Policies in Research Organisations for Research Software (PRO4RS) Working Group](https://www.rd-alliance.org/groups/policies-research-organisations-research-software-pro4rs) with the Research Data Alliance to help build our collection of **[institutional policies](https://www.researchsoft.org/software-policies/)** and consider how to better share these with interested stakeholders. This combined working group builds on the ReSA task force to collect institutional policies for further dissemination as examples and encouragement to increase the value of research software assets worldwide. You can add your organisation's policy to the [public list](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0).
 
+### Research Software Authorship and Contribution
+
+Developing research software is a dynamic, agile and collaborative effort, involving a spectrum of contributions that may or may not qualify contributors for authorship of the software. Different types of contributions to software have been suggested across a number of projects, but there is a lack of community support for any one of these taxonomies or vocabularies. Furthermore, we currently lack community guidelines and criteria for software authorship.
+
+This task force takes forward [previous work](https://sdruskat.net/software-authorship/) to define software authorship and comprehensively describe contribution types/roles in software. The group examines relevant previous work and literature to formulate drafts defining both software authorship and the nature of contributions. These drafts will be made public for expert and community review. Following this consultation phase, they will be published as comprehensive community guidelines.
+
 ## Completed task forces
 
 **Database of Research Software Funding Opportunities**
