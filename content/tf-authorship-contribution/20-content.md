@@ -12,14 +12,14 @@ The task force builds on [previous work](https://sdruskat.net/software-authorshi
 - a lack of community guidelines and criteria for software authorship;
 - a lack of community support for any one existing contribution taxonomy/vocabulary for software.
 
-Roadmap:
+### Roadmap
 
 1. Examine relevant previous work
 2. Draft definitions of software authorship and contributions
 3. Facilitate expert and community review and consultation
 4. Publish community guidelines
 
-The members of the task force are:
+### Task Force Members
 
 - Carlos Martinez-Ortiz, Netherlands eScience Center, <https://orcid.org/0000-0001-5565-7577>
 - Deborah Leem, University College London (UCL), <https://orcid.org/0000-0002-5836-0899>
