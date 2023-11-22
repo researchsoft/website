@@ -13,7 +13,7 @@ recommendations, reports and guidelines that emphasise best practice.
 
 ## People
 
--    [Foundational Competencies and Responsibilities of a Research Software Engineer](http://arxiv.org/abs/2311.11457) by Florian Goth et al. (2023), explores educational paths for RSEs. The authors define what an RSE is, explore different types of work RSEs undertake, and define the fundamental competencies as well as values that represent the general profile of an RSE.
+-    [Foundational Competencies and Responsibilities of a Research Software Engineer](http://arxiv.org/abs/2311.11457) by Florian Goth et al. (2023) explores educational paths for RSEs. The authors define what an RSE is, explore different types of work RSEs undertake, and define the fundamental competencies as well as values that represent the general profile of an RSE.
 -   [Research Software Engineering (RSE) International Survey](https://softwaresaved.github.io/international-survey-2022/): 2022 results now available to help understand the RSE community, inform policies and create incentives that advance RSE interests, building on the 2018 and 2016 survey results. 
 
 -   [Understanding Equity, Diversity and
