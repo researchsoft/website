@@ -20,7 +20,7 @@ author = ["Anelda van der Walt", "Director", "Talarify"]
   """
 
 +++
-![My Image](IMG_3080-1440x1080.jpg)
+![My Image](FwfmuBjWIAIQhg7-1024x768.jpeg)
 
 November 2023
 
