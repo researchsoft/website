@@ -53,11 +53,11 @@ One regional initiative that plays a role in providing a local community of prac
 
 Talarify is looking forward to continuing working closely with ReSA, RSSE Africa, and various other global and local partners to amplify the voice of African RSSEs and create local awareness of existing resources, opportunities, communities, and more!
 
-## <a name="_3q6yu4oq8uqz"></a>African Research Projects and Organisations with RSSE components
+## <a name="_yoypd7mpba0n"></a>African Research Projects and Organisations with RSSE components
 
 This list highlights some initiatives with significant RSSE components to help craft a better understanding of the tremendous role of RSSEs in Africa. This is by no means an exhaustive list. It excludes numerous outstanding and hugely impactful research initiatives across many countries (most notably those in Francophone, Arabophone, and Lusophone regions) and a wide variety of disciplines.
 
-### <a name="_yoypd7mpba0n"></a>Astronomy, Physics & Mathematics
+**Astronomy, Physics & Mathematics**
 
 The [**African Institute for Mathematical Sciences**](https://centres.nexteinstein.org/) (AIMS) is a network of centres across Africa that promotes education and research in mathematical sciences, contributing to developing mathematical expertise on the continent.
 
@@ -67,13 +67,13 @@ The [**National Institute for Theoretical and Computational Sciences](https://ni
 
 The [**Square Kilometre Array**](https://www.skao.int/) (SKA) is a global project with a significant African presence. The SKA-Mid, which will be constructed in South Africa, will have four times the resolution and five times the sensitivity and will be able to survey the sky 60 times faster than the Karl G. Jansky Very Large Array (VLA) telescope in the United States. The computing and data infrastructure required for the SKA project is “astronomical”.
 
-### <a name="_f4e0tr805hlb"></a>Biodiversity and agriculture (and more Bioinformatics)
+**Biodiversity and agriculture (and more Bioinformatics)**
+
 The [**African BioGenome Project**](https://africanbiogenome.org/) (AfricaBP) is a coordinated pan-African effort to build capacity (and infrastructure) to generate, analyse, and deploy genomics data for the improvement and sustainable use of biodiversity and agriculture across Africa. 
 
 The **[International Livestock Research Institute**](https://www.ilri.org/)** (ILRI) is a CGIAR research centre operating across Southern and Eastern Africa. ILRI’s mission is to “improve food and nutritional security and to reduce poverty in developing countries through research for efficient, safe and sustainable use of livestock.”
 
-
-### <a name="_ugox3cb63vwy"></a>Health and Bioinformatics
+**Health and Bioinformatics**
 
 The [**Africa Centre for Disease Control and Prevention (Africa CDC) – Africa Pathogen Genomics Initiative**](https://africacdc.org/institutes/ipg/) aims to “maximise the benefits of next-generation genomic sequencing tools by empowering public health experts in the continent with the tools, training and coordination needed for data-driven decision-making for preventing and responding to disease threats.”
 
@@ -83,8 +83,7 @@ The [**Human Heredity and Health in Africa**](https://h3africa.org/) (H3Africa) 
 
 [**H3ABioNet**](https://h3abionet.org/) is a sub-project of H3Africa and was established to develop bioinformatics capacity, specifically genomics data analysis expertise within the H3Africa projects. These projects included infrastructure development, bio-repositories and analysis pipelines, and intensive bioinformatics training. 
 
-
-# Natural Language Processing, Machine Learning and Artificial Intelligence
+**Natural Language Processing, Machine Learning and Artificial Intelligence**
 
 The [**Deep Learning Indaba**](https://deeplearningindaba.com/2023/) aims “to build a sustainable pan-African community of Artificial Intelligence (AI) expertise, create local leadership in AI in every country across the continent, and recognise excellence in research and application of AI technologies, respectively.” 
 
@@ -92,7 +91,7 @@ The [**Machine Intelligence Institute of Africa**](https://miiafrica.org/researc
 
 [**Masakhane**](https://www.masakhane.io/) is a grassroots organisation whose mission is to “strengthen and spur NLP research in African languages, for Africans, by Africans.”
 
-## <a name="_shjhvmyzph7b"></a>Acknowledgements: 
+## <a name="_yoypd7mpba0n"></a>Acknowledgements: 
 
 This project has been made possible in part by a grant from The Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation.
 
