@@ -10,7 +10,7 @@ title_align = "left"
 disabled = false
 display_date = true
 date = "2023-12-6"
-author = ["Anelda van der Walt", "Director", "Talarify"]
+author = ["Anelda van der Walt"]
 
 [sidebar]
   title = "Important Links"
@@ -22,9 +22,9 @@ author = ["Anelda van der Walt", "Director", "Talarify"]
 +++
 ![My Image](FwfmuBjWIAIQhg7-1024x768.jpeg)
 
-November 2023
+6 December 2023
 
-Authors: Anelda van der Walt, Director, Talarify
+By Anelda van der Walt
 
 The African continent is home to some of the world's most significant multi-country research projects. These projects often include research software and infrastructure development components, but it can be challenging to grasp the African research software and systems engineering (RSSE) landscape. This blog post shares information on ReSA’s activities to support RSSE in this region. It highlights the importance of having both a local community of practice where RSSEs can share their experiences and challenges, lessons learned, and solutions implemented *and* a global dialogue that includes African RSSEs as the RSSE movement matures, develops policies, and solidifies best practices. It concludes with a list of remarkable research projects and organisations that include RSSE components to illustrate how extensive and significant the African RSSE community is.
 
