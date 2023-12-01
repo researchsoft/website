@@ -1,3 +1,31 @@
++++
+fragment = "content"
+weight = 100
+categories = ["Blog"]
+
+title = "Navigating the Unseen: Unveiling the Scope of African Research Software and Systems Engineering "
+#subtitle = ""
+title_align = "left"
+
+disabled = false
+display_date = true
+date = "2023-12-6"
+author = ["Anelda van der Walt", "Director", "Talarify"]
+
+[sidebar]
+  title = "Important Links"
+  align = "right"
+  sticky = false # Default is false
+  content = """
+  """
+
++++
+![My Image](IMG_3080-1440x1080.jpg)
+
+November 2023
+
+Authors: Anelda van der Walt, Director, Talarify
+
 The African continent is home to some of the world's most significant multi-country research projects. These projects often include research software and infrastructure development components, but it can be challenging to grasp the African research software and systems engineering (RSSE) landscape. This blog post shares information on ReSA’s activities to support RSSE in this region. It highlights the importance of having both a local community of practice where RSSEs can share their experiences and challenges, lessons learned, and solutions implemented *and* a global dialogue that includes African RSSEs as the RSSE movement matures, develops policies, and solidifies best practices. It concludes with a list of remarkable research projects and organisations that include RSSE components to illustrate how extensive and significant the African RSSE community is.
 
 In 2023, [Talarify](https://www.talarify.co.za/) was appointed as the African Community Engagement Partner for the [Research Software Alliance](https://www.researchsoft.org/) (ReSA), with funding from a [grant](https://doi.org/10.5281/zenodo.7275397) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). As the  ReSA African Community Engagement Partner, we highlight information from the African community to enhance the visibility of local RSSE-related initiatives. We also share news, opportunities and resources from the ReSA community with African RSSEs and organisations involved in research software development through the channels listed below. We have spoken about the international Research Software Engineers (RSE) movement and ReSA’s work at various African forums, such as the inaugural [ZA-REN Week](https://events.tenet.ac.za/event/33/) (view the [presentation](https://zenodo.org/doi/10.5281/zenodo.10013667)). We have also engaged with the global community to share African RSSE news through events such as the Annual Conference for Research Software Engineering (RSECon 2023) (view the [presentation](https://doi.org/10.5281/zenodo.10013746)).
