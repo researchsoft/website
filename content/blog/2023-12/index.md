@@ -84,7 +84,7 @@ The [**Human Heredity and Health in Africa**](https://h3africa.org/) (H3Africa) 
 [**H3ABioNet**](https://h3abionet.org/) is a sub-project of H3Africa and was established to develop bioinformatics capacity, specifically genomics data analysis expertise within the H3Africa projects. These projects included infrastructure development, bio-repositories and analysis pipelines, and intensive bioinformatics training. 
 
 
-### <a name="_udui61bpp4zw"></a>Natural Language Processing, Machine Learning and Artificial Intelligence
+# Natural Language Processing, Machine Learning and Artificial Intelligence
 
 The [**Deep Learning Indaba**](https://deeplearningindaba.com/2023/) aims “to build a sustainable pan-African community of Artificial Intelligence (AI) expertise, create local leadership in AI in every country across the continent, and recognise excellence in research and application of AI technologies, respectively.” 
 
