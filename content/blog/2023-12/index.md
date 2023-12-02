@@ -21,10 +21,9 @@ author = ["Anelda Van der Walt"]
 
 +++
 ![My Image](FwfmuBjWIAIQhg7-1024x768.jpeg)
-Photo by Noxolo Chalale.
-Participants of the first Research Software Indaba held in Cape Town, South Africa in May 2023.
+Participants of the first Research Software Indaba held in Cape Town, South Africa in May 2023. _(Photo credit: Noxolo Chalale)_
 
-By Anelda Van der Walt
+By Anelda Van der Walt (Director, Talarify)
 
 6 December 2023
 
@@ -36,7 +35,7 @@ Our most significant contribution in the past six months was the first [African 
 
 - **Local RSSE initiatives** with presentations from [RSE@SUN](https://rse-at-sun.github.io/RSE-at-SUN/), [RSSE Africa](https://rsse.africa), and the [eLwazi Open Data Science Platform](https://elwazi.org/)
 - **RSE movement, policy and funding** with presentations from Professor Simon Hettrick, Deputy Director of the UK [Software Sustainability Institute](https://software.ac.uk) (SSI), and Dr Michelle Barker, Director of ReSA
-- **Existing capacity and training** with a presentation from Dr Angelique Trusler, African Capacity Development Manager at [The Carpentries](https://carpentries.org) and discussion led by Friedel Wolff, technical manager** at the **[South African Centre for Digital Language Resources](https://sadilar.org)** (SADiLaR)
+- **Existing capacity and training** with a presentation from Dr Angelique Trusler, African Capacity Development Manager at [The Carpentries](https://carpentries.org) and discussion led by Friedel Wolff, technical manager at the [South African Centre for Digital Language Resources](https://sadilar.org) (SADiLaR)
 - **The next steps,** during which we identified some short- and medium-term activities, such as writing a paper to describe the local RSSE landscape and a follow-up meeting.
 
 The 20 Indaba participants were primarily based in South Africa, but several are involved in projects that include other countries on the continent. They represented areas including bioinformatics, astrophysics, humanities and social sciences, high-performance computing, eResearch, IT, scientific computing, and open science. Read more about insights from the event in the [blog post](https://www.talarify.co.za/2023/05/29/driving-sustainable-research-software-and-systems-insights-from-the-first-research-software-indaba-in-africa/) and [report](https://doi.org/10.5281/zenodo.7980634).
@@ -66,15 +65,15 @@ The [**African Institute for Mathematical Sciences**](https://centres.nexteinste
 
 The [**ICTP-East African Institute for Fundamental Research**](https://eaifr.org/) (EAIFR) is a partner institute of the Abdus Salam International Centre for Theoretical Physics (ICTP) and a Category 2 UNESCO institute. The institute focuses on training physics graduates and research in topics related to condensed matter physics, geophysics, particle physics, cosmology, and more.
 
-The [**National Institute for Theoretical and Computational Sciences](https://nithecs.ac.za/)** (NiTheCS) consortium includes 25 South African universities and institutes. The consortium’s research focuses on diverse but interconnected research areas such as theoretical physics, mathematics, astronomy and astrophysics, statistics, data science, quantitative finance, bioinformatics and quantitative biology, earth systems modelling, and climate change modelling. 
+The [**National Institute for Theoretical and Computational Sciences**](https://nithecs.ac.za/) (NiTheCS) consortium includes 25 South African universities and institutes. The consortium’s research focuses on diverse but interconnected research areas such as theoretical physics, mathematics, astronomy and astrophysics, statistics, data science, quantitative finance, bioinformatics and quantitative biology, earth systems modelling, and climate change modelling. 
 
 The [**Square Kilometre Array**](https://www.skao.int/) (SKA) is a global project with a significant African presence. The SKA-Mid, which will be constructed in South Africa, will have four times the resolution and five times the sensitivity and will be able to survey the sky 60 times faster than the Karl G. Jansky Very Large Array (VLA) telescope in the United States. The computing and data infrastructure required for the SKA project is “astronomical”.
 
-**Biodiversity and agriculture (and more Bioinformatics)**
+**Biodiversity and Agriculture and Bioinformatics**
 
 The [**African BioGenome Project**](https://africanbiogenome.org/) (AfricaBP) is a coordinated pan-African effort to build capacity (and infrastructure) to generate, analyse, and deploy genomics data for the improvement and sustainable use of biodiversity and agriculture across Africa. 
 
-The **[International Livestock Research Institute**](https://www.ilri.org/)** (ILRI) is a CGIAR research centre operating across Southern and Eastern Africa. ILRI’s mission is to “improve food and nutritional security and to reduce poverty in developing countries through research for efficient, safe and sustainable use of livestock.”
+The [**International Livestock Research Institute**](https://www.ilri.org/) (ILRI) is a CGIAR research centre operating across Southern and Eastern Africa. ILRI’s mission is to “improve food and nutritional security and to reduce poverty in developing countries through research for efficient, safe and sustainable use of livestock.”
 
 **Health and Bioinformatics**
 
