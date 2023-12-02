@@ -21,6 +21,8 @@ author = ["Anelda Van der Walt"]
 
 +++
 ![My Image](FwfmuBjWIAIQhg7-1024x768.jpeg)
+Photo by Noxolo Chalale.
+Participants of the first Research Software Indaba held in Cape Town, South Africa in May 2023.
 
 By Anelda Van der Walt
 
