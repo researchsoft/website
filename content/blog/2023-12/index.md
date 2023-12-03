@@ -17,6 +17,9 @@ author = ["Anelda Van der Walt"]
   align = "right"
   sticky = false # Default is false
   content = """
+  * [ReSA newsletter](https://www.researchsoft.org/news/)
+  * [RSSE Africa](https://rsse.africa/)
+  * [RSSE Africa LinkedIn group](https://www.linkedin.com/groups/12903402/)
   """
 
 +++
