@@ -21,7 +21,6 @@ author = ["Anelda Van der Walt"]
   * [RSSE Africa](https://rsse.africa/)
   * [RSSE Africa LinkedIn group](https://www.linkedin.com/groups/12903402/)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
   * [Contact us](/contact)
   """
