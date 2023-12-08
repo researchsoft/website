@@ -9,7 +9,7 @@ title_align = "left"
 
 disabled = false
 display_date = true
-date = "2023-12-6"
+date = "2023-12-06"
 author = ["Anelda Van der Walt"]
 
 [sidebar]
