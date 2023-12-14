@@ -24,7 +24,6 @@ author = ["Saranjeet Kaur Bhogal"]
   """
 
 +++
-![My Image](IMG_3080-1440x1080.jpg)
 
 December 2023
 
@@ -81,8 +80,7 @@ time]{.underline}](https://www.software.ac.uk/blog/attending-person-asia-pacific
 \
 \
 \
-**![](vertopal_e19cac405c864bd881346cc92ce2d5f7/media/image1.png){width="2.648234908136483in"
-height="2.3906255468066493in"}**\
+![My Image](image1.png)
 **Image: My presentation at APAN55, Kathmandu, Nepal**\
 **
 
@@ -140,6 +138,7 @@ issues in the context of a software project such as the difference
 between a contributor and an author, when a contributor becomes an
 author, and when an author stops being an author.
 
+![My Image](image2.png)
 ![](vertopal_e19cac405c864bd881346cc92ce2d5f7/media/image3.png){width="5.755208880139983in"
 height="2.4166666666666665in"}\
 Image: Group photo of attendees at CW23, Manchester, UK
@@ -155,11 +154,11 @@ Engineering Community in
 Asia]{.underline}](https://zenodo.org/records/8300052).\" Additionally,
 I provided updates from the Asia region during the RSE Worldwide
 session.
-
+![My Image](image3.png)
 ![](vertopal_e19cac405c864bd881346cc92ce2d5f7/media/image4.png){width="4.38792760279965in"
 height="2.8906255468066493in"}**\
 **Image: Group photo of volunteers at RSECon23, Swansea, UK
-
+![My Image](image4.png)
 ![](vertopal_e19cac405c864bd881346cc92ce2d5f7/media/image2.jpg){width="2.9114588801399823in"
 height="3.8846478565179354in"}\
 Image: My poster at RSECon23, Swansea, UK\
