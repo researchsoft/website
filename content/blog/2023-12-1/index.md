@@ -38,9 +38,8 @@ RSEs. Consequently, much of my focus this year has been on engaging in community
 
 **Engaging with Asian communities**
 
-**APAN55 in Nepal**: In March I presented a session on "[[Research Software Engineering (RSE) Asia Association: Journey and Future Plans]{.underline}](https://zenodo.org/record/7817687)" at the [[55th meeting of the Asia Pacific Advanced Network]{.underline}](https://apan55.apan.net/) (APAN) in Kathmandu, Nepal, as an APAN Fellow. APAN's emerging engagement with RSE topics led to a ReSA [[blog post]{.underline}](https://www.researchsoft.org/blog/2023-04/) on the potential role of [[National Research and Education Networks (NRENs)]{.underline}](https://en.wikipedia.org/wiki/National_research_and_education_network) in promoting the growth of an RSE community in the Asia-Pacific. The significance of this lies in that NRENs have not traditionally been significantly involved in supporting RSEs in other regions. I have shared my experience of attending APAN55 in the blogpost "[[Attending an in-person Asia Pacific Advanced Network (APAN) meeting for the first time]{.underline}](https://www.software.ac.uk/blog/attending-person-asia-pacific-advanced-network-apan-meeting-first-time)".**\
-\
-\
+**APAN55 in Nepal**: In March I presented a session on "[[Research Software Engineering (RSE) Asia Association: Journey and Future Plans]{.underline}](https://zenodo.org/record/7817687)" at the [[55th meeting of the Asia Pacific Advanced Network]{.underline}](https://apan55.apan.net/) (APAN) in Kathmandu, Nepal, as an APAN Fellow. APAN's emerging engagement with RSE topics led to a ReSA [[blog post]{.underline}](https://www.researchsoft.org/blog/2023-04/) on the potential role of [[National Research and Education Networks (NRENs)]{.underline}](https://en.wikipedia.org/wiki/National_research_and_education_network) in promoting the growth of an RSE community in the Asia-Pacific. The significance of this lies in that NRENs have not traditionally been significantly involved in supporting RSEs in other regions. I have shared my experience of attending APAN55 in the blogpost "[[Attending an in-person Asia Pacific Advanced Network (APAN) meeting for the first time]{.underline}](https://www.software.ac.uk/blog/attending-person-asia-pacific-advanced-network-apan-meeting-first-time)".**
+
 ![My Image](image1.png)
 Image: My presentation at APAN55, Kathmandu, Nepal
 
@@ -61,16 +60,17 @@ Workshop 2023]{.underline}](https://www.software.ac.uk/workshop/collaborations-w
 During the Hack Day of this workshop, our team co-created a set of definitions, guidelines, and criteria to distinguish authors from non-author contributors to a software project. Our output, \"[[SORTÆD:
 Software Role Taxonomy and Authorship Definition]{.underline}](https://sdruskat.net/software-authorship/)\" laid the groundwork for a ReSA [[task force]{.underline}](https://www.researchsoft.org/taskforces/) to discuss issues in the context of a software project such as the difference between a contributor and an author, when a contributor becomes an author, and when an author stops being an author.
 
-![My Image](image2.png)
+![My Image](image3.png)
 Image: Group photo of attendees at CW23, Manchester, UK
 
 **RSECon23 in Swansea, UK**: In September 2023, the learning and sharing continued. I participated in the [[R Project Sprint]{.underline}](https://contributor.r-project.org/r-project-sprint-2023/) at the University of Warwick, UK, and went on to attend and volunteer at [[RSECon23]{.underline}](https://rsecon23.society-rse.org) in Swansea. At RSECon23, I had the opportunity to present a lightning talk and a poster titled \"[[Shaping the Landscape: The Emerging Research Software Engineering Community in Asia]{.underline}](https://zenodo.org/records/8300052).\" Additionally, I provided updates from the Asia region during the RSE Worldwide session.
 
-![My Image](image3.png)
-**Image: Group photo of volunteers at RSECon23, Swansea, UK
 ![My Image](image4.png)
+**Image: Group photo of volunteers at RSECon23, Swansea, UK
+
+![My Image](image2.png)
 Image: My poster at RSECon23, Swansea, UK\
-\
+
 **Fostering Collaboration: RSE Asia Australia Unconference**: Later in September 2023, I co-organised the second online [[RSE Asia Australia Unconference]{.underline}](https://rseaa.github.io) with the [[RSE Association of Australia and New Zealand]{.underline}](https://rse-aunz.github.io/). The theme for this year was "Silos to Synergy - Achieving collaboration across domains". Being an unconference, the event was participant led and included many discussions about the RSE community. The details of the unconference can be found in the [[summary report of the RSE Asia Australia Unconference 2023]{.underline}](https://figshare.com/articles/online_resource/2023_Research_Software_Engineer_Asia_Australia_Unconference_Summary_Report/24309634).
 
 **Conclusion**
