@@ -100,6 +100,6 @@ The [**Machine Intelligence Institute of Africa**](https://miiafrica.org/researc
 [**Masakhane**](https://www.masakhane.io/) is a grassroots organisation whose mission is to “strengthen and spur NLP research in African languages, for Africans, by Africans.”
 
 **Acknowledgements**
-([[Katz & Hettrick]{.underline}](https://ieeexplore.ieee.org/document/10254813)
+
 This project has been made possible in part by a grant from The Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation.
 
