@@ -102,17 +102,3 @@ The [**Machine Intelligence Institute of Africa**](https://miiafrica.org/researc
 **Acknowledgements**
 
 This project has been made possible in part by a grant from The Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation.
-
-
-
-
-![My Image](FwfmuBjWIAIQhg7-1024x768.jpeg)
-Participants of the first Research Software Indaba held in Cape Town, South Africa in May 2023. _(Photo credit: Noxolo Chalale)_
-
-
-<div style="float: right; margin: 0 0 1em 1em;">
-  <img src="FwfmuBjWIAIQhg7-1024x768.jpeg" alt="Your Image" width="300">
-  <p>Participants of the first Research Software Indaba held in Cape Town, South Africa in May 2023. _(Photo credit: Noxolo Chalale)_</p>
-</div>
-
-Your text goes here. It will wrap around the image. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur auctor justo in erat egestas, sit amet ullamcorper urna tristique.
