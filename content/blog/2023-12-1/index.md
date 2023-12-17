@@ -67,7 +67,7 @@ _Group photo of attendees at CW23, Manchester, UK._
 
 **RSECon23 in Swansea, UK**: In September 2023, the learning and sharing continued. I participated in the [R Project Sprint](https://contributor.r-project.org/r-project-sprint-2023/) at the University of Warwick, UK, and went on to attend and volunteer at [RSECon23](https://rsecon23.society-rse.org) in Swansea. At RSECon23, I had the opportunity to present a lightning talk and a poster titled \"[Shaping the Landscape: The Emerging Research Software Engineering Community in Asia](https://zenodo.org/records/8300052).\" Additionally, I provided updates from the Asia region during the RSE Worldwide session.
 
-<img src="rsecon23_swansea.png" alt="Group photo of volunteers at RSECon23, Swansea, UK." width="500"/>
+<img src="rsecon23_swansea.jpg" alt="Group photo of volunteers at RSECon23, Swansea, UK." width="500"/>
 
 _Group photo of volunteers at RSECon23, Swansea, UK._
 
