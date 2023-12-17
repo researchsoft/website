@@ -41,7 +41,7 @@ RSEs. Consequently, much of my focus this year has been on engaging in community
 
 **APAN55 in Nepal**: In March I presented a session on "[Research Software Engineering (RSE) Asia Association: Journey and Future Plans](https://zenodo.org/record/7817687)" at the [55th meeting of the Asia Pacific Advanced Network](https://apan55.apan.net/) (APAN) in Kathmandu, Nepal, as an APAN Fellow. APAN's emerging engagement with RSE topics led to a ReSA [blog post](https://www.researchsoft.org/blog/2023-04/) on the potential role of [National Research and Education Networks (NRENs)](https://en.wikipedia.org/wiki/National_research_and_education_network) in promoting the growth of an RSE community in the Asia-Pacific. The significance of this lies in that NRENs have not traditionally been significantly involved in supporting RSEs in other regions. I have shared my experience of attending APAN55 in the blogpost "[Attending an in-person Asia Pacific Advanced Network (APAN) meeting for the first time](https://www.software.ac.uk/blog/attending-person-asia-pacific-advanced-network-apan-meeting-first-time)".
 
-<img src="image1.png" alt="My presentation at APAN55, Kathmandu, Nepal."/>
+<img src="apan55_nepal.png" alt="My presentation at APAN55, Kathmandu, Nepal."/>
 
 _My presentation at APAN55, Kathmandu, Nepal._ 
 
@@ -61,17 +61,17 @@ Workshop 2023](https://www.software.ac.uk/workshop/collaborations-workshop-2023-
 During the Hack Day of this workshop, our team co-created a set of definitions, guidelines, and criteria to distinguish authors from non-author contributors to a software project. Our output, \"[SORTÆD:
 Software Role Taxonomy and Authorship Definition](https://sdruskat.net/software-authorship/)\" laid the groundwork for a ReSA [task force](https://www.researchsoft.org/taskforces/) to discuss issues in the context of a software project such as the difference between a contributor and an author, when a contributor becomes an author, and when an author stops being an author.
 
-<img src="image3.png" alt="Group photo of attendees at CW23, Manchester, UK."/>
+<img src="cw23_manchester.png" alt="Group photo of attendees at CW23, Manchester, UK."/>
 
 _Group photo of attendees at CW23, Manchester, UK._ 
 
 **RSECon23 in Swansea, UK**: In September 2023, the learning and sharing continued. I participated in the [R Project Sprint](https://contributor.r-project.org/r-project-sprint-2023/) at the University of Warwick, UK, and went on to attend and volunteer at [RSECon23](https://rsecon23.society-rse.org) in Swansea. At RSECon23, I had the opportunity to present a lightning talk and a poster titled \"[Shaping the Landscape: The Emerging Research Software Engineering Community in Asia](https://zenodo.org/records/8300052).\" Additionally, I provided updates from the Asia region during the RSE Worldwide session.
 
-<img src="image4.png" alt="Group photo of volunteers at RSECon23, Swansea, UK." width="500"/>
+<img src="rsecon23_swansea.png" alt="Group photo of volunteers at RSECon23, Swansea, UK." width="500"/>
 
 _Group photo of volunteers at RSECon23, Swansea, UK._
 
-<img src="image2.jpg" alt="My poster at RSECon23, Swansea, UK." width="500"/>
+<img src="rsecon23_poster.jpg" alt="My poster at RSECon23, Swansea, UK." width="500"/>
 
 _My poster at RSECon23, Swansea, UK._
 
