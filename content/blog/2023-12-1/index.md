@@ -25,9 +25,6 @@ author = ["Saranjeet Kaur Bhogal"]
 
 +++
 
-![My Image](image3.png)
-Group photo of attendees at CW23, Manchester, UK
-
 December 2023
 
 Author: Saranjeet Kaur Bhogal
@@ -44,8 +41,9 @@ RSEs. Consequently, much of my focus this year has been on engaging in community
 
 **APAN55 in Nepal**: In March I presented a session on "[Research Software Engineering (RSE) Asia Association: Journey and Future Plans](https://zenodo.org/record/7817687)" at the [55th meeting of the Asia Pacific Advanced Network](https://apan55.apan.net/) (APAN) in Kathmandu, Nepal, as an APAN Fellow. APAN's emerging engagement with RSE topics led to a ReSA [blog post](https://www.researchsoft.org/blog/2023-04/) on the potential role of [National Research and Education Networks (NRENs)](https://en.wikipedia.org/wiki/National_research_and_education_network) in promoting the growth of an RSE community in the Asia-Pacific. The significance of this lies in that NRENs have not traditionally been significantly involved in supporting RSEs in other regions. I have shared my experience of attending APAN55 in the blogpost "[Attending an in-person Asia Pacific Advanced Network (APAN) meeting for the first time](https://www.software.ac.uk/blog/attending-person-asia-pacific-advanced-network-apan-meeting-first-time)".
 
-![My Image](image1.png)
-My presentation at APAN55, Kathmandu, Nepal
+<img src="image1.png" alt="My presentation at APAN55, Kathmandu, Nepal."/>
+
+_My presentation at APAN55, Kathmandu, Nepal._ 
 
 **Malaysia's Leap in Open Science:** In May 2023, I attended the online
 launch ceremony of the [Malaysian Open Science Platform](https://mosp.gov.my). The [UNESCO Recommendation on Open Science](https://www.unesco.org/en/open-science/aboutTSPD_101_R0=080713870fab200037bbeb8c233414942bdcf3218a94f721de67db0d60eb49a50902464c27198bb508bdc1ccb21430000d7c30228f0a3dd27d58935091092f24c9d11480dc14d2c2789766cdaf9dded734b0497dcc2a254045f03176b39b4795) includes open software as a key element of open science; this implies that in the future, research software might also become a focus in Malaysia. The details of this event are shared in my blog post "[Witnessing the launch ceremony of the Malaysia Open Science Platform (MOSP)](https://www.software.ac.uk/blog/witnessing-launch-ceremony-malaysia-open-science-platform-mosp)".
@@ -63,15 +61,22 @@ Workshop 2023](https://www.software.ac.uk/workshop/collaborations-workshop-2023-
 During the Hack Day of this workshop, our team co-created a set of definitions, guidelines, and criteria to distinguish authors from non-author contributors to a software project. Our output, \"[SORTÆD:
 Software Role Taxonomy and Authorship Definition](https://sdruskat.net/software-authorship/)\" laid the groundwork for a ReSA [task force](https://www.researchsoft.org/taskforces/) to discuss issues in the context of a software project such as the difference between a contributor and an author, when a contributor becomes an author, and when an author stops being an author.
 
+![My Image](image3.png)
+Group photo of attendees at CW23, Manchester, UK
+
+<img src="image3.png" alt="Group photo of attendees at CW23, Manchester, UK."/>
+
+_Group photo of attendees at CW23, Manchester, UK._ 
+
 **RSECon23 in Swansea, UK**: In September 2023, the learning and sharing continued. I participated in the [R Project Sprint](https://contributor.r-project.org/r-project-sprint-2023/) at the University of Warwick, UK, and went on to attend and volunteer at [RSECon23](https://rsecon23.society-rse.org) in Swansea. At RSECon23, I had the opportunity to present a lightning talk and a poster titled \"[Shaping the Landscape: The Emerging Research Software Engineering Community in Asia](https://zenodo.org/records/8300052).\" Additionally, I provided updates from the Asia region during the RSE Worldwide session.
 
-<img src="image4.png" alt="Your Image" width="500">
+<img src="image4.png" alt="Group photo of volunteers at RSECon23, Swansea, UK." width="500"/>
 
-Group photo of volunteers at RSECon23, Swansea, UK
+_Group photo of volunteers at RSECon23, Swansea, UK._
 
-<img src="image2.jpg" alt="Your Image" width="500">
+<img src="image2.jpg" alt="My poster at RSECon23, Swansea, UK." width="500"/>
 
-My poster at RSECon23, Swansea, UK
+_My poster at RSECon23, Swansea, UK._
 
 **Fostering Collaboration: RSE Asia Australia Unconference**: Later in September 2023, I co-organised the second online [RSE Asia Australia Unconference](https://rseaa.github.io) with the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). The theme for this year was "Silos to Synergy - Achieving collaboration across domains". Being an unconference, the event was participant led and included many discussions about the RSE community. The details of the unconference can be found in the [summary report of the RSE Asia Australia Unconference 2023](https://figshare.com/articles/online_resource/2023_Research_Software_Engineer_Asia_Australia_Unconference_Summary_Report/24309634).
 
