@@ -61,9 +61,6 @@ Workshop 2023](https://www.software.ac.uk/workshop/collaborations-workshop-2023-
 During the Hack Day of this workshop, our team co-created a set of definitions, guidelines, and criteria to distinguish authors from non-author contributors to a software project. Our output, \"[SORTÆD:
 Software Role Taxonomy and Authorship Definition](https://sdruskat.net/software-authorship/)\" laid the groundwork for a ReSA [task force](https://www.researchsoft.org/taskforces/) to discuss issues in the context of a software project such as the difference between a contributor and an author, when a contributor becomes an author, and when an author stops being an author.
 
-![My Image](image3.png)
-Group photo of attendees at CW23, Manchester, UK
-
 <img src="image3.png" alt="Group photo of attendees at CW23, Manchester, UK."/>
 
 _Group photo of attendees at CW23, Manchester, UK._ 
