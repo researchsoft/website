@@ -56,7 +56,7 @@ ReSA has created a public database of current and past [research software fundin
 
 ReSA community consultations facilitate discussions to identify and prioritise challenges across ReSA's three key themes: people, policy and infrastructure. Community consultations are core ReSA activities, enabling the community to collaborate on elucidating how to advance visibility of research software.
 
-The **[ReSA People Roadmap](https://www.researchsoft.org/documents/people-roadmap.pdf)** community consultation facilitated identification and prioritisation of the major issues related to people (or personnel) challenges faced by the research software community, including research software engineers. The People Roadmap  interviewed 28 research software initiatives to identify strategies and programs across, to identify common issues and priorities.
+The **[ReSA People Roadmap](https://www.researchsoft.org/documents/people-roadmap.pdf)** community consultation facilitated identification and prioritisation of the major issues related to people (or personnel) challenges faced by the research software community, including research software engineers. The People Roadmap interviewed 28 research software initiatives to identify strategies and programs across the research software community, and determine common issues and priorities.
 
 * Roles/careers/recognition, e.g., Research Software Engineers (RSEs), research software product managers, research software community managers
 * Skills needed and provision of training (including resources such as best practice guides)
