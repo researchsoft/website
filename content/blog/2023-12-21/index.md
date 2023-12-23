@@ -50,7 +50,7 @@ launch ceremony of the [Malaysian Open Science Platform](https://mosp.gov.my). T
 
 **Designing Resilient Futures in Bhutan**: The [FAB23
 Conference](https://fab23.fabevent.org) was hosted in Jigme Namgyel Wangchuck Super FabLab, Thimphu, Bhutan, in July 2023, with the theme of "designing resilient futures". The [Fab Labs](https://www.fablabs.io) share the goal of democratising access to the tools for technical invention through community-based labs and advanced research centres. The conference provided me with an opportunity to connect with the Fab and Maker community and understand how research software could help play a vital role in this community. At this conference, I presented a talk on "[Making research software reproducible and sustainable](https://zenodo.org/record/8191155)".
-\
+
 **APAN56 in Sri Lanka**: In August 2023, I attended the [56th meeting of the Asia Pacific Advanced Network in Colombo, Sri Lanka](https://apan56.apan.net) as an APAN Fellow. The networking and knowledge sharing that took place were invaluable, reinforcing the importance of collaboration with the APAN community. At this meeting, I presented a talk on "[Navigating the RSE Community Landscape in Asia](https://zenodo.org/records/8278704)".
 
 **Cross-fertilisation between Asia and global initiatives**
