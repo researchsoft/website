@@ -15,7 +15,7 @@ The documents and data are made available under a CC-BY 4.0 International licens
 
 The license text listed below (describing both CC-BY 4.0 International and MIT licenses) is re-used under a CC-BY license from The Carpentries community materials (from the [R novice gapminder](https://github.com/swcarpentry/r-novice-gapminder/blob/main/LICENSE.md)).
 
-## Documents and data: CC by 4.0 International
+## Documents and data: CC BY 4.0 International
 
 All documentation in this repository ais made available under the [Creative Commons Attribution license 4.0 International][cc-by-human].
 The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license][cc-by-legal].
