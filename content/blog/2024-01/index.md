@@ -8,8 +8,8 @@ title = "Research Software Alliance Community Report 2023"
 title_align = "left"
 
 disabled = false
-display_date = true
-date = "2024-01-09"
+display_date = false
+date = "2024-01-10"
 authors = ["Kim Hartley & Michelle Barker"]
 
 [sidebar]
