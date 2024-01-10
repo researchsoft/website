@@ -7,7 +7,7 @@ title = "Research Software Alliance Community Report 2023"
 #subtitle = ""
 title_align = "left"
 
-disabled = true
+disabled = false
 display_date = false
 date = "2024-01-09"
 authors = ["Kim Hartley & Michelle Barker"]
