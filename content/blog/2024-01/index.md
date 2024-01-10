@@ -34,5 +34,5 @@ Citation: Hartley, Kim & Barker, Michelle (2024). Research Software Alliance Com
 
 <br/>
 <br/>
-<iframe src="https://drive.google.com/file/d/1rIGNZMe3d6VxnlgqVPU5Zc61ODDLaJnE/view?usp=drive_link" width="740" height="520" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1rIGNZMe3d6VxnlgqVPU5Zc61ODDLaJnE/preview" width="740" height="520" allow="autoplay"></iframe>
 
