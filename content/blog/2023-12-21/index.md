@@ -81,3 +81,6 @@ _My poster at RSECon23, Swansea, UK._
 
 As I look back on this year, I am filled with gratitude for the opportunities I\'ve had and the incredible individuals I\'ve had the privilege to meet. The journey of increasing awareness about RSE in Asia is an enriching one, and there is a lot of potential for growth and collaboration in the years to come. To become a community member of the RSE Asia Association, please fill the [membership form](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform). The community membership of the RSE Asia Association is free and open to all. People from all regions of the globe are welcome to join our community, irrespective of whether they belong to or are located in Asia.
 
+**Acknowledgements**
+
+This project has been made possible in part by a grant from The Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation.
