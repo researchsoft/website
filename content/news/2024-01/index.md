@@ -6,7 +6,7 @@ title = "ReSA Newsletter: January 2024"
 title_align = "left"
 
 display_date = false 
-date = "2024-01-24"
+date = "2024-01-23"
 
 summary = """ 
 This month’s news includes:
@@ -24,4 +24,4 @@ This month’s news includes:
 
 +++
 
-**[Read the January Newsletter]()**
+**[Read the January Newsletter](https://preview.mailerlite.com/n9l7f7x6p5)**
