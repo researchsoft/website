@@ -6,7 +6,7 @@ title = "ReSA Newsletter: January 2024"
 title_align = "left"
 
 display_date = false 
-date = "2024-01-23"
+date = "2024-01-22"
 
 summary = """ 
 This month’s news includes:
