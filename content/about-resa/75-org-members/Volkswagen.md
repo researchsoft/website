@@ -3,7 +3,7 @@ title = ""
 #weight =
 
 [asset]
-    image = "VWST_RGB_150.gif"
+    image = "Volkswagen.jpg"
     url = "https://www.volkswagenstiftung.de/en"
     text = "Volkswagen Foundation logo"
 +++
