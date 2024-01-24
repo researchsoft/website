@@ -9,7 +9,7 @@ subtitle = "Towards a monitoring framework to benchmark the ADORE.software recom
 title_align = "left"
 
 display_date = true
-publishdate = "2024-01-23"
+publishdate = "2024-09- 9-13"
 date = "2024-09- 9-13"
 
 summary = """
