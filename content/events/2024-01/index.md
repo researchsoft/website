@@ -23,9 +23,10 @@ The SciLifeLab Data Centre and ReSA are hosting an international workshop in Upp
   align = "right"
   sticky = true # Default is false
   content = """
-  * [Contact ReSA](../../contact/)
-  * [ReSA’s Code of Conduct](../../code-of-conduct/)
-  * [Register your email for updates](https://landing.mailerlite.com/webforms/landing/o1n4v3)
+  * [2023 Research Software Funders Workshop](https://adore.software/international-research-software-funders-workshop/)
+  * [2022 Research Software Funders Workshop](https://adore.software/2023/03/international-funders-workshop-the-future-of-research-software/)
+  * [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/)
+  * [Subscribe to ReSA newsletter](https://www.researchsoft.org/news/)
   """
 
 +++
