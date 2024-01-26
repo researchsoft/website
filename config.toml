@@ -103,7 +103,7 @@ rssLimit = 100
 
 [[menu.main]]
   parent = "/forums"
-  url = "https://www.researchsoft.org/events/2022-06/"
+  url = "/community-forum"
   name = "Community Leaders Forum"
   weight = 32
 
