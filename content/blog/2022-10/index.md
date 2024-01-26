@@ -63,7 +63,7 @@ To continue to progress this work, readers are invited to continue to add or mak
 
 *There [is] a lack of incentives to promote open source work and science in academia in our countries … Inclusive communities of practice that lower as many barriers as possible to international involvement, such as R-Ladies, PyLadies, Open Life Science, or The Turing Way, help to change this. But we need many more.* [(Ación et al., 2022)](https://www.zotero.org/google-docs/?sK1fF7)
 
-You can also engage with colleagues at our monthly [Research Software Community Forum](https://www.researchsoft.org/events/2022-06/) or on our [Slack channel](https://researchsoft.slack.com/ssb/redirect), join [task forces](https://www.researchsoft.org/taskforces/), and stay up to date via our [newsletter](https://www.researchsoft.org/news/) or [Twitter](https://twitter.com/researchsoft).
+You can also engage with colleagues at our monthly [Research Software Community Forum](https://www.researchsoft.org/community-forum/) or on our [Slack channel](https://researchsoft.slack.com/ssb/redirect), join [task forces](https://www.researchsoft.org/taskforces/), and stay up to date via our [newsletter](https://www.researchsoft.org/news/) or [Twitter](https://twitter.com/researchsoft).
 
 **References**
 
