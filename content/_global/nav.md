@@ -18,9 +18,9 @@ sticky = true
   text = "ReSA logo"
 
 [repo_button]
-  url = "https://twitter.com/researchsoft"
-  text = "Twitter" # default: "Star"
-  title = "Twitter"
-  icon = "fab fa-twitter" # defaults: "fab fa-github"
+  url = "https://www.linkedin.com/company/research-software-alliance/"
+  text = "LinkedIn" # default: "Star"
+  title = "LinkedIn"
+  icon = "fab fa-Linkedin" # defaults: "fab fa-github"
 
 +++
