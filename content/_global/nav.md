@@ -21,6 +21,6 @@ sticky = true
   url = "https://www.linkedin.com/company/research-software-alliance/"
   text = "LinkedIn" # default: "Star"
   title = "LinkedIn"
-  icon = "fab fa-Linkedin" # defaults: "fab fa-github"
+  icon = "fab fa-linkedin" # defaults: "fab fa-github"
 
 +++
