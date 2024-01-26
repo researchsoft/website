@@ -2,13 +2,9 @@
 fragment = "content"
 weight = 100
 disabled = false
-categories = ["Event", "Ongoing"]
+categories = ["Ongoing"]
 
-title = "ReSA  Community Leaders Forum "
-subtitle = "Bringing together the research software community"
-title_align = "left"
-
-display_date = true
+display_date = false
 publishdate = "2023-08-22"
 date = "2023-08-22"
 
@@ -29,13 +25,7 @@ ReSA's mission is to bring research software communities together to collaborate
   * [Register your email for updates](https://landing.mailerlite.com/webforms/landing/o1n4v3)
   """
 
-[asset]
-  image = "sharon-mccutcheon-colourful-unsplash.jpg"
-  text = "Close up of tiny rainbow colored sugar candies."
 +++
-
-
-## Research Software Community Leaders Forum 
 
 The [Community Leaders Forum](https://www.researchsoft.org/events/2022-06/) (CLF) offers an opportunity for participants to meet other community leaders, engage in interactive discussions, and consider how to address common issues to achieve shared goals. The CLF is one of the online forums that ReSA hosts for decision makers and key influencers in the global research software community. ReSA aims to coordinate discussions across a wide range of research software organisations and programs, enabling the community to create outcomes that will achieve both local goals and those of the international community.
 
@@ -58,5 +48,3 @@ Meetings occur at alternating times to maximise attendance by participants in di
 * 14 September 2022, 23:00-00:00 UTC, see [agenda](https://docs.google.com/document/d/18679k_7PFSQGn2amhHiy1Py4XdK4jhQXko613CBWarA/edit) and [slides](https://docs.google.com/presentation/d/1yVic0jUJjuZKGLHuWUgmDqMteVgcBg641Jm3heAPC-A/edit#slide=id.gf0a02d822b_2_48) from the talk by Tom Honeyman, ARDC, about aligning publisher policies for sharing code.
 * 5 August 2022, 17:00–18:00 UTC, see [agenda](https://drive.google.com/drive/folders/1MN6ahMk-gts6iYuXbct8TbgI-oeJ_Pj_) and [slides](https://drive.google.com/drive/folders/1MN6ahMk-gts6iYuXbct8TbgI-oeJ_Pj_) from the talk by Qian Zhang, Digital Research Alliance of Canada, on the Research Software Roadmap.
 * 19 July 2022 11:00-12:00 UTC, [agenda](https://docs.google.com/document/d/1tRaqpolrr_LOxyHjvBNUvHgze16IkQ9uUD4HuHU1gAM/edit) and [slides](https://docs.google.com/presentation/d/1zfFHExj-xc8pw3KeaIAPEnfVqQ_Zodrc0Vu9Tu5QCjk/edit#slide=id.g11d79f76048_0_20) from the talk by Michelle Barker, ReSA, on the outcomes of [Vive la différence - research software engineers](https://zenodo.org/record/6816193#.YyKMwexBy7N), a workshop that considered how to reframe research software engineering to place diversity, equity and inclusion as a central organising principle.
-
-Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sharon McCutcheon</a> on <a href="https://unsplash.com/s/photos/connected-dots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
