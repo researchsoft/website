@@ -27,7 +27,7 @@ ReSA's mission is to bring research software communities together to collaborate
 
 +++
 
-The [Community Leaders Forum](https://www.researchsoft.org/events/2022-06/) (CLF) offers an opportunity for participants to meet other community leaders, engage in interactive discussions, and consider how to address common issues to achieve shared goals. The CLF is one of the online forums that ReSA hosts for decision makers and key influencers in the global research software community. ReSA aims to coordinate discussions across a wide range of research software organisations and programs, enabling the community to create outcomes that will achieve both local goals and those of the international community.
+The Community Leaders Forum (CLF) offers an opportunity for participants to meet other community leaders, engage in interactive discussions, and consider how to address common issues to achieve shared goals. The CLF is one of the online forums that ReSA hosts for decision makers and key influencers in the global research software community. ReSA aims to coordinate discussions across a wide range of research software organisations and programs, enabling the community to create outcomes that will achieve both local goals and those of the international community.
 
 The CLF is open to everyone and features a short talk and follow-up discussion, with the aim of facilitating community consideration about next steps to address particular issues. We welcome input about topics for discussion. Please let us know if you’d like to suggest a topic for an upcoming call. 
 
