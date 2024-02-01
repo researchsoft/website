@@ -1,4 +1,4 @@
 +++
 title = "About ReSA"
-date = "2020-07-21"
+date = "2024-02-01"
 +++
