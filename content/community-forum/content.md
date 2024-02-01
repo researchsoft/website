@@ -22,7 +22,7 @@ ReSA's mission is to bring research software communities together to collaborate
   content = """
   * [Contact ReSA](../../contact/)
   * [ReSA’s Code of Conduct](../../code-of-conduct/)
-  * [Register your email for updates](https://landing.mailerlite.com/webforms/landing/o1n4v3)
+  * [Register your email for updates](https://dashboard.mailerlite.com/forms/778129/110635102019519744/share)
   """
 
 +++
@@ -36,7 +36,7 @@ Meetings occur at alternating times to maximise attendance by participants in di
 
 ### Upcoming calls:
 
-**[Sign up](https://landing.mailerlite.com/webforms/landing/o1n4v3) to receive the Community Leaders Forum calendar invites automatically and recordings of the talks**.
+**[Sign up](https://dashboard.mailerlite.com/forms/778129/110635102019519744/share) to receive the Community Leaders Forum calendar invites automatically and recordings of the talks**.
 
 
 ### Past calls:
