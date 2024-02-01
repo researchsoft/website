@@ -7,8 +7,6 @@ background = "white"
 
 +++
 
-**ReSA task force support**
-
 [ReSA task forces](https://www.researchsoft.org/taskforces/) are community-led initiatives to create international solutions that can also be used to solve challenges in local environments. These task forces rely on participants contributing their time to collaborate to solve community problems.
 
 ReSA seeks to identify resources that can support each task force's work where possible. Information on ReSA's current task forces are available on the [task forces](https://www.researchsoft.org/taskforces/) page, and include:
