@@ -8,8 +8,6 @@ title = "ReSA  Community Leaders Forum "
 subtitle = "Bringing together the research software community"
 title_align = "left"
 
-display_date = true
-publishdate = "2023-08-22"
 
 
 summary = """
