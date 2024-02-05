@@ -25,6 +25,10 @@ ReSA's mission is to bring research software communities together to collaborate
   * [Register your email for updates](https://dashboard.mailerlite.com/forms/778129/110635102019519744/share)
   """
 
+[asset]
+  image = "sharon-mccutcheon-colourful-unsplash.jpg"
+  text = "Close up of tiny rainbow colored sugar candies."
+  
 +++
 
 The Community Leaders Forum (CLF) offers an opportunity for participants to meet other community leaders, engage in interactive discussions, and consider how to address common issues to achieve shared goals. The CLF is one of the online forums that ReSA hosts for decision makers and key influencers in the global research software community. ReSA aims to coordinate discussions across a wide range of research software organisations and programs, enabling the community to create outcomes that will achieve both local goals and those of the international community.
