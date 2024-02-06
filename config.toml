@@ -86,7 +86,7 @@ rssLimit = 100
   weight = 15
 
 [[menu.main]]
-  url = "/taskforces"
+  identifier = "/taskforces"
   name = "Task Forces"
   weight = 20
 
