@@ -11,7 +11,7 @@ You can become involved by:
 
   - Joining [task forces](./taskforces/) focused on specific activities 
   - Receiving updates through our regular [newsletter](./news/) 
-  - Encouraging your organisation to become an [Organisational Member](https://www.researchsoft.org/membership/) or make a [donation](https://www.researchsoft.org/donate/)
+  - Encouraging your organisation to become an [Organisational Member](https://www.researchsoft.org/membership/), [support a task force](https://www.researchsoft.org/tf-support/), or make a [donation](https://www.researchsoft.org/donate/)
   - Helping to raise awareness of the importance of software in research through use of [ReSA resources](./resa-resources/)
   - Connecting with other community members at our [events](./events/) 
   - Joining the ReSA [Slack](https://researchsoft.slack.com/join/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w#/shared-invite/email) for decision-makers and key influencers to share what's happening in the community
