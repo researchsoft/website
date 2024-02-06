@@ -90,7 +90,8 @@ rssLimit = 100
   name = "Task Forces"
   weight = 20
 
-  [[menu.main]]
+ [[menu.main]]
+  parent = "/taskforces"
   url = "/taskforce-support"
   name = "Task Force Support"
   weight = 21
