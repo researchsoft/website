@@ -87,19 +87,15 @@ rssLimit = 100
 
 [[menu.main]]
   identifier = "/taskforces"
-  name = "Task Forces"
-  weight = 20
-
-  [[menu.main]]
   url = "/taskforces"
   name = "Task Forces"
-  weight = 21
+  weight = 20
 
  [[menu.main]]
   parent = "/taskforces"
   url = "/tf-support"
   name = "Task Force Support"
-  weight = 22
+  weight = 21
 
 [[menu.main]]
   identifier = "/forums"
