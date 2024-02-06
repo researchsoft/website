@@ -90,6 +90,11 @@ rssLimit = 100
   name = "Task Forces"
   weight = 20
 
+  [[menu.main]]
+  url = "/taskforce-support"
+  name = "Task Force Support"
+  weight = 21
+
 [[menu.main]]
   identifier = "/forums"
   name = "Forums"
