@@ -1,4 +1,4 @@
-+++ 
+`+++ 
 fragment = "content" 
 weight = 100
 
@@ -22,4 +22,4 @@ This month’s news includes:
 
 +++
 
-**[Read the June Newsletter](https://preview.mailerlite.com/e2f9q4v2v1/2242477950161131522/o4d1/)**
+**[Read the June Newsletter](https://preview.mailerlite.io/preview/778129/emails/114275246610056442)**
