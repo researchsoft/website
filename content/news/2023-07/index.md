@@ -21,4 +21,4 @@ This month’s news includes:
 
 +++
 
-**[Read the July Newsletter](https://preview.mailerlite.com/q1x5x5c2v6)**
+**[Read the July Newsletter](https://preview.mailerlite.io/preview/778129/emails/114275186109318910)**
