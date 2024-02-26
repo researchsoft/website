@@ -9,7 +9,7 @@ scope = [
 ]
 
 [asset]
-  image = "colette.jpg"
+  image = "Colette.jpg"
   text = "Colette Bos"
 +++
 
