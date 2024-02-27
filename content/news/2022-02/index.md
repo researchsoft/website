@@ -23,4 +23,4 @@ This month’s news includes:
 
 +++
 
-**[Read the February Newsletter](https://preview.mailerlite.com/m9s9d5v4w5/1892533075779262924/q0h9/)**
+**[Read the February Newsletter](https://preview.mailerlite.io/preview/778129/emails/114350348882150868)**
