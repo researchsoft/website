@@ -26,7 +26,7 @@ This month’s news includes:
 +++
 
 
-**[Read the September Newsletter](https://preview.mailerlite.com/t7l9n6)**
+**[Read the September Newsletter](https://preview.mailerlite.io/preview/778129/emails/114351112770815371)**
 
 
 _Please note that from September 2021 the ReSA newsletters are hosted on MailerLite_.
