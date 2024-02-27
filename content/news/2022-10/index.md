@@ -21,4 +21,4 @@ This month’s news includes:
 
 +++
 
-**[Read the October Newsletter](https://preview.mailerlite.com/k5e0w5o0y5/2053003923102374339/q5l0/)**
+**[Read the October Newsletter](https://preview.mailerlite.io/preview/778129/emails/114348898327200906)**
