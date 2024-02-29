@@ -9,11 +9,11 @@ background = "white"
 
 ReSA’s mission is to bring research software communities together to collaborate on the advancement of the research software ecosystem, to achieve the vision that research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide.
 
-To deliver on this mission, we invite the ReSA community to join us on ReSA activities stemming from the [ReSA Strategic Plan](https://www.researchsoft.org/documents/Strategic_Plan_2021-23.pdf). You can also support ReSA's work through [Organisational Membership](https://www.researchsoft.org/membership/) or a [donation](https://www.researchsoft.org/donate/).
+To deliver on this mission, we invite the ReSA community to join us on ReSA activities stemming from the [ReSA Strategic Plan](https://www.researchsoft.org/documents/Strategic_Plan_2021-23.pdf). You can also support ReSA's work through [Organisational Membership](https://www.researchsoft.org/membership/), [task force support](https://www.researchsoft.org/tf-support/), or a [donation](https://www.researchsoft.org/donate/).
 
 ## Current task forces
 
-ReSA task forces enable the community to identify and focus on challenges and solutions for a particular area, at the international level. There are also task forces associated with the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/) focusing on improving coordination of funding, and implementation of the [FAIR4RS Principles](https://www.researchsoft.org/blog/2022-06/).
+ReSA task forces enable the community to identify and focus on challenges and solutions for a particular area, at the international level. There are also task forces associated with the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/) focusing on improving coordination of funding, and implementation of the [FAIR4RS Principles](https://www.researchsoft.org/blog/2022-06/). **To suggest or join a ReSA task force, please refer to these [guidelines](https://docs.google.com/document/d/17TCle8vqdpdxgMkzqGQbAHWoKs2Qbei1lNOmPfwYahQ/edit)**.
 
 ### Code Availability
 
