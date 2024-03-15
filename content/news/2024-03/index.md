@@ -1,0 +1,28 @@
+
++++ 
+fragment = "content" 
+weight = 100
+
+title = "ReSA Newsletter: March 2024" 
+title_align = "left"
+
+display_date = false 
+date = "2024-03-21"
+
+summary = """ 
+This month’s news includes:
+
+* This month in research software - community news
+* ReSA Membership update - welcome to UKRI
+* The FAIR for Research Software Principles after two years: an adoption update
+* How to suggest, join, or support a ReSA task force
+* New ReSA Steering Committee member - Colette Bos
+* PRO4RS call for policies
+* Opportunities to get involved with community initiatives
+* Community events and resources
+
+"""
+
++++
+
+**[Read the March Newsletter]()**
