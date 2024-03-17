@@ -17,9 +17,9 @@ author = ["Michelle Barker, Leyla Jael Castro, Bernadette Fritzsch, Daniel S. Ka
   align = "right"
   sticky = false # Default is false
   content = """
+  * [Full report DOI: 10.5281/zenodo.10816031](https://doi.org/10.5281/zenodo.10816032)
+  * [FAIR for Research Software (FAIR4RS) Principles](https://doi.org/10.1038/s41597-022-01710-x)
   * [ReSA newsletter](https://www.researchsoft.org/news/)
-  * [RSSE Africa](https://rsse.africa/)
-  * [RSSE Africa LinkedIn group](https://www.linkedin.com/groups/12903402/)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA resources](/resa-resources)
   * [Contact us](/contact)
@@ -33,7 +33,7 @@ By Michelle Barker, Leyla Jael Castro, Bernadette Fritzsch, Daniel S. Katz, Carl
 
 The [FAIR for Research Software (FAIR4RS) Principles](https://doi.org/10.1038/s41597-022-01710-x) aim to promote and encourage the findability, accessibility, interoperability, and reusability (FAIR) of research software. The FAIR4RS Principles were [released](https://doi.org/10.15497/RDA00068) in 2022, with a number of organisations already [planning adoption](https://doi.org/10.5281/zenodo.6258366) at that time. Adoption and implementation of the FAIR4RS Principles can increase the transparency, reproducibility, and reusability of research by providing research software that can be executed, replicated, built-upon, combined, reinterpreted, reimplemented, and/or used in different settings and by third-parties.
 
-This blog post provides an update on initiatives that are working to implement the principles across five areas of cultural change: policies, incentives, communities, training and infrastructure. It is noted that while many activities are increasing aspects of the FAIRness of research software, more work is still needed to make it easier to embrace the FAIR4RS Principles in their entirety.
+This [report](https://doi.org/10.5281/zenodo.10816032) provides an update on initiatives that are working to implement the principles across five areas of cultural change: policies, incentives, communities, training and infrastructure. It is noted that while many activities are increasing aspects of the FAIRness of research software, more work is still needed to make it easier to embrace the FAIR4RS Principles in their entirety.
 
 **A framework for tracking adoption**
 
