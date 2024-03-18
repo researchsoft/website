@@ -11,6 +11,8 @@ relevant to each of the ReSA themes: people, policy and
 infrastructure. These resources are mostly international
 recommendations, reports and guidelines that emphasise best practice.
 
+See also the **[ADORE.software Toolkit](https://adore.software/toolkit/)**. The toolkit provides examples of funder programs, policies, and resources for each of the [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/declaration/)'s recommendations in the four areas of research software practice, research software ecosystem, research software personnel, and research software ethics. 
+
 ## People
 
 -    [Foundational Competencies and Responsibilities of a Research Software Engineer](http://arxiv.org/abs/2311.11457) by Florian Goth et al. (2023) explores educational paths for RSEs. The authors define what an RSE is, explore different types of work RSEs undertake, and define the fundamental competencies as well as values that represent the general profile of an RSE.
