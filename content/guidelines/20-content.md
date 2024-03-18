@@ -16,7 +16,10 @@ See also the **[ADORE.software Toolkit](https://adore.software/toolkit/)**. The 
 ## People
 
 -    [Foundational Competencies and Responsibilities of a Research Software Engineer](http://arxiv.org/abs/2311.11457) by Florian Goth et al. (2023) explores educational paths for RSEs. The authors define what an RSE is, explore different types of work RSEs undertake, and define the fundamental competencies as well as values that represent the general profile of an RSE.
--   [Research Software Engineering (RSE) International Survey](https://softwaresaved.github.io/international-survey-2022/): 2022 results now available to help understand the RSE community, inform policies and create incentives that advance RSE interests, building on the 2018 and 2016 survey results. 
+-   [Research Software Engineering (RSE) International Survey](https://softwaresaved.github.io/international-survey-2022/): 2022 results now available to help understand the RSE community, inform policies and create incentives that advance RSE interests, building on the 2018 and 2016 survey results.
+-   [Why science needs more research software engineers](https://www.nature.com/articles/d41586-022-01516-2), 2022. 
+-   [Visibility of Research Software Engineers in research funding](https://www.software.ac.uk/blog/visibility-research-software-engineers-research-funding), 2022. The Software Sustainability Institute poses the question: is there enough awareness of this role when granting applications are developed and costed?
+-   [The Four Pillars of Research Software Engineering](https://ieeexplore.ieee.org/document/8994167), 2021. Cohen et al. present four elements they believe are key to providing a comprehensive and sustainable support for research software engineering: software development, community, training, and policy.
 
 -   [Understanding Equity, Diversity and
     Inclusion Challenges Within the Research Software
@@ -34,7 +37,8 @@ See also the **[ADORE.software Toolkit](https://adore.software/toolkit/)**. The 
     surveys in 2016, 2017 and 2018 to learn more about RSEs and their work conditions. 
 
 -   [UK Research Software
-    Survey](https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers), 2014. Analysis highlights the importance of software in conducting research, e.g., that 92% of academics use research software. The dataset is also available. 
+    Survey](https://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers), 2014. Analysis highlights the importance of software in conducting research, e.g., that 92% of academics use research software. The dataset is also available.
+-    [The Research Software Engineer](https://epubs.stfc.ac.uk/work/63787), 2012. Baxter et al. provide a synthesis of discussions that took place during and after the 2012 Collaborations Workshop organized by the Software Sustainability Institute in Oxford, UK.
      
 -   [Database of Diverse Databases](https://editorsofcolor.com/diverse-databases/). Useful for finding speakers for a more equitable world - see listings for "Coding + Tech", "Tech Policy" and "Science".
 
@@ -111,6 +115,8 @@ ReSA is creating a listing of [institutional policies that support research soft
     discoverability and research transparency, thereby supporting
     research reproducibility and replicability.
 
+-    [What does Research Software look like?](https://zenodo.org/records/7347700#.ZDgwtezMI1I), by Rob van Nieuwpoort, 2022.
+
 -   "Research Software Sharing for Data Analysis" chapter of [RDA COVID-19 Guidelines and Recommendations](https://doi.org/10.15497/rda00052), 2020. Provides foundational, clear and practical recommendations around research software principles and practices, in order to facilitate open collaborations.
     
 -   [Software development guide](https://guide.esciencecenter.nl) by Netherlands eScience Center.
@@ -123,11 +129,15 @@ ReSA is creating a listing of [institutional policies that support research soft
 -   [Top 10 FAIR Data & Software Things: Research Software](https://librarycarpentry.org/Top-10-FAIR/2018/12/01/research-software/), 2018.
 
 -   [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510), 2017.
+  
+-   [Data and Software Management Plans must be public and should be machine-readable](https://danielskatzblog.wordpress.com/2016/04/13/data-and-software-management-plans-must-be-public-and-should-be-machine-readable/), by Daniel S. Katz, 2016.
 
 
 #### Software sharing and citation
 
 -   [CHORUS Software Citation Policies Index](https://www.chorusaccess.org/resources/software-citation-policies-index/) provides assistance to authors and publishers.
+
+-   [New data reveals the hidden impact of open source in science](https://medium.com/czi-technology/new-data-reveals-the-hidden-impact-of-open-source-in-science-11cc4a16fea2), 2022. 
 
 -   UK National Institutes of Health [Best Practices for Sharing Research Software](https://datascience.nih.gov/tools-and-analytics/best-practices-for-sharing-research-software-faq), 2021.
 
