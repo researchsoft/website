@@ -162,6 +162,8 @@ ReSA is creating a listing of [institutional policies that support research soft
     
 -   [Better Scientific Software (BSSw)](https://bssw.io/items?page=1&view=all). Resources for developer productivity and software sustainability.
 
+-   [Research Software Engineers International](https://researchsoftware.org/). Includes a list of national/multinational RSE associations. 
+
 ## Do you have resources to add?
 
 -   Submit a new resource as an issue via
