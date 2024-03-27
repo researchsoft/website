@@ -74,7 +74,7 @@ Resources that support inclusion of FAIR into institutional policies are also re
 
 - FAIR-IMPACT launched [open calls](https://fair-impact.eu/2nd-open-call-route-2-support) for cascading grants that provide financial support ranging from 4,000-10,000 euros. Focus areas on research software include:
   - Path 1: Assessment and improvement of existing research software using a new extension of [F-UJI](https://www.f-uji.net/) (a web service to assess FAIRness of research objects).
-- Path 2: Implementation of the Research Software MetaData Guidelines for better archiving, referencing, describing, and citing research software artefacts.
+  - Path 2: Implementation of the Research Software MetaData Guidelines for better archiving, referencing, describing, and citing research software artefacts.
 - The German Research Council (DFG) issued a [Call for Proposals to Increase the Usability of Existing Research Software](https://www.dfg.de/de/aktuelles/neuigkeiten-themen/info-wissenschaft/2022/info-wissenschaft-22-85) that refers to the FAIR4RS Principles in terms of availability and reproducibility.
 - The German Ministry of Education and Research (BMBF) issued funding guidelines (in German) for [developing data custodian models](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2023/10/2023-10-13-Bekanntmachung-Datentreuhandmodelle.html) that refer to standards based on the FAIR4RS Principles for reusable and well-documented open source software developed under this program.
 
