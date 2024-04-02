@@ -32,6 +32,7 @@ Funding organisations that have engaged include:
 - Department of Energy (DoE)
 - Digital Research Alliance of Canada 
 - Dutch Research Council (NWO)
+- Ecuadorian Corporation for the Development of Research and Academy (CEDIA)
 - Engineering and Physical Sciences Research Council (EPSRC)
 - European Commission
 - German Research Foundation (DFG)
@@ -39,7 +40,7 @@ Funding organisations that have engaged include:
 - Japan Science and Technology Agency (JST)
 - Medical Research Council (UKRI)
 - Michael J. Fox Foundation
-- NASA
+- National Aeronautics and Space Administration (NASA)
 - National Institutes of Health (NIH)
 - National Science Foundation (NSF)
 - National Science and Technology Council 
@@ -51,6 +52,7 @@ Funding organisations that have engaged include:
 - São Paulo Research Foundation (FAPESP)
 - Schmidt Futures
 - Science for Africa Foundation
+- SciLifeLab
 - Social Sciences and Humanities Research Council (SSHRC)
 - UEFISCDI
 - UK Research and Innovation (UKRI)
