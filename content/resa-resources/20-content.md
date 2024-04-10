@@ -9,7 +9,9 @@ background = "white"
 
 ## ReSA Outputs
 
-ReSA outputs can provide useful references to support recognition and valuing of research software as a key component of research, and can also be found in the ReSA [Zenodo community](https://zenodo.org/communities/resa/?page=1&size=20). Recent items include:
+ReSA outputs can provide useful references to support recognition and valuing of research software as a key component of research, and can also be found in the ReSA [Zenodo community](https://zenodo.org/communities/resa/?page=1&size=20). See also the [**ADORE.software Toolkit**](https://adore.software/toolkit/). The toolkit is where ReSA amalgamates many resources. It provides examples of programs, policies, and resources for each of the [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/declaration/)’s recommendations in the four areas of research software practice, research software ecosystem, research software personnel, and research software ethics.
+
+Recent outputs include:
 
 * [Research Software Funding Opportunities](https://www.researchsoft.org/funding-opportunities/) - updated regularly.
 * [Research institution policies to support research software -  Collection](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0) - updated regularly.
@@ -42,6 +44,5 @@ The significant role that software plays in research has been identified in a ra
 Do you have resources to add?
 
 * Add [new calls](https://forms.gle/r4Jw4swUd1SXigZc9) to the [Research Software Funding Opportunities](https://www.researchsoft.org/funding-opportunities/)
-* Add resources directly to the [ReSA Zotero group library](https://www.zotero.org/groups/2400609/resa/library) (requires Zotero account)
 * Submit a resource as an issue in [GitHub](https://github.com/researchsoft/Resources/issues/new/choose) (requires GitHub account)
 * [Email it directly to ReSA](mailto:info@researchsoft.org)
