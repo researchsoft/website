@@ -15,6 +15,9 @@ Recent outputs include:
 
 * [Research Software Funding Opportunities](https://www.researchsoft.org/funding-opportunities/) - updated regularly.
 * [Research institution policies to support research software -  Collection](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0) - updated regularly.
+* [The FAIR for Research Software Principles after two years: an adoption update](https://www.researchsoft.org/blog/2024-03/), 2024.
+* [Investing in People: Anticipating the Future of Research Software](https://www.researchsoft.org/blog/2023-10/), 2023.
+* [How Can Open Source Program Offices (OSPOs) Support Research Software?](https://www.researchsoft.org/blog/2023-06/), 2023.
 * [Global gathering of research software funders sets the agenda for supporting sustainable research software](https://zenodo.org/record/7384410), 2022.
 * [Encouraging entry, retention, diversity and inclusion in research software careers](https://www.researchsoft.org/blog/2022-09/), 2022.
 * [FAIR Principles for Research Software](https://rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0), 2022, which were introduced in this [article](https://www.nature.com/articles/s41597-022-01710-x) in *Scientific Data*.
