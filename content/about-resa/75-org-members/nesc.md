@@ -5,5 +5,5 @@ title = ""
 [asset]
   image = "nesc-transparent.png"
   text = "Netherlands eScience Center"
-  url = "https://group.sagepub.com/about"
+  url = "https://www.esciencecenter.nl/"
 +++
