@@ -5,4 +5,4 @@ title = ""
 [asset]
     url = "https://www.nih.gov"
 +++
-## [The National Institutes of Health](https://www.nih.gov)
+## [National Institutes of Health](https://www.nih.gov)
