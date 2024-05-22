@@ -7,6 +7,6 @@ background = "white"
 
 [[buttons]]
   text = "Subscribe to the monthly ReSA newsletter"
-  url = "https://dashboard.mailerlite.com/forms/778129/110635094443558050/share"
+  url = "https://dashboard.mailerlite.com/forms/778129/110635094443558050/share" 
   color = "success"
 +++
