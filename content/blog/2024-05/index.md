@@ -10,7 +10,7 @@ title_align = "left"
 disabled = true
 display_date = true
 date = "2024-05-23"
-author = ["Kim Hartley, Michelle Barker"]
+author = ["Kim Hartley, Michelle Barker, Daniel S. Katz"]
 
 [sidebar]
   title = "Important Links"
@@ -24,4 +24,4 @@ author = ["Kim Hartley, Michelle Barker"]
 
 +++
 
-By Kim Hartley and Michelle Barker
+Authors: Kim Hartley, Michelle Barker, Daniel S. Katz
