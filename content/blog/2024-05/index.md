@@ -119,7 +119,7 @@ The Funders Forum serves a broad range of newcomers and experienced research sof
 
 **Are you a funder who is interested in learning more about research software and how to explicitly support research software as part of your funding program?**
 
-- Join the Funders Forum by contacting [ReSA](info@researchsoft.org) (or encourage your funders to join!)
+- Join the Funders Forum by [contacting ReSA](https://www.researchsoft.org/contact/) (or encourage your funders to join!)
 - Become a ReSA [Organisational Member](https://www.researchsoft.org/membership/) to demonstrate your commitment to international collaboration and innovation for research; and connect with other decision makers and key influencers
 - Show your support for ADORE.software by becoming a Declaration [signatory or supporter](https://adore.software/get-involved/)
 - Check out our research software funding opportunities [database](https://www.researchsoft.org/funding-opportunities/) or [add to it](https://forms.gle/r4Jw4swUd1SXigZc9)
