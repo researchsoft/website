@@ -26,7 +26,7 @@ lives_in = "[South Africa](https://www.timeanddate.com/worldclock/south-africa/c
   text = "Talarify logo"
 +++
 
-Talarify joined ReSA 2023 to support community growth in Africa, with funding by a [grant](https://doi.org/10.5281/zenodo.7275397) from the Chan Zuckerberg Initiative.
+Talarify joined ReSA in 2023 to support community growth in Africa, with funding by a [grant](https://doi.org/10.5281/zenodo.7275397) from the Chan Zuckerberg Initiative.
 
 The South African-based consulting company has been involved in numerous continental initiatives related to research software, including The Carpentries, Africa R Users, and afrimapr. It has also been engaged in global Research Software Engineering (RSE) initiatives such as the [International RSE Survey](https://github.com/softwaresaved/international-survey), and since 2022 has led [RSSE-Africa](https://rsse.africa) meetups, member showcases, and more. Through their involvement in these initiatives, the Talarify team has learned much about the local communities and has established connections with researchers involved in coding and research infrastructure across the continent.
 
