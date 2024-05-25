@@ -15,7 +15,7 @@ author = ["Kim Hartley, Michelle Barker, Daniel S. Katz"]
 [sidebar]
   title = "Important Links"
   align = "right"
-  sticky = false # Default is false 
+  sticky = false
   content = """
   * [ReSA newsletter](https://www.researchsoft.org/news/)
   * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
