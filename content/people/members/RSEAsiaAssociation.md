@@ -26,8 +26,6 @@ lives_in = "India"
   text = "RSE Asia Association"
 +++
 
-<img src="{{< relURL "RSE_ASIA.png" >}}" alt="RSE Asia Association" style="width:50%; height:auto;">
-
 RSE Asia Association was launched as project in 2021 by [Saranjeet Kaur](https://saranjeetkaur.github.io/About-Me/) and [Jyoti Bhogal](https://jyoti-bhogal.github.io/about-me/) through the [Open Life Science](https://openlifesci.org/) programme (cohort-4). The mission of the association is to promote and build the research software engineering community and profession in the Asian region while also fostering global collaborations.
 
 [Email RSE Asia Association](mailto:rse.asia.association@gmail.com).
