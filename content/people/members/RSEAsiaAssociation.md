@@ -22,7 +22,7 @@ lives_in = "[India](https://www.timeanddate.com/worldclock/india/new-delhi)"
   url = "https://rse-asia.github.io/RSE_Asia/"
 
 [asset]
-  image = "RSE_Asia_Association_Logo.jpg"
+  image = "RSE_ASIA.png"
   text = "RSE Asia Association"
 +++
 
