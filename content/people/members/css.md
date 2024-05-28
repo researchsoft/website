@@ -1,6 +1,6 @@
 +++
 title = "Jessica Hardwicke"
-weight = 31
+weight = 33
 date = "2024-04-16"
 
 position = "Co-Director of Fiscally Sponsored Projects at CS&S"
