@@ -1,10 +1,10 @@
 +++
 title = "Talarify"
-weight = 33
+weight = 31
 date = "2023-02-16"
 
 position = "Community Engagement Partner (Africa)"
-lives_in = South Africa
+lives_in = "South Africa"
 
 [[icons]]
   icon = "fab fa-twitter"
