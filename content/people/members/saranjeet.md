@@ -17,12 +17,12 @@ lives_in = "[India](https://www.timeanddate.com/worldclock/india/new-delhi)"
   url = "https://github.com/rse-asia"
 
 [[icons]]
-  icon = "fab fa-linkedin-in"
-  text = "Linkedin"
-  url = "https://www.linkedin.com/in/saranjeet-k-48ab769b/"
+  icon = "fa fa-globe"
+  text = "Website"
+  url = "https://rse-asia.github.io/RSE_Asia/"
 
 [asset]
-  image = "saranjeet.jpg"
+  image = "RSE_Asia_Association_Logo.jpg"
   text = "RSE Asia Association"
 +++
 
