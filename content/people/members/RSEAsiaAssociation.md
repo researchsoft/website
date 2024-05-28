@@ -4,7 +4,7 @@ weight = 29
 date = "2024-05-28"
 
 position = "Community Engagement Partner (Asia)"
-lives_in = "[India](https://www.timeanddate.com/worldclock/india/new-delhi)"
+lives_in = India
 
 [[icons]]
   icon = "fab fa-twitter"
