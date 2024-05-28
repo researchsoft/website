@@ -3,8 +3,8 @@ title = "Talarify"
 weight = 33
 date = "2023-02-16"
 
-position = "Africa Community Engagement Partner"
-lives_in = "[South Africa](https://www.timeanddate.com/worldclock/south-africa/cape-town)"
+position = "Community Engagement Partner (Africa)"
+lives_in = South Africa
 
 [[icons]]
   icon = "fab fa-twitter"
