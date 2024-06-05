@@ -25,7 +25,7 @@ author = ["Kim Hartley, Michelle Barker, Daniel S. Katz"]
 
 +++
 
-![My Image](FundersWorkshop.jpg)
+![My Image](GRC_meeting.jpeg)
 
 _(Photo credit: Annelies Verhelst)_
 
