@@ -27,6 +27,7 @@ author = ["Kim Hartley, Michelle Barker, Daniel S. Katz"]
 
 ![My Image](GRC_meeting.jpeg)
 
+_Daniel S. Katz, Maria Cruz, Michelle Barker, and Florian Mannseicher at the Global Research Council annual meeting in Interlaken, Switzerland - May 2024_
 _(Photo credit: Daniel S. Katz)_
 
 
