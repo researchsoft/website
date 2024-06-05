@@ -24,6 +24,7 @@ Membership is open to any initiative that funds research software. To join pleas
 Funding organisations that have engaged include:
 
 - Alfred P. Sloan Foundation
+- Aligning Science Across Parkinson's (ASAP)
 - Amazon Web Services (AWS)
 - Australian Research Data Commons (ARDC)
 - Biotechnology and Biological Sciences Research Council (BBSRC)
@@ -50,10 +51,11 @@ Funding organisations that have engaged include:
 - Oracle for Research
 - Sage Publishing
 - São Paulo Research Foundation (FAPESP)
-- Schmidt Futures
+- Schmidt Sciences
 - Science for Africa Foundation
 - SciLifeLab
 - Social Sciences and Humanities Research Council (SSHRC)
+- The Navigation Fund
 - UEFISCDI
 - UK Research and Innovation (UKRI)
 - Volkswagen Foundation
