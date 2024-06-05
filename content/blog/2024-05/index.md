@@ -27,7 +27,7 @@ author = ["Kim Hartley, Michelle Barker, Daniel S. Katz"]
 
 ![My Image](GRC_meeting.jpeg)
 
-_(Photo credit: Annelies Verhelst)_
+_(Photo credit: Daniel S. Katz)_
 
 
 Authors: Kim Hartley, Michelle Barker, Daniel S. Katz
