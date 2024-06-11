@@ -55,40 +55,10 @@ It is important to provide members of the research community with the opportunit
 
 While policies on research software are still rare in research institutions, this is an area that is developing rapidly and there are already a number of related resources that can offer important input to the work being undertaken by the PRO4RS Working Group. The resources that have been collated in the table below include articles and reports relating to existing policy activities, research processes and guidance on supporting or raising awareness of policy, or policy-related developments. For each resource in the table below, a link to the content is included along with a brief summary of the key contributions offered by the resource. The main stakeholders who the resource is considered to be of use to are then highlighted.
 
-+++
-fragment = "table"
-disabled = false
-date = "2024-06-10"
-weight = 110
-background = "secondary"
-
-title = "Table"
-
-[header]
-  [[header.values]]
-    text = "Resource"
-    
-  [[header.values]]
-    text = "Summary"
-    
-  [[header.values]]
-    text = "Stakeholders"
-
-[[rows]]
-  [[rows.values]]
-    text = "[Approaches to scaling up reproducibility in research organisations](https://doi.org/10.5281/zenodo.10663903) by Michelle Barker and Neil Chue Hong. 2024."
-
-  [[rows.values]]
-    text = "Whilst on reproducibility, the framework and guidance on how to influence change (summarised [here](https://zenodo.org/records/10664660)) could be applied to any topic, including developing research software policies. The framework focuses on meso-level factors, such as groups, organisations and communities, to understand the role of research organisations and the people within them. The framework can be used by a range of internal stakeholders with differing goals, such as institutional leaders seeking to align organisational strategies, or managers wishing to provide the support that staff in their part of the organisation may be seeking. The intention is also to enable dialogue between managers and researchers to create collaborative and sustainable solutions for a wider uptake of reproducible research practices."
-
-  [[rows.values]]
-    text = "Researchers, policy makers, research supporters (the framework had different levels, so it can be of use to stakeholders at those levels)."
-+++
-
 | **Resource** | **Summary** | **Stakeholders** |
-| ----- | ----- | ----- |
+| --- | --- | --- |
 | [Approaches to scaling up reproducibility in research organisations](https://doi.org/10.5281/zenodo.10663903) by Michelle Barker and Neil Chue Hong. 2024. | Whilst on reproducibility, the framework and guidance on how to influence change (summarised [here](https://zenodo.org/records/10664660)) could be applied to any topic, including developing research software policies. The framework focuses on meso-level factors, such as groups, organisations and communities, to understand the role of research organisations and the people within them. The framework can be used by a range of internal stakeholders with differing goals, such as institutional leaders seeking to align organisational strategies, or managers wishing to provide the support that staff in their part of the organisation may be seeking. The intention is also to enable dialogue between managers and researchers to create collaborative and sustainable solutions for a wider uptake of reproducible research practices. | Researchers, policy makers, research supporters (the framework had different levels, so it can be of use to stakeholders at those levels). |
-| ----- | ----- | ----- |
+| --- | --- | --- |
 | [Evaluate your RDM Offering](https://sparceurope.org/evaluate-your-rdm-offering/) by  Lauren Cadwallader, Alastair Dunning, Hardy Schwamm, Marta Teperek, Angus Whyte, Jonathan Rans. 2018. | This includes analysis of policy (and other areas) in an interactive online questionnaire that maps to a radar chart (downloadable at the end). | Policy makers in institutions, particularly universities that have research data management policy in place. |
 | ----- | ----- | ----- |
 | [Guidelines for Raising FAIR Adoption in Health Data and Health-related Research Performing Organisations (HRPOs)](https://doi.org/10.15497/RDA00078) by Celia Alvarez-Romero, Anupama E Gururaj, Kristan Kang, Shanmugasundaram Venkataraman, & Raising FAIRness in Health Data and Research Performing Organisations WG Members. 2023. | This provides very brief principles, steps and some resources to support the complex change needed to implement a data policy, which could also be applied to research software policy change. | Policy makers, specifically health research performing organisations. |
