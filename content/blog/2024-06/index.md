@@ -61,6 +61,8 @@ fragment = "table"
 date = "2024-06-10"
 weight = 110
 
+title = "Table"
+
 [header]
   [[header.values]]
     text = "Resource"
