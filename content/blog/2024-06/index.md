@@ -18,7 +18,7 @@ author = ["Michelle Barker, Domhnall Carlin, Jeremy Cohen, Eric A. Jensen, Cathe
   sticky = false # Default is false
   content = """
   * [Full report DOI: https://zenodo.org/records/11529659](https://zenodo.org/records/11529659)
-  * [RDA & ReSA: Policies in Research Organisations for Research Software (PRO4RS](https://www.rd-alliance.org/groups/rda-resa-policies-research-organisations-research-software-pro4rs/forum/topic/policies-in-research-organisations-for-research-software-pro4rs-working-group/)
+  * [RDA & ReSA: Policies in Research Organisations for Research Software (PRO4RS)](https://www.rd-alliance.org/groups/rda-resa-policies-research-organisations-research-software-pro4rs/forum/topic/policies-in-research-organisations-for-research-software-pro4rs-working-group/)
   * [ReSA newsletter](https://www.researchsoft.org/news/)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA resources](/resa-resources)
