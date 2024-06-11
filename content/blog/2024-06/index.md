@@ -60,6 +60,7 @@ fragment = "table"
 #disabled = false
 date = "2024-06-11"
 weight = 110
+background = "secondary"
 
 title = "Table"
 
