@@ -31,7 +31,7 @@ June 2024
 
 By Michelle Barker, Domhnall Carlin, Jeremy Cohen, Eric A. Jensen, Catherine M. Jones, Carlos Martinez Ortiz and Dan Rudmann
 
-***1 Introduction***
+**1 Introduction**
 
 Advocating for, initiating and supporting policy change can be a major challenge. This is especially true in large organisations with longstanding structures and complex operational models that have been established over, sometimes, many years or even decades. Even when the underlying landscape on which such structures are based has shifted, engendering change can still be a daunting undertaking.
 
