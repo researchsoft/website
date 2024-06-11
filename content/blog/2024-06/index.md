@@ -57,8 +57,8 @@ While policies on research software are still rare in research institutions, thi
 
 +++
 fragment = "table"
-#disabled = false
-date = "2024-06-11"
+disabled = false
+date = "2024-06-10"
 weight = 110
 background = "secondary"
 
