@@ -27,8 +27,6 @@ author = ["Michelle Barker, Domhnall Carlin, Jeremy Cohen, Eric A. Jensen, Cathe
 
 +++
 
-By Michelle Barker, Domhnall Carlin, Jeremy Cohen, Eric A. Jensen, Catherine M. Jones, Carlos Martinez Ortiz and Dan Rudmann
-
 **Resources for supporting policy change in research institutions in practice: A report from Subgroup 2 of the ReSA & RDA Policies in Research Organisations for Research Software (PRO4RS) Working Group**
 
 June 2024
