@@ -25,7 +25,7 @@ Organisations in the research software community are invited to consider providi
 
 Examples:
 
-- The joint ReSA-RDA [Policies in Research Organisations for Research Software (PRO4RS)](https://www.rd-alliance.org/groups/policies-research-organisations-research-software-pro4rs) Working Group was successful in gaining in-kind secretariat support from the Netherlands eScience Center through the [Research Data Alliance facilitation of Targeted International working Groups for EOSC-related Research solutions (RDA TIGER)](https://www.rd-alliance.org/get-involved/calling-rda-community/rda-tiger).
+- The joint ReSA-RDA [Policies in Research Organisations for Research Software (PRO4RS)](https://www.rd-alliance.org/groups/rda-resa-policies-research-organisations-research-software-pro4rs/forum/) Working Group was successful in gaining in-kind secretariat support from the Netherlands eScience Center through the [Research Data Alliance facilitation of Targeted International working Groups for EOSC-related Research solutions (RDA TIGER)](https://www.rd-alliance.org/get-involved/calling-rda-community/rda-tiger).
 - The Digital Research Alliance of Canada has provided in-kind support for two working groups of the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/).
 
 **2. Content expertise support for task forces for approx 1 week/month (USD$7000/month) to cover:**
