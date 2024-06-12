@@ -12,7 +12,7 @@ background = "white"
 ReSA seeks to identify resources that can support each task force's work where possible. Information on ReSA's current task forces are available on the [task forces](https://www.researchsoft.org/taskforces/) page, and include:
 
 - [Code Availability](https://www.researchsoft.org/taskforces/)
-- [Policies in Research Organisations for Research Software (PRO4RS)](https://www.rd-alliance.org/groups/policies-research-organisations-research-software-pro4rs)
+- [Policies in Research Organisations for Research Software (PRO4RS)](https://www.rd-alliance.org/groups/rda-resa-policies-research-organisations-research-software-pro4rs/forum/)
 - [Research Software Authorship and Contribution](https://www.researchsoft.org/tf-authorship-contribution/)
 
 Organisations in the research software community are invited to consider providing financial and/or in-kind contributions to support task forces that are focused on topics that will benefit their community. Two resourcing levels are available:
