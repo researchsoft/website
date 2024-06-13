@@ -9,6 +9,8 @@ title = "Former Steering Committee Members"
 
 
 
+**Mark Leggott**, Director of International Relations, Digital Research Alliance of Canada (2021-2024)
+
 **Eva Mendez**, Associate Professor, Universidad Carlos III de Madrid, Spain (2021 -2023)
 
 **Chris Mentzel**, Executive Director, Data Sciences, Stanford Data Science Initiative, Stanford University, USA (2019 - 2023)
