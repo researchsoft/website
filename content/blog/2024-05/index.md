@@ -63,6 +63,11 @@ The Funders Forum has made significant progress in addressing shared issues and 
 
 ### **Global Research Council 2024 Annual Meeting - side event on research software**
 
+![My Image](GRC - May 24.png)
+
+_Global Research Council annual meeting in Interlaken, Switzerland - May 2024_
+_(Image credit: Michelle Barker)_
+
 A key outcome of the Funders Forum is the inclusion of research software as a side event at the 2024 GRC annual meeting last month. The proposal was led by the [German Research Foundation (DFG)](https://www.dfg.de/en), NWO, and the [São Paulo Research Foundation (FAPESP)](https://fapesp.br/en).
 
 This side event on _Research Software - Challenges and Funding_ discussed gaps related to research software in the current global funding and policy environment, and suggested concrete actions that research funding organisations can take to address them. There are also opportunities to nominate research software as a focus area in future regional and national meetings.
