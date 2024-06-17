@@ -63,7 +63,7 @@ The Funders Forum has made significant progress in addressing shared issues and 
 
 ### **Global Research Council 2024 Annual Meeting - side event on research software**
 
-![My Image](GRC-May24.png)
+![My Image](GRC-annual-meeting.png)
 
 _Global Research Council annual meeting in Interlaken, Switzerland - May 2024_
 _(Image credit: Michelle Barker)_
