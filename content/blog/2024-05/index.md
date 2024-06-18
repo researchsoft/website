@@ -20,7 +20,7 @@ author = ["Kim Hartley, Michelle Barker, Daniel S. Katz"]
   * [ReSA newsletter](https://www.researchsoft.org/news/)
   * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
   * [ReSA resources](https://www.researchsoft.org/resa-resources/)
-  * [Contact us](/contact)
+  * [Contact us](https://www.researchsoft.org/contact/)
   """
 
 +++
