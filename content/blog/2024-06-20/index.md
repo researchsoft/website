@@ -7,9 +7,9 @@ title = "Funder community focuses on crucial role of research software"
 #subtitle = ""
 title_align = "left"
 
-disabled = true
+disabled = false
 display_date = true
-date = "2024-06-30"
+date = "2024-06-20"
 author = ["Kim Hartley, Michelle Barker, Daniel S. Katz"]
 
 [sidebar]
