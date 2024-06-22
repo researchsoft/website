@@ -17,7 +17,7 @@ author = ["Kim Hartley, Michelle Barker, Daniel S. Katz"]
   align = "right"
   sticky = false
   content = """
-  * [DOI: https://doi.org/10.59350/dgtst-95a21](https://doi.org/10.59350/dgtst-95a21)
+  * [DOI: https://doi.org/10.5281/zenodo.12191210](https://doi.org/10.5281/zenodo.12191210)
   * [ReSA newsletter](https://www.researchsoft.org/news/)
   * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
   * [ReSA resources](https://www.researchsoft.org/resa-resources/)
