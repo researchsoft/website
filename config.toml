@@ -32,7 +32,7 @@ rssLimit = 100
      unsafe = true
 
 [params]
-  twitter = "https://twitter.com/researchsoft"
+<!-  twitter = "https://twitter.com/researchsoft" ->
   github = "https://github.com/researchsoft"
   site_logo = "img/resa-logo-software-green.png"
   name = "The Research Software Alliance"
@@ -170,11 +170,13 @@ rssLimit = 100
     name = "Blog"
     weight = 70
 
+<!-
 [[menu.footer_social]]
   weight = 20
   name = "twitter"
   url = "https://twitter.com/researchsoft"
   pre = "fab fa-twitter"
+  ->
 
 [[menu.footer_social]]
   weight = 30
