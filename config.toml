@@ -32,7 +32,6 @@ rssLimit = 100
      unsafe = true
 
 [params]
-
   github = "https://github.com/researchsoft"
   site_logo = "img/resa-logo-software-green.png"
   name = "The Research Software Alliance"
@@ -169,7 +168,6 @@ rssLimit = 100
     url = "/blog"
     name = "Blog"
     weight = 70
-
 
 [[menu.footer_social]]
   weight = 30
