@@ -36,7 +36,7 @@ Since 2022, the Funders Forum has convened annual global gatherings of research 
 ([2024](https://adore.software/2024-international-research-software-funders-workshop/)) International Research Software Funders Workshop: Towards a monitoring framework to benchmark the ADORE.software recommendations and improve the sustainability of research software. The [SciLifeLab](https://www.scilifelab.se/) [Data Centre](https://www.scilifelab.se/data/) and ReSA are co-hosting this workshop in Uppsala, Sweden, and online. 
 
 
-Funding organisations that have engaged in the Funders Forum include:
+### Funding organisations that have engaged in the Funders Forum include:
 
 - Alfred P. Sloan Foundation
 - Aligning Science Across Parkinson's (ASAP)
