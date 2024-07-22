@@ -21,11 +21,11 @@ The Research Software Funders Forum aims to provide a formal mechanism to increa
 
 Membership is open to any initiative that funds research software. To join please contact [info@researchsoft.org](mailto:info@researchsoft.org).
 
-**ADORE.software**
+### ADORE.software
 
 The [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/declaration/) (ADORE.software) represents a first step to formalise, on a global level, the basic principles and recommendations related to funding the sustainability of research software, including the people needed to achieve this goal. ADORE.software’s complementary [toolkit](https://adore.software/toolkit/) provides examples of programs, policies, and resources for each of the Declaration’s recommendations in the four areas of research software practice, research software ecosystem, research software personnel, and research software ethics.
 
-**International Research Software Funders Workshops**
+### International Research Software Funders Workshops
 
 Since 2022, the Funders Forum has convened annual global gatherings of research software funders. 
 
