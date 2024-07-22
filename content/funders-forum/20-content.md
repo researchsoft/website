@@ -21,7 +21,22 @@ The Research Software Funders Forum aims to provide a formal mechanism to increa
 
 Membership is open to any initiative that funds research software. To join please contact [info@researchsoft.org](mailto:info@researchsoft.org).
 
-Funding organisations that have engaged include:
+**ADORE.software**
+
+The [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/declaration/) (ADORE.software) represents a first step to formalise, on a global level, the basic principles and recommendations related to funding the sustainability of research software, including the people needed to achieve this goal. ADORE.software’s complementary [toolkit](https://adore.software/toolkit/) provides examples of programs, policies, and resources for each of the Declaration’s recommendations in the four areas of research software practice, research software ecosystem, research software personnel, and research software ethics.
+
+**International Research Software Funders Workshops**
+
+Since 2022, the Funders Forum has convened annual global gatherings of research software funders. 
+
+([2022](https://adore.software/2023/03/international-funders-workshop-the-future-of-research-software/)) International Funders Workshop: The Future of Research Software. The [Netherlands eScience Center](https://www.esciencecenter.nl/) and ReSA co-hosted this workshop in Amsterdam, the Netherlands. See the [blog post](https://www.researchsoft.org/blog/2022-11/) and [report](https://zenodo.org/records/7384410#.Y4k4VexBw3E). Prior to the workshop, the [Australian Research Data Commons (ARDC)](https://ardc.edu.au/) and ReSA co-hosted a workshop on [research software visibility](https://future-of-research-software.org/pre-workshop/). Slides from the pre-workshop event are available via ReSA’s [Zenodo community](https://zenodo.org/communities/resa/records?q=&l=list&p=1&s=10).
+
+([2023](https://adore.software/international-research-software-funders-workshop/)) International Research Software Funders Workshop - Investing in People: Anticipating the Future of Research Software. The [Digital Research Alliance of Canada](https://alliancecan.ca/en) and ReSA co-hosted this workshop in Montreal, Canada, and online. See the [blog post](https://www.researchsoft.org/blog/2023-10/) and [report](https://zenodo.org/records/10552116). Prior to this workshop, ReSA delivered a half-day session on [How to Explicitly Support Research Software as Part of Your Funding Program](https://docs.google.com/presentation/d/1UP_UGOPxYi0R4UAE5PRpGWoJzrQ2FkVmCdDBILR6t2U/edit#slide=id.g241153165a8_0_0). There was also a half-day session on [CiteSoftware](https://zenodo.org/records/8356278), led by a group of stakeholders aiming to drive the adoption of a common research software preservation and citation guidance resource for the research community.
+
+([2024](https://adore.software/2024-international-research-software-funders-workshop/)) International Research Software Funders Workshop: Towards a monitoring framework to benchmark the ADORE.software recommendations and improve the sustainability of research software. The [SciLifeLab](https://www.scilifelab.se/) [Data Centre](https://www.scilifelab.se/data/) and ReSA are co-hosting this workshop in Uppsala, Sweden, and online. 
+
+
+Funding organisations that have engaged in the Funders Forum include:
 
 - Alfred P. Sloan Foundation
 - Aligning Science Across Parkinson's (ASAP)
