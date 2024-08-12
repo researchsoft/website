@@ -1,10 +1,9 @@
 +++
-title = "Jessica Hardwicke"
+title = "Code for Science & Society"
 weight = 33
 date = "2024-04-16"
 
-position = "Co-Director of Fiscally Sponsored Projects at CS&S"
-lives_in = "United States"
+position = "Fiscal Sponsor"
 
 [[icons]]
   icon = "fab fa-twitter"
@@ -26,7 +25,7 @@ lives_in = "United States"
   text = "Jessica Hardwicke"
 +++
 
-Jessica Hardwicke is a Co-Director of the Fiscal Sponsorship Program at [Code for Science and Society](https://codeforscience.org/) (CS&S), which is ReSA’s fiscal sponsor. CS&S partner with leaders across public interest technology through comprehensive fiscal sponsorship. Projects in the fiscal sponsorship program are supported with financial and operational services. Their approach includes strategic support to develop governance, sustainability, and community strategies. 
+[Code for Science and Society](https://codeforscience.org/) (CS&S) is ReSA’s fiscal sponsor. CS&S partner with leaders across public interest technology through comprehensive fiscal sponsorship. Projects in the fiscal sponsorship program are supported with financial and operational services. Their approach includes strategic support to develop governance, sustainability, and community strategies. 
 
 [Email CS&S](mailto:hi@codeforsociety.org).
 
