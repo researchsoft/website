@@ -3,7 +3,7 @@ title = "Kim Hartley"
 weight = 30
 date = "2022-01-21"
 
-position = "Community Manager"
+position = "Program Manager"
 lives_in = "Canada"
 
 [[icons]]
