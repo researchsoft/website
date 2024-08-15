@@ -20,6 +20,10 @@ position = "Fiscal Sponsor"
   text = "Linkedin"
   url = "https://www.linkedin.com/company/code-for-societyy"
 
+[asset]
+  image = "CSS_square.png"
+  text = "Code for Science & Society"
+
 +++
 
 [Code for Science and Society](https://codeforscience.org/) (CS&S) is ReSA’s fiscal sponsor. CS&S partner with leaders across public interest technology through comprehensive fiscal sponsorship. Projects in the fiscal sponsorship program are supported with financial and operational services. Their approach includes strategic support to develop governance, sustainability, and community strategies. 
