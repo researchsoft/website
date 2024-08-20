@@ -106,7 +106,7 @@ Research software needs to be included in AI strategies. Our recommendations for
 
 1. Research software practice:
 
-    a. AI strategies and funding must recognise that research software is a key part of         the (publicly funded) AI pipeline and that AI is dependent on software, and therefore       should stimulate the development and maintenance of research software to ensure the         success of the AI work.
+    a. AI strategies and funding must recognise that research software is a key part of         the (publicly funded) AI pipeline and that AI is dependent on software, and therefore       should stimulate the development and maintenance of research software to ensure the success of the AI work.
   
 2. Research software ecosystem:
    
@@ -124,10 +124,9 @@ Other ways to help ensure that the focus on technological infrastructure to supp
 - For funders, joining the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/), a global collaboration of funding organisations committed to supporting research software, and those who develop and maintain it, as fundamental and vital to research.
 
 ## References
-Barker, Michelle, Elena Breitmoser, Philippa Broadbent, Neil Chue Hong, Simon Hettrick,     
-Ioanna Lampaki, Anthony Quinn, and Rebecca Taylor. 2024. ‘Software and Skills for           Research Computing in the UK’. Zenodo. https://doi.org/10.5281/ZENODO.10473186.
+Barker, Michelle, Elena Breitmoser, Philippa Broadbent, Neil Chue Hong, Simon Hettrick, Ioanna Lampaki, Anthony Quinn, and Rebecca Taylor. 2024. ‘Software and Skills for Research Computing in the UK’. Zenodo. https://doi.org/10.5281/ZENODO.10473186.
 
-Barker, Michelle, and Markus Buchhorn. 2022. ‘Research Software Capability in Australia’.   Zenodo. https://doi.org/10.5281/ZENODO.6335998.
+Barker, Michelle, and Markus Buchhorn. 2022. ‘Research Software Capability in Australia’. Zenodo. https://doi.org/10.5281/ZENODO.6335998.
 
 Barker, Michelle, Neil P. Chue Hong, Daniel S. Katz, Anna-Lena Lamprecht, Carlos Martinez-Ortiz, Fotis Psomopoulos, Jennifer Harrow, et al. 2022. ‘Introducing the FAIR Principles for Research Software’. Scientific Data 9 (1): 622. https://doi.org/10.1038/s41597-022-01710-x.
 
