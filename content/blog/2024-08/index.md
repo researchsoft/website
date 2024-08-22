@@ -7,9 +7,9 @@ title = "Research software is critical to the future of AI-driven research"
 #subtitle = ""
 title_align = "left"
 
-disabled = true
+disabled = false
 display_date = true
-date = "2024-08-24"
+date = "2024-08-22"
 authors = ["Michelle Barker, Kim Hartley, Daniel S. Katz, Richard Littauer, Qian Zhang, Shurui Zhou, Jyoti Bhogal"]
 
 [sidebar]
@@ -27,10 +27,9 @@ authors = ["Michelle Barker, Kim Hartley, Daniel S. Katz, Richard Littauer, Qian
 
 +++
 
-![My Image](AI-research software.jpg)
+![My Image](AI-research-software.jpg) 
 _Image was created with the assistance of AI._ 
 
-# Research software is critical to the future of AI-driven research
 
 By Michelle Barker, Kim Hartley, Daniel S. Katz, Richard Littauer, Qian Zhang, Shurui Zhou, Jyoti Bhogal
 
