@@ -7,7 +7,7 @@ title = "Research software is critical to the future of AI-driven research"
 #subtitle = ""
 title_align = "left"
 
-disabled = false
+disabled = true
 display_date = true
 date = "2024-08-22"
 authors = ["Michelle Barker, Kim Hartley, Daniel S. Katz, Richard Littauer, Qian Zhang, Shurui Zhou, Jyoti Bhogal"]
