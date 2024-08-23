@@ -35,7 +35,7 @@ By Michelle Barker, Kim Hartley, Daniel S. Katz, Richard Littauer, Qian Zhang, S
 
 August 2024
 
-[This blog post has been cross-posted by the Netherlands eScience Center, [Software Sustainability Institute](https://www.software.ac.uk/blog/research-software-critical-future-ai-driven-research), and US-RSE.]
+[This blog post has been cross-posted by the [Netherlands eScience Center](https://blog.esciencecenter.nl/research-software-is-critical-to-the-future-of-ai-driven-research-8a408eea6879), [Software Sustainability Institute](https://www.software.ac.uk/blog/research-software-critical-future-ai-driven-research), and US-RSE.]
 
 ### Abstract
 
