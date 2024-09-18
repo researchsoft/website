@@ -59,11 +59,12 @@ Engineering
 * What are the main technical aspects that are relevant in the transition?
 * Which categories of research software require which software architectural structures/styles?
 
-An online questionnaire was then used to subsequently identify which questions that respondents from the audience identified as most relevant:
+An online [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf9lgs194WrFWrxXlDX-dVf1qBR_ZNfWtthcIsSl0Q2Qo2GsA/viewform) was then used to subsequently identify which questions that respondents from the audience identified as most relevant:
 
-How do we enable recognition of RSE work in recruitment and promotion?
-What is the economic impact of research software, and how might we define return on investment in a sensible way?
-What are the most effective methods for sharing knowledge about different software projects across a group of RSEs?
-How are RSE groups funded?
-How do we define the critical research software that underpins research, and the impact if it was not available?
-RSE Research offers an exciting opportunity to enhance the way software is developed in research contexts. The outcomes from the panel discussion provides valuable insights for future research directions, inviting the community to contribute to a growing field that sits at the intersection of research and research software development. For updates and further details, visit International RSE Research (IRSER).
+* How do we enable recognition of RSE work in recruitment and promotion?
+* What is the economic impact of research software, and how might we define return on investment in a sensible way?
+* What are the most effective methods for sharing knowledge about different software projects across a group of RSEs?
+* How are RSE groups funded?
+* How do we define the critical research software that underpins research, and the impact if it was not available?
+
+RSE research offers an exciting opportunity to enhance the way software is developed in research contexts. The outcomes from the panel discussion provides valuable insights for future research directions, inviting the community to contribute to a growing field that sits at the intersection of research and research software development. For updates and further details, visit [International RSE Research](https://irser.github.io/) (IRSER).
