@@ -16,7 +16,7 @@ authors = ["Michelle Barker", "Wilhelm Hasselbring"]
   align = "right"
   #sticky = true # Default is false
   content = """
-  * [Zenodo]
+  * [DOI: https://doi.org/10.59350/kr4cp-1vf81](https://doi.org/10.59350/kr4cp-1vf81)
   * [International RSE Research (IRSER)](https://irser.github.io/)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
