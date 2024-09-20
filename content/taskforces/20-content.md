@@ -21,7 +21,7 @@ The [FAIR for Research Software](https://doi.org/10.1038/s41597-022-01710-x) (FA
 
 The goal of this task force is to develop actionable, step-by-step guidelines that researchers can easily follow for making their research software FAIR in line with the FAIR4RS Principles (see [task force proposal](https://drive.google.com/drive/u/0/folders/15srfB15eg9I5jKTSTMF_MlFZfGwX8qx8)). While requirements for making research software FAIR may vary depending on many factors such as coding language, research domain, and funding source, the task force aims to define guidelines that are as specific as possible while leaving room for particular requirements of different research software. The group will break down the FAIR4RS Principles to identify practical requirements of each Principle and examine relevant previous work to identify ways to fulfil those requirements and eventually formulate draft guidelines, building on work such as [Making Biomedical Research Software FAIR: Actionable Step-by-step Guidelines](https://doi.org/10.1038/s41597-023-02463-x) with a User-support Too. The draft will then be opened for community review before being published as community guidelines. 
 
-If you are interested in joining this task force and making a major impact on FAIR practices in your field then contactb[Patel@calmi2.org](mailto:bPatel@calmi2.org).
+If you are interested in joining this task force and making a major impact on FAIR practices in your field then contact [bPatel@calmi2.org](mailto:bPatel@calmi2.org).
 
 ### Code Availability
 
