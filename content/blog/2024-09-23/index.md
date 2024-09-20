@@ -67,4 +67,4 @@ An online [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf9lgs194WrFW
 * How are RSE groups funded?
 * How do we define the critical research software that underpins research, and the impact if it was not available?
 
-RSE research offers an exciting opportunity to enhance the way software is developed in research contexts. The outcomes from the panel discussion provides valuable insights for future research directions, inviting the community to contribute to a growing field that sits at the intersection of research and research software development. For updates and further details, visit [International RSE Research](https://irser.github.io/) (IRSER).
+RSE research offers an exciting opportunity to enhance the way software is developed in research contexts. The outcomes from the panel discussion provide valuable insights for future research directions, inviting the community to contribute to a growing field that sits at the intersection of research and research software development. For updates and further details, visit [International RSE Research](https://irser.github.io/) (IRSER).
