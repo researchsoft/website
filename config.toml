@@ -114,15 +114,21 @@ rssLimit = 100
 
 [[menu.main]]
   parent = "/forums"
+  url = "/RSI-forum"
+  name = "Research Software Infrastructure Forum"
+  weight = 32
+
+[[menu.main]]
+  parent = "/forums"
   url = "https://researchsoftware.org/council.html"
   name = "International Council of RSE Associations"
-  weight = 32
+  weight = 33
   
 [[menu.main]]
   parent = "/forums"
   url = "/community-forum"
   name = "Community Leaders Forum"
-  weight = 33
+  weight = 34
 
 [[menu.main]]
   identifier = "/resa-resources"
