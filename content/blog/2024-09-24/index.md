@@ -26,7 +26,7 @@ authors = ["Michelle Barker, Sandra Gesing, Rowland Mosbergen, Uwe Schmitt, Carl
 
 +++
 
-![My Image](2024-09-24-image) 
+![My Image](2024-09-24-image.jpeg) 
 _Image credit: Viri Gutiérrez, [Lummi](https://www.lummi.ai/photo/global-connectivity-work-on-laptop-hhipk)_ 
 
 By Michelle Barker, Sandra Gesing, Rowland Mosbergen, Uwe Schmitt, Carlos Martinez-Ortiz
