@@ -12,5 +12,5 @@ The only files that should be edited as a matter of course are in [content](http
 
 When editing existing content, it is possible to use the GitHub text editor interface to make changes. When viewing the file you would like to edit, click the Edit button to make your changes. If you do not have permissions for the repository directly, you will need to submit a pull request for an administrator to adopt the changes.
 
-Extra info
+Extra information
 Due to limitations in the version of Hugo that Netlify runs, changing the _style_ of the website will require pulling this entire repo to a computer and building the site with hugo-extended. The resulting files generated in [resources/_gen/assets/scss/styles](https://github.com/researchsoft/website/tree/master/resources/_gen/assets/scss/styles]) then need to be committed back to the repository.
