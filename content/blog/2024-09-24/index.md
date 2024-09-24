@@ -7,9 +7,9 @@ title = "RSE Worldwide: Opportunities to Strengthen the Global RSE Community"
 #subtitle = ""
 title_align = "left"
 
-disabled = true
+disabled = false
 display_date = true
-date = "2024-09-26"
+date = "2024-09-24"
 authors = ["Michelle Barker, Sandra Gesing, Rowland Mosbergen, Uwe Schmitt, Carlos Martinez-Ortiz"]
 
 [sidebar]
