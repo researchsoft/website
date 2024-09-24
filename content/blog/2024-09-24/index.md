@@ -9,7 +9,7 @@ title_align = "left"
 
 disabled = true
 display_date = true
-date = "2024-09-25"
+date = "2024-09-26"
 authors = ["Michelle Barker, Sandra Gesing, Rowland Mosbergen, Uwe Schmitt, Carlos Martinez-Ortiz"]
 
 [sidebar]
