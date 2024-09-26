@@ -17,6 +17,7 @@ authors = ["Michelle Barker, Sandra Gesing, Rowland Mosbergen, Uwe Schmitt, Carl
   align = "right"
   sticky = false
   content = """
+  * [Blog post DOI: https://doi.org/10.59350/fzjbr-tna85](https://doi.org/10.59350/fzjbr-tna85)
   * [RSE Worldwide sessions](https://rsecon24.society-rse.org/programme/rse-worldwide/)
   * [Research Software Engineering Conference](https://rsecon24.society-rse.org/programme/rse-worldwide/)
   * [ReSA newsletter](https://www.researchsoft.org/news/)
