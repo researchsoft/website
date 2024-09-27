@@ -18,8 +18,8 @@ lives_in = "India"
 [asset]
       image =     ![Jyoti Bhogal](https://github.com/researchsoft/website/blob/master/content/people/members/Jyoti_square.jpeg ""  rotate="90") 
 
-#  image = "Jyoti_square.jpg" rotate = "90"
-#  text = "Jyoti Bhogal"
+<!--  image = "Jyoti_square.jpg" rotate = "90"
+/  text = "Jyoti Bhogal" -->
 
   
   +++
