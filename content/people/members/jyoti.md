@@ -14,7 +14,7 @@ lives_in = "India"
 [[icons]]
   icon = "fab fa-linkedin-in"
   text = "Linkedin"
-  url = "www.linkedin.com/in/jyoti-bhogal"
+  url = "https://www.linkedin.com/in/jyoti-bhogal/"
   
 [asset]
   image = "Jyoti_square.jpeg"
