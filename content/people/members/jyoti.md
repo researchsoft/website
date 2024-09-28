@@ -15,11 +15,10 @@ lives_in = "India"
   icon = "fab fa-linkedin-in"
   text = "Linkedin"
   url = "www.linkedin.com/in/jyoti-bhogal"
+  
 [asset]
-    <!--  image =     ![Jyoti Bhogal](https://github.com/researchsoft/website/blob/master/content/people/members/Jyoti_square.jpeg ""  rotate="90") -->
-
-image = "Jyoti_square.jpg"
-text = "Jyoti Bhogal" 
+  image = "Jyoti_square.jpg"
+  text = "Jyoti Bhogal" 
 
   
   +++
