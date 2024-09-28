@@ -19,9 +19,7 @@ lives_in = "India"
 [asset]
   image = "Jyoti_square.jpg"
   text = "Jyoti Bhogal" 
-
-  
-  +++
++++
 
 Jyoti joined ReSA in 2024 as a Community Manager and Community Engagement Partner for Asia, supported by a grant from the Alfred P. Sloan Foundation. 
 She is a statistician by training, having 4+ years of specialised experience in clinical trial software development and data management. She is based in India. In 2021, she co-founded the [Research Software Engineering (RSE) Asia Association](https://rse-asia.github.io/RSE_Asia/) through the [Open Life Science](https://we-are-ols.org/) program (cohort-4), with the mission to promote and build the RSE community and profession in the Asian region while also fostering global collaborations.
