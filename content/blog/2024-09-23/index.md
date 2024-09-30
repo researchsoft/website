@@ -33,7 +33,7 @@ Authors: Michelle Barker, Wilhelm Hasselbring
 RSE research is a new direction in the evolving field of Research Software Engineering (RSE). This concept was highlighted in a [panel](https://oceanrep.geomar.de/id/eprint/60691/) chaired by Wilhelm Hasselbring (Kiel University) at [RSECon](https://rsecon24.society-rse.org/) in September 2024. The panel brought together experts to discuss how research on RSE can improve outcomes for the research software community, and research in general.
 The emergence of a professional cadre of research software engineers and associated professional societies has taken place across the world in the last decade, all promoting the practice of RSE with national conferences and initiatives. RSE Research goes beyond simply improving software development to assist researchers, to considering broader sectoral issues. It builds on existing work, including: 
 
-*[ What do we (not) know about Research Software Engineering?](https://doi.org/10.5281/zenodo.6395908) By Anna-Lena Lamprecht et al., March 2022
+* [What do we (not) know about Research Software Engineering?](https://doi.org/10.5281/zenodo.6395908) By Anna-Lena Lamprecht et al., March 2022
 * [Toward Research Software Engineering Research](https://doi.org/10.5281/ZENODO.8020525) by Michael Felderer et al., June 2023. 
 * [International Research Software Engineering Research Community Meetup](https://fg-rse.gi.de/veranstaltung/international-research-software-engineering-research-community-meetup) led by Wilhelm Hasselbring, January 2024.
 
@@ -51,7 +51,8 @@ Policy:
 * What proportion of funding should be dedicated to the research software element of research?
 * What is the economic impact of research software, and how might “return on investment” be defined in a sensible way?
 * How is the critical research software defined that underpins research, and the impact if it was not available?
-Engineering
+
+Engineering:
 * Can research software be categorised based on software engineering analysis, and are there any significant differences from other types of software?
 * What practical methods do RSEs use to determine the cost of requirements gathering?
 * What are the stages in the life cycle of a research software, and what characteristics define these? (i.e. prototype, lab software, research infrastructure)
