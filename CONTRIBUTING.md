@@ -10,9 +10,9 @@ This guide is inspired from [Atom's contributing guidelines](https://github.com/
 
 ### Reporting Bugs
 
-This section guides you through submitting a bug report for Research Software Alliance. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer: :computer:, and find related reports :mag_right:.
+This section guides you through submitting a bug report for Research Software Alliance. Following these guidelines helps maintainers understand your report :pencil:, reproduce the behavior :computer: :computer:, and find related reports :mag_right:.
 
-Before creating bug reports, please check [this list](#before-submitting-a-bug-report) as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report)
+Before creating bug reports, please check [this list](#before-submitting-a-bug-report) as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report).
 
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
@@ -22,6 +22,8 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug-r
 * **Perform a [cursory search](https://github.com/researchsoft/website/issues?q=is%3Aopen+is%3Aissue)** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Bug Report?
+
+
 
 ### Suggesting Enhancements
 
@@ -36,3 +38,7 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug-r
 ### Additional Notes
 
 ### Pull Request Labels 
+
+| Label Name | Description |
+| work-in-progress | Pull requests which are still being worked on, more changes will follow |
+| testing | To test new or exisitng features, functions, or code |
