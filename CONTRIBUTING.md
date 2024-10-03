@@ -39,6 +39,7 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug-r
 
 ### Pull Request Labels 
 
-| Label Name | Description |
+| Label Name | Description
+| --- | --- |
 | work-in-progress | Pull requests which are still being worked on, more changes will follow |
 | testing | To test new or exisitng features, functions, or code |
