@@ -65,3 +65,6 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug-r
 | --- | --- |
 | `work-in-progress` | Pull requests which are still being worked on, more changes will follow |
 | `testing` | To test new or exisitng features, functions, or code |
+| `needs-review`| To indicate that a pull request requires review |
+| `under-review` | To indicate that a pull request is under review |
+
