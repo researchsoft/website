@@ -23,7 +23,7 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug-r
 
 #### How Do I Submit A (Good) Bug Report?
 
-
+Bugs are tracked as GitHub issues. To report a bug, create an issue in the [website repository](https://github.com/researchsoft/website) by filling in the template.
 
 ### Suggesting Enhancements
 
