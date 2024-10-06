@@ -23,7 +23,7 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug-r
 
 #### How Do I Submit A (Good) Bug Report?
 
-Bugs are tracked as GitHub issues. To report a bug, create an issue in the [website repository](https://github.com/researchsoft/website) by filling in the template.
+Bugs are tracked as GitHub issues. To report a bug, create an issue in the [website repository](https://github.com/researchsoft/website) by filling in the [bug report template](https://github.com/researchsoft/website//issues/new?assignees=&labels=bug%2Cneeds+triage&projects=&template=bug_report.yaml&title=BUG%3A+).
 
 ### Suggesting Enhancements
 
@@ -67,4 +67,5 @@ Bugs are tracked as GitHub issues. To report a bug, create an issue in the [webs
 | `testing` | To test new or exisitng features, functions, or code |
 | `needs-review`| To indicate that a pull request requires review |
 | `under-review` | To indicate that a pull request is under review |
+
 

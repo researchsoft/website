@@ -1,7 +1,7 @@
 name: Bug Report
 description: 
 title: "BUG: "
-labels: [Bug]
+labels: [bug, needs triage]
 
 body: 
   - type: checkboxes
@@ -19,13 +19,6 @@ body:
     attributes: 
       label: Reproduce Example
       description: Please provide a minimal, copy-pasteable code example.
-      placeholder: > 
-      import pandas as pd
-
-      df = pd.DataFrame(range(5))
-
-      ...
-      render = python
     validations:
       required: true
   - type: textarea
