@@ -7,7 +7,7 @@ background = "white"
 
 ## Welcome to ReSA
 ReSA brings research software communities together to collaborate on the advancement of the research software ecosystem.
-**ReSA organisational membership** will demonstrate your commitment to international collaboration and innovation for research, by supporting the ReSA vision that research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide.
+**ReSA organisational membership** will demonstrate your commitment to international collaboration and innovation for research (including [AI-driven research](https://doi.org/10.5281/zenodo.13350748)) by supporting the ReSA vision that research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide.
 By joining us, you will have the opportunity to collaborate with decision makers and key influencers to create outcomes that will achieve both your goals and those of the international community. 
 
 ## Organisational Membership Benefits 
