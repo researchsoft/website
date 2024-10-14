@@ -67,5 +67,3 @@ Bugs are tracked as GitHub issues. To report a bug, create an issue in the [webs
 | `testing` | To test new or exisitng features, functions, or code |
 | `needs-review`| To indicate that a pull request requires review |
 | `under-review` | To indicate that a pull request is under review |
-
-
