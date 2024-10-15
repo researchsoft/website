@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 disabled = false
-categories = ["Event", "Ongoing"]
+categories = ["Event", "Towards an international research software conference (version 2)"]
 
 title = "Towards an International Research Software Conference: Join our Community Consultation"
 subtitle = ""
@@ -27,10 +27,10 @@ The next stage of the development of these ideas is to gain feedback through ope
   align = "right"
   sticky = true # Default is false
   content = """
-  * [Options Paper](https://docs.google.com/document/d/1hHtEn8IVpLSWhxIDJ0_JSUNPDjmXpTd0m5IFh2jBD7s/edit?tab=t.0)
-  * [Contact ReSA](../../contact/)
+  * [Towards an international research software conference (version 2)](https://docs.google.com/document/d/1hHtEn8IVpLSWhxIDJ0_JSUNPDjmXpTd0m5IFh2jBD7s/edit?tab=t.0)
+  * [Questionnaire](https://forms.gle/uruKDPhDRJqfbFzA9)
   * [ReSA’s Code of Conduct](../../code-of-conduct/)
-  * [Register your email for updates](https://landing.mailerlite.com/webforms/landing/o1n4v3)
+  * [Subscribe to ReSA newsletter](https://www.researchsoft.org/news/)
   """
 
 [asset]
@@ -61,7 +61,7 @@ Anyone can provide feedback or ask questions through the following methods:
 
  [Zoom link](https://us02web.zoom.us/j/2187873236?pwd=cXpmZXQzalhMcGlUN0J1bWUzdVM3QT09&omn=85908429638), Meeting ID: 218 787 3236, Passcode: 446688
 
-* Commenting directly on [this document](https://docs.google.com/document/d/1hHtEn8IVpLSWhxIDJ0_JSUNPDjmXpTd0m5IFh2jBD7s/edit?tab=t.0).
+* Commenting directly on ["Towards an international research software conference (version 2)"](https://docs.google.com/document/d/1hHtEn8IVpLSWhxIDJ0_JSUNPDjmXpTd0m5IFh2jBD7s/edit?tab=t.0).
 
 * Emailing questions or comments to info@researchsoft.org. 
 
