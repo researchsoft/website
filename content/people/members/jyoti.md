@@ -17,7 +17,7 @@ lives_in = "India"
   url = "https://www.linkedin.com/in/jyoti-bhogal/"
   
 [asset]
-  image = "Jyoti.jpg"
+  image = "Jyoti_square.jpeg"
   text = "Jyoti Bhogal" 
 +++
 
