@@ -42,6 +42,7 @@ Since 2022, the Funders Forum has convened annual global gatherings of research 
 - Aligning Science Across Parkinson's (ASAP)
 - Amazon Web Services (AWS)
 - Australian Research Data Commons (ARDC)
+- Austrian Science Fund
 - Biotechnology and Biological Sciences Research Council (BBSRC)
 - Cancer Research UK
 - Chan Zuckerberg Initiative (CZI)
@@ -51,9 +52,13 @@ Since 2022, the Funders Forum has convened annual global gatherings of research 
 - Ecuadorian Corporation for the Development of Research and Academy (CEDIA)
 - Engineering and Physical Sciences Research Council (EPSRC)
 - European Commission
+- French Committee for Open Science
 - German Research Foundation (DFG)
+- Institute of Museum and Library Services (IMLS)
 - Japan Agency for Medical Research and Development (AMED)
 - Japan Science and Technology Agency (JST)
+- Kavli Foundation
+- Linux Foundation
 - Medical Research Council (UKRI)
 - Michael J. Fox Foundation
 - National Aeronautics and Space Administration (NASA)
@@ -70,9 +75,13 @@ Since 2022, the Funders Forum has convened annual global gatherings of research 
 - Science for Africa Foundation
 - SciLifeLab
 - Social Sciences and Humanities Research Council (SSHRC)
+- Sovereign Tech Fund
+- Swedish Research Council
 - The Navigation Fund
 - UEFISCDI
 - UK Research and Innovation (UKRI)
 - Volkswagen Foundation
+- Wellcome Trust
+- ZonMw
 
 See also ReSA's [Research Software Funding Opportunities](https://www.researchsoft.org/funding-opportunities/) to find funding opportunities or contribute information on [new calls](https://docs.google.com/forms/d/e/1FAIpQLSdeZrx0kXAhD4XfpDrQ8Dmg4qJTRZWboMd-zvgjjtgBs1I68g/viewform).
