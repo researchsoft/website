@@ -25,8 +25,8 @@ authors = ["Michelle Barker, Chris Erdmann, Eric Jensen, Kim Hartley, Anna Henri
 
 +++
 
-![My Image](2024-10-image.jpeg) 
-_Image credit: SciLifeLab_
+![My Image](Group_image_3_(1).jpeg) 
+_Image credit: [SciLifeLab](https://www.scilifelab.se/)_
 
 By Michelle Barker, Chris Erdmann, Eric Jensen, Kim Hartley, Anna Henriksson, Suné Joubert  
 
