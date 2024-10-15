@@ -16,7 +16,7 @@ authors = ["Michelle Barker, Chris Erdmann, Eric Jensen, Kim Hartley, Anna Henri
   align = "right"
   sticky = false # Default is false
   content = """
-  * [ADD ANY RELEVANT URLS, SUCH AS THE BLOG POST’s DOI]()
+  * [Blog post DOI: https://doi.org/10.59350/j0jjs-0xn06](https://doi.org/10.59350/j0jjs-0xn06)
   * [ReSA newsletter](https://www.researchsoft.org/news/)
   * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
   * [ReSA resources](/resa-resources)
