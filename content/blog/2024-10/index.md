@@ -8,7 +8,7 @@ title = "International Research Software Funders Workshop 2024 – Building a Su
 title_align = "left"
 
 display_date = true
-date = "2024-10-15"
+date = "2024-10-16"
 authors = ["Michelle Barker, Chris Erdmann, Eric Jensen, Kim Hartley, Anna Henriksson, Suné Joubert"]
 
 [sidebar]
