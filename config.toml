@@ -43,7 +43,7 @@ rssLimit = 100
   # icon = ""
   # icon96 = ""
   # logo = "img/resa-logo-software-green.png"
-  mainSections = ["blog"]
+  mainSections = ["about-resa"]
 
   [params.colors]
     primary = "darkgreen"
