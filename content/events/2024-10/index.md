@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 disabled = false
-categories = ["Event", "Towards an international research software conference (version 2)"]
+categories = ["Event"]
 
 title = "Towards an International Research Software Conference: Join our Community Consultation"
 subtitle = ""
@@ -10,7 +10,7 @@ title_align = "left"
 
 display_date = true
 publishdate = "2024-10-15"
-date = ["2024-10-31","2024-11-01","2024-11-04","2024-11-05"]
+date = ["2024-10-31, 2024-11-01, 2024-11-04, 2024-11-05"]
 
 summary = """
 Join one of our upcoming webinars to discuss community-supported routes for convening the first-ever international research software conference in 2025/26, or provide feedback asynchronously on the options paper, Towards an international research software conference (version 2). 
