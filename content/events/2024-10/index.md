@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 disabled = false
-categories = ["Event", "November 1, 2024", "November 4, 2024", "November 5, 2024"]
+categories = ["November 1, 2024", "November 4, 2024", "November 5, 2024", "Event"]
 
 title = "Towards an International Research Software Conference: Join our Community Consultation"
 subtitle = ""
@@ -28,7 +28,7 @@ The next stage of the development of these ideas is to gain feedback through ope
   content = """
   * [Towards an international research software conference (version 2)](https://docs.google.com/document/d/1hHtEn8IVpLSWhxIDJ0_JSUNPDjmXpTd0m5IFh2jBD7s/edit?tab=t.0)
   * [Questionnaire](https://forms.gle/uruKDPhDRJqfbFzA9)
-  * Calendar invites:
+  * Calendar invites (click on the dates below to download the .ics file):
     * [Option 1: 31 Oct 2024](https://drive.google.com/file/d/1r4O6u8QPtnFZEMRolUMxWLe-eAtBOEen/view?usp=drive_link)
     * [Option 2: 1 Nov 2024](https://drive.google.com/file/d/1nh-rAKN1hJU-UJ7yZNtzSNz7hW4fS1cQ/view?usp=drive_link)
     * [Option 3: 4 Nov 2024](https://drive.google.com/file/d/1_ZDPp_nFBNUcVg6_d3jLfFy-bGJQECAu/view?usp=drive_link)
