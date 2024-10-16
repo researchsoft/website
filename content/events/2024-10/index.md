@@ -10,8 +10,7 @@ title_align = "left"
 
 display_date = true
 publishdate = "2024-10-15"
-date = "2024-10-31"
-
+date = ["2024-10-31","2024-11-01","2024-11-04","2024-11-05"]
 
 summary = """
 Join one of our upcoming webinars to discuss community-supported routes for convening the first-ever international research software conference in 2025/26, or provide feedback asynchronously on the options paper, Towards an international research software conference (version 2). 
@@ -39,7 +38,7 @@ The next stage of the development of these ideas is to gain feedback through ope
 +++
 # Event Summary
 
-Join one of our upcoming webinars to discuss community-supported routes for convening the first-ever international research software conference in 2025/26, or provide feedback asynchronously on the options paper, Towards an international research software conference (version 2). 
+Join one of our upcoming webinars to discuss community-supported routes for convening the first-ever international research software conference in 2025/26, or provide feedback asynchronously on the options paper, [Towards an international research software conference (version 2)](https://docs.google.com/document/d/1hHtEn8IVpLSWhxIDJ0_JSUNPDjmXpTd0m5IFh2jBD7s/edit?tab=t.0). 
 
 ReSA is engaging with key stakeholders to identify and recommend possible options, with three conference options proposed currently. These all share a common overarching aim of community building but differ in the communities they focus on. 
 
@@ -61,7 +60,7 @@ Anyone can provide feedback or ask questions through the following methods:
 
  [Zoom link](https://us02web.zoom.us/j/2187873236?pwd=cXpmZXQzalhMcGlUN0J1bWUzdVM3QT09&omn=85908429638), Meeting ID: 218 787 3236, Passcode: 446688
 
-* Commenting directly on ["Towards an international research software conference (version 2)"](https://docs.google.com/document/d/1hHtEn8IVpLSWhxIDJ0_JSUNPDjmXpTd0m5IFh2jBD7s/edit?tab=t.0).
+* Commenting directly on [Towards an international research software conference (version 2)](https://docs.google.com/document/d/1hHtEn8IVpLSWhxIDJ0_JSUNPDjmXpTd0m5IFh2jBD7s/edit?tab=t.0).
 
 * Emailing questions or comments to info@researchsoft.org. 
 
