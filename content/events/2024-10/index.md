@@ -10,10 +10,7 @@ title_align = "left"
 
 display_date = true
 publishdate = "2024-10-15"
-date = [
-  "2024-10-31",
-  "2024-11-01"
-]
+date = "2024-10-31"
 
 summary = """
 Join one of our upcoming webinars to discuss community-supported routes for convening the first-ever international research software conference in 2025/26, or provide feedback asynchronously on the options paper, Towards an international research software conference (version 2). 
