@@ -10,7 +10,7 @@ title_align = "left"
 
 display_date = true
 publishdate = "2024-10-15"
-date = ["2024-10-31, 2024-11-01, 2024-11-04, 2024-11-05"]
+date = "2024-10-31, 2024-11-01, 2024-11-04, 2024-11-05"
 
 summary = """
 Join one of our upcoming webinars to discuss community-supported routes for convening the first-ever international research software conference in 2025/26, or provide feedback asynchronously on the options paper, Towards an international research software conference (version 2). 
@@ -28,6 +28,11 @@ The next stage of the development of these ideas is to gain feedback through ope
   content = """
   * [Towards an international research software conference (version 2)](https://docs.google.com/document/d/1hHtEn8IVpLSWhxIDJ0_JSUNPDjmXpTd0m5IFh2jBD7s/edit?tab=t.0)
   * [Questionnaire](https://forms.gle/uruKDPhDRJqfbFzA9)
+  * [Calendar Invite 31 Oct 2024]()
+  * [Calendar Invite 1 Nov 2024]()
+  * [Calendar Invite 4 Nov 2024]()
+  * [Calendar Invite 5 Nov 2024]()
+  * [Calendar Invite 5 Nov 2024]()
   * [ReSA’s Code of Conduct](../../code-of-conduct/)
   * [Subscribe to ReSA newsletter](https://www.researchsoft.org/news/)
   """
