@@ -120,15 +120,21 @@ rssLimit = 100
 
 [[menu.main]]
   parent = "/forums"
+  url = "https://adore.software/"
+  name = "ADORE.software Secretariat"
+  weight = 33
+
+[[menu.main]]
+  parent = "/forums"
   url = "https://researchsoftware.org/council.html"
   name = "International Council of RSE Associations"
-  weight = 33
+  weight = 34
   
 [[menu.main]]
   parent = "/forums"
   url = "/community-forum"
   name = "Community Leaders Forum"
-  weight = 34
+  weight = 35
 
 [[menu.main]]
   identifier = "/resa-resources"

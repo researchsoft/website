@@ -7,9 +7,9 @@ title = "RSE Worldwide: Opportunities to Strengthen the Global RSE Community"
 #subtitle = ""
 title_align = "left"
 
-disabled = true
+disabled = false
 display_date = true
-date = "2024-09-26"
+date = "2024-09-25"
 authors = ["Michelle Barker, Sandra Gesing, Rowland Mosbergen, Uwe Schmitt, Carlos Martinez-Ortiz"]
 
 [sidebar]
@@ -17,11 +17,11 @@ authors = ["Michelle Barker, Sandra Gesing, Rowland Mosbergen, Uwe Schmitt, Carl
   align = "right"
   sticky = false
   content = """
+  * [Blog post DOI: https://doi.org/10.59350/fzjbr-tna85](https://doi.org/10.59350/fzjbr-tna85)
   * [RSE Worldwide sessions](https://rsecon24.society-rse.org/programme/rse-worldwide/)
   * [Research Software Engineering Conference](https://rsecon24.society-rse.org/programme/rse-worldwide/)
   * [ReSA newsletter](https://www.researchsoft.org/news/)
   * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
-  * [Contact us](https://www.researchsoft.org/contact/)
   """
 
 +++
