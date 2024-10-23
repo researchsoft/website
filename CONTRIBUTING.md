@@ -139,6 +139,8 @@ Note: Here `themename` is the exact name of the theme as mentioned in the `/them
 
 Here is a step-by-step demo about making a table:
 
+## Create a basic table
+
 1. A verticle line `|` should be added to both the ends of each row.
 2. Separate the columns by a verticle line `|`
 3. The column header can be separated from the remaining row by using three or more dashes `---`
@@ -159,6 +161,30 @@ For example, the below code will result in the table that follows it:
 | Australia | Canberra |
 | Egypt | Cairo |
 
+Here are the steps to **format** the table:
+
+## Text Alignment
+
+1. To align text in the columns to the left, right, or center add a colon `:` to the left, right, or on both side of the dashes`---` within the header row.
+2. `:--`: left alignment
+3. `--:`: right alignment
+4. `:-:`: center alignment
+
+For example, the below code will result in the table that follows it:
+
+```zsh
+| Country| Capital City |
+| :---: | :---: |
+| Canada | Ottawa |
+| Australia | Canberra |
+| Egypt | Cairo |
+```
+
+| Country| Capital City |
+| :---: | :---: |
+| Canada | Ottawa |
+| Australia | Canberra |
+| Egypt | Cairo |
 
 # How to add an image?
 
