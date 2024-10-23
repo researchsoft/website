@@ -158,7 +158,7 @@ For example, the below code will result in the table that follows it:
 | Country| Capital City |
 | --- | --- |
 | Canada | Ottawa |
-| Australia Canberra Cairo| Canberra |
+| Australia | Canberra |
 | Egypt | Cairo |
 
 Here are the steps to **format** the table:
@@ -185,6 +185,26 @@ For example, the below code will result in the table that follows it:
 | Canada | Ottawa |
 | Australia | Canberra |
 | Egypt | Cairo |
+
+## Going to next line
+
+To go to next line in a row, use `\`.
+
+```zsh
+| Country| Capital City |
+| --- | --- |
+| Canada | Ottawa \ Ontario |
+| Australia | Canberra |
+| Egypt | Cairo |
+```
+
+| Country| Capital City |
+| --- | --- |
+| Canada | Ottawa \ Ontario |
+| Australia | Canberra |
+| Egypt | Cairo |
+
+Note:  the text in the table can be further formatted. For example, links, inline code (words or phrases in backtics only, not code blocks)
 
 # How to add an image?
 
