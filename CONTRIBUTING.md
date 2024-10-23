@@ -131,7 +131,7 @@ git clone URL_to_theme
 1. Add the theme to your site configuration file `config.toml` using the following code:
 
 ```zsh
-theme: themename
+theme = "themename"
 ```
 Note: Here `themename` is the exact name of the theme as mentioned in the `/themes` directory.
 
