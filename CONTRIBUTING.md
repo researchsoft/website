@@ -158,7 +158,7 @@ For example, the below code will result in the table that follows it:
 | Country| Capital City |
 | --- | --- |
 | Canada | Ottawa |
-| Australia | Canberra |
+| Australia Canberra Cairo| Canberra |
 | Egypt | Cairo |
 
 Here are the steps to **format** the table:
