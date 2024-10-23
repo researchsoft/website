@@ -193,14 +193,16 @@ To go to next line in a row, use `\`.
 ```zsh
 | Country| Capital City |
 | --- | --- |
-| Canada | Ottawa \ Ontario |
+| Canada | Ottawa  
+Ontario|
 | Australia | Canberra |
 | Egypt | Cairo |
 ```
 
 | Country| Capital City |
 | --- | --- |
-| Canada | Ottawa \ Ontario |
+| Canada | Ottawa  
+Ontario|
 | Australia | Canberra |
 | Egypt | Cairo |
 
