@@ -194,7 +194,7 @@ To go to next line in a row, use `\`.
 | Country| Capital City |
 | --- | --- |
 | Canada | Ottawa  
-Ontario|
+| --- | Ontario|
 | Australia | Canberra |
 | Egypt | Cairo |
 ```
