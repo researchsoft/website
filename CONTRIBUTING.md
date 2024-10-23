@@ -103,6 +103,38 @@ Provide more context by answering the following questions:
 
 # How to install a new theme?
 
+This website is built on Hugo framework. To install a new Hugo theme, please take the following steps:
+
+## Assumptions
+
+1. You have already installed Hugo on your machine
+2. You have git installed on your machine and you are familiar with basic git usage.
+
+## Installing a single theme
+
+1. In your IDE, go to `themes` directory. 
+
+```zsh
+cd themes
+```
+
+2. Download a theme by replacing `URL_to_theme` with the URL of the theme GitHub repository
+
+```zsh
+git clone URL_to_theme
+```
+
+3. Alternatively, download the theme as a `.zip` file from the GitHub repository, unzip the theme contents, and then manually move the unzipped source into your `themes` directory.
+
+## Adding theme
+
+1. Add the theme to your site configuration file `config.toml` using the following code:
+
+```zsh
+theme: themename
+```
+Note: Here `themename` is the exact name of the theme as mentioned in the `/themes` directory.
+
 # How to make a table?
 
 Here is a step-by-step demo about making a table:
