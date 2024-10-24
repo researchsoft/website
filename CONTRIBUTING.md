@@ -46,7 +46,7 @@ new?assignees=&labels=bug%2Cneeds+triage&projects=&
 template=bug_report.yaml&title=BUG%3A+).
 
 Explain the problem and include additional details to help maintainers
-reproduce the probelem:
+reproduce the problem:
 
 * **Use clear and descriptive title** for the issue to identify the problem.
 * **Describe the exact steps to reproduce the problem** n as many details as
@@ -56,9 +56,9 @@ For example: if you moved your cursor to next line, please mention if you used
 the mouse, or a keyboard button or a programming command in an IDE or GitHub
 browser.
 * **Provide specific examples to demonstrate the steps**. Include links to
-files or GitHub projects, or copy/pasteable text or code.
-* **Describe the behavior you observed after followig the steps** and point out
-the exact problem in that behaviour/output.
+files or GitHub projects, or copy/paste text or code.
+* **Describe the behavior you observed after following the steps** and
+point out the exact problem in that behaviour/output.
 * **Explain what behaviour you expected to see instead and why**.
 * **Include screenshots or animated GIF/video** which show how you followed the
 steps and clearly demonstrate the problem in the output you observe.
@@ -67,8 +67,8 @@ Provide more context by answering the following questions:
 
 * Can you reproduce the problem on another branch?
 * Did the problem started happening recently i.e. in the new website (i.e. when
-theme is beautifulhugo) or was this a problem in the older version too (i.e.
-when theme is Syna)?
+theme is `beautifulhugo`) or was this a problem in the older version too (i.e.
+when theme is `Syna`)?
 * **Can you reliably reproduce the issue?** If not, please describe how often
 the problem occurs and under what conditions does it normally occur.
 * If the problem is related to working with files (e.g. opening or editing
@@ -86,7 +86,7 @@ encoding? It there anything else specific about the files you are using?
 
 ### Pull Requests
 
-### Styleguide (Git Commit Messages)
+### Style guide (Git Commit Messages)
 
 * Use the present tense ("Add feature" not "Added feature")
 * Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
@@ -125,7 +125,7 @@ encoding? It there anything else specific about the files you are using?
 | `blocked` | Issues blocked/dependent on other issues |
 | `duplicate` | This issue or pull request already exists |
 | `wontfix` | This will not be worked on|
-| `inavlid` | This doesn't seem right (e.g. user error) |
+| `invalid` | This doesn't seem right (e.g. user error) |
 | `wrong-repo` | Issues reported on the wrong repository |
 
 #### Pull Request Labels
@@ -133,7 +133,7 @@ encoding? It there anything else specific about the files you are using?
 | Label Name | Description |
 | --- | --- |
 | `work-in-progress` | PRs which are still being worked on |
-| `testing` | To test new or exisitng features, functions, or code |
+| `testing` | To test new or existing features, functions, or code |
 | `needs-review`| To indicate that a pull request requires review |
 | `under-review` | To indicate that a pull request is under review |
 
@@ -163,10 +163,10 @@ directory (for example, in this case you will see `/themes/beautifulhugo/`).
 * To use the theme, make sure that you set it accordingly in the `config.toml`:
 
 ```zsh
-theme = "themename"
+theme = "theme_name"
 ```
 
-**Note**: Here `"themename"` is the exact name of the theme as mentioned in
+**Note**: Here `"theme_name"` is the exact name of the theme as mentioned in
 the `/themes` directory (for example, in this case it will be
 `theme = "beautifulhugo"`).
 
@@ -176,8 +176,8 @@ Here is a step-by-step demo about making a table:
 
 ### Create a basic table
 
-* A verticle line `|` should be added to both the ends of each row.
-* Separate the columns by a verticle line `|`.
+* A vertical line `|` should be added to both the ends of each row.
+* Separate the columns by a vertical line `|`.
 * The column header can be separated from the remaining row by using three or
 more dashes `---`.
 
@@ -242,7 +242,7 @@ To go to next line in a row, use `\`.
 | Egypt | Cairo |
 
 **Note**:  the text in the table can be further formatted. For example, links,
-inline code (words or phrases in backtics only, not code blocks)
+inline code (words or phrases in backticks only, not code blocks)
 
 ## Adding an image
 

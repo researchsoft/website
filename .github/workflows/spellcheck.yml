@@ -1,0 +1,28 @@
+name: Spellcheck Action
+
+on:
+  push:
+    branches:
+      - '**'
+  pull_request:
+    branches:
+      - '**'
+
+jobs:
+  spellcheck:
+    name: Spellcheck
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Step 2: Run Spellcheck
+      - name: Spellcheck
+        uses: rojopolis/spellcheck-github-actions@0.43.1
+        with:
+          source_files: |
+            readme.md
+            CONTRIBUTING.md
+          task_name: Markdown
