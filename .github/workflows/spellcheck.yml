@@ -18,11 +18,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # Step 2: Run Spellcheck
+      # Step 2: Run Spellcheck with default configuration
       - name: Spellcheck
         uses: rojopolis/spellcheck-github-actions@0.43.1
         with:
-          source_files: |
-            readme.md
-            CONTRIBUTING.md
-          task_name: Markdown
+          source_files: readme.md CONTRIBUTING.md
