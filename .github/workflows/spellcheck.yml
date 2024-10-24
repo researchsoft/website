@@ -23,3 +23,4 @@ jobs:
         uses: rojopolis/spellcheck-github-actions@0.43.1
         with:
           source_files: readme.md CONTRIBUTING.md
+          task_name: Markdown
