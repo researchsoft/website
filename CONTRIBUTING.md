@@ -16,7 +16,6 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug-r
 
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
-
 #### Before Submitting A Bug Report
 
 * **Perform a [cursory search](https://github.com/researchsoft/website/issues?q=is%3Aopen+is%3Aissue)** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
@@ -28,7 +27,7 @@ Bugs are tracked as GitHub issues. To report a bug, create an issue in the [webs
 Explain the problem and include additional details to help maintainers reproduce the probelem:
 
 * **Use clear and descriptive title** for the issue to identify the problem.
-* **Describe the exact steps to reproduce the problem** n as many details as possible. For example: which command do you use in the terminal or in GitHub browser. Explain **how you did different steps, in addition to what you did**. For example: if you moved your cursor to next line, please mention if you used the mouse, or a keyboard button or a programming command in an IDE or GitHub browser. 
+* **Describe the exact steps to reproduce the problem** n as many details as possible. For example: which command do you use in the terminal or in GitHub browser. Explain **how you did different steps, in addition to what you did**. For example: if you moved your cursor to next line, please mention if you used the mouse, or a keyboard button or a programming command in an IDE or GitHub browser.
 * **Provide specific examples to demonstrate the steps**. Include links to files or GitHub projects, or copy/pasteable text or code.
 * **Describe the behavior you observed after followig the steps** and point out the exact problem in that behaviour/output.
 * **Explain what behaviour you expected to see instead and why**.
@@ -39,10 +38,9 @@ Provide more context by answering the following questions:
 * Can you reproduce the problem on another branch?
 * Did the problem started happening recently i.e. in the new website (i.e. when theme is beautifulhugo) or was this a problem in the older version too (i.e. when theme is Syna)?
 * **Can you reliably reproduce the issue?** If not, please describe how often the problem occurs and under what conditions does it normally occur.
-* If the problem is related to working with files (e.g. opening or editing files), **does the problem occur for all the files and folders?** Does the problem occur only when working with local or remote files (e.g., on network drives), with specific type of file (e.g. .md or .html, etc.), with files with large size, with files with more number of lines, with files with a specific encoding? It there anything else specific about the files you are using? 
+* If the problem is related to working with files (e.g. opening or editing files), **does the problem occur for all the files and folders?** Does the problem occur only when working with local or remote files (e.g., on network drives), with specific type of file (e.g. .md or .html, etc.), with files with large size, with files with more number of lines, with files with a specific encoding? It there anything else specific about the files you are using?
 
 ### Suggesting Enhancements
-
 
 #### Before Submitting An Enhancement Suggestion
 
@@ -58,27 +56,27 @@ Provide more context by answering the following questions:
 * Reference issues and pull requests liberally after the first line
 * When only changing documentation, include `[ci skip]` in the commit title
 * Consider starting the commit message with an applicable emoji:
-    * :art: `:art:` when improving the format/structure of the code
-    * :racehorse: `:racehorse:` when improving performance
-    * :non-potable_water: `:non-potable_water:` when plugging memory leaks
-    * :memo: `:memo:` when writing docs
-    * :penguin: `:penguin:` when fixing something on Linux
-    * :apple: `:apple:` when fixing something on macOS
-    * :checkered_flag: `:checkered_flag:` when fixing something on Windows
-    * :bug: `:bug:` when fixing a bug
-    * :fire: `:fire:` when removing code or files
-    * :green_heart: `:green_heart:` when fixing the CI build
-    * :white_check_mark: `:white_check_mark:` when adding tests
-    * :lock: `:lock:` when dealing with security
-    * :arrow_up: `:arrow_up:` when upgrading dependencies
-    * :arrow_down: `:arrow_down:` when downgrading dependencies
-    * :shirt: `:shirt:` when removing linter warnings
+  * :art: `:art:` when improving the format/structure of the code
+  * :racehorse: `:racehorse:` when improving performance
+  * :non-potable_water: `:non-potable_water:` when plugging memory leaks
+  * :memo: `:memo:` when writing docs
+  * :penguin: `:penguin:` when fixing something on Linux
+  * :apple: `:apple:` when fixing something on macOS
+  * :checkered_flag: `:checkered_flag:` when fixing something on Windows
+  * :bug: `:bug:` when fixing a bug
+  * :fire: `:fire:` when removing code or files
+  * :green_heart: `:green_heart:` when fixing the CI build
+  * :white_check_mark: `:white_check_mark:` when adding tests
+  * :lock: `:lock:` when dealing with security
+  * :arrow_up: `:arrow_up:` when upgrading dependencies
+  * :arrow_down: `:arrow_down:` when downgrading dependencies
+  * :shirt: `:shirt:` when removing linter warnings
 
 ### Additional Notes
 
 #### Issue Labels
 
-| Label Name | Description
+| Label Name | Description |
 | --- | --- |
 | `enhancement` | New feature or request |
 | `bug` | Something is not working as expected |
@@ -92,58 +90,51 @@ Provide more context by answering the following questions:
 | `inavlid` | This doesn't seem right (e.g. user error) |
 | `wrong-repo` | Issues reported on the wrong repository |
 
-#### Pull Request Labels 
+#### Pull Request Labels
 
-| Label Name | Description
+| Label Name | Description |
 | --- | --- |
 | `work-in-progress` | Pull requests which are still being worked on, more changes will follow |
 | `testing` | To test new or exisitng features, functions, or code |
 | `needs-review`| To indicate that a pull request requires review |
 | `under-review` | To indicate that a pull request is under review |
 
-# How to install a new theme?
+## Installing a new theme
 
 This website is built on Hugo framework. To install a new Hugo theme, please take the following steps:
 
-## Assumptions
+### Assumptions
 
 1. You have already installed Hugo on your machine
 2. You have git installed on your machine and you are familiar with basic git usage.
 
-## Installing a single theme
+### Adding a new theme
 
-1. In your IDE, go to `themes` directory. 
-
-```zsh
-cd themes
-```
-
-2. Download a theme by replacing `URL_to_theme` with the URL of the theme GitHub repository
+* You can add a new theme as a submodule as follows:
 
 ```zsh
-git clone URL_to_theme
+git submodule init # If you haven't initialized before
+git submodule add https://github.com/halogenica/beautifulhugo.git themes/beautifulhugo # This would add the beautifulhugo theme
 ```
 
-3. Alternatively, download the theme as a `.zip` file from the GitHub repository, unzip the theme contents, and then manually move the unzipped source into your `themes` directory.
-
-## Adding theme
-
-1. Add the theme to your site configuration file `config.toml` using the following code:
+* The theme is successfully installed if you see it inside the `/themes` directory (for example, in this case you will see `/themes/beautifulhugo/`).
+* To use the theme, make sure that you set it accordingly in the `config.toml`:
 
 ```zsh
 theme = "themename"
 ```
-Note: Here `themename` is the exact name of the theme as mentioned in the `/themes` directory.
 
-# How to make a table?
+**Note**: Here `"themename"` is the exact name of the theme as mentioned in the `/themes` directory (for example, in this case it will be `theme = "beautifulhugo"`).
+
+## Adding a table
 
 Here is a step-by-step demo about making a table:
 
-## Create a basic table
+### Create a basic table
 
-1. A verticle line `|` should be added to both the ends of each row.
-2. Separate the columns by a verticle line `|`
-3. The column header can be separated from the remaining row by using three or more dashes `---`
+* A verticle line `|` should be added to both the ends of each row.
+* Separate the columns by a verticle line `|`
+* The column header can be separated from the remaining row by using three or more dashes `---`
 
 For example, the below code will result in the table that follows it:
 
@@ -163,12 +154,12 @@ For example, the below code will result in the table that follows it:
 
 Here are the steps to **format** the table:
 
-## Text Alignment
+### Text Alignment
 
-1. To align text in the columns to the left, right, or center add a colon `:` to the left, right, or on both side of the dashes`---` within the header row.
-2. `:--`: left alignment
-3. `--:`: right alignment
-4. `:-:`: center alignment
+* To align text in the columns to the left, right, or center add a colon `:` to the left, right, or on both side of the dashes`---` within the header row.
+* `:--`: left alignment
+* `--:`: right alignment
+* `:-:`: center alignment
 
 For example, the below code will result in the table that follows it:
 
@@ -186,28 +177,27 @@ For example, the below code will result in the table that follows it:
 | Australia | Canberra |
 | Egypt | Cairo |
 
-## Going to next line
+### Going to next line
 
 To go to next line in a row, use `\`.
 
 ```zsh
-| Country| Capital City |
+| Country | Capital City |
 | --- | --- |
-| Canada | Ottawa \n Ontario |
+| Canada | Ottawa |
 | Australia | Canberra |
 | Egypt | Cairo |
 ```
 
-| Country| Capital City |
+| Country | Capital City |
 | --- | --- |
-| Canada | Ottawa  
-Ontario|
+| Canada | Ottawa |
 | Australia | Canberra |
 | Egypt | Cairo |
 
-Note:  the text in the table can be further formatted. For example, links, inline code (words or phrases in backtics only, not code blocks)
+**Note**:  the text in the table can be further formatted. For example, links, inline code (words or phrases in backtics only, not code blocks)
 
-# How to add an image?
+## Adding an image
 
 Here is a step-by-step demo about how to add an image:
 

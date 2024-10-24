@@ -51,7 +51,7 @@ git push --set-upstream origin new_branch_name # if pushing for the first time t
 git push # if pushing to an existing branch
 ```
 
-- Create a Pull Request (PR) on GitHub repo and direct it to the `dev` branch from your branch. Tag any relevant issue(s), add relevant label(s), and request reviews where required. 
+- Create a Pull Request (PR) on GitHub repo and direct it to the `dev` branch from your branch. Tag any relevant issue(s), add relevant label(s), and request reviews where required.
 
 ### Using GitHub text editor interface
 
