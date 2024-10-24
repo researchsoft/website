@@ -25,7 +25,7 @@ title = ""
     text = "software important for own research"
 
   [[rows.values]]
-    text = "own research not possible without research"
+    text = "own research not possible without software"
 
   [[rows.values]]
     text = "distinct software mentions per paper"
