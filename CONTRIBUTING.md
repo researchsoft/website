@@ -241,8 +241,8 @@ To go to next line in a row, use `\`.
 | Australia | Canberra |
 | Egypt | Cairo |
 
-**Note**:  the text in the table can be further formatted. For example, links,
-inline code (words or phrases in backticks only, not code blocks)
+**Note**:  the text in the table can be further formatted. For example, adding
+links, inline code (words or phrases in backticks only, not code blocks).
 
 ## Adding an image
 
