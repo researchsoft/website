@@ -259,8 +259,8 @@ title = ""
 
 [asset]
     image = "image_name_with_file_extension"
-    url = "https://www.volkswagenstiftung.de/en"
-    text = "Volkswagen Foundation logo"
+    url = "relevant_url"
+    text = "image_short_description"
 +++
 ```
 
@@ -268,9 +268,10 @@ title = ""
 
 * Here `"image_name_with_file_extension"` is the exact name of the image as
 mentioned in the `/static` directory.
-* `text` is used to give a short description of the image.
+* `text` is used to give a short description of the image. Please enter a
+short description of the image after the `=` sign.
 * `url` is an optional attribute. It is used if we want to hyperlink the image
-with some relevant link.
+with some relevant link. Please enter the hyperlink after the `=` sign.
 * Image caption:
 ...
 
