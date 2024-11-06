@@ -246,11 +246,32 @@ links, inline code (words or phrases in backticks only, not code blocks).
 
 ## Adding an image
 
-Here is a step-by-step demo about how to add an image:
+Here is a step-by-step demo about how to add an image using an IDE:
 
-Step 1:
+* Clone the `website` repository from <https://github.com/researchsoft>.
+* Upload the image to the folder website/static/images.
+* Add image details to appropriate .md file using the following code:
 
-Step 2:
+```zsh
++++
+title = ""
+#weight =
+
+[asset]
+    image = "image_name_with_file_extension"
+    url = "https://www.volkswagenstiftung.de/en"
+    text = "Volkswagen Foundation logo"
++++
+```
+
+**Note**:
+
+* Here `"image_name_with_file_extension"` is the exact name of the image as
+mentioned in the `/static` directory.
+* `text` is used to give a short description of the image.
+* `url` is an optional attribute. It is used if we want to hyperlink the image
+with some relevant link.
+* Image caption:
 ...
 
 Step x: How to add caption?
