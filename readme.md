@@ -80,5 +80,4 @@ Due to limitations in the version of Hugo that Netlify runs,
 changing the _style_ of the website will require pulling this entire
 repo to a computer and building the site with hugo-extended. The resulting
 files generated in
-[resources/_gen/assets/scss/styles]
-(<<https://github.com/researchsoft/website/tree/master/resources/_gen/assets/scss/styles>) then need to be committed back to the repository.
+[resources/_gen/assets/scss/styles](https://github.com/researchsoft/website/tree/master/resources/_gen/assets/scss/styles>) then need to be committed back to the repository.
