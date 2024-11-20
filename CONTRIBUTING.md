@@ -8,8 +8,7 @@ on GitHub. These are mostly guidelines, not rules. Use your best judgment,
 and feel free to propose changes to this document in a pull request.
 
 This guide is inspired from
-[Atom's contributing guidelines](<https://github.com/atom/atom/blob/master/>
-CONTRIBUTING.md).
+[Atom's contributing guidelines](https://github.com/atom/atom/blob/master/CONTRIBUTING.md).
 
 ## How Can I Contribute?
 
@@ -32,8 +31,7 @@ issue in the body of your new one.
 #### Before Submitting A Bug Report
 
 * **Perform a
-[cursory search](<https://github.com/researchsoft/website/>
-issues?q=is%3Aopen+is%3Aissue)** to see if the problem has already been
+[cursory search](https://github.com/researchsoft/website/issues?q=is%3Aopen+is%3Aissue)** to see if the problem has already been
 reported. If it has **and the issue is still open**, add a comment to the
 existing issue instead of opening a new one.
 
@@ -41,9 +39,7 @@ existing issue instead of opening a new one.
 
 Bugs are tracked as GitHub issues. To report a bug, create an issue in the
 [website repository](https://github.com/researchsoft/website) by filling in the
-[bug report template](<https://github.com/researchsoft/website//issues/>
-new?assignees=&labels=bug%2Cneeds+triage&projects=&
-template=bug_report.yaml&title=BUG%3A+).
+[bug report template](https://github.com/researchsoft/website//issues/new?assignees=&labels=bug%2Cneeds+triage&projects=&template=bug_report.yaml&title=BUG%3A+).
 
 Explain the problem and include additional details to help maintainers
 reproduce the problem:
