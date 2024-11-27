@@ -171,6 +171,12 @@ rssLimit = 100
   name = "ADORE.software Declaration"
   url = "https://adore.software/"
   weight = 45
+
+[[menu.main]]
+  parent = "/resa-resources"
+  name = "Research Software Engineers (RSEs)"
+  url = "/research-software-engineers"
+  weight = 46  
   
 [[menu.main]]
   url = "/news"

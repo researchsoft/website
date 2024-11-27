@@ -17,7 +17,7 @@ authors = ["Michelle Barker, Kim Hartley, Daniel S. Katz, Richard Littauer, Qian
   align = "right"
   sticky = false
   content = """
-  * [DOI: https://doi.org/10.5281/zenodo.13350748](https://doi.org/10.5281/zenodo.13350748)
+  * [DOI: https://doi.org/10.5281/zenodo.13350747](https://doi.org/10.5281/zenodo.13350747)
   * [Digital Research Alliance of Canada](https://alliancecan.ca/en)
   * [ReSA newsletter](https://www.researchsoft.org/news/)
   * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
@@ -161,6 +161,8 @@ Hettrick, Simon, Radovan Bast, Steve Crouch, Claire Bradley, Philippe, Botzki, A
 
 Hocquet, Alexandre, Frédéric Wieber, Gabriele Gramelsberger, Konrad Hinsen, Markus Diesmann, Fernando Pasquini Santos, Catharina Landström, et al. 2024. ‘Software in Science Is Ubiquitous yet Overlooked’. Nature Computational Science, July. https://doi.org/10.1038/s43588-024-00651-2.
 
+Hosseini, Mohammad, Horbach, Serge P.J.M., Holmes, Kristi L., Ross-Hellauer, Tony. 2024. ‘Open Science at the Generative AI Turn: An Exploratory Analysis of Challenges and Opportunities.’ https://doi.org/10.31235/osf.io/zns7g 
+
 ISED. 2022. ‘Pan-Canadian Artificial Intelligence Strategy’. Home page; Innovation, Science and Economic Development Canada. 20 July 2022. https://ised-isde.canada.ca/site/ai-strategy/en/pan-canadian-artificial-intelligence-strategy.
 
 Lazauskas, Tomas, Jennifer Ding, Neil Brown, Reda Nausedaite, Felix Dijkstal, Aaron Vinnik, Bruno Raabe, et al. 2022. ‘Review of Digital Research Infrastructure Requirements for AI’. https://doi.org/10.13140/RG.2.2.29376.00009.
@@ -170,6 +172,8 @@ Martineau, Kim. 2021. ‘What Is Generative AI?’ IBM Research. 9 February 2021
 Nahar, Nadia, Haoran Zhang, Grace Lewis, Shurui Zhou, and Christian Kästner. Forthcoming. ‘The Product Beyond the Model - An Empirical Study of Repositories of Open-Source ML Products’. In . https://www.cs.cmu.edu/~ckaestne/publications.html.
 
 National Security Agency. 2024. ‘Recommendations for Software Bill of Materials (SBOM) Management’. https://media.defense.gov/2023/Dec/14/2003359097/-1/-1/0/CSI-SCRM-SBOM-MANAGEMENT.PDF.
+
+Nieuwpoort, Rob van, Katz, Daniel S. 2024, Defining the roles of research software (Version 2). https://doi.org/10.54900/xdh2x-kj281
 
 Nordling, Linda. 2023. ‘How ChatGPT Is Transforming the Postdoc Experience’. Nature 622 (7983): 655–57. https://doi.org/10.1038/d41586-023-03235-8.
 

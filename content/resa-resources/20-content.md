@@ -15,6 +15,8 @@ Recent outputs include:
 
 * [Research Software Funding Opportunities](https://www.researchsoft.org/funding-opportunities/) - updated regularly.
 * [Research institution policies to support research software -  Collection](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0) - updated regularly.
+* [Resources on how to create a research software engineering (RSE) group (within an organisation) or association (national, etc)](https://doi.org/10.5281/zenodo.14025417), 2024. 
+* [Research software is critical to the future of AI-driven research](https://doi.org/10.5281/zenodo.13350747), 2024.
 * [The FAIR for Research Software Principles after two years: an adoption update](https://www.researchsoft.org/blog/2024-03/), 2024.
 * [Investing in People: Anticipating the Future of Research Software](https://www.researchsoft.org/blog/2023-10/), 2023.
 * [How Can Open Source Program Offices (OSPOs) Support Research Software?](https://www.researchsoft.org/blog/2023-06/), 2023.

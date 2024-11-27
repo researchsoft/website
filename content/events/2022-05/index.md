@@ -9,7 +9,7 @@ subtitle = "Supporting EDI within the RSE community"
 title_align = "left"
 
 display_date = true
-publishdate = "2022-05-04"
+publishdate = "2024-10-10"
 date = "2022-05-04"
 
 
