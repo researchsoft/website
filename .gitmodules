@@ -7,3 +7,6 @@
 [submodule "themes/syna"]
 	path = themes/syna
 	url = https://git.okkur.org/syna
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
