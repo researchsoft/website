@@ -4,7 +4,7 @@ title = "People"
 subtitle = "Enhance social infrastructure for individuals and communities to improve software practices"
 
 [asset]
-  image = "young-people-500-380.png"
+  image = "/images/young-people-500-380.png"
   text = "young people"
 +++
 
