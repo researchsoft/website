@@ -4,7 +4,7 @@ title = "Policy"
 subtitle = "Encourage and support software recognition"
 
 [asset]
-  image = "writing-828911_1920.jpg"
+  image = "/images/writing-828911_1920.jpg"
   text = "text and writing"
 +++
 
