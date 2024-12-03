@@ -25,3 +25,22 @@ body {
     color: #000000;
     /* Optional: Ensure text is visible on white */
 }
+
+/*To dynamically render logos*/
+.logo-section {
+    padding: 20px;
+    text-align: center;
+}
+
+.logo-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.logo-item img {
+    max-width: 150px;
+    max-height: 150px;
+    object-fit: contain;
+}
