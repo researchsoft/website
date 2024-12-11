@@ -21,6 +21,11 @@ For information on national and international policies that support research sof
 
 Please add any new resources through this [form](https://docs.google.com/forms/d/e/1FAIpQLSenXMgY6c5IDpjvSxfXOWfMwvK8CNrWNFwqZNRgqqRYyyqVJg/viewform) and they will be manually added.
 
+<br>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFcGM-SZIA-IJ7Kb9jN0-CZNI6wWFKxXX6lFejoMDvVnn_N-tqTxHsRi_EMCYXeNUjYU8CPXJ8BbtU/pubhtml?widget=true&amp;headers=false"  frameborder="0" height="1000" width="100%"></iframe>
+
+<br>
+
 | Organisation       | Policy            | Country  | Notes                                                          | Areas covered  | Added to Collection | Last Update or review |
 |--------------------|-------------------|----------|----------------------------------------------------------------|----------------|----------------------|-----------------------|
 | Aalto University   | [Open Source Policy](https://scicomp.aalto.fi/aalto/opensource-policy/)  | Finland  | This policy supports the release of work with limited commercial potential. | Ownership      | 2023                 | 2017-11-13            |
