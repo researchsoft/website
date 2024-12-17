@@ -45,3 +45,10 @@ body {
     max-height: 150px;
     object-fit: contain;
 }
+
+.items-section {
+    background-color: #FFA500;
+    /* Replace with your desired color */
+    padding: 20px;
+    /* Optional: Add padding for spacing */
+}
