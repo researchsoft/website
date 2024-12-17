@@ -10,3 +10,7 @@ subtitle = "To advance the research software ecosystem by collaborating with dec
 +++
 
 To advance the research software ecosystem by collaborating with decision makers and key influencers.
+
+<div style="text-align:center">
+    <img src="ASAP_FullColor.png" alt="ASAP logo">
+</div>
