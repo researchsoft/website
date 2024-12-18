@@ -18,7 +18,3 @@ The [roles of research software](https://doi.org/10.54900/xdh2x-kj281) have also
 <div style="text-align:center">
     <img src="RS_roles_v2.jpeg" alt="Research software roles">
 </div>
-
-<div style="text-align:center">
-    <img src="ASAP_FullColor.png" alt="ASAP logo">
-</div>

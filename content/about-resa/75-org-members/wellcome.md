@@ -3,7 +3,7 @@ title = ""
 #weight =
 
 [asset]
-    image = "Wellcome_logo_Black.jpg"
+    image = "ASAP_Logo_FullColor_RGB.jpg"
     url = "https://wellcome.org/"
     text = "Wellcome logo"
 +++
