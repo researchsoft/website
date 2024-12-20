@@ -3,7 +3,7 @@ title = ""
 #weight =
 
 [asset]
-    image = "ASAP_Logo_FullColor_RGB.jpg"
+    image = "ASAP_FullColor.png"
     url = "https://parkinsonsroadmap.org/#"
     text = "ASAP logo"
 +++
