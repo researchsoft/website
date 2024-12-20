@@ -4,7 +4,7 @@ title = "Infrastructure"
 subtitle = "Identify and promote needed infrastructure"
 
 [asset]
-  image = "ASAP_FullColor.png.png"
+  image = "programmer-hands-500-380.png"
   text = "programmer hands"
 +++
 
