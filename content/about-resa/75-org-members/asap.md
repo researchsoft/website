@@ -3,6 +3,7 @@ title = ""
 #weight =
 
 [asset]
-    url = "https://parkinsonsroadmap.org/#"
+  image = "ASAP_FullColor.png"
+  text = "ASAP"
+  url = " https://parkinsonsroadmap.org/#"
 +++
-## [Aligning Science Across Parkinson's (ASAP)](https://parkinsonsroadmap.org/#)
