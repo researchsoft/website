@@ -5,7 +5,7 @@ googleAnalytics = "UA-181241343-1"
 languageCode = "en-uk"
 LanguageCode = "en-uk"
 title = "Research Software Alliance"
-theme = "ananke"
+theme = "syna"
 enableGitInfo = true
 version = "0.17.3"
 rssLimit = 100
@@ -48,156 +48,150 @@ rssLimit = 100
   [params.colors]
     primary = "darkgreen"
     secondary = "darkorange"
-  customCSS = ["css/custom.css"]
 
-  homePage = true  # This is optional but makes it clear for your intent
+[[menu.main]]
+  identifier = "/about-resa"
+  name = "About"
+  weight = 10
 
+[[menu.main]]
+  parent = "/about-resa"
+  url = "/about-resa"
+  name = "About"
+  weight = 11
 
-[menu]
+[[menu.main]]
+    parent = "/about-resa"
+    url = "/governance"
+    name = "Governance"
+    weight = 12
 
-  [[menu.main]]
-    identifier = "/about-resa"
-    name = "About"
-    weight = 10
+[[menu.main]]
+  parent = "/about-resa"
+  url = "/people"
+  name = "People"
+  weight = 13
 
-    [[menu.main]]
-      parent = "/about-resa"
-      url = "/about-resa"
-      name = "About"
-      weight = 11
+[[menu.main]]
+  parent = "/about-resa"
+  url = "/membership"
+  name = "Organisational Membership"
+  weight = 14
 
-    [[menu.main]]
-        parent = "/about-resa"
-        url = "/governance"
-        name = "Governance"
-        weight = 12
+[[menu.main]]
+  parent = "/about-resa"
+  url = "/donate"
+  name = "Donate"
+  weight = 15
 
-    [[menu.main]]
-      parent = "/about-resa"
-      url = "/people"
-      name = "People"
-      weight = 13
+[[menu.main]]
+  identifier = "/taskforces"
+  name = "Task Forces"
+  weight = 20
 
-    [[menu.main]]
-      parent = "/about-resa"
-      url = "/membership"
-      name = "Organisational Membership"
-      weight = 14
+[[menu.main]]
+  parent = "/taskforces"
+  url = "/taskforces"
+  name = "About Task Forces"
+  weight = 21
 
-    [[menu.main]]
-      parent = "/about-resa"
-      url = "/donate"
-      name = "Donate"
-      weight = 15
+ [[menu.main]]
+  parent = "/taskforces"
+  url = "/tf-support"
+  name = "Task Force Support"
+  weight = 22
 
-  [[menu.main]]
-    identifier = "/taskforces"
-    name = "Task Forces"
-    weight = 20
+[[menu.main]]
+  identifier = "/forums"
+  name = "Forums"
+  weight = 30
 
-    [[menu.main]]
-      parent = "/taskforces"
-      url = "/taskforces"
-      name = "About Task Forces"
-      weight = 21
+[[menu.main]]
+  parent = "/forums"
+  url = "/funders-forum"
+  name = "Funders Forum"
+  weight = 31
 
-    [[menu.main]]
-      parent = "/taskforces"
-      url = "/tf-support"
-      name = "Task Force Support"
-      weight = 22
+[[menu.main]]
+  parent = "/forums"
+  url = "/RSI-forum"
+  name = "Research Software Infrastructure Forum"
+  weight = 32
 
-  [[menu.main]]
-    identifier = "/forums"
-    name = "Forums"
-    weight = 30
+[[menu.main]]
+  parent = "/forums"
+  url = "https://adore.software/"
+  name = "ADORE.software Secretariat"
+  weight = 33
 
-    [[menu.main]]
-      parent = "/forums"
-      url = "/funders-forum"
-      name = "Funders Forum"
-      weight = 31
-
-    [[menu.main]]
-      parent = "/forums"
-      url = "/RSI-forum"
-      name = "Research Software Infrastructure Forum"
-      weight = 32
-
-    [[menu.main]]
-      parent = "/forums"
-      url = "https://adore.software/"
-      name = "ADORE.software Secretariat"
-      weight = 33
-
-    [[menu.main]]
-      parent = "/forums"
-      url = "https://researchsoftware.org/council.html"
-      name = "International Council of RSE Associations"
-      weight = 34
-      
-    [[menu.main]]
-      parent = "/forums"
-      url = "/community-forum"
-      name = "Community Leaders Forum"
-      weight = 35
-
-  [[menu.main]]
-    identifier = "/resa-resources"
-    url = "/resa-resources"
-    name = "Resources"
-    weight = 40
-
-    [[menu.main]]
-      parent = "/resa-resources"
-      name = "Resources"
-      url = "/resa-resources"
-      weight = 41
-
-    [[menu.main]]
-      parent = "/resa-resources"
-      name = "Guidelines"
-      url = "/guidelines"
-      weight = 42
-
-    [[menu.main]]
-      parent = "/resa-resources"
-      name = "Funding Opportunities"
-      url = "/funding-opportunities"
-      weight = 43
-      
-    [[menu.main]]
-      parent = "/resa-resources"
-      name = "Software Policies"
-      url = "/software-policies"
-      weight = 44
-
-    [[menu.main]]
-      parent = "/resa-resources"
-      name = "ADORE.software Declaration"
-      url = "https://adore.software/"
-      weight = 45
-
-    [[menu.main]]
-      parent = "/resa-resources"
-      name = "Research Software Engineers (RSEs)"
-      url = "/research-software-engineers"
-      weight = 46  
+[[menu.main]]
+  parent = "/forums"
+  url = "https://researchsoftware.org/council.html"
+  name = "International Council of RSE Associations"
+  weight = 34
   
-  [[menu.main]]
-    url = "/news"
-    name = "News"
-    weight = 50
+[[menu.main]]
+  parent = "/forums"
+  url = "/community-forum"
+  name = "Community Leaders Forum"
+  weight = 35
 
-  [[menu.main]]
-    url = "/events"
-    name = "Events"
-    weight = 60
+[[menu.main]]
+  identifier = "/resa-resources"
+  url = "/resa-resources"
+  name = "Resources"
+  weight = 40
 
-  [[menu.main]]
-      url = "/blog"
-      name = "Blog"
-      weight = 70
+[[menu.main]]
+  parent = "/resa-resources"
+  name = "Resources"
+  url = "/resa-resources"
+  weight = 41
+
+[[menu.main]]
+  parent = "/resa-resources"
+  name = "Guidelines"
+  url = "/guidelines"
+  weight = 42
+
+[[menu.main]]
+  parent = "/resa-resources"
+  name = "Funding Opportunities"
+  url = "/funding-opportunities"
+  weight = 43
+  
+[[menu.main]]
+  parent = "/resa-resources"
+  name = "Software Policies"
+  url = "/software-policies"
+  weight = 44
+
+[[menu.main]]
+  parent = "/resa-resources"
+  name = "ADORE.software Declaration"
+  url = "https://adore.software/"
+  weight = 45
+
+[[menu.main]]
+  parent = "/resa-resources"
+  name = "Research Software Engineers (RSEs)"
+  url = "/research-software-engineers"
+  weight = 46  
+  
+[[menu.main]]
+  url = "/news"
+  name = "News"
+  weight = 50
+
+[[menu.main]]
+  url = "/events"
+  name = "Events"
+  weight = 60
+
+[[menu.main]]
+    url = "/blog"
+    name = "Blog"
+    weight = 70
 
 [[menu.footer_social]]
   weight = 30
