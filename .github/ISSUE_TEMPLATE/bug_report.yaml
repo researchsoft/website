@@ -1,0 +1,48 @@
+name: Bug Report
+description: 
+title: "BUG: "
+labels: [bug, needs triage]
+
+body: 
+  - type: checkboxes
+    id: checks
+    attributes:
+      lables: Prerequisite(s)
+      options: 
+        - label: >
+          I have checked that this kind of issue has not already been reported.
+          required: true
+        - label: >
+          I have confirmed that this bug exists on the [main branch](https://github.com/researchsoft/website/tree/master)
+  - type: textarea
+    id: example
+    attributes: 
+      label: Reproduce Example
+      description: Please provide a minimal, copy-pasteable code example.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes: 
+      label: Issue Description
+      description: >
+        Please provide a description of the issue shown in the reproducible example.
+    validations:
+      required: true 
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+      description: >
+        Please describe or show a code example of the expected behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: >
+        Please provide any additional information.
+    validations:
+      required: false
+       

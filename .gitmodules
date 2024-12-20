@@ -1,9 +1,12 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "themes/airspace"]
 	path = themes/airspace
 	url = https://github.com/themefisher/airspace-hugo.git
 [submodule "themes/syna"]
 	path = themes/syna
 	url = https://git.okkur.org/syna
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
