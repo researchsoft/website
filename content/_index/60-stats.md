@@ -1,9 +1,33 @@
 +++
-title = ""
+fragment = "table"
+disabled = false
 date = "2020-07-21"
-weight = 11
-+++
+weight = 60
+#background = ""
 
-| 90%                   | 70%                     | 6.5 avg                  |
-|-----------------------|-------------------------|--------------------------|
-| software important for own research | own research not possible without software | distinct software mentions per paper |
+title = ""
+#subtitle = ""
+
+
+[header]
+  [[header.values]]
+    text = "90%"
+    size="20"
+
+  [[header.values]]
+    text = "70%"
+
+  [[header.values]]
+    text = "6.5 avg"
+
+[[rows]]
+  [[rows.values]]
+    text = "software important for own research"
+
+  [[rows.values]]
+    text = "own research not possible without software"
+
+  [[rows.values]]
+    text = "distinct software mentions per paper"
+
++++

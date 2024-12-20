@@ -2,7 +2,7 @@
 fragment = "hero"
 #disabled = true
 date = "2020-07-24"
-weight = 1
+weight = 10
 background = "black"
 particles = true
 
@@ -11,11 +11,11 @@ title = "Research Software Alliance"
 subtitle = "Our vision: Research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide"
 
 [header]
-  image = "/images/main-hero.png"
+  image = "main-hero.png"
   text = "header people working together"
 
 [asset]
-  image = "/images/resa-logo-inverted.svg"
+  image = "resa-logo-inverted.svg"
   width = "750px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
   text = "ReSA logo"
