@@ -2,7 +2,7 @@
 fragment = "items"
 date = "2022-03-06"
 weight = 76
-background_color = "secondary"
+background = "secondary"
 
 title = ""
 
@@ -10,3 +10,5 @@ title = ""
 [params]
   custom_class = "items-section"  # Optional: A custom class for styling the section
 +++
+
+
