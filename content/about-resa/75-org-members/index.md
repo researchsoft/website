@@ -2,7 +2,7 @@
 fragment = "items"
 date = "2022-03-06"
 weight = 76
-background_color = "#FFA500"
+background_color = "secondary"
 
 title = ""
 
