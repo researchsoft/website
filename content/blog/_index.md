@@ -1,4 +1,4 @@
 +++
-title = "Research Software Alliance - Blog"
+title = ""
 description = "Blog"
 +++
