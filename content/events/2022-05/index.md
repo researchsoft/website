@@ -32,12 +32,15 @@ ReSA supports "DiveRSE" a series of talks and related activities supporting Equi
   text = "colour circles"
 +++
 
+<img src="colour-circles-bg-unsplash.jpg"
+     alt="free to use image from Unsplash dsiplaying coloured circles" />
 
 ## About [DiveRSE](https://diverse-rse.github.io/)
 
 [DiveRSE](https://diverse-rse.github.io/) (Diverse RSE) is a series of [talks and related activities](https://diverse-rse.github.io/) including discussion and panel sessions designed to support and raise awareness of EDI challenges and successes within the research software community.
 
 ## [DiveRSE](https://diverse-rse.github.io/): An Introduction
+
 Supporting Equity, Diversity and Inclusion (EDI) within the Research Software Engineering community
 
 The role title “Research Software Engineer” (RSE) was first used only around 10 years ago to describe individuals working in a research environment but focusing on building software. The Research Software Engineering movement started in the UK but has since spread around the world with international associations appearing in a number of countries.
