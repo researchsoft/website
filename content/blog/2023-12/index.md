@@ -26,18 +26,19 @@ author = ["Anelda Van der Walt"]
   """
 
 +++
-![My Image](FwfmuBjWIAIQhg7-1024x768.jpeg)
+<img src ="FwfmuBjWIAIQhg7-1024x768.jpeg"/>
+
 Participants of the first Research Software Indaba held in Cape Town, South Africa in May 2023. _(Photo credit: Noxolo Chalale)_
 
 By Anelda Van der Walt (Director, Talarify)
 
-6 December 2023
+6 December, 2023
 
-The African continent is home to some of the world's most significant multi-country research projects. These projects often include research software and infrastructure development components, but it can be challenging to grasp the African research software and systems engineering (RSSE) landscape. This blog post shares information on ReSA’s activities to support RSSE in this region. It highlights the importance of having both a local community of practice where RSSEs can share their experiences and challenges, lessons learned, and solutions implemented *and* a global dialogue that includes African RSSEs as the RSSE movement matures, develops policies, and solidifies best practices. It concludes with a list of remarkable research projects and organisations that include RSSE components to illustrate how extensive and significant the African RSSE community is.
+The African continent is home to some of the world's most significant multi-country research projects. These projects often include research software and infrastructure development components, but it can be challenging to grasp the African research software and systems engineering (RSSE) landscape. This blog post shares information on ReSA’s activities to support RSSE in this region. It highlights the importance of having both a local community of practice where RSSEs can share their experiences and challenges, lessons learned, and solutions implemented _and_ a global dialogue that includes African RSSEs as the RSSE movement matures, develops policies, and solidifies best practices. It concludes with a list of remarkable research projects and organisations that include RSSE components to illustrate how extensive and significant the African RSSE community is.
 
 In 2023, [Talarify](https://www.talarify.co.za/) was appointed as the African Community Engagement Partner for the [Research Software Alliance](https://www.researchsoft.org/) (ReSA), with funding from a [grant](https://doi.org/10.5281/zenodo.7275397) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). As the  ReSA African Community Engagement Partner, we highlight information from the African community to enhance the visibility of local RSSE-related initiatives. We also share news, opportunities and resources from the ReSA community with African RSSEs and organisations involved in research software development through the channels listed below. We have spoken about the international Research Software Engineers (RSE) movement and ReSA’s work at various African forums, such as the inaugural [ZA-REN Week](https://events.tenet.ac.za/event/33/) (view the [presentation](https://zenodo.org/doi/10.5281/zenodo.10013667)). We have also engaged with the global community to share African RSSE news through events such as the Annual Conference for Research Software Engineering (RSECon 2023) (view the [presentation](https://doi.org/10.5281/zenodo.10013746)).
 
-Our most significant contribution in the past six months was the first [African Research Software Indaba](https://rse-indaba.org) held in Cape Town, South Africa, in May 2023. The event covered discussions around four themes: 
+Our most significant contribution in the past six months was the first [African Research Software Indaba](https://rse-indaba.org) held in Cape Town, South Africa, in May 2023. The event covered discussions around four themes:
 
 - **Local RSSE initiatives** with presentations from [RSE@SUN](https://rse-at-sun.github.io/RSE-at-SUN/), [RSSE Africa](https://rsse.africa), and the [eLwazi Open Data Science Platform](https://elwazi.org/)
 - **RSE movement, policy and funding** with presentations from Professor Simon Hettrick, Deputy Director of the UK [Software Sustainability Institute](https://software.ac.uk) (SSI), and Dr Michelle Barker, Director of ReSA
@@ -56,7 +57,7 @@ One regional initiative that plays a role in providing a local community of prac
 - created an [RSSE Africa LinkedIn group](https://www.linkedin.com/groups/12903402/)
 - created an [RSSE Africa X (Twitter)](https://twitter.com/RsseAfrica) account
 - organised community meetups
-- launched a [newsletter](https://rsse.africa/newsletters/) and 
+- launched a [newsletter](https://rsse.africa/newsletters/) and
 - started a project to [spotlight African RSSEs](https://rsse.africa/project/spotlight/).
 
 Talarify is looking forward to continuing working closely with ReSA, RSSE Africa, and various other global and local partners to amplify the voice of African RSSEs and create local awareness of existing resources, opportunities, communities, and more!
@@ -71,13 +72,13 @@ The [**African Institute for Mathematical Sciences**](https://centres.nexteinste
 
 The [**ICTP-East African Institute for Fundamental Research**](https://eaifr.org/) (EAIFR) is a partner institute of the Abdus Salam International Centre for Theoretical Physics (ICTP) and a Category 2 UNESCO institute. The institute focuses on training physics graduates and research in topics related to condensed matter physics, geophysics, particle physics, cosmology, and more.
 
-The [**National Institute for Theoretical and Computational Sciences**](https://nithecs.ac.za/) (NiTheCS) consortium includes 25 South African universities and institutes. The consortium’s research focuses on diverse but interconnected research areas such as theoretical physics, mathematics, astronomy and astrophysics, statistics, data science, quantitative finance, bioinformatics and quantitative biology, earth systems modelling, and climate change modelling. 
+The [**National Institute for Theoretical and Computational Sciences**](https://nithecs.ac.za/) (NiTheCS) consortium includes 25 South African universities and institutes. The consortium’s research focuses on diverse but interconnected research areas such as theoretical physics, mathematics, astronomy and astrophysics, statistics, data science, quantitative finance, bioinformatics and quantitative biology, earth systems modelling, and climate change modelling.
 
 The [**Square Kilometre Array**](https://www.skao.int/) (SKA) is a global project with a significant African presence. The SKA-Mid, which will be constructed in South Africa, will have four times the resolution and five times the sensitivity and will be able to survey the sky 60 times faster than the Karl G. Jansky Very Large Array (VLA) telescope in the United States. The computing and data infrastructure required for the SKA project is “astronomical”.
 
 **Biodiversity and Agriculture and Bioinformatics**
 
-The [**African BioGenome Project**](https://africanbiogenome.org/) (AfricaBP) is a coordinated pan-African effort to build capacity (and infrastructure) to generate, analyse, and deploy genomics data for the improvement and sustainable use of biodiversity and agriculture across Africa. 
+The [**African BioGenome Project**](https://africanbiogenome.org/) (AfricaBP) is a coordinated pan-African effort to build capacity (and infrastructure) to generate, analyse, and deploy genomics data for the improvement and sustainable use of biodiversity and agriculture across Africa.
 
 The [**International Livestock Research Institute**](https://www.ilri.org/) (ILRI) is a CGIAR research centre operating across Southern and Eastern Africa. ILRI’s mission is to “improve food and nutritional security and to reduce poverty in developing countries through research for efficient, safe and sustainable use of livestock.”
 
@@ -89,11 +90,11 @@ The [**Data Science for Health Discovery and Innovation in Africa**](https://dsi
 
 The [**Human Heredity and Health in Africa**](https://h3africa.org/) (H3Africa) consortium was funded between 2011 and 2021 by the US National Institutes of Health, Wellcome Trust, the African Academy of Sciences, and the Science for Africa Foundation. The consortium comprises 51 African projects from 30 different countries. Project topics include population-based genomic studies of common, non-communicable disorders such as heart and renal disease and infectious diseases such as tuberculosis.
 
-[**H3ABioNet**](https://h3abionet.org/) is a sub-project of H3Africa and was established to develop bioinformatics capacity, specifically genomics data analysis expertise within the H3Africa projects. These projects included infrastructure development, bio-repositories and analysis pipelines, and intensive bioinformatics training. 
+[**H3ABioNet**](https://h3abionet.org/) is a sub-project of H3Africa and was established to develop bioinformatics capacity, specifically genomics data analysis expertise within the H3Africa projects. These projects included infrastructure development, bio-repositories and analysis pipelines, and intensive bioinformatics training.
 
 **Natural Language Processing, Machine Learning and Artificial Intelligence**
 
-The [**Deep Learning Indaba**](https://deeplearningindaba.com/2023/) aims “to build a sustainable pan-African community of Artificial Intelligence (AI) expertise, create local leadership in AI in every country across the continent, and recognise excellence in research and application of AI technologies, respectively.” 
+The [**Deep Learning Indaba**](https://deeplearningindaba.com/2023/) aims “to build a sustainable pan-African community of Artificial Intelligence (AI) expertise, create local leadership in AI in every country across the continent, and recognise excellence in research and application of AI technologies, respectively.”
 
 The [**Machine Intelligence Institute of Africa**](https://miiafrica.org/research/) (MIIA) is a non-profit organisation that spans academia, industry, government, and non-governmental organisations. MIIA aims to “transform and help build an AI-powered Africa through a strong, innovative and collaborative Machine Intelligence, AI and Data Science community, consisting of individuals and key players in the African Artificial Intelligence Ecosystem”.
 

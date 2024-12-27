@@ -25,14 +25,14 @@ author = ["Kim Hartley, Michelle Barker, Daniel S. Katz"]
   """
 
 +++
-
-![My Image](GRC-meeting.png)
+<img src="GRC-meeting.png"/>
 
 _Daniel S. Katz, Maria Cruz, Michelle Barker, and Florian Mannseicher at the Global Research Council annual meeting in Interlaken, Switzerland - May 2024_
 _(Image credit: Daniel S. Katz)_
 
-
 Authors: Kim Hartley, Michelle Barker, Daniel S. Katz
+
+20 June, 2024
 
 Given that software is an integral component of research processes and a widely used instrument for scientific research in all fields, funders have increasingly recognised and valued research software and the people who develop and maintain it as fundamental and vital to research globally. The Research Software Alliance (ReSA) has led the development of the funders community into the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/), which has engaged more than 60 funding organisations from across the globe since its inception in 2022. The Funders Forum has been working diligently to address common challenges to achieve the significant cultural change needed across the research sector and better coordinate investment globally. This group of funders has been instrumental in improving the research software ecosystem to accelerate research outcomes through its commitment to the sustainability of research software and the people who develop and maintain it. ReSA is pleased to highlight some of the Funders Forum’s accomplishments in this blog post, which follows the 2024 [Global Research Council (GRC)](https://globalresearchcouncil.org/) annual meeting in Interlaken, Switzerland. A key outcome of the Funders Forum’s work is the inclusion of a research software side event at the GRC meeting.
 
@@ -46,8 +46,8 @@ As a secretariat, ReSA convenes and manages the Funders Forum community. Funders
 
 ReSA is grateful to all the funders who engage in this important work and support the sustainability of the Funders Forum through ReSA’s [Organisational Membership program](https://www.researchsoft.org/membership/), such as the US National Institutes of Health (NIH). As Dr. Susan Gregurick, Associate Director for Data Science and Director of the [Office of Data Science Strategy (ODSS)](https://datascience.nih.gov/) and Ishwar Chandramouliswaran, Lead, FAIR Data & Resources, ODSS, describe,
 
-_"NIH is pleased to support, through membership and relevant activities, 
-the Research Software Alliance (ReSA). ReSA’s mission to  bring research 
+_"NIH is pleased to support, through membership and relevant activities,
+the Research Software Alliance (ReSA). ReSA’s mission to  bring research
 software communities together to collaborate and advance science aligns with the NIH’s mission to accelerate health discovery by supporting the development and sustainment of biomedical research software. As a funders forum participant, we have the opportunity to engage with other funders who share similar missions and learn about their programs including identifying opportunities for potential collaboration. And as an organizational member, NIH and our community benefit from various resources developed by ReSA such as the FAIR for Research Software principles and the catalog of [funding opportunities](https://www.researchsoft.org/funding-opportunities/) made available to the community. NIH is pleased to support this vibrant community and its leadership and we believe it is timely given the critical role of software and AI/ML applications in advancing health research."_
 
 Moreover, Dr. Maria Cruz, Programme Leader Open Research Software and Senior Open Science Policy Advisor at the [Dutch Research Council (NWO)](https://www.nwo.nl/en), shares that,
@@ -78,7 +78,7 @@ This side event on _Research Software - Challenges and Funding_ discussed gaps r
 Dr. Florian Mannseicher, Programme Officer at DFG, reflects that,
 
 _"Despite its ubiquitous use for scientific research in all fields, research software is still often overlooked by many research funding agencies worldwide. The lack of proper funding for maintaining research software leads to waste of resources, duplication of effort, and difficulties in reproducibility as well as long-term availability of research software._
- 
+
 _The side event at the GRC annual meeting in Interlaken aimed to discuss and evaluate, on a global scale, how the development, use, and evolution of research software can be advanced in a concerted manner via concrete actions by research funding organizations. For example, the side event addressed how funding organizations can help tackle key social challenges facing the research software community and thus contribute to a culture change toward open, digital science._
 
 _This initiative is another step in the ongoing collaboration between DFG, NWO, and ReSA regarding the topic research software. It originated as part of activities around the Funders Forum and was initiated by FAPESP. DFG and NWO have recently joined ReSA as organisational members and will thus continue to help contribute to ReSA's [vision](https://www.researchsoft.org/about-resa/) in the long term. Moreover, DFG has demonstrated its support of research software through significant investments in research software sustainability, quality, and reusability. DFG [recently announced a new funding programme](https://www.dfg.de/en/news/news-topics/announcements-proposals/2024/ifr-24-41) to facilitate the development of infrastructures for research software. The [Research Software Infrastructures program](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/infrastructure/lis/funding-opportunities/research-software-infrastructures) aims to pave the way for the improvement of subject-specific handling of research software while supporting the development of a community-based framework of research software infrastructures in Germany."_
@@ -145,4 +145,3 @@ We look forward to welcoming you!
 **Acknowledgements**
 
 This project has been made possible in part by grants from the Alfred P. Sloan Foundation: G-2022-19564 and G-2021-17001.
-
