@@ -29,6 +29,8 @@ author = ["Michelle Barker, Leyla Jael Castro, Bernadette Fritzsch, Daniel S. Ka
 
 By Michelle Barker, Leyla Jael Castro, Bernadette Fritzsch, Daniel S. Katz, Carlos Martinez-Ortiz, Anna Niehues, Alexander Struck, Qian Zhang
 
+20 March, 2024
+
 [This blog past has been cross-posted by the [Software Sustainability Institute](https://www.software.ac.uk/blog/fair-research-software-principles-after-two-years-adoption-update), [Netherlands eScience Center](https://blog.esciencecenter.nl/the-fair-for-research-software-principles-after-two-years-an-adoption-update-ce5d382e5221?source=friends_link&sk=04c4012c947f1eacbe7c11b980993d93), and others.]
 
 The [FAIR for Research Software (FAIR4RS) Principles](https://doi.org/10.1038/s41597-022-01710-x) aim to promote and encourage the findability, accessibility, interoperability, and reusability (FAIR) of research software. The FAIR4RS Principles were [released](https://doi.org/10.15497/RDA00068) in 2022, with a number of organisations already [planning adoption](https://doi.org/10.5281/zenodo.6258366) at that time. Adoption and implementation of the FAIR4RS Principles can increase the transparency, reproducibility, and reusability of research by providing research software that can be executed, replicated, built-upon, combined, reinterpreted, reimplemented, and/or used in different settings and by third-parties.
