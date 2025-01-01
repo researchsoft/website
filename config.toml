@@ -52,35 +52,6 @@ rssLimit = 100
 
 [menus]
   [[menus.main]]
-    name = 'About'
-    url = '/about-resa/'
-    weight = 10
-  [[menus.main]]
-    name = 'About RESA'
-    url = '/about-resa/about-resa'
-    parent = 'About'
-    weight = 11
-  [[menus.main]]
-    name = 'Governance'
-    url = '/about-resa/governance'
-    parent = 'About'
-    weight = 12
-  [[menus.main]]
-    name = 'People'
-    url = '/about-resa/people'
-    parent = 'About'
-    weight = 13
-  [[menus.main]]
-    name = 'Organisational Membership'
-    url = '/about-resa/membership'
-    parent = 'About'
-    weight = 14
-  [[menus.main]]
-    name = 'Donate'
-    url = '/about-resa/donate'
-    parent = 'About'
-    weight = 15
-  [[menus.main]]
     name = 'Task Forces'
     url = '/taskforces/'
     weight = 20
