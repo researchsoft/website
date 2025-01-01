@@ -1,25 +1,26 @@
 <nav>
     <ul>
-        <li><a href="/">Home</a></li>
+        <li><a href="{{ "/" | relURL }}">Home</a></li>
         <li class="dropdown">
-            <a href="/about/" class="dropbtn">About</a>
+            <a href="{{ "/about/" | relURL }}" class="dropbtn">About</a>
             <div class="dropdown-content">
-                <a href="/about/resa">About ReSA</a>
-                <a href="/about/service2">Service 2</a>
-                <a href="/about/service3">Service 3</a>
+                <a href="{{ "/about-resa/" | relURL }}">About ReSA</a>
+                <a href="{{ "/about/service2/" | relURL }}">Service 2</a>
+                <a href="{{ "/about/service3/" | relURL }}">Service 3</a>
             </div>
         </li>
         <li class="dropdown">
             <a href="#" class="dropbtn">Services</a>
             <div class="dropdown-content">
-                <a href="/services/service1">Service 1</a>
-                <a href="/services/service2">Service 2</a>
-                <a href="/services/service3">Service 3</a>
+                <a href="{{ "/services/service1/" | relURL }}">Service 1</a>
+                <a href="{{ "/services/service2/" | relURL }}">Service 2</a>
+                <a href="{{ "/services/service3/" | relURL }}">Service 3</a>
             </div>
         </li>
-        <li><a href="/contact">Contact</a></li>
+        <li><a href="{{ "/contact/" | relURL }}">Contact</a></li>
     </ul>
 </nav>
+
 
 <style>
     nav ul {
