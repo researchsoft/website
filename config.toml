@@ -35,6 +35,7 @@ rssLimit = 100
   github = "https://github.com/researchsoft"
   site_logo = "img/resa-logo-software-green.png"
   name = "The Research Software Alliance"
+  customCSS = ["css/custom.css"]
 
   date_format = "January 2, 2006"
   dateFormatAtomFeed = "2006-01-02T15:04:05-07:00"
@@ -49,195 +50,160 @@ rssLimit = 100
     primary = "darkgreen"
     secondary = "darkorange"
 
-[[menu.main]]
-  identifier = "/about-resa"
-  name = "About"
-  weight = 10
-
-[[menu.main]]
-  parent = "/about-resa"
-  url = "/about-resa"
-  name = "About"
-  weight = 11
-
-[[menu.main]]
-    parent = "/about-resa"
-    url = "/governance"
-    name = "Governance"
+[menus]
+  [[menus.main]]
+    name = 'About'
+    url = '/about-resa/'
+    weight = 10
+  [[menus.main]]
+    name = 'About RESA'
+    url = '/about-resa/about-resa'
+    parent = 'About'
+    weight = 11
+  [[menus.main]]
+    name = 'Governance'
+    url = '/about-resa/governance'
+    parent = 'About'
     weight = 12
+  [[menus.main]]
+    name = 'People'
+    url = '/about-resa/people'
+    parent = 'About'
+    weight = 13
+  [[menus.main]]
+    name = 'Organisational Membership'
+    url = '/about-resa/membership'
+    parent = 'About'
+    weight = 14
+  [[menus.main]]
+    name = 'Donate'
+    url = '/about-resa/donate'
+    parent = 'About'
+    weight = 15
+  [[menus.main]]
+    name = 'Task Forces'
+    url = '/taskforces/'
+    weight = 20
+  [[menus.main]]
+    name = 'About Task Forces'
+    url = '/taskforces/about-taskforces'
+    parent = 'Task Forces'
+    weight = 21
+  [[menus.main]]
+    name = 'Task Force Support'
+    url = '/taskforces/tf-support'
+    parent = 'Task Forces'
+    weight = 22
+  [[menus.main]]
+    name = 'Forums'
+    url = '/forums/'
+    weight = 30
+  [[menus.main]]
+    name = 'Funders Forum'
+    url = '/forums/funders-forum'
+    parent = 'Forums'
+    weight = 31
+  [[menus.main]]
+    name = 'Research Software Infrastructure Forum'
+    url = '/forums/rsi-forum'
+    parent = 'Forums'
+    weight = 32
+  [[menus.main]]
+    name = 'ADORE.software Secretariat'
+    url = 'https://adore.software/'
+    parent = 'Forums'
+    weight = 33
+  [[menus.main]]
+    name = 'International Council of RSE Associations'
+    url = 'https://researchsoftware.org/council.html'
+    parent = 'Forums'
+    weight = 34
+  [[menus.main]]
+    name = 'Community Leaders Forum'
+    url = '/forums/community-forum'
+    parent = 'Forums'
+    weight = 35
 
-[[menu.main]]
-  parent = "/about-resa"
-  url = "/people"
-  name = "People"
-  weight = 13
+  [[menus.main]]
+    name = 'Resources'
+    url = '/resa-resources/'
+    weight = 40
+  [[menus.main]]
+    name = 'Guidelines'
+    url = '/resa-resources/guidelines'
+    parent = 'Resources'
+    weight = 42
+  [[menus.main]]
+    name = 'Funding Opportunities'
+    url = '/resa-resources/funding-opportunities'
+    parent = 'Resources'
+    weight = 43
+  [[menus.main]]
+    name = 'Software Policies'
+    url = '/resa-resources/software-policies'
+    parent = 'Resources'
+    weight = 44
+  [[menus.main]]
+    name = 'ADORE.software Declaration'
+    url = 'https://adore.software/'
+    parent = 'Resources'
+    weight = 45
+  [[menus.main]]
+    name = 'Research Software Engineers (RSEs)'
+    url = '/resa-resources/research-software-engineers'
+    parent = 'Resources'
+    weight = 46
 
-[[menu.main]]
-  parent = "/about-resa"
-  url = "/membership"
-  name = "Organisational Membership"
-  weight = 14
-
-[[menu.main]]
-  parent = "/about-resa"
-  url = "/donate"
-  name = "Donate"
-  weight = 15
-
-[[menu.main]]
-  identifier = "/taskforces"
-  name = "Task Forces"
-  weight = 20
-
-[[menu.main]]
-  parent = "/taskforces"
-  url = "/taskforces"
-  name = "About Task Forces"
-  weight = 21
-
- [[menu.main]]
-  parent = "/taskforces"
-  url = "/tf-support"
-  name = "Task Force Support"
-  weight = 22
-
-[[menu.main]]
-  identifier = "/forums"
-  name = "Forums"
-  weight = 30
-
-[[menu.main]]
-  parent = "/forums"
-  url = "/funders-forum"
-  name = "Funders Forum"
-  weight = 31
-
-[[menu.main]]
-  parent = "/forums"
-  url = "/RSI-forum"
-  name = "Research Software Infrastructure Forum"
-  weight = 32
-
-[[menu.main]]
-  parent = "/forums"
-  url = "https://adore.software/"
-  name = "ADORE.software Secretariat"
-  weight = 33
-
-[[menu.main]]
-  parent = "/forums"
-  url = "https://researchsoftware.org/council.html"
-  name = "International Council of RSE Associations"
-  weight = 34
-  
-[[menu.main]]
-  parent = "/forums"
-  url = "/community-forum"
-  name = "Community Leaders Forum"
-  weight = 35
-
-[[menu.main]]
-  identifier = "/resa-resources"
-  url = "/resa-resources"
-  name = "Resources"
-  weight = 40
-
-[[menu.main]]
-  parent = "/resa-resources"
-  name = "Resources"
-  url = "/resa-resources"
-  weight = 41
-
-[[menu.main]]
-  parent = "/resa-resources"
-  name = "Guidelines"
-  url = "/guidelines"
-  weight = 42
-
-[[menu.main]]
-  parent = "/resa-resources"
-  name = "Funding Opportunities"
-  url = "/funding-opportunities"
-  weight = 43
-  
-[[menu.main]]
-  parent = "/resa-resources"
-  name = "Software Policies"
-  url = "/software-policies"
-  weight = 44
-
-[[menu.main]]
-  parent = "/resa-resources"
-  name = "ADORE.software Declaration"
-  url = "https://adore.software/"
-  weight = 45
-
-[[menu.main]]
-  parent = "/resa-resources"
-  name = "Research Software Engineers (RSEs)"
-  url = "/research-software-engineers"
-  weight = 46  
-  
-[[menu.main]]
-  url = "/news"
-  name = "News"
-  weight = 50
-
-[[menu.main]]
-  url = "/events"
-  name = "Events"
-  weight = 60
-
-[[menu.main]]
-    url = "/blog"
-    name = "Blog"
+  [[menus.main]]
+    name = 'News'
+    url = '/news/'
+    weight = 50
+  [[menus.main]]
+    name = 'Events'
+    url = '/events/'
+    weight = 60
+  [[menus.main]]
+    name = 'Blog'
+    url = '/blog/'
     weight = 70
-
-[[menu.footer_social]]
-  weight = 30
+[[menus.footer_social]]
   name = "github"
   url = "https://github.com/researchsoft/website"
+  weight = 30
   pre = "fab fa-github fa-stack-2x"
-
-[[menu.footer_social]]
-  weight = 40
+[[menus.footer_social]]
   name = "email"
-  url = "/contact/"
+  pageRef = "contact/"
+  weight = 40
   pre = "fa fa-envelope"
-
-[[menu.footer_social]]
-  weight = 50
+[[menus.footer_social]]
   name = "slack"
   url = "https://join.slack.com/t/researchsoft/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w"
+  weight = 50
   pre = "fab fa-slack"
-
-[[menu.footer_social]]
-  weight = 60
+[[menus.footer_social]]
   name = "Mastodon"
   url = "https://fosstodon.org/@researchsoft"
-  pre = "fab fa-mastodon"
-
-[[menu.footer_social]]
   weight = 60
+  pre = "fab fa-mastodon"
+[[menus.footer_social]]
   name = "LinkedIn"
   url = "https://www.linkedin.com/company/research-software-alliance"
+  weight = 60
   pre = "fab fa-linkedin"  
-
-[[menu.footer_social]]
-  weight = 70
+[[menus.footer_social]]
   name = "Atom Feed"
-  url = "/feed.xml"
+  pageRef = "feed.xml"
+  weight = 70
   pre = "fa fa-rss"
-
-[[menu.copyright_footer]]
-  url = "/license"
+[[menus.copyright_footer]]
   name = "License"
+  pageRef = "license"
   weight = 60
   color = "primary"
-
-[[menu.copyright_footer]]
-  url = "/code-of-conduct"
+[[menus.copyright_footer]]
   name = "Code of Conduct"
+  pageRef = "code-of-conduct"
   weight = 70
   color = "primary"
 
