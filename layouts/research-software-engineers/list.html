@@ -1,0 +1,10 @@
+{{ define "main" }}
+<section id="research-software-engineers">
+    {{ range .Pages }}
+    <article>
+        <h2>{{ .Title }}</h2>
+        <div>{{ .Content }}</div>
+    </article>
+    {{ end }}
+</section>
+{{ end }}
