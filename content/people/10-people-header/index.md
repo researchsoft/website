@@ -7,7 +7,7 @@ background = "black"
 particles = true
 
 title_page = false # Default is false
-title = "Our Team"
+title = ""
 
 [header]
   image = "main-hero.png"

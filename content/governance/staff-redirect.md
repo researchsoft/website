@@ -7,4 +7,4 @@ background = "white"
 title = ""
 +++
 
-To meet the ReSA team go to the [**People page**](https://www.researchsoft.org/people/).
+To meet the ReSA team go to the [**People page**](/people/).
