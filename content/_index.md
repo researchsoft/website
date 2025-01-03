@@ -78,6 +78,14 @@ Research software is recognised as [critical](https://doi.org/10.1038/s43588-024
 
 Research software is also critical in artificial intelligence (AI)-driven research, and the technological infrastructure to support AI acceleration must include research software and its personnel. Read our [position paper](https://doi.org/10.5281/zenodo.13350747) on this vital part of AI infrastructure, which includes  recommendations for stakeholders on how to consider research software in their AI goals. 
 
+<style>
+table, td, th {
+  border: 2px solid black;
+  vertical-align: top;
+  !important;
+ }
+</style>
+
 | 90%                   | 70%                     | 6.5 avg                  |
 |-----------------------|-------------------------|--------------------------|
 | software important for own research | own research not possible without software | distinct software mentions per paper |

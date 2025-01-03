@@ -22,4 +22,3 @@ For information on national and international policies that support research sof
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFcGM-SZIA-IJ7Kb9jN0-CZNI6wWFKxXX6lFejoMDvVnn_N-tqTxHsRi_EMCYXeNUjYU8CPXJ8BbtU/pubhtml?widget=true&amp;headers=false"  frameborder="0" height="1000" width="100%"></iframe>
 
 <br>
-

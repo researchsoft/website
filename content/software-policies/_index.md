@@ -1,4 +1,4 @@
 +++
-title = "Research Software Policies"
+title = "Software Policies"
 date = "2023-05-24"
 +++

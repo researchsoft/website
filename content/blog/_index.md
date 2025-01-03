@@ -1,6 +1,4 @@
 +++
-title = "Research Software Alliance - Blog"
-description = "Blog"
+title = "Blog"
+description = ""
 +++
-
-# our blog's skeleton index/main page used for setting the title and description
