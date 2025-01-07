@@ -5,5 +5,5 @@ title = ""
 [asset]
     image = "ASAP_FullColor.png"
     url = "https://parkinsonsroadmap.org/#"
-    text = "ASAP logo"
+    text = "ASAP"
 +++
