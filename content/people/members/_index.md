@@ -41,6 +41,8 @@ Jyoti has been a PyData Global Impact scholar (2021). She is a keen advocate of 
     <img src="/people/members/kim_sq.jpg" alt="Kim Hartley" style="max-width: 200px; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1 1 auto; text-align: left; max-width: calc(100% - 320px);">
+  <h2 style="margin: 0; font-size: 1.5em; color: #333;">Kim Hartley, Program Manager</h2>
+  <h3 style="margin: 0; font-size: 1em; color: #333;font-style: italic;"> Lives in Canada</h3>
 
 Kim joined ReSA in 2022, with support from the [Digital Research Alliance of Canada](https://alliancecan.ca/), to facilitate the
 [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/), a formal mechanism for international funding organisations to collaborate.
@@ -71,6 +73,8 @@ scholarly, and creative activities.
     <img src="/people/members/talarify-people.png" alt="Talarify logo" style="max-width: 200px; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1 1 auto; text-align: left; max-width: calc(100% - 320px);">
+  <h2 style="margin: 0; font-size: 1.5em; color: #333;">Talarify, Community Engagement Partner (Africa)</h2>
+  <h3 style="margin: 0; font-size: 1em; color: #333;font-style: italic;"> Lives in South Africa</h3>
 
 Talarify joined ReSA in 2023 to support community growth in Africa, with funding by a [grant](https://doi.org/10.5281/zenodo.7275397) from the Chan Zuckerberg Initiative.
 
@@ -100,6 +104,7 @@ Talarify executive director, Anelda van der Walt has a background in bioinformat
     <img src="/people/members/CSS_square.png" alt="ode for Science & Society" style="max-width: 200px; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1 1 auto; text-align: left; max-width: calc(100% - 320px);">
+  <h2 style="margin: 0; font-size: 1.5em; color: #333;">Code for Science & Society, Fiscal Sponsor</h2>
 
 [Code for Science and Society](https://codeforscience.org/) (CS&S) is ReSA’s fiscal sponsor. CS&S partner with leaders across public interest technology through comprehensive fiscal sponsorship. Projects in the fiscal sponsorship program are supported with financial and operational services. Their approach includes strategic support to develop governance, sustainability, and community strategies. 
 
