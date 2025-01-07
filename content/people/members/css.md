@@ -18,7 +18,7 @@ position = "Fiscal Sponsor"
 [[icons]]
   icon = "fab fa-linkedin-in"
   text = "Linkedin"
-  url = "https://www.linkedin.com/company/code-for-societyy"
+  url = "https://www.linkedin.com/company/code-for-society"
 
 [asset]
   image = "CSS_square.png"

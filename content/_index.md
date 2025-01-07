@@ -32,8 +32,10 @@ We look forward to welcoming you!
 # ReSA themes
 
 ## People
-
-<img src="images/young-people-500-380.png"/>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 70px; height: 60vh;">
+  <img src="images/young-people-500-380.png"/>
+</div>
+  
 
 [ReSA community consultations](https://www.researchsoft.org/taskforces/) with **people** impacts include:
 
@@ -46,8 +48,9 @@ We look forward to welcoming you!
 
 
 ## Infrastructure
-
-<img src="images/programmer-hands-500-380.png"/>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 70px; height: 60vh;">
+  <img src="images/programmer-hands-500-380.png"/>
+</div>
 
 ReSA task forces](https://www.researchsoft.org/taskforces/) and activities with **infrastructure** impacts include:
 
@@ -58,8 +61,9 @@ ReSA task forces](https://www.researchsoft.org/taskforces/) and activities with 
 * [How Can Open Source Program Offices (OSPOs) Support Research Software?](https://www.researchsoft.org/blog/2023-06/) is a ReSA blog post that explores the role of OSPOs in supporting open-source research software in universities, governments, and civic institutions. 
 
 ## Policy
-
-<img src="images/writing-828911_1920.jpg"/>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 70px; height: 60vh;">
+  <img src="images/writing-828911_1920.jpg"/>
+</div>
 
 [ReSA activities](https://www.researchsoft.org/taskforces/) with **policy** impacts include:
 
