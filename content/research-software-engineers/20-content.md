@@ -20,3 +20,18 @@ ReSA is the secretariat for the [International Council of RSE Associations](http
 - ReSA [Zenodo community](https://zenodo.org/communities/resa/?page=1&size=20)
 - ReSA [resources](https://www.researchsoft.org/resa-resources/#), [guidelines](https://www.researchsoft.org/guidelines/), [events](https://www.researchsoft.org/events/), and [blog](https://www.researchsoft.org/blog/)
 - ReSA [Linkedin](https://www.linkedin.com/company/research-software-alliance/), [Mastodon](https://fosstodon.org/@researchsoft), and [Slack](https://join.slack.com/t/researchsoft/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w)
+
+## International RSE associations:
+
+* [BE-RSE \- Belgium Research Software Engineers](https://be-rse.org/)
+* [Danish RSE \- Danish Research Software Engineers Community](https://dighumlab.org/danish-rse/)
+* [DevLOG \- French Research Software Engineers](https://www.devlog.cnrs.fr/)
+* [DE-RSE \- Society for Research Software in Germany](http://de-rse.org/)  
+* [NL-RSE \- the Netherlands Research Software Engineers community](http://nl-rse.org/)
+* [Nordic-RSE \- Nordic Research Software Engineers](http://nordic-rse.org/)
+* [Rscan \- Research Software Canada](https://github.com/alliancecan/RSCAN)
+* [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/)  
+* [RSE-AUNZ \- RSE Association of Australia and New Zealand](https://rse-aunz.github.io/)
+* [RSSE Africa](https://rsse.africa/)
+* [Soc-RSE \- UK Society of Research Software Engineering](https://society-rse.org/)
+* [US-RSE \- United States Research Software Engineer Association](https://us-rse.org/)
