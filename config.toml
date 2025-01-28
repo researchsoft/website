@@ -68,8 +68,8 @@ rssLimit = 100
 
 [[menu.main]]
   parent = "/about-resa"
-  url = "/people"
-  name = "People"
+  url = "/our-team"
+  name = "Our Team"
   weight = 13
 
 [[menu.main]]
