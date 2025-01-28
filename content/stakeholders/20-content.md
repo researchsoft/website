@@ -20,7 +20,7 @@ Our stakeholders include:
 * **Research on research software:** Co-authoring a [position paper](https://doi.org/10.5281/zenodo.13350747) on the criticality of research software in AI-driven research.  
 
 <div style="text-align:center">
-    <img src="stakeholders.png" alt="stakeholders">
+    <img src="images/stakeholders.png" alt="stakeholders">
 </div>
 
 ![][image1]
