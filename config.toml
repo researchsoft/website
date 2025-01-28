@@ -80,15 +80,15 @@ rssLimit = 100
 
 [[menu.main]]
   parent = "/about-resa"
-  url = "/donate"
-  name = "Donate"
-  weight = 15
+  url = "/stakeholders"
+  name = "Stakeholders"
+  weight = 15  
 
 [[menu.main]]
   parent = "/about-resa"
-  url = "/stakeholders"
-  name = "Stakeholders"
-  weight = 16  
+  url = "/donate"
+  name = "Donate"
+  weight = 16
 
 [[menu.main]]
   identifier = "/taskforces"
