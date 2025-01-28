@@ -4,6 +4,10 @@ disabled = false
 date = "2025-01-28"
 weight = 20
 background = "white"
+
+[asset]
+  image = "stakeholders.png"
+  text = "stakeholders"
 +++
 
 ReSA engages multiple stakeholder groups across the international research software community to collaborate to achieve common goals. ReSA’s community encompasses many relevant research software organisations, initiatives, and communities that have a national or regional focus, disciplinary focus, or thematic focus (such as software citation or representation of RSEs).
