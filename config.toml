@@ -85,6 +85,12 @@ rssLimit = 100
   weight = 15
 
 [[menu.main]]
+  parent = "/about-resa"
+  url = "/stakeholders"
+  name = "Stakeholders"
+  weight = 16  
+
+[[menu.main]]
   identifier = "/taskforces"
   name = "Task Forces"
   weight = 20
