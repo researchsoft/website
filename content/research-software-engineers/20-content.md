@@ -6,7 +6,7 @@ weight = 20
 background = "white"
 +++
 
-ReSA aims to coordinate discussions across a wide range of research software organisations and programs. Our stakeholders include funders, policy-makers, research software engineer associations, infrastructure providers, university consortia, publishers, and thematic communities.
+ReSA aims to coordinate discussions across a wide range of research software organisations and programs. Our [stakeholders](https://www.researchsoft.org/stakeholders/) include funders, policy-makers, research software engineer associations, infrastructure providers, university consortia, publishers, and thematic communities.
 
 ReSA is the secretariat for the [International Council of RSE Associations](https://researchsoftware.org/council.html) – we work with leaders in the research software engineering community through the Council. The following ReSA resources might be of interest to both leaders and individual RSEs:
 
