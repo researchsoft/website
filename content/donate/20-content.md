@@ -16,7 +16,7 @@ following ways:
 impacting the global research software ecosystem.
 - Facilitate
 [networking opportunities](https://www.researchsoft.org/funders-forum/)
-for stakeholders to exchange information and collaborate on an international level.
+for [stakeholders](https://www.researchsoft.org/stakeholders/) to exchange information and collaborate on an international level.
 - Create a range of [outputs](https://www.researchsoft.org/resa-resources/) that
 provide useful references to support recognition and valuing of research
 software as a key component of research.
