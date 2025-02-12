@@ -10,7 +10,7 @@ title_align = "left"
 
 display_date = true
 publishdate = "2025-02-11"
-date = "2025-02-11"
+date = "2025-02-18"
 
 summary = """
 ReSA is thrilled to announce the release of our report, [*Towards an International Research Software Conference*](https://doi.org/10.5281/zenodo.14736836), and we’re inviting you to play a key role in advancing each of the three options identified within it. If you're passionate about advancing the research software community, consider joining a committee/s. You can join our initial meetings, or reach out to [michelle\[at\]researchsoft.org](mailto:michelle@researchsoft.org) if you’re unable to attend but still want to get involved. 
