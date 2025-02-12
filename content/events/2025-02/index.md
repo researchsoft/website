@@ -37,7 +37,7 @@ ReSA is thrilled to announce the release of our report, [*Towards an Internation
 +++
 # Event Summary
 
-ReSA is thrilled to announce the release of our report, Towards an International Research Software Conference, and we’re inviting you to play a key role in advancing each of the three options identified within it. If you're passionate about advancing the research software community, consider joining a committee/s. You can join our initial meetings (see details below), or reach out to michelle[at]researchsoft.org if you’re unable to attend but still want to get involved. We look forward to working together to begin development of all three event options: 
+ReSA is thrilled to announce the release of our report, [*Towards an International Research Software Conference*](https://doi.org/10.5281/zenodo.14736836), and we’re inviting you to play a key role in advancing each of the three options identified within it. If you're passionate about advancing the research software community, consider joining a committee/s. You can join our initial meetings (see details below), or reach out to [michelle\[at\]researchsoft.org](mailto:michelle@researchsoft.org) if you’re unable to attend but still want to get involved. We look forward to working together to begin development of all three event options: 
 
 ## How to join
 
