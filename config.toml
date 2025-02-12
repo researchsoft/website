@@ -44,6 +44,8 @@ rssLimit = 100
   # icon96 = ""
   # logo = "img/resa-logo-software-green.png"
   mainSections = ["blog"]
+  buildFuture = true
+
 
   [params.colors]
     primary = "darkgreen"
