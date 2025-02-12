@@ -31,9 +31,7 @@ ReSA is thrilled to announce the release of our report, [*Towards an Internation
   * [Subscribe to ReSA newsletter](https://www.researchsoft.org/news/)
   """
 
-[asset]
-  image = "chris-montgomery-smgTvepind4-unsplash.jpg"
-  text = "Image credit: Chris Montgomery, [Unsplash](https://unsplash.com/photos/macbook-pro-displaying-group-of-people-smgTvepind4)"
+
 +++
 # Event Summary
 
