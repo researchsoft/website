@@ -9,7 +9,7 @@ subtitle = ""
 title_align = "left"
 
 display_date = true
-publishdate = "2025-02-12"
+publishdate = "2025-02-11"
 date = "2025-02-18"
 
 summary = """
