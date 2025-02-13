@@ -31,6 +31,10 @@ ReSA is thrilled to announce the release of our report, [*Towards an Internation
   * [Subscribe to ReSA newsletter](https://www.researchsoft.org/news/)
   """
 
+[asset]
+  image = "2024-09-24-image.jpeg"
+  text = "Image credit: Viri Gutiérrez, [Lummi](https://www.lummi.ai/photo/global-connectivity-work-on-laptop-hhipk)"
+
 
 +++
 # Event Summary
