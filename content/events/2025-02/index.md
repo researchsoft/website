@@ -37,8 +37,7 @@ ReSA is thrilled to announce the release of our report, [*Towards an Internation
 
 
 +++
-![My Image](2024-09-24-image.jpeg) 
-_Image credit: Viri Gutiérrez, [Lummi](https://www.lummi.ai/photo/global-connectivity-work-on-laptop-hhipk)_ 
+Image credit: Viri Gutiérrez, [Lummi](https://www.lummi.ai/photo/global-connectivity-work-on-laptop-hhipk)
 
 # Event Summary
 
