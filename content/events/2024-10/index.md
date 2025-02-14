@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 disabled = false
-categories = ["November 1, 2024", "November 4, 2024", "November 5, 2024", "Event"]
+categories = ["Past","November 1, 2024", "November 4, 2024", "November 5, 2024", "Event"]
 
 title = "Towards an International Research Software Conference: Join our Community Consultation"
 subtitle = ""
