@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 disabled = false
-categories = ["Event", "Ongoing"]
+categories = ["Ongoing","Event"]
 
 title = "DiveRSE"
 subtitle = "Supporting EDI within the RSE community"

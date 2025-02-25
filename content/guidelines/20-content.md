@@ -31,7 +31,7 @@ See also the **[ADORE.software Toolkit](https://adore.software/toolkit/)**. The 
 
 -   ReSA [software landscape analysis](https://doi.org/10.5281/zenodo.3699950), 2020. 
     identifies 50+ stakeholders in the research software community and topics of interest, e.g., preservation, RSEs,
-    citation, productivity, sustainability. 
+    citation, productivity, sustainability.
 
 -   [What do we know about RSEs?](https://www.software.ac.uk/blog/2018-03-12-what-do-we-know-about-rses-results-our-international-surveys) 2018. The Software Sustainability Institute analyses results from international
     surveys in 2016, 2017 and 2018 to learn more about RSEs and their work conditions. 

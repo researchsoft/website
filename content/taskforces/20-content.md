@@ -37,6 +37,10 @@ Developing research software is a dynamic, agile and collaborative effort, invol
 
 This task force takes forward [previous work](https://sdruskat.net/software-authorship/) to define software authorship and comprehensively describe contribution types/roles in software. The group examines relevant previous work and literature to formulate drafts defining both software authorship and the nature of contributions. These drafts will be made public for expert and community review. Following this consultation phase, they will be published as comprehensive community guidelines.
 
+### FAIR Principles for Research Software (FAIR4RS) Review 
+
+The [FAIR Principles for Research Software](https://doi.org/10.15497/RDA00068) (FAIR4RS) were produced by a joint working group of the [Research Data Alliance](https://www.rd-alliance.org/), [Research Software Alliance](https://www.researchsoft.org/) and [FORCE11](https://force11.org/). They were published in March of 2022 after extensive community consultation and contributions. The [FAIR4RS Principles](https://www.nature.com/articles/s41597-022-01710-x) aim to promote and encourage the findability, accessibility, interoperability, and reusability (FAIR) of research software. The adoption and implementation of the FAIR4RS Principles can increase the transparency, reproducibility, and reusability of research by providing research software that can be executed, replicated, built-upon, combined, reinterpreted, reimplemented, and/or used in different settings and by third-parties. There has been [some significant adoption of the FAIR4RS principles](https://www.researchsoft.org/blog/2024-03/), thus the community has experience trying to apply the principles. It is noted that while many activities are increasing aspects of the FAIRness of research software, more work is still needed to make it easier to embrace the FAIR4RS Principles in their entirety. This ReSA task force, which is also working as part of the RDA [Software Source Code Interest Group](https://www.rd-alliance.org/groups/software-source-code-ig/activity/), aims to understand where the principles have and have not been adopted, and why.
+
 ## Completed task forces
 
 **Database of Research Software Funding Opportunities**
@@ -70,4 +74,3 @@ The **[ReSA People Roadmap](https://doi.org/10.5281/zenodo.5633318)** community 
 * Community/team development, including diversity, equity and inclusion
 * Policy such as best practice examples relating to personnel issues
 * Infrastructure, physical infrastructure and standards in areas such as software citation that support people-themed issues
-

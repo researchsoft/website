@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 disabled = false
-categories = ["Event", "Ongoing"]
+categories = ["Ongoing","Event"]
 
 title = "ReSA  Community Leaders Forum "
 subtitle = "Bringing together the research software community"
