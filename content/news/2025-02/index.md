@@ -14,11 +14,11 @@ This month’s news includes:
 
 * Research software community news, including an article about the Journal of Open Source Software (JOSS)
 * Funding opportunities, including the Molecular Sciences Software Institute (MolSSI) Fellowship Program
-* Research Software Infrastructure Forum 
-New collaboration supports open science in Latin America
+* Research Software Infrastructure Forum
+* New collaboration supports open science in Latin America
 * Opportunities to get involved with community initiatives
 * Resources
-* Community events, including the SciCodes Symposium 
+* Community events, including the SciCodes Symposium
 
 """
 
