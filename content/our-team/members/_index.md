@@ -11,7 +11,7 @@ title_align = "center" # Default is center, can be left, right or center
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px;">
   <div style="flex: 0 0 auto;">
-    <img src="/people/members/Jyoti_square.jpeg" alt="Jyoti Bhogal" style="max-width: 200px; height: auto; border-radius: 8px;">
+    <img src="/our-team/members/Jyoti_square.jpeg" alt="Jyoti Bhogal" style="max-width: 200px; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1 1 auto; text-align: left; max-width: calc(100% - 320px);">
   <h2 style="margin: 0; font-size: 1.5em; color: #333;">Jyoti Bhogal, Community Manager & Community Engagement Partner (Asia)</h2>
@@ -38,7 +38,7 @@ Jyoti has been a PyData Global Impact scholar (2021). She is a keen advocate of 
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px;">
   <div style="flex: 0 0 auto;">
-    <img src="/people/members/kim_sq.jpg" alt="Kim Hartley" style="max-width: 200px; height: auto; border-radius: 8px;">
+    <img src="/our-team/members/kim_sq.jpg" alt="Kim Hartley" style="max-width: 200px; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1 1 auto; text-align: left; max-width: calc(100% - 320px);">
   <h2 style="margin: 0; font-size: 1.5em; color: #333;">Kim Hartley, Program Manager</h2>
@@ -70,7 +70,7 @@ scholarly, and creative activities.
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px;">
   <div style="flex: 0 0 auto;">
-    <img src="/people/members/talarify-people.png" alt="Talarify logo" style="max-width: 200px; height: auto; border-radius: 8px;">
+    <img src="/our-team/members/talarify-people.png" alt="Talarify logo" style="max-width: 200px; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1 1 auto; text-align: left; max-width: calc(100% - 320px);">
   <h2 style="margin: 0; font-size: 1.5em; color: #333;">Talarify, Community Engagement Partner (Africa)</h2>
@@ -101,7 +101,7 @@ Talarify executive director, Anelda van der Walt has a background in bioinformat
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px;">
   <div style="flex: 0 0 auto;">
-    <img src="/people/members/CSS_square.png" alt="ode for Science & Society" style="max-width: 200px; height: auto; border-radius: 8px;">
+    <img src="/our-team/members/CSS_square.png" alt="Code for Science & Society" style="max-width: 200px; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1 1 auto; text-align: left; max-width: calc(100% - 320px);">
   <h2 style="margin: 0; font-size: 1.5em; color: #333;">Code for Science & Society, Fiscal Sponsor</h2>

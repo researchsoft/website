@@ -12,7 +12,7 @@ title_align = "left" # Default is center, can be left, right or center
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px;">
   <div style="flex: 0 0 auto;">
-    <img src="/people/michelle.jpg" alt="Michelle Barker" style="max-width: 200px; height: auto; border-radius: 8px;">
+    <img src="/our-team/michelle.jpg" alt="Michelle Barker" style="max-width: 200px; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 1 1 auto; text-align: left; max-width: calc(100% - 320px);">
   <h2 style="margin: 0; font-size: 1.5em; color: #333;">Dr. Michelle Barker, Director</h2>
