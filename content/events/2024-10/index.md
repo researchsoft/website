@@ -38,13 +38,13 @@ The next stage of the development of these ideas is to gain feedback through ope
   * [Subscribe to ReSA newsletter](https://www.researchsoft.org/news/)
   """
 
-[asset]
-  image = "chris-montgomery-smgTvepind4-unsplash.jpg"
-  text = "Image credit: Chris Montgomery, [Unsplash](https://unsplash.com/photos/macbook-pro-displaying-group-of-people-smgTvepind4)"
 +++
 
-<img src="chris-montgomery-smgTvepind4-unsplash.jpg"
-     alt="free to use image from Unsplash dsiplaying a dummy online meeting" />
+<div style="text-align:center">
+    <img src="chris-montgomery-smgTvepind4-unsplash.jpg" alt="free to use image from Unsplash dsiplaying a dummy online meeting">
+</div>
+
+Image credit: Chris Montgomery, [Unsplash](https://unsplash.com/photos/macbook-pro-displaying-group-of-people-smgTvepind4)
      
 # Event Summary
 

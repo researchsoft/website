@@ -31,6 +31,10 @@ ReSA will convene two webinars in early December to discuss the outcomes of the 
   text = "collaboration"
 +++
 
+<div style="text-align:center">
+    <img src="surface-unsplash-videoconference.jpg" alt="collaboration">
+</div>
+
 _This event took place in December 2021 and the recording of the webinar is available via the [ReSA YouTube Channel](https://youtu.be/XvvrOZgi5Ns) with link to [slides](https://tinyurl.com/Roadmap-slides)_
 
 The People Roadmap is a ReSA consultation to map the landscape of research software community initiatives focused on people-themed issues, as part of ReSA’s mission is to bring research software communities together to collaborate on the advancement of the research software ecosystem. Outcomes from the People Roadmap were presented at the [Workshop on Sustainable Software Sustainability](https://wosss.org/wosss21/S4-MichelleBarker) (WoSSS) on 8 Oct by ReSA Director, Michelle Barker.

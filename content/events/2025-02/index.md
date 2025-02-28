@@ -17,7 +17,6 @@ ReSA is thrilled to announce the release of our report, [*Towards an Internation
 
 """
 
-
 [sidebar]
   title = "Useful links"
   align = "right"
@@ -38,6 +37,10 @@ ReSA is thrilled to announce the release of our report, [*Towards an Internation
 
 
 +++
+<div style="text-align:center">
+    <img src="2024-09-24-image.jpeg" alt="global connectivity - work on laptop">
+</div>
+
 Image credit: Viri Gutiérrez, [Lummi](https://www.lummi.ai/photo/global-connectivity-work-on-laptop-hhipk)
 
 # Event Summary

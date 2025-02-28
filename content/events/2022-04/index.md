@@ -30,6 +30,12 @@ Hybrid workshop on reframing research software engineering to place diversity, e
   text = "collaboration"
 +++
 
+<div style="text-align:center">
+    <img src="myleon-unsplash-collaboration.jpg" alt="collaboration">
+</div>
+
+Event photo by <a href="https://unsplash.com/@myleon">Leon</a> on Unsplash.
+
 “Vive la différence - research software engineers” is a hybrid event with an in-person element from 19-22 April 2022 at the [Lorentz Centre](https://www.lorentzcenter.nl/about-us.html) in the Netherlands; and online events from March-April 2022 across different time zones.  This workshop will bring together a wide range of stakeholders who have not previously collaborated, to analyse best practice and available data to identify both research opportunities and solutions to their own local challenges, to create an informal network of champions in this area.
 
 **About the workshop**
@@ -64,5 +70,3 @@ This workshop is sponsored by:
 
 [Download the event poster](Vive-la-Difference-Poster.pdf) to share.
 
-
-Event photo by <a href="https://unsplash.com/@myleon">Leon</a> on Unsplash.
