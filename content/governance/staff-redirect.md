@@ -7,4 +7,10 @@ background = "white"
 title = ""
 +++
 
-To meet the ReSA team go to the [**People page**](https://www.researchsoft.org/people/).
+<!--- to add extra space before the text --->
+<br>
+<br>
+<br>
+<br>
+
+To meet the ReSA team go to the [**People page**](/people/).

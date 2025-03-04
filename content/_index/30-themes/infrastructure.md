@@ -15,4 +15,3 @@ subtitle = "Identify and promote needed infrastructure"
 * Co-chairing of [Research Software Infrastructure Forum](https://www.researchsoft.org/rsi-forum/) to consider how to individually and collectively address common challenges.
 * Coordination of [FAIR for Research Software Roadmap](https://www.researchsoft.org/taskforces/) to guide strategic planning and investment of implementation of the FAIR principles for research software across the sector. Focus areas includes FAIR for research software [metrics](https://docs.google.com/document/d/1BpzecVx4ZvSNfHD-UHhofZVdA6qiP_ENrmozmiq9zY4/edit).
 * [How Can Open Source Program Offices (OSPOs) Support Research Software?](https://www.researchsoft.org/blog/2023-06/) is a ReSA blog post that explores the role of OSPOs in supporting open-source research software in universities, governments, and civic institutions. 
-

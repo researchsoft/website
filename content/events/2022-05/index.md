@@ -27,12 +27,12 @@ ReSA supports "DiveRSE" a series of talks and related activities supporting Equi
   * [Videos](https://www.youtube.com/channel/UCL7rYOIAP1Rx_VajLPDF-hA)
   """
 
-[asset]
-  image = "colour-circles-bg-unsplash.jpg"
-  text = "colour circles"
 +++
 
-
+<div style="text-align:center">
+    <img src="colour-circles-bg-unsplash.jpg" alt="free to use image from Unsplash dsiplaying coloured circles">
+</div>
+     
 ## About [DiveRSE](https://diverse-rse.github.io/)
 
 [DiveRSE](https://diverse-rse.github.io/) (Diverse RSE) is a series of [talks and related activities](https://diverse-rse.github.io/) including discussion and panel sessions designed to support and raise awareness of EDI challenges and successes within the research software community.
