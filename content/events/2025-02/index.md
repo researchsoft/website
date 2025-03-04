@@ -31,10 +31,6 @@ ReSA is thrilled to announce the release of our report, [*Towards an Internation
   * [Subscribe to ReSA newsletter](https://www.researchsoft.org/news/)
   """
 
-[asset]
-  image = "2024-09-24-image.jpeg"
-  text = "global connectivity - work on laptop"
-
 
 +++
 <div style="text-align:center">
