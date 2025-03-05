@@ -8,7 +8,7 @@ title = "Former Steering Committee Members"
 +++
 
 
-**Yo Yehudi**, Co-founder, Open Life Science (OLS) (2023-2025)
+**Yo Yehudi**, Co-founder, Open Life Science (OLS), UK (2023-2025)
 
 **Mark Leggott**, Director of International Relations, Digital Research Alliance of Canada (2021-2024)
 
