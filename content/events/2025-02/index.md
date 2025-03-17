@@ -14,8 +14,8 @@ date = "2025-02-18"
 
 summary = """
 ReSA is thrilled to announce the release of our report, [*Towards an International Research Software Conference*](https://zenodo.org/records/14793104), and we’re inviting you to play a key role in advancing each of the three options identified within it. If you're passionate about advancing the research software community, consider joining a committee/s. You can join our initial meetings, or reach out to [michelle@researchsoft.org](mailto:michelle@researchsoft.org) if you’re unable to attend but still want to get involved. 
-"""
 
+"""
 
 [sidebar]
   title = "Useful links"
@@ -31,12 +31,12 @@ ReSA is thrilled to announce the release of our report, [*Towards an Internation
   * [Subscribe to ReSA newsletter](https://www.researchsoft.org/news/)
   """
 
-[asset]
-  image = "2024-09-24-image.jpeg"
-  text = "global connectivity - work on laptop"
-
 
 +++
+<div style="text-align:center">
+    <img src="2024-09-24-image.jpeg" alt="global connectivity - work on laptop">
+</div>
+
 Image credit: Viri Gutiérrez, [Lummi](https://www.lummi.ai/photo/global-connectivity-work-on-laptop-hhipk)
 
 # Event Summary

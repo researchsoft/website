@@ -38,10 +38,14 @@ The next stage of the development of these ideas is to gain feedback through ope
   * [Subscribe to ReSA newsletter](https://www.researchsoft.org/news/)
   """
 
-[asset]
-  image = "chris-montgomery-smgTvepind4-unsplash.jpg"
-  text = "Image credit: Chris Montgomery, [Unsplash](https://unsplash.com/photos/macbook-pro-displaying-group-of-people-smgTvepind4)"
 +++
+
+<div style="text-align:center">
+    <img src="chris-montgomery-smgTvepind4-unsplash.jpg" alt="free to use image from Unsplash dsiplaying a dummy online meeting">
+</div>
+
+Image credit: Chris Montgomery, [Unsplash](https://unsplash.com/photos/macbook-pro-displaying-group-of-people-smgTvepind4)
+     
 # Event Summary
 
 Join one of our upcoming webinars to discuss community-supported routes for convening the first-ever international research software conference in 2025/26, or provide feedback asynchronously on the options paper, [Towards an international research software conference (version 2)](https://docs.google.com/document/d/1hHtEn8IVpLSWhxIDJ0_JSUNPDjmXpTd0m5IFh2jBD7s/edit?tab=t.0). 

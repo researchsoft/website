@@ -26,11 +26,14 @@ ReSA's mission is to bring research software communities together to collaborate
   * [Register your email for updates](https://dashboard.mailerlite.com/forms/778129/110635102019519744/share)
   """
 
-[asset]
-  image = "sharon-mccutcheon-colourful-unsplash.jpg"
-  text = "Close up of tiny rainbow colored sugar candies."
+
 +++
 
+<div style="text-align:center">
+    <img src="sharon-mccutcheon-colourful-unsplash.jpg" alt="Close up of tiny rainbow colored sugar candies.">
+</div>
+
+Image credit: Sharon Mccutcheon, [Unsplash](https://unsplash.com/)
 
 ## Research Software Community Leaders Forum 
 
