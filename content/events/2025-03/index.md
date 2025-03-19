@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 disabled = false
-categories = ["Ongoing", "Event"]
+categories = ["Event"]
 
 title = "Strategic Plan 2025-28 - Feedback Sessions"
 subtitle = ""
