@@ -4,7 +4,7 @@ weight = 100
 disabled = false
 categories = ["Ongoing", "Event"]
 
-title = "Strategic Plan 2025-26 - Feedback Sessions"
+title = "Strategic Plan 2025-28 - Feedback Sessions"
 subtitle = ""
 title_align = "left"
 
