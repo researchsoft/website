@@ -30,9 +30,8 @@ ReSA is seeking feedback on the ReSA Strategic Plan 2025-28.
   """
 
 [asset]
-  image = ""
-  text = ""
-
+  image = "9354.jpg"
+  text = "Business concept with icons on wooden cubes on wooden table flat lay"
 
 +++
 ReSA is seeking feedback and comments from the research community on the ReSA Strategic Plan 2025-28 ([see overview](https://docs.google.com/document/d/1XAioZINde902hlujD9hIaiIK5Eagx7w5XP9f8Q7P0KU/edit?tab=t.0#heading=h.lbr59vck876)
