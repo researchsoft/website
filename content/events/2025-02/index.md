@@ -38,11 +38,8 @@ ReSA has established three committees to lead development of each of the three o
 
 The three committees are:
 
-1) **International hybrid annual conference** on research software:   
-    * Committee’s Google [folder](https://drive.google.com/drive/u/0/folders/1qoDYOJLukuOP53iVEqB2RaY_saZdOPWM)
+1) International hybrid annual conference** on research software:Committee’s Google [folder](https://drive.google.com/drive/u/0/folders/1qoDYOJLukuOP53iVEqB2RaY_saZdOPWM)
 
-2) **Series of research software workshops** at existing events:   
-    * Committee's Google [folder](https://drive.google.com/drive/u/0/folders/1YsBW2PjIcSGzaI4rGqtxs4Nez47fpjoG)
+2) Series of research software workshops** at existing events: Committee's Google [folder](https://drive.google.com/drive/u/0/folders/1YsBW2PjIcSGzaI4rGqtxs4Nez47fpjoG)
 
-3) **Champions programs:**   
-    * Committee’s Google [folder](https://drive.google.com/drive/u/0/folders/1PGAP96f-Fj8Sw4gr_47soZffSTq5bJAp)
+3) Champions programs: Committee’s Google [folder](https://drive.google.com/drive/u/0/folders/1PGAP96f-Fj8Sw4gr_47soZffSTq5bJAp)
