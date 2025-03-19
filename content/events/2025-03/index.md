@@ -13,7 +13,8 @@ publishdate = "2025-03-18"
 date = "2025-03-18"
 
 summary = """
-ReSA is seeking feedback and comments from the research community on the ReSA Strategic Plan 2025-28.
+ReSA is seeking feedback on the ReSA Strategic Plan 2025-28.
+
 """
 
 
