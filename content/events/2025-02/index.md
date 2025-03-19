@@ -22,7 +22,6 @@ ReSA has established three committees to lead development of each of the three o
   align = "right"
   sticky = true # Default is false
   content = """
-  * Zoom links:
   * [ReSA’s Code of Conduct](../../code-of-conduct/)
   * [Subscribe to ReSA newsletter](https://www.researchsoft.org/news/)
   """
