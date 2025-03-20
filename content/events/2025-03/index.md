@@ -51,6 +51,6 @@ There are a range of (repeated) sessions to enable community members from differ
 You can also provide feedback by other means:
 * Comment directly on the draft [executive summary](https://docs.google.com/document/d/1XAioZINde902hlujD9hIaiIK5Eagx7w5XP9f8Q7P0KU/edit?tab=t.0#heading=h.lbr59vck876) or [strategic plan](https://docs.google.com/document/d/1-nyor44kBo5v6lb92ajjzJmYFJ-TXLcafyUz9luQMVk/edit?tab=t.0#heading=h.iiwcx8uz2jje) 
 * Respond to this [brief questionnaire](https://docs.google.com/forms/d/1NS8kCMz3ITc89KR0zFbPn3Ih1AlK-tLIbBmEf9nzTFY/edit)
-* Email questions or comments to [info[at]researchsoft.org](info@researchsoft.org)
+* Email questions or comments to [info[at]researchsoft.org](mailto:info@researchsoft.org)
 
 We look forward to hearing your input to ensure the final plan meets community needs.
