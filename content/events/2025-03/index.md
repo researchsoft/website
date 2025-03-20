@@ -33,7 +33,7 @@ ReSA is seeking feedback on the ReSA Strategic Plan 2025-28.
   image = "9354.jpg"
 
 +++
-Image credit: Image by 8photo on [Freepik](https://www.freepik.com/free-photo/business-concept-with-icons-wooden-cubes-wooden-table-flat-lay_9485774.htm#fromView=search&page=1&position=30&uuid=75856da7-0985-465e-a819-3cbbe75a81e2&query=strategic+plan)
+_Image credit: 8photo on [Freepik]_(https://www.freepik.com/free-photo/business-concept-with-icons-wooden-cubes-wooden-table-flat-lay_9485774.htm#fromView=search&page=1&position=30&uuid=75856da7-0985-465e-a819-3cbbe75a81e2&query=strategic+plan)
 
 
 ReSA is seeking feedback and comments from the research community on the ReSA Strategic Plan 2025-28 ([see overview](https://docs.google.com/document/d/1XAioZINde902hlujD9hIaiIK5Eagx7w5XP9f8Q7P0KU/edit?tab=t.0#heading=h.lbr59vck876)
