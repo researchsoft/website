@@ -46,6 +46,8 @@ There are a range of (repeated) sessions to enable community members from differ
 * 16 April, 09:00 UTC ([see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ReSA+Strategic+Planning&iso=20250416T09&p1=1440&ah=1)) - [.ics file](https://drive.google.com/file/d/1KSuX2sFLlC5RTz5T8w0FJK8lHOkPiIHS/view?usp=drive_link)
 * 16 April, 20:00 UTC ([see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ReSA+Strategic+Planning&iso=20250416T20&p1=1440&ah=1)) - [.ics file](https://drive.google.com/file/d/1JFJnsgZG5LNHSI005587pVjJXKQ8Nrzi/view?usp=drive_link)
 
+Zoom [link](https://us02web.zoom.us/j/2187873236?pwd=cXpmZXQzalhMcGlUN0J1bWUzdVM3QT09&omn=86079557508), Meeting ID: 218 787 3236, Passcode: 446688
+
 You can also provide feedback by other means:
 * Comment directly on the draft [executive summary](https://docs.google.com/document/d/1XAioZINde902hlujD9hIaiIK5Eagx7w5XP9f8Q7P0KU/edit?tab=t.0#heading=h.lbr59vck876) or [strategic plan](https://docs.google.com/document/d/1-nyor44kBo5v6lb92ajjzJmYFJ-TXLcafyUz9luQMVk/edit?tab=t.0#heading=h.iiwcx8uz2jje) 
 * Respond to this [brief questionnaire](https://forms.gle/8dV3Vb2DVMdFB1GP9)
