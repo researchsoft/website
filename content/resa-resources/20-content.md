@@ -49,5 +49,5 @@ The significant role that software plays in research has been identified in a ra
 Do you have resources to add?
 
 * Add [new calls](https://forms.gle/r4Jw4swUd1SXigZc9) to the [Research Software Funding Opportunities](https://www.researchsoft.org/funding-opportunities/)
-* Submit a resource as an issue in [GitHub](https://github.com/researchsoft/Resources/issues/new/choose) (requires GitHub account)
+* Submit a resource as an issue in [GitHub](https://github.com/researchsoft/website/issues/new) (requires GitHub account)
 * [Email it directly to ReSA](mailto:info@researchsoft.org)
