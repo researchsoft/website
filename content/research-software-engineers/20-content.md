@@ -24,7 +24,7 @@ ReSA is the secretariat for the [International Council of RSE Associations](http
 ## International RSE associations:
 
 * [BE-RSE \- Belgium Research Software Engineers](https://be-rse.org/)
-* [Danish RSE \- Danish Research Software Engineers Community](https://dighumlab.org/danish-rse/)
+* [Danish RSE \- Danish Research Software Engineers Community](https://pure.au.dk/portal/da/projects/danish-rse)
 * [DevLOG \- French Research Software Engineers](https://www.devlog.cnrs.fr/)
 * [DE-RSE \- Society for Research Software in Germany](http://de-rse.org/)  
 * [NL-RSE \- the Netherlands Research Software Engineers community](http://nl-rse.org/)
