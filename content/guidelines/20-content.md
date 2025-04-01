@@ -88,7 +88,7 @@ data, and code supported by the US Government.
 
 - Italy: The [Italian National Plan for Open Science](https://www.mur.gov.it/sites/default/files/2022-06/Piano_Nazionale_per_la_Scienza_Aperta.pdf) proposes an overall vision, with specific strategies for five axes of intervention, which must interact to create an open ecosystem of publications, data, analysis tools, networked ICT infrastructures and services, evaluation and training.
 
-- Netherlands: The [2021 National Roadmap for Large-Scale Research Facilitie](https://www.nwo.nl/en/researchprogrammes/national-roadmap-large-scale-research-facilities)s published by the Dutch Research Council (NWO) has made FAIR, sustainable software and a software management plan conditional to receiving funding. Software is central to the funding the NWO has made available for developing ‘digital competence centres’ as part of the national roadmap, and the NWO has set up an [open science team](https://www.nwo.nl/en/open-science) to push this agenda.
+- Netherlands: The [2021 National Roadmap for Large-Scale Research Facilities](https://www.nwo.nl/en/researchprogrammes/national-roadmap-for-large-scale-research-facilities) published by the Dutch Research Council (NWO) has made FAIR, sustainable software and a software management plan conditional to receiving funding. Software is central to the funding the NWO has made available for developing ‘digital competence centres’ as part of the national roadmap, and the NWO has set up an [open science team](https://www.nwo.nl/en/open-science) to push this agenda.
 
 - New Zealand: The New Zealand eScience Initiative (NeSI) are sharing how they enable research communities to truly value the contributions of research software in underpinning contemporary science in [Contributing to local & global kōrero around the value, impacts and future of Research Software](https://www.nesi.org.nz/news/2022/11/contributing-local-global-k%C5%8Drero-around-value-impacts-and-future-research-software).
 
@@ -156,10 +156,10 @@ ReSA is creating a listing of [institutional policies that support research soft
 -   [SSI guides for everything](https://www.software.ac.uk/resources/guides). Guides for researchers, managers, developers, instructors and
     content distributors.
     
--   [SSI list of resources about various topics](https://www.software.ac.uk/resources/get-speed). Includes policy,
+-   [SSI list of resources about various topics](https://www.software.ac.uk/resource-hub). Includes policy,
     journals, open access, reproducibility, RSEs, training, etc.
+
    
-    
 -   [Better Scientific Software (BSSw)](https://bssw.io/items?page=1&view=all). Resources for developer productivity and software sustainability.
 
 -   [Research Software Engineers International](https://researchsoftware.org/). Includes a list of national/multinational RSE associations. 
