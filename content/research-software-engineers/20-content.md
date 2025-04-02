@@ -19,7 +19,7 @@ ReSA is the secretariat for the [International Council of RSE Associations](http
 - ReSA [task forces](https://www.researchsoft.org/taskforces/)  
 - ReSA [Zenodo community](https://zenodo.org/communities/resa/?page=1&size=20)
 - ReSA [resources](https://www.researchsoft.org/resa-resources/#), [guidelines](https://www.researchsoft.org/guidelines/), [events](https://www.researchsoft.org/events/), and [blog](https://www.researchsoft.org/blog/)
-- ReSA [Linkedin](https://www.linkedin.com/company/research-software-alliance/), [Mastodon](https://fosstodon.org/@researchsoft), and [Slack](https://join.slack.com/t/researchsoft/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w)
+- ReSA [LinkedIn](https://www.linkedin.com/company/research-software-alliance/), [Mastodon](https://fosstodon.org/@researchsoft), and [Slack](https://join.slack.com/t/researchsoft/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w)
 
 ## International RSE associations:
 
