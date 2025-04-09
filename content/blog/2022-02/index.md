@@ -19,6 +19,7 @@ date = "2022-02-17"
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
+  * [ReSA Code of Conduct](https://www.researchsoft.org/code-of-conduct/)
   * [Contact us](/contact)
   """
 
@@ -68,8 +69,6 @@ There are many ways to get involved with ReSA. In line with its mission, ReSA of
 * Helping to raise awareness of the importance of software in research through use of [ReSA resources](https://www.researchsoft.org/resa-resources/)
 * Connecting with other community members at our [events](https://www.researchsoft.org/events/)
 * [Contributing](https://www.researchsoft.org/contact/) ideas for task forces, events, newsletter items
-
-ReSA welcomes and encourages participation by people of all backgrounds and identities, as described in its [diversity statement](https://www.researchsoft.org/code-of-conduct/).
 
 
 _Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
