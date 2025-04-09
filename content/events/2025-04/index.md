@@ -31,8 +31,7 @@ summary = """
   image = "Brisbane.jpg"
 
 +++
-_Image credit: Brisbane Local Marketing on [Unsplash](https://unsplash.com/photos/city-skyline-under-clear-blue-sky-during-daytime-RJII3O7CTeo)
-_
+Image credit: Brisbane Local Marketing on [Unsplash](https://unsplash.com/photos/city-skyline-under-clear-blue-sky-during-daytime-RJII3O7CTeo)
 
 **Friday 17 October 2025, 9am-noon AEST ([see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Supporting+Research+Software+in+Research+Policy+and+Funding+Programs&iso=20251017T09&p1=47&ah=3))**
 
