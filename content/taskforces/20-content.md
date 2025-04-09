@@ -15,7 +15,7 @@ To deliver on this mission, we invite the ReSA community to join us on ReSA acti
 
 ReSA task forces enable the community to identify and focus on challenges and solutions for a particular area, at the international level. There are also task forces associated with the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/) focusing on improving coordination of funding, and implementation of the [FAIR4RS Principles](https://www.researchsoft.org/blog/2022-06/). **To suggest or join a ReSA task force, please refer to these [guidelines](https://docs.google.com/document/d/17TCle8vqdpdxgMkzqGQbAHWoKs2Qbei1lNOmPfwYahQ/edit)**.
 
-### Actionable Guidelines for Making Research Software FAIR
+### [Actionable FAIR4RS](../tf-actionable-fair4rs/)
 
 The [FAIR for Research Software](https://doi.org/10.1038/s41597-022-01710-x) (FAIR4RS) Principles provide a framework for making research software Findable, Accessible, Interoperable, Reusable (FAIR). They are, by design, meant to be aspirational and only provide general instructions. Actionable guidelines are lacking such that researchers can follow them to practically make their software FAIR.
 
