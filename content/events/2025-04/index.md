@@ -22,9 +22,9 @@ summary = """
   align = "right"
   sticky = true # Default is false
   content = """
+  * [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSd-Wj0_cfY6xVrTXWSILOzd0ZD7loQVb3QpMg-jCTvZgiWElw/viewform)
   * [International Data Week (IDW) 2025](https://idw2025.org/)
   * [IDW Co-Located Events](https://idw2025.org/co-located-events/) 
-  * [Subscribe to ReSA newsletter](https://www.researchsoft.org/news/)
   """
 
 [asset]
