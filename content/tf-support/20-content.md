@@ -11,6 +11,7 @@ background = "white"
 
 ReSA seeks to identify resources that can support each task force's work where possible. Information on ReSA's current task forces are available on the [task forces](https://www.researchsoft.org/taskforces/) page, and include:
 
+- [Actionable Guidelines for FAIR Research Software](https://www.researchsoft.org/tf-actionable-fair4rs/)
 - [Code Availability](https://www.researchsoft.org/taskforces/)
 - [Policies in Research Organisations for Research Software (PRO4RS)](https://www.rd-alliance.org/groups/rda-resa-policies-research-organisations-research-software-pro4rs/forum/)
 - [Research Software Authorship and Contribution](https://www.researchsoft.org/tf-authorship-contribution/)
