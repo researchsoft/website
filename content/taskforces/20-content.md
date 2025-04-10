@@ -71,6 +71,6 @@ The **[ReSA People Roadmap](https://doi.org/10.5281/zenodo.5633318)** community 
 
 * Roles/careers/recognition, e.g., Research Software Engineers (RSEs), research software product managers, research software community managers
 * Skills needed and provision of training (including resources such as best practice guides)
-* Community/team development, including diversity, equity and inclusion
+* Community/team development
 * Policy such as best practice examples relating to personnel issues
 * Infrastructure, physical infrastructure and standards in areas such as software citation that support people-themed issues
