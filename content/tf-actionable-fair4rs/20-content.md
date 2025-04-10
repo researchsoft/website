@@ -38,10 +38,10 @@ Even though the work has started, we are happy to have new members join and cont
 - Daniel Garijo, Universidad Politécnica de Madrid
 - Neil Chue Hong, Software Sustainability Institute & EPCC / University of Edinburgh
 - Daniel Nüst, NFDI4Earth / TU Dresden
-- Marie Houillon (chair), Karlsruhe Institute of Technology
+- Marie Houillon (co-chair), Karlsruhe Institute of Technology
 - Marie-Christine Jacquemot
 - Alexander Struck, Cluster of Excellence Matters of Activity at Humboldt-Universitaet zu Berlin, [https://orcid.org/0000-0002-1173-9228](https://orcid.org/0000-0002-1173-9228)
-- Priyanka Ojha (chair), Amsterdam UMC
+- Priyanka Ojha (co-chair), [https://orcid.org/0000-0002-6844-6493](https://orcid.org/0000-0002-6844-6493)
 - Sophie Gleiser
 - Carlos Ortiz
 - Faruk Diblen
