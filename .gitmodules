@@ -1,9 +1,6 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "themes/airspace"]
 	path = themes/airspace
 	url = https://github.com/themefisher/airspace-hugo.git
-[submodule "themes/syna"]
-	path = themes/syna
-	url = https://git.okkur.org/syna
+[submodule "themes/theme-research-group"]
+	path = themes/theme-research-group
+	url = https://github.com/HugoBlox/theme-research-group.git

@@ -1,0 +1,103 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: About
+    weight: 10
+  - parent: About
+    name: About ReSA
+    url: about-resa
+    weight: 10
+  - parent: About
+    name: Governance
+    url: governance
+    weight: 20
+  - parent: About
+    name: Our Team
+    url: our-team
+    weight: 30
+  - parent: About
+    name: Organisational Membership
+    url: membership
+    weight: 40
+  - parent: About
+    name: Stakeholders
+    url: stakeholders
+    weight: 50
+  - parent: About
+    name: Donate
+    url: donate
+    weight: 60  
+
+  - name: Task Forces
+    weight: 20
+  - parent: Task Forces
+    name: About Task Forces
+    url: taskforces
+    weight: 10
+  - parent: Task Forces
+    name: Task Force Support
+    url: tf-support
+    weight: 20
+
+  - name: Forums
+    weight: 30
+  - parent: Forums
+    name: Funders Forum
+    url: funders-forum
+    weight: 10
+  - parent: Forums
+    name: Research Software Infrastructure Forum
+    url: rsi-forum
+    weight: 20
+  - parent: Forums
+    name: ADORE.software Secretariat
+    url: https://adore.software
+    weight: 30
+  - parent: Forums
+    name: International Council of RSE Associations
+    url: https://researchsoftware.org/council.html
+    weight: 40
+  - parent: Forums
+    name: Community Leaders Forum
+    url: community-forum
+    weight: 50
+
+  - name: Resources
+    weight: 40
+  - parent: Resources
+    name: Resources
+    url: resa-resources
+    weight: 10
+  - parent: Resources
+    name: Guidelines
+    url: guidelines
+    weight: 20
+  - parent: Resources
+    name: Funding Opportunities
+    url: funding-opportunities
+    weight: 30
+  - parent: Resources
+    name: Software Policies
+    url: software-policies
+    weight: 40
+  - parent: Resources
+    name: ADORE.software Declaration
+    url: https://adore.software
+    weight: 50
+  - parent: Resources
+    name: Research Software Engineers (RSEs)
+    url: research-software-engineers
+    weight: 60
+
+  - name: News
+    url: news
+    weight: 50
+  - name: Events
+    url: events
+    weight: 60
+  - name: Blog
+    url: blog
+    weight: 70
