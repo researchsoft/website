@@ -37,4 +37,4 @@ A committee has been established to implement the recommendations from ReSA’s 
 **To join the organising committee:** email michelle@researchsoft.org to find out the next meeting date/s.
 
 
-_Image credit: rawpixel.com on [Freepik]_(https://www.freepik.com/free-vector/character-illustration-people-with-global-network-concept_3226134.htm#fromView=search&page=1&position=34&uuid=79f72929-1ddd-4d02-928a-0727a2b8acef&query=global+meeting+and+computers)
+_Image credit: rawpixel.com on [Freepik](https://www.freepik.com/free-vector/character-illustration-people-with-global-network-concept_3226134.htm#fromView=search&page=1&position=34&uuid=79f72929-1ddd-4d02-928a-0727a2b8acef&query=global+meeting+and+computers)_
