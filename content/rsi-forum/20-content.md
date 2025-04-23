@@ -12,7 +12,7 @@ Software is an [essential constituent](https://doi.org/10.1038/s43588-024-00651-
 
 The RSI Forum provides a formal mechanism for members to share practices and consider how to individually and collectively address common challenges to achieve the significant cultural change needed across the research sector globally. It aims to:
 
-- Enable collaborations between infrastructure providers that may address topics such as how to address key technical research software community challenges; achieve long-term sustainability for research software; or address social challenges such as diversity, equity, inclusion and accessibility.
+- Enable collaborations between infrastructure providers that may address topics such as how to address key technical research software community challenges; achieve long-term sustainability for research software; or address social challenges such as community development.
 - Increase sharing of practices for research software infrastructures, to encourage reflection and advancement.
 
 For further information, please refer to the [**Terms of Reference**](https://docs.google.com/document/d/1nsbAi_Uag-r2bL3-8Zy6W_UUj6FXzdNB5-OxQUm8fv8/edit)  
