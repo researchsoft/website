@@ -19,7 +19,8 @@ For further information, please refer to the [**Terms of Reference**](https://do
 
 Membership is open to any infrastructure organisation that serves research software and that seeks to help identify and resolve gaps and points of friction in using infrastructures in various research software use cases. This includes:
 
-- Software registries and repositories (e.g., Zenodo, GitHub)
+- Software forges (e.g., GitHub, GitLab)
+- Software registries and repositories (e.g., Zenodo, SciCodes)
 - Software journals (e.g., Journal of Open Source Software (JOSS), Journal of Research Software (JORS))
 - Software sustainability organisations (e.g., Software Sustainability Institute)
 - Software preservation organisations (e.g., Software Heritage)
