@@ -8,11 +8,11 @@ main:
     weight: 10
   - parent: About
     name: About ReSA
-    url: about-resa
+    url: about
     weight: 10
   - parent: About
     name: Governance
-    url: governance
+    url: about/governance
     weight: 20
   - parent: About
     name: Our Team
@@ -20,7 +20,7 @@ main:
     weight: 30
   - parent: About
     name: Organisational Membership
-    url: membership
+    url: about/membership
     weight: 40
   - parent: About
     name: Stakeholders
