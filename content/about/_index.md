@@ -115,7 +115,7 @@ sections:
     
         <br>
 
-        <div class="row">
+        <div class="row justify-content-center">
           <div class="col-md-4">
             <p><a href="https://alliancecan.ca/"><img src="images/Alliance.png" style="width:"50%";></a></p>            
           </div>
@@ -151,9 +151,204 @@ sections:
 
   - block: markdown
     content:
-      title: "Without data it’s difficult to validate results. But without code, we waste the opportunity to advance science."
+      title: Organisational Members
+      text: |
+        <br>
+
+        <div class="row justify-content-center">
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/Sloan-logo.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/ARDC_logo_RGB.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/ASAP_FullColor.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/AsteraLogo.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/CZI_Logo.jpg" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/DFG_logo.jpg" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/Alliance.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/The_Kavli_Foundation_Logo_White_Red.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/1_MESR_RVB.jpg" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2" style="text-align: center;">
+            <p><a href="https://alliancecan.ca/">NASA</a></p>
+          </div>
+
+          <div class="col-md-2" style="text-align: center;">
+            <p><a href="https://alliancecan.ca/">National Institutes of Health</a></p>
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/NCSA.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/NeSI.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/nesc.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/NWO-logo.jpeg" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/Stradini_logo_ENG_vert-RGB.jpg" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/Simons-Foundation.jpg" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/ssi_logo_with_name-small2.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/UKRI logo.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/USRSE logo.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/Volkswagen.jpg" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-2">
+            <p><a href="https://alliancecan.ca/"><img src="images/Wellcome_logo_Black.jpg" style="width:"50%";></a></p>            
+          </div>
+
+        </div>
+            
+    design:
+      background:
+        color: "#f98c01"
+        text_color_light: false      
+
+
+  - block: markdown
+    content:
+      title: Sponsors
+      text: |
+        <br>
+
+        <div class="row justify-content-center">
+          <div class="col-md-3">
+            <p><a href="https://alliancecan.ca/"><img src="images/CZI_Logo.jpg" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-3">
+            <p><a href="https://alliancecan.ca/"><img src="images/Sloan-logo.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-3">
+            <p><a href="https://alliancecan.ca/"><img src="images/STFC+logo.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-3">
+            <p><a href="https://alliancecan.ca/"><img src="images/illinois-logo-internal-collaboration.png" style="width:"50%";></a></p>            
+          </div>
+        </div>
+            
+    design:
+      background:
+        color: "#ffffff"
+        text_color_light: false      
+
+  - block: markdown
+    content:
+      title: Partners
+      text: |
+        <br>
+
+        <div class="row justify-content-center">
+          <div class="col-md-3 text-center">
+            <p><a href="https://alliancecan.ca/"><img src="images/RDA_Logotype_Low.png" style="width:"50%";></a></p>            
+          </div>
+        </div>
+            
+    design:
+      background:
+        color: "#e8f0e7"
+        text_color_light: false 
+        
+  - block: markdown
+    content:
+      title: Past Sponsors
+      text: |
+        <br>
+
+        <div class="row justify-content-center">
+          <div class="col-md-3 text-center">
+            <p><a href="https://alliancecan.ca/"><img src="images/UCBerkeley_wordmark_blue.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-3 text-center">
+            <p><a href="https://alliancecan.ca/"><img src="images/Carpentries.png" style="width:"50%";></a></p>            
+          </div>
+        
+          <div class="col-md-2" style="text-align: center;">
+            <p><a href="https://alliancecan.ca/">Ford Foundation</a></p>
+          </div>
+         
+          <div class="col-md-3 text-center">
+            <p><a href="https://alliancecan.ca/"><img src="images/moore-logo-color-small.png" style="width:"50%";></a></p>            
+          </div>
+
+          <div class="col-md-3 text-center">
+            <p><a href="https://alliancecan.ca/"><img src="images/rdc-logo.png" style="width:"50%";></a></p>            
+          </div>
+ 
+          <div class="col-md-3 text-center">
+            <p><a href="https://alliancecan.ca/"><img src="images/stanford-university-stacked.png" style="width:"50%";></a></p>            
+          </div>
+ 
+          <div class="col-md-3 text-center">
+            <p><a href="https://alliancecan.ca/"><img src="images/Wellcome-logo.png" style="width:"50%";></a></p>            
+          </div>
+ 
+
+        </div>
+            
+    design:
+      background:
+        color: "#ffffff"
+        text_color_light: false      
+
+        
+
+
+  - block: markdown
+    content:
+      title: "Data implies software: it’s not much good gathering data if you don’t have the ability to analyse it."
       subtitle: 
-      text: <p align="center"><a href="https://twitter.com/npch/status/1258388356431478784">Neil Chue Hong, Director, Software Sustainability Institute, University of Edinburgh, UK</a></p>
+      text: <p align="center"><a href="http://ivory.idyll.org/blog/2017-data-implies-software.html">Titus Brown, Associate Professor, University of California, Davis, USA</a></p>
     design:
       background:
         color: "#f98c01"
