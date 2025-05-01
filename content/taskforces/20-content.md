@@ -41,7 +41,7 @@ Developing research software is a dynamic, agile and collaborative effort, invol
 
 This task force takes forward [previous work](https://sdruskat.net/software-authorship/) to define software authorship and comprehensively describe contribution types/roles in software. The group examines relevant previous work and literature to formulate drafts defining both software authorship and the nature of contributions. These drafts will be made public for expert and community review. Following this consultation phase, they will be published as comprehensive community guidelines.
 
-### Succession Planning for Research Software
+### [Succession Planning for Research Software](https://www.researchsoft.org/tf-succession-planning/)
 
 This task force aims to provide a best practices guide for responsibly wrapping up research code when individuals leave their institutions, addressing a common challenge faced across the international research software community. By gathering community feedback and creating an easy-to-use checklist, the group seeks to support sustainable transitions and long-term preservation of software projects. Outputs will include a GitHub repository or Jupyter Notebook and markdown-based checklists, all shared under a CC-BY 4.0 license. To join the task force or learn more, contact: richard.littauer@gmail.com 
 
