@@ -41,6 +41,7 @@ Since 2022, the Funders Forum has convened annual global gatherings of research 
 - Alfred P. Sloan Foundation
 - Aligning Science Across Parkinson's (ASAP)
 - Amazon Web Services (AWS)
+- Astera Institute 
 - Australian Research Data Commons (ARDC)
 - Austrian Science Fund
 - Biotechnology and Biological Sciences Research Council (BBSRC)
@@ -61,6 +62,7 @@ Since 2022, the Funders Forum has convened annual global gatherings of research 
 - Linux Foundation
 - Medical Research Council (UKRI)
 - Michael J. Fox Foundation
+- Microsoft
 - National Aeronautics and Space Administration (NASA)
 - National Institutes of Health (NIH)
 - National Science Foundation (NSF)
