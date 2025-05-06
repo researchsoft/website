@@ -24,7 +24,7 @@ main:
     weight: 40
   - parent: About
     name: Stakeholders
-    url: stakeholders
+    url: about/stakeholders
     weight: 50
   - parent: About
     name: Donate
