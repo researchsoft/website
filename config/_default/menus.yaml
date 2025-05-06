@@ -28,7 +28,7 @@ main:
     weight: 50
   - parent: About
     name: Donate
-    url: donate
+    url: about/donate
     weight: 60  
 
   - name: Task Forces
