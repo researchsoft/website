@@ -126,19 +126,19 @@ rssLimit = 100
   name = "Research Software Infrastructure Forum"
   weight = 32
 
-[[menu.main]]
+  [[menu.main]]
   parent = "/forums"
-  url = "/stars-forum"
-  name = "Skills and Training for Research Software Forum"
-  weight = 33
+  url = "/rsp-forum"
+  name = "Research Software Policy Forum"
+  weight = 33 
 
-[[menu.main]]
+  [[menu.main]]
   parent = "/forums"
   url = "/mars-forum"
-  name = "Metascience and Research Software (Forum"
+  name = "Metascience and Research Software Forum"
   weight = 34  
 
-[[menu.main]]
+  [[menu.main]]
   parent = "/forums"
   url = "/pubsoft-forum"
   name = "Publishing Research Software Forum"
@@ -146,9 +146,9 @@ rssLimit = 100
 
 [[menu.main]]
   parent = "/forums"
-  url = "/rsp-forum"
-  name = "Research Software Policy Forum"
-  weight = 36 
+  url = "/stars-forum"
+  name = "Skills and Training for Research Software Forum"
+  weight = 36
   
 [[menu.main]]
   parent = "/forums"
