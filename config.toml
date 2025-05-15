@@ -117,7 +117,7 @@ rssLimit = 100
 [[menu.main]]
   parent = "/forums"
   url = "/funders-forum"
-  name = "Funders Forum"
+  name = "Research Software Funders Forum"
   weight = 31
 
 [[menu.main]]
@@ -128,21 +128,45 @@ rssLimit = 100
 
 [[menu.main]]
   parent = "/forums"
+  url = "/stars-forum"
+  name = "Skills and Training for Research Software Forum"
+  weight = 33
+
+[[menu.main]]
+  parent = "/forums"
+  url = "/mars-forum"
+  name = "Metascience and Research Software (Forum"
+  weight = 34  
+
+[[menu.main]]
+  parent = "/forums"
+  url = "/pubsoft-forum"
+  name = "Publishing Research Software Forum"
+  weight = 35 
+
+[[menu.main]]
+  parent = "/forums"
+  url = "/rsp-forum"
+  name = "Research Software Policy Forum"
+  weight = 36 
+  
+[[menu.main]]
+  parent = "/forums"
   url = "https://adore.software/"
   name = "ADORE.software Secretariat"
-  weight = 33
+  weight = 37
 
 [[menu.main]]
   parent = "/forums"
   url = "https://researchsoftware.org/council.html"
   name = "International Council of RSE Associations"
-  weight = 34
+  weight = 38
   
 [[menu.main]]
   parent = "/forums"
   url = "/community-forum"
   name = "Community Leaders Forum"
-  weight = 35
+  weight = 39
 
 [[menu.main]]
   identifier = "/resa-resources"
