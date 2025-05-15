@@ -21,7 +21,7 @@ The MaRS Forum provides a formal mechanism for members to share practices and co
 - Increasing awareness of research on research software
 - Metascience publishing opportunities (or lack thereof)
 
-For further information, please refer to the [**Terms of Reference**](https://docs.google.com/document/d/12d27O1DqvDxAQjtnt9IdpDBlP6hMYO5bAbPd0S0a-w0/edit?usp=sharing)
+For further information, please refer to the [**Terms of Reference**](https://docs.google.com/document/d/1_B0jmASpDKTcWvNGy7liOYcaTvKkOsgBUR_vBQ4CYq8/edit?usp=sharing)
 
 Membership is open to stakeholders that conduct research to understand implications of research software on the research ecosystem, particularly on the research process.
 
