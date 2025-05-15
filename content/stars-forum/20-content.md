@@ -6,7 +6,7 @@ weight = 20
 background = "white"
 +++
 
-The Skills and Training for Research Software (STaRS) Forum is a collaboration of skills and training organisations committed to supporting research software, and those who develop it, as fundamental and vital to research. Skills and training organisations/initiatives are those efforts that develop curricula and learning pathways that support research software development, primarily at international, national and/or disciplinary levels.
+The Skills and Training for Research Software (STaRS) Forum is a collaboration of skills and training organisations committed to supporting research software, and those who develop it, as fundamental and vital to research. Skills and training organisations/initiatives are those efforts that develop curricula and learning pathways that support research software development, primarily at international, national, and/or disciplinary levels.
 
 Software has become an essential constituent of research and research software is starting to be seen as an equal partner of research data in key international policy documents such as UNESCO and the OECD. However, support and recognition of the importance of research software and the people who develop and maintain it, has failed to keep pace with the scale of use of research software in research.
 
