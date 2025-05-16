@@ -22,10 +22,10 @@ summary = """
   align = "right"
   sticky = true # Default is false
   content = """
-  * [MaRS Forum](https://www.researchsoft.org/mars-forum/)
-  * [PubSoft Forum](https://www.researchsoft.org/pubsoft-forum/)
-  * [RSP Forum](https://www.researchsoft.org/rsp-forum/)
-  * [STaRS Forum](https://www.researchsoft.org/stars-forum/)
+  * [Metascience and Research Software (MaRS) Forum](https://www.researchsoft.org/mars-forum/)
+  * [Publishing Research Software (PubSoft) Forum](https://www.researchsoft.org/pubsoft-forum/)
+  * [Research Software Policy (RSP) Forum](https://www.researchsoft.org/rsp-forum/)
+  * [Skills and Training for Research Software (STaRS) Forum](https://www.researchsoft.org/stars-forum/)
   """
 
 [asset]
@@ -63,4 +63,5 @@ Meetings will occur at least annually or biannually, and each meeting will occur
 
 Each forum offers opportunities to engage with peers, share insights, and contribute to a coordinated global effort. If you're interested in participating in one of these forums, please contact [ReSA](mailto:info@researchsoft.org). 
 
-_Image by storyset on [Freekpik]_(https://www.freepik.com/free-vector/group-discussion-concept-illustration_236238190.htm#fromView=search&page=1&position=11&uuid=e6fe85e2-6539-49f2-b79e-5a9d288a9849&query=online+global+meeting)
+
+Image by storyset on [Freekpik](https://www.freepik.com/free-vector/group-discussion-concept-illustration_236238190.htm#fromView=search&page=1&position=11&uuid=e6fe85e2-6539-49f2-b79e-5a9d288a9849&query=online+global+meeting)
