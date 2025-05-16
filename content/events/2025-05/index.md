@@ -32,7 +32,6 @@ summary = """
   image = "Global meeting.jpg"
 
 +++
-Image by storyset on [Freekpik](https://www.freepik.com/free-vector/group-discussion-concept-illustration_236238190.htm#fromView=search&page=1&position=11&uuid=e6fe85e2-6539-49f2-b79e-5a9d288a9849&query=online+global+meeting)
 
 ReSA is excited to announce the launch of four new forums designed to foster global collaboration and accelerate progress in research software sustainability: 
 - [**Metascience and Research Software (MaRS) Forum**](https://www.researchsoft.org/mars-forum/) brings together metascience groups, communities, and organizations to explore the impact of research software on the research ecosystem, especially its role in shaping the research process.
@@ -61,4 +60,7 @@ Meetings will occur at least annually or biannually, and each meeting will occur
 - 15:30 UTC 3 July - [see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Metascience+and+Research+Software+Forum+&iso=20250703T1530&p1=1440&ah=1) 
 
 **Get involved**
+
 Each forum offers opportunities to engage with peers, share insights, and contribute to a coordinated global effort. If you're interested in participating in one of these forums, please contact [ReSA](mailto:info@researchsoft.org). 
+
+_Image by storyset on [Freekpik]_(https://www.freepik.com/free-vector/group-discussion-concept-illustration_236238190.htm#fromView=search&page=1&position=11&uuid=e6fe85e2-6539-49f2-b79e-5a9d288a9849&query=online+global+meeting)
