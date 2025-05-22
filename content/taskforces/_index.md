@@ -8,7 +8,7 @@ sections:
     content:
       title: 
       text:   |
-        Taskforces
+        Task forces
         {style="color: white; font-size: 2rem; text-align: center; "}
     design:
       background:

@@ -44,9 +44,10 @@ main:
 
   - name: Forums
     weight: 30
+    url: forums
   - parent: Forums
-    name: Funders Forum
-    url: funders-forum
+    name: Research Software Funders Forum
+    url: forums/funders-forum
     weight: 10
   - parent: Forums
     name: Research Software Infrastructure Forum
