@@ -405,9 +405,9 @@ sections:
 
   - block: markdown
     content:
-      title: "Data implies software: it’s not much good gathering data if you don’t have the ability to analyse it."
+      title: "The work of the people who develop and maintain research software is often hidden and needs to be recognised."
       subtitle: 
-      text: <p align="center"><a href="http://ivory.idyll.org/blog/2017-data-implies-software.html">Titus Brown, Associate Professor, University of California, Davis, USA</a></p>
+      text: <p align="center"><a href="https://ropensci.org/author/yanina-bellini-saibene/">Yanina Bellini, Community Manager, rOpenSci, Argentina</a></p>
     design:
       background:
         color: "#f98c01"
