@@ -39,7 +39,7 @@ main:
     weight: 10
   - parent: Task Forces
     name: Task Force Support
-    url: tf-support
+    url: taskforces/tf-support
     weight: 20
 
   - name: Forums
