@@ -51,7 +51,7 @@ main:
     weight: 10
   - parent: Forums
     name: Research Software Infrastructure Forum
-    url: rsi-forum
+    url: forums/rsi-forum
     weight: 20
   - parent: Forums
     name: ADORE.software Secretariat
