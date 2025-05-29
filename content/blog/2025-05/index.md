@@ -25,10 +25,10 @@ authors = ["Kim Hartley & Michelle Barker"]
 
 +++
 
-![My Image]() 
-_Image credit: 
+![My Image](05-2025-blog.jpg) 
 
 By Kim Hartley & Michelle Barker
+
 
 May 2025
 
@@ -70,3 +70,7 @@ As we continue to strengthen our partnership and drive progress in research soft
 - Subscribe to our newsletters ([ReSA](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share), [RDA](https://www.rd-alliance.org/news-stories/newsletters/)) for the latest updates.
 
 Together, we can build a more sustainable, open, and collaborative research ecosystem!
+
+
+
+_Image by pch.vector on_ [_Freepik_](https://www.freepik.com/free-vector/tiny-business-persons-working-jigsaw-puzzle-together-metaphor-cooperation-partnership-collaboration-team-people-flat-vector-illustration-communication-teamwork-concept_28480855.htm#fromView=search&page=1&position=36&uuid=0d3b4aa4-54e9-4e57-a175-934bf4a75975&query=organizational+collaboration)
