@@ -67,7 +67,7 @@ We look forward to building on this strong foundation and expanding our collabor
 As we continue to strengthen our partnership and drive progress in research software and data, we invite you to get involved. Explore our collaborative initiatives, participate in upcoming events, and help shape the future of open science.
 
 - Learn more at [ReSA’s website](https://www.researchsoft.org) and [RDA’s website](https://www.rd-alliance.org)
-- Subscribe to our newsletters ([ReSA](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share), [RDA](https://www.rd-alliance.org/news-stories/newsletters/)) for the latest updates.
+- Subscribe to our newsletters ([ReSA](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share), [RDA](https://www.rd-alliance.org/news-stories/newsletters/)) for the latest updates
 
 Together, we can build a more sustainable, open, and collaborative research ecosystem!
 
