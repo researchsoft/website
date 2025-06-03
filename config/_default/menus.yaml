@@ -16,7 +16,7 @@ main:
     weight: 20
   - parent: About
     name: Our Team
-    url: our-team
+    url: about/our-team
     weight: 30
   - parent: About
     name: Organisational Membership
