@@ -34,6 +34,10 @@ sections:
     content:
       title: "Our Mission"
       subtitle: "To advance the research software ecosystem by collaborating with decision makers and key influencers."
+    design:
+      background:
+        color: "#ffffff"
+        text_color_light: false
 
   - block: markdown
     content: 
@@ -78,6 +82,10 @@ sections:
               <p align="center">Encourage and support software recognition</p>
             </div>
           </div>
+    design:
+      background:
+        color: "#ffffff"
+        text_color_light: false
 
   - block: markdown
     content:

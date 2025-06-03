@@ -58,7 +58,7 @@ sections:
 
     design:
       background:
-        color: "#edffeb"
+        color: "#ffffff"
         text_color_light: false       
 
   - block: markdown
@@ -97,7 +97,7 @@ sections:
 
     design:
       background:
-        color: "#edffeb"
+        color: "#ffffff"
         text_color_light: false       
 
 
@@ -295,7 +295,7 @@ sections:
             
     design:
       background:
-        color: "#edffeb"
+        color: "#ffffff"
         text_color_light: false 
         
   - block: markdown
