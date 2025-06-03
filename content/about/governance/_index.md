@@ -45,43 +45,55 @@ sections:
 
           <div class="row">
             <div class="col-md-4">
-              <img src="dan.jpg">
-              <h2 align="center">Chair: Daniel S. Katz</h2>
-              <p align="center">Chief Scientist, National Center for Supercomputing Applications (NCSA), University of Illinois</p>
-              <p align="center"> <i> Lives In US </i> </p>
-              <p align="center">Daniel S. Katz is Chief Scientist at the National Center for Supercomputing Applications (NCSA), and Research Associate Professor in Computer Science, Electrical and Computer Engineering, and the School of Information Sciences (iSchool) at the University of Illinois Urbana-Champaign. He was previously a Senior Fellow at the University of Chicago and Argonne National Laboratory, a Program Director at the National Science Foundation, and had roles at Louisiana State University, NASA JPL, and Cray Research. Dan's interest is in the development and use of advanced cyberinfrastructure to solve challenging problems at multiple scales, including applications, algorithms, fault tolerance, and programming in parallel and distributed computing, and policy issues such as citation and credit mechanisms and practices associated with software and data, organization and community practices for collaboration, and career paths for computing researchers. He is a senior member of the IEEE and ACM, co-founder and current Associate Editor-in-Chief of the [Journal of Open Source Software](https://joss.theoj.org/), and co-founder of the [US Research Software Engineer Association (US-RSE)](https://us-rse.org/).</p>
+              <img src="juan.jpg">
+              <h2 align="center">Juan Bicarregui</h2>
+              <p align="center">Head of the Data Division, Science and Technology Facilities Council (STFC)</p>
+              <p align="center"> <i> Lives In UK </i> </p>
+              <p align="center">​​​Juan Bicarregui is Head of the Data Division in the Scientific Computing Department at STFC. Juan’s division has responsibility for research and development of the data systems that handle much of the huge volume of scientific data that is produced by the STFC research facilities. Juan has played a key role in formulating UK policy on opening up access to research outputs and chaired the cross Research Council group which published the RCUK Joint Principles on Data and associated Guidelines. Juan was a member of the steering group that set up the Research Data Alliance and co-chaired the RDA Organisational Advisory Board. Currently, Juan is coordinator of the H2020 EOSCpilot project that is supporting the first phase in the development of the European Open Science Cloud.</p>
             </div>
 
             <div class="col-md-4">
-              <img src="dan.jpg">
-              <h2 align="center">Chair: Daniel S. Katz</h2>
-              <p align="center">Chief Scientist, National Center for Supercomputing Applications (NCSA), University of Illinois</p>
-              <p align="center"> <i> Lives In US </i> </p>
-              <p align="center">Daniel S. Katz is Chief Scientist at the National Center for Supercomputing Applications (NCSA), and Research Associate Professor in Computer Science, Electrical and Computer Engineering, and the School of Information Sciences (iSchool) at the University of Illinois Urbana-Champaign. He was previously a Senior Fellow at the University of Chicago and Argonne National Laboratory, a Program Director at the National Science Foundation, and had roles at Louisiana State University, NASA JPL, and Cray Research. Dan's interest is in the development and use of advanced cyberinfrastructure to solve challenging problems at multiple scales, including applications, algorithms, fault tolerance, and programming in parallel and distributed computing, and policy issues such as citation and credit mechanisms and practices associated with software and data, organization and community practices for collaboration, and career paths for computing researchers. He is a senior member of the IEEE and ACM, co-founder and current Associate Editor-in-Chief of the [Journal of Open Source Software](https://joss.theoj.org/), and co-founder of the [US Research Software Engineer Association (US-RSE)](https://us-rse.org/).</p>
+              <img src="neil.jpg">
+              <h2 align="center">Neil Chue Hong</h2>
+              <p align="center">Director, Software Sustainability Institute, University of Edinburgh</p>
+              <p align="center"> <i> Lives In UK </i> </p>
+              <p align="center">Neil P. Chue Hong is the founding Director of the Software Sustainability Institute and Professor of Research Software Policy and Practice at EPCC, University of Edinburgh. He works to improve software sustainability, research software engineering practices, research software communities of practice, and the impact of research software policy and incentives. He has co-led development and implementation of international research software guidelines including the FAIR Principles for Research Software, Software Citation Principles, and NISO Reproducibility Badging and Definitions. He holds a number of research funder advisory roles, including chairing the steering committee for the UK’s exascale software, algorithms and infrastructure programme (ExCALIBUR) and a member of the UKRI Net Zero Digital Research Infrastructure steering committee, BBSRC Transformative Technologies strategic advisory panel, and NERC Digital Research Infrastructure Investment Board. He is the Editor-in-Chief for the Journal of Open Research Software, and co-editor of “Software Engineering for Science”.</p>
             </div>
 
             <div class="col-md-4">
-              <img src="dan.jpg">
-              <h2 align="center">Chair: Daniel S. Katz</h2>
-              <p align="center">Chief Scientist, National Center for Supercomputing Applications (NCSA), University of Illinois</p>
-              <p align="center"> <i> Lives In US </i> </p>
-              <p align="center">Daniel S. Katz is Chief Scientist at the National Center for Supercomputing Applications (NCSA), and Research Associate Professor in Computer Science, Electrical and Computer Engineering, and the School of Information Sciences (iSchool) at the University of Illinois Urbana-Champaign. He was previously a Senior Fellow at the University of Chicago and Argonne National Laboratory, a Program Director at the National Science Foundation, and had roles at Louisiana State University, NASA JPL, and Cray Research. Dan's interest is in the development and use of advanced cyberinfrastructure to solve challenging problems at multiple scales, including applications, algorithms, fault tolerance, and programming in parallel and distributed computing, and policy issues such as citation and credit mechanisms and practices associated with software and data, organization and community practices for collaboration, and career paths for computing researchers. He is a senior member of the IEEE and ACM, co-founder and current Associate Editor-in-Chief of the [Journal of Open Source Software](https://joss.theoj.org/), and co-founder of the [US Research Software Engineer Association (US-RSE)](https://us-rse.org/).</p>
+              <img src="nico.jpg">
+              <h2 align="center">Nicolás Palopoli</h2>
+              <p align="center">Adjunct Researcher, National Research Council in Argentina (CONICET)</p>
+              <p align="center"> <i> Lives In Argentina </i> </p>
+              <p align="center">Nicolás is an Adjunct Researcher at the National Research Council in Argentina (CONICET) and a Project Leader at the Structural Bioinformatics Group, Universidad Nacional de Quilmes (UNQ, Buenos Aires, Argentina). His research is focused on understanding the functional nature of proteins, with special interest in their evolutionary relationships and their interactions in biological systems. He is a certified trainer and over the last 15 years he has delivered online and virtual courses on biology, programming and education for graduate and postgraduate university students, as well as several workshops in different communities of practice. Nicolas is also the Co-Executive Director and Advisory Committee Chair of MetaDocencia, an online community that builds scientific and technical capacities through the co-creation of networks, learning spaces, and accessible resources focused on Spanish-speaking communities.</p>
+            </div>
+
+          </div>
+
+          <div class="row">
+            <div class="col-md-4">
+              <img src="shurui.jpg">
+              <h2 align="center">Shurui Zhou</h2>
+              <p align="center">Assistant Professor, The University of Toronto</p>
+              <p align="center"> <i> Lives In Canada </i> </p>
+              <p align="center">Shurui Zhou is an Assistant Professor at the University of Toronto. Her research focuses on facilitating distributed and interdisciplinary software teams to build high-quality systems, including but not limited to building better programming environments for software developers, designing better code review and issue tracking systems to facilitate better collaboration among team members, and identifying vulnerabilities from the codebase. She studies and tackles the problems from both technical and social perspectives, especially in the context of modern open-source collaboration forms, Industrial plant software, and interdisciplinary teams when building AI-based systems or scientific software. She also investigates the collaboration challenges for hardware teams, specifically for CAD designers using online collaborative platforms. To achieve her goals, she combines advances in tooling and software engineering principles with insights from other disciplines that study human collaboration, for which she combines and mixes a wide range of research methods.</p>
             </div>
 
           </div>
 
   - block: markdown
     content:
-      title: ReSA Steering Committee
+      title: Chairs of ReSA Subcommittees
       subtitle: ''
       text: |
           <div class="row">
             <div class="col-md-4">
-              <img src="dan.jpg">
-              <h2 align="center">Chair: Daniel S. Katz</h2>
-              <p align="center">Chief Scientist, National Center for Supercomputing Applications (NCSA), University of Illinois</p>
-              <p align="center"> <i> Lives In US </i> </p>
-              <p align="center">Daniel S. Katz is Chief Scientist at the National Center for Supercomputing Applications (NCSA), and Research Associate Professor in Computer Science, Electrical and Computer Engineering, and the School of Information Sciences (iSchool) at the University of Illinois Urbana-Champaign. He was previously a Senior Fellow at the University of Chicago and Argonne National Laboratory, a Program Director at the National Science Foundation, and had roles at Louisiana State University, NASA JPL, and Cray Research. Dan's interest is in the development and use of advanced cyberinfrastructure to solve challenging problems at multiple scales, including applications, algorithms, fault tolerance, and programming in parallel and distributed computing, and policy issues such as citation and credit mechanisms and practices associated with software and data, organization and community practices for collaboration, and career paths for computing researchers. He is a senior member of the IEEE and ACM, co-founder and current Associate Editor-in-Chief of the [Journal of Open Source Software](https://joss.theoj.org/), and co-founder of the [US Research Software Engineer Association (US-RSE)](https://us-rse.org/).</p>
+              <img src="Colette.jpg">
+              <h2 align="center">Colette Bos</h2>
+              <p align="center">Programme Director, Netherlands eScience Centre</p>
+              <p align="center"> <i> Lives In the Netherlands </i> </p>
+              <p align="center">Colette Bos is the programme director of the Netherlands eScience Center. Her main responsibility is the call strategy and responsibility for the project portfolio. For this, she works closely with the Programme Managers. She also contributes to the general management of the eScience Center in the directors’ team and to external relations of the Netherlands eScience Center. Colette obtained her PhD at Utrecht University, with research on how scientists connect their work to large societal goals in science policy. After that, she moved to the Dutch Research Council (NWO), where she worked as a coordinator on the development of the Dutch National Research Agenda and as management board member in the European Joint Programming Initiative Urban Europe. This was followed by two years as board secretary at the Mathematics department of Utrecht University, where she contributed to strategy and policy development and implementation of the department and where she managed operational matters.
+              Learn more about <a href="https://adore.software/">ADORE.software </a>.</p>
             </div>
 
           </div>
