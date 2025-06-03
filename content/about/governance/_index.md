@@ -14,7 +14,7 @@ sections:
       subtitle: ''
       text: |
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin: 0 auto; text-align: center;">
               <img src="dan.jpg">
               <h2 align="center">Chair: Daniel S. Katz</h2>
               <p align="center">Chief Scientist, National Center for Supercomputing Applications (NCSA), University of Illinois</p>
@@ -23,7 +23,7 @@ sections:
             </div>
 
 
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin: 0 auto; text-align: center;">
               <img src="anne.jpg">
               <h2 align="center">Anne Fouilloux</h2>
               <p align="center">Senior Research Engineer at Simula Research Laboratory</p>
@@ -33,7 +33,7 @@ sections:
             </div>
 
 
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin: 0 auto; text-align: center;">
               <img src="caxton.jpg">
               <h2 align="center">Caxton Murira</h2>
               <p align="center">Product Specialist, Team Lead, Clinical Research and Trials Community (CRTC) programme at the Science for Africa Foundation</p>
@@ -44,7 +44,7 @@ sections:
           </div>
 
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin: 0 auto; text-align: center;">
               <img src="juan.jpg">
               <h2 align="center">Juan Bicarregui</h2>
               <p align="center">Head of the Data Division, Science and Technology Facilities Council (STFC)</p>
@@ -52,7 +52,7 @@ sections:
               <p align="center">​​​Juan Bicarregui is Head of the Data Division in the Scientific Computing Department at STFC. Juan’s division has responsibility for research and development of the data systems that handle much of the huge volume of scientific data that is produced by the STFC research facilities. Juan has played a key role in formulating UK policy on opening up access to research outputs and chaired the cross Research Council group which published the RCUK Joint Principles on Data and associated Guidelines. Juan was a member of the steering group that set up the Research Data Alliance and co-chaired the RDA Organisational Advisory Board. Currently, Juan is coordinator of the H2020 EOSCpilot project that is supporting the first phase in the development of the European Open Science Cloud.</p>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin: 0 auto; text-align: center;">
               <img src="neil.jpg">
               <h2 align="center">Neil Chue Hong</h2>
               <p align="center">Director, Software Sustainability Institute, University of Edinburgh</p>
@@ -60,7 +60,7 @@ sections:
               <p align="center">Neil P. Chue Hong is the founding Director of the Software Sustainability Institute and Professor of Research Software Policy and Practice at EPCC, University of Edinburgh. He works to improve software sustainability, research software engineering practices, research software communities of practice, and the impact of research software policy and incentives. He has co-led development and implementation of international research software guidelines including the FAIR Principles for Research Software, Software Citation Principles, and NISO Reproducibility Badging and Definitions. He holds a number of research funder advisory roles, including chairing the steering committee for the UK’s exascale software, algorithms and infrastructure programme (ExCALIBUR) and a member of the UKRI Net Zero Digital Research Infrastructure steering committee, BBSRC Transformative Technologies strategic advisory panel, and NERC Digital Research Infrastructure Investment Board. He is the Editor-in-Chief for the Journal of Open Research Software, and co-editor of “Software Engineering for Science”.</p>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin: 0 auto; text-align: center;">
               <img src="nico.jpg">
               <h2 align="center">Nicolás Palopoli</h2>
               <p align="center">Adjunct Researcher, National Research Council in Argentina (CONICET)</p>
@@ -71,7 +71,7 @@ sections:
           </div>
 
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin: 0 auto; text-align: center;">
               <img src="shurui.jpg">
               <h2 align="center">Shurui Zhou</h2>
               <p align="center">Assistant Professor, The University of Toronto</p>
@@ -87,7 +87,7 @@ sections:
       subtitle: ''
       text: |
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4" style="margin: 0 auto; text-align: center;">
               <img src="Colette.jpg">
               <h2 align="center">Colette Bos</h2>
               <p align="center">Programme Director, Netherlands eScience Centre</p>
