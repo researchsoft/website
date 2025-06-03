@@ -81,6 +81,12 @@ sections:
 
           </div>
 
+    design:
+      background:
+        color: "#ffffff"
+        text_color_light: false
+
+
   - block: markdown
     content:
       title: Chairs of ReSA Subcommittees
