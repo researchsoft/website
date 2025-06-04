@@ -59,57 +59,74 @@ sections:
 
 
             <div class="col-md-4" style="margin: 0 auto; text-align: center;">
-              <img src="caxton.jpg">
-              <h2 align="center">Caxton Murira</h2>
-              <p align="center">Product Specialist, Team Lead, Clinical Research and Trials Community (CRTC) programme at the Science for Africa Foundation</p>
-              <p align="center"> <i> Lives in Kenya </i> </p>
+              <img src="kim_sq.jpg">
+              <h2 align="center">Kim Hartley</h2>
+              <p align="center">Program Manager</p>
+              <p align="center"> <i> Lives in Canada </i> </p>
               <!-- Social media icons section -->
                 <p>
-                <a href="https://www.linkedin.com/in/michelledbarker/" target="_blank" style="margin: 0 10px;">
+                <a href="https://www.linkedin.com/in/kim-hartley-456808232/" target="_blank" style="margin: 0 10px;">
                 <i class="fab fa-linkedin"></i>
                 </a>                
-                <a href="https://twitter.com/Michelle1Barker" target="_blank" style="margin: 0 10px;">
-                <i class="fab fa-twitter"></i>
+                <a href="https://github.com/Kim-hartley" target="_blank" style="margin: 0 10px;">
+                <i class="fab fa-github"></i>
                 </a>
                 </p>
-              <p align="center">Caxton Murira is a Product Specialist and team lead for the <a href="https://scienceforafrica.foundation/clinical-research-and-trials-community">Clinical Research and Trials Community (CRTC) programme</a> at the <a href="https://scienceforafrica.foundation/">Science for Africa Foundation</a>. He is passionate about data and has delivered successful projects in a myriad of sectors such as health, governance, climate change for INGOs, government and public institutions. Caxton has an MSc in project management and a BSc in computer science. Prior to joining SFA Foundation, he worked at the African Academy of Sciences and other not for profit outfits in similar roles. Caxton is keen to promote open research initiatives, open data, and research software, with the goal of achieving fair access to healthcare and creating sustainable innovative solutions that address Africa's most pressing challenges.</p>
+              <p align="center">Kim joined ReSA in 2022, with support from the <a href = "https://alliancecan.ca/">Digital Research Alliance of Canada</a>, to facilitate the <a href = "https://www.researchsoft.org/funders-forum/">Research Software Funders Forum</a>, a formal mechanism for international funding organisations to collaborate.
+              Kim supports the Funders Forum by engaging the community in collaborative activities designed to share practices and address common challenges, with the
+              intention of advancing the research software ecosystem.
+              A social anthropologist by training, Kim brings a passion for understanding the ways in which people live in different social and cultural settings
+              globally to her work managing communities. She has extensive experience in academic research administration, including managing research ethics boards,
+              advising diverse stakeholders, and building partnerships. Through her work in the broader public sector, Kim has facilitated a variety of research,
+              scholarly, and creative activities.
+              <a href = "mailto:kim@researchsoft.org">Email Kim Hartley</a>.</p>
             </div>
 
           </div>
 
           <div class="row">
             <div class="col-md-4" style="margin: 0 auto; text-align: center;">
-              <img src="juan.jpg">
-              <h2 align="center">Juan Bicarregui</h2>
-              <p align="center">Head of the Data Division, Science and Technology Facilities Council (STFC)</p>
-              <p align="center"> <i> Lives In UK </i> </p>
+              <img src="talarify-people.png">
+              <h2 align="center">Talarify</h2>
+              <p align="center">Community Engagement Partner (Africa)</p>
+              <p align="center"> <i> Lives In South Africa </i> </p>
               <!-- Social media icons section -->
                 <p>
-                <a href="https://www.linkedin.com/in/michelledbarker/" target="_blank" style="margin: 0 10px;">
+                <a href="https://za.linkedin.com/company/talarify" target="_blank" style="margin: 0 10px;">
                 <i class="fab fa-linkedin"></i>
-                </a>                
-                <a href="https://twitter.com/Michelle1Barker" target="_blank" style="margin: 0 10px;">
+                </a>      
+                <a href="https://talarify.co.za" target="_blank" style="margin: 0 10px;">
+                <i class="fa fa-globe"></i>
+                </a>             
+                <a href="https://twitter.com/talarify" target="_blank" style="margin: 0 10px;">
                 <i class="fab fa-twitter"></i>
                 </a>
                 </p>
-              <p align="center">​​​Juan Bicarregui is Head of the Data Division in the Scientific Computing Department at STFC. Juan’s division has responsibility for research and development of the data systems that handle much of the huge volume of scientific data that is produced by the STFC research facilities. Juan has played a key role in formulating UK policy on opening up access to research outputs and chaired the cross Research Council group which published the RCUK Joint Principles on Data and associated Guidelines. Juan was a member of the steering group that set up the Research Data Alliance and co-chaired the RDA Organisational Advisory Board. Currently, Juan is coordinator of the H2020 EOSCpilot project that is supporting the first phase in the development of the European Open Science Cloud.</p>
+              <p align="center">​​Talarify joined ReSA in 2023 to support community growth in Africa, with funding by a <a href = "https://doi.org/10.5281/zenodo.7275397">grant</a> from the Chan Zuckerberg Initiative.
+              The South African-based consulting company has been involved in numerous continental initiatives related to research software, including The Carpentries, Africa R Users, and afrimapr. It has also been engaged in global Research Software Engineering (RSE) initiatives such as the <a href = "https://github.com/softwaresaved/international-survey">International RSE Survey</a>, and since 2022 has led <a href = "https://rsse.africa">RSSE-Africa</a> meetups, member showcases, and more. Through their involvement in these initiatives, the Talarify team has learned much about the local communities and has established connections with researchers involved in coding and research infrastructure across the continent.
+              Talarify executive director, Anelda van der Walt has a background in bioinformatics and 20 years of experience in supporting the development of digital and computational research skills and communities and bridging the Global North and South. 
+              <a href = "mailto:anelda@talarify.co.za">Email Anelda at Talarify</a>.</p>
             </div>
 
             <div class="col-md-4" style="margin: 0 auto; text-align: center;">
-              <img src="nico.jpg">
-              <h2 align="center">Nicolás Palopoli</h2>
-              <p align="center">Adjunct Researcher, National Research Council in Argentina (CONICET)</p>
-              <p align="center"> <i> Lives In Argentina </i> </p>
+              <img src="CSS_square.png">
+              <h2 align="center">Code for Science & Society</h2>
+              <p align="center">Fiscal Sponsor</p>
               <!-- Social media icons section -->
                 <p>
-                <a href="https://www.linkedin.com/in/michelledbarker/" target="_blank" style="margin: 0 10px;">
+                <a href="https://www.linkedin.com/company/code-for-society" target="_blank" style="margin: 0 10px;">
                 <i class="fab fa-linkedin"></i>
-                </a>                
-                <a href="https://twitter.com/Michelle1Barker" target="_blank" style="margin: 0 10px;">
+                </a>  
+                </a>      
+                <a href="https://www.codeforsociety.org/" target="_blank" style="margin: 0 10px;">
+                <i class="fa fa-globe"></i>
+                </a>                                
+                <a href="https://twitter.com/codeforsociety" target="_blank" style="margin: 0 10px;">
                 <i class="fab fa-twitter"></i>
                 </a>
                 </p>
-              <p align="center">Nicolás is an Adjunct Researcher at the National Research Council in Argentina (CONICET) and a Project Leader at the Structural Bioinformatics Group, Universidad Nacional de Quilmes (UNQ, Buenos Aires, Argentina). His research is focused on understanding the functional nature of proteins, with special interest in their evolutionary relationships and their interactions in biological systems. He is a certified trainer and over the last 15 years he has delivered online and virtual courses on biology, programming and education for graduate and postgraduate university students, as well as several workshops in different communities of practice. Nicolas is also the Co-Executive Director and Advisory Committee Chair of MetaDocencia, an online community that builds scientific and technical capacities through the co-creation of networks, learning spaces, and accessible resources focused on Spanish-speaking communities.</p>
+              <p align="center"><a href = "https://codeforscience.org/">Code for Science and Society (CS&S)</a> is ReSA’s fiscal sponsor. CS&S partner with leaders across public interest technology through comprehensive fiscal sponsorship. Projects in the fiscal sponsorship program are supported with financial and operational services. Their approach includes strategic support to develop governance, sustainability, and community strategies. 
+              <a href = "mailto:hi@codeforsociety.org">Email CS&S</a>.</p>
             </div>
 
           </div>
