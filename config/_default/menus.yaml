@@ -79,7 +79,7 @@ main:
     weight: 80
   - parent: Forums
     name: Community Leaders Forum
-    url: community-forum
+    url: forums/community-forum
     weight: 90
 
   - name: Resources
