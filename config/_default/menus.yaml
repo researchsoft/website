@@ -54,17 +54,33 @@ main:
     url: forums/rsi-forum
     weight: 20
   - parent: Forums
+    name: Research Software Policy Forum
+    url: forums/rsp-forum
+    weight: 30  
+  - parent: Forums
+    name: Metascience and Research Software Forum
+    url: forums/mars-forum
+    weight: 40
+  - parent: Forums
+    name: Publishing Research Software Forum
+    url: forums/pubsoft-forum
+    weight: 50
+  - parent: Forums
+    name: Skills and Training for Research Software Forum
+    url: forums/stars-forum
+    weight: 60
+  - parent: Forums
     name: ADORE.software Secretariat
     url: https://adore.software
-    weight: 30
+    weight: 70
   - parent: Forums
     name: International Council of RSE Associations
     url: https://researchsoftware.org/council.html
-    weight: 40
+    weight: 80
   - parent: Forums
     name: Community Leaders Forum
     url: community-forum
-    weight: 50
+    weight: 90
 
   - name: Resources
     weight: 40
