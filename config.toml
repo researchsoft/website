@@ -169,6 +169,12 @@ rssLimit = 100
   weight = 39
 
 [[menu.main]]
+  parent = "/forums"
+  url = "/community-leadership-forum"
+  name = "Community Leadership Forum"
+  weight = 39
+
+[[menu.main]]
   identifier = "/resa-resources"
   url = "/resa-resources"
   name = "Resources"
