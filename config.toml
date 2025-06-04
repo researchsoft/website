@@ -118,7 +118,7 @@ rssLimit = 100
   parent = "/forums"
   url = "/community-leadership-forum"
   name = "Research Software Community Leadership Forum"
-  weight = 32
+  weight = 31
 
 [[menu.main]]
   parent = "/forums"
