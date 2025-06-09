@@ -167,12 +167,6 @@ rssLimit = 100
   url = "https://researchsoftware.org/council.html"
   name = "International Council of RSE Associations"
   weight = 39
-  
-[[menu.main]]
-  parent = "/forums"
-  url = "/community-forum"
-  name = "Community Leaders Forum"
-  weight = 39
 
 [[menu.main]]
   identifier = "/resa-resources"
