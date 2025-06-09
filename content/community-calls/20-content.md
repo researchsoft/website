@@ -42,6 +42,7 @@ Join the conversation and help shape the future of research software—everyone 
 ### Upcoming calls: TBD
 
 
+
 ### Past calls:
 
 * 14 April 2025, 09:00 UTC; 15 April, 03:00 UTC, 20:00 UTC; 16 April, 09:00 UTC, 20:00 UTC, see [notes](https://docs.google.com/document/d/1FylVynkTB0rrajduNtpY32npE3g_veQM5_ATx65Wq3E/edit?tab=t.0#heading=h.p5lrqqrzlafa) and [slides](https://docs.google.com/presentation/d/1DWL-0-pAgNWwsNxjb3U3I7_ya5__-0ul/edit#slide=id.g33a58d7ea5c_0_8). Topic: ReSA Draft Strategic Plan 2025-28 feedback sessions.
