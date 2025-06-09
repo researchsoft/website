@@ -227,12 +227,6 @@ rssLimit = 100
   weight = 60
 
 [[menu.main]]
-  parent = "/events"
-  name = "ReSA Community Calls"
-  url = "/community-calls"
-  weight = 61  
-
-[[menu.main]]
     url = "/blog"
     name = "Blog"
     weight = 70
