@@ -228,9 +228,15 @@ rssLimit = 100
 
 [[menu.main]]
   parent = "/events"
+  name = "Events"
+  url = "/events"
+  weight = 61  
+
+[[menu.main]]
+  parent = "/events"
   name = "ReSA Community Calls"
   url = "/community-calls"
-  weight = 61  
+  weight = 62  
 
 [[menu.main]]
     url = "/blog"
