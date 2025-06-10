@@ -1,9 +1,9 @@
 ---
-title: "ReSA News: August 2019"
-date: "2019-08-16T00:00:00Z"
+title: "ReSA News: September 2021"
+date: "2021-09-23T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-08-16T00:00:00Z"
+publishDate: "2021-09-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
