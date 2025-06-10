@@ -84,6 +84,7 @@ main:
 
   - name: Resources
     weight: 40
+    url: resources_page
   - parent: Resources
     name: Resources
     url: resa-resources
@@ -94,7 +95,7 @@ main:
     weight: 20
   - parent: Resources
     name: Funding Opportunities
-    url: funding-opportunities
+    url: resources_page/funding-opportunities
     weight: 30
   - parent: Resources
     name: Software Policies
