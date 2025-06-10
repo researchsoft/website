@@ -99,7 +99,7 @@ main:
     weight: 30
   - parent: Resources
     name: Software Policies
-    url: software-policies
+    url: resources_page/software-policies
     weight: 40
   - parent: Resources
     name: ADORE.software Declaration
