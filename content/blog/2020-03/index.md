@@ -17,11 +17,6 @@ DOI: [10.5281/zenodo.3699950](https://doi.org/10.5281/zenodo.3699950)
 
 Cross-posted on 11 March 2020 by the [Netherlands eScience Centre](https://blog.esciencecenter.nl/the-research-software-alliance-resa-and-the-community-landscape-9b8a6290ebb3), [Software Sustainability Institute](https://www.software.ac.uk/blog/2020-03-11-research-software-alliance-resa-and-community-landscape), [US Research Software Sustainability Institute](https://urssi.us/blog/2020/03/11/the-research-software-alliance-resa-and-the-community-landscape/) and [US Research Software Engineering](https://us-rse.org/blog/2020/urssi-us/the-research-software-alliance-resa-and-the-community-landscape/)
 
-<div class="row justify-content-center">
-    <img src="landscape.jpg" alt="landscape">
-</div>  
-Photo from <a href="https://www.pexels.com/photo/clouds-daylight-forest-grass-371589/">Pixabay</a>
-
 The Research Software Alliance (ReSA) and the Community Landscape
 -----------------------------------------------------------------
 
@@ -33,6 +28,11 @@ Authors: [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525),
 [Hartwig Anzt](https://orcid.org/0000-0003-2177-952X),
 [Alejandra Gonzalez-Beltran](https://orcid.org/0000-0003-3499-8262), and
 [Tom Bakker](https://orcid.org/0000-0002-6465-5589)
+
+<div class="row justify-content-center">
+    <img src="landscape.jpg" alt="landscape">
+</div>  
+Photo from <a href="https://www.pexels.com/photo/clouds-daylight-forest-grass-371589/">Pixabay</a>
 
 ### Important Links
   * [List of research software communities](https://doi.org/10.5281/zenodo.3699950)

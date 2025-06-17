@@ -19,11 +19,6 @@ author = ["Michelle Barker", "Daniel S. Katz", "Alejandra Gonzalez-Beltran"]
 Cross-posted on 8 June 2020 by the [Netherlands eScience Centre](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3), [Software Sustainability Institute](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software),
  and [US Research Software Sustainability Institute](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/)
 
-<div class="row justify-content-center">
-    <img src="blackhole.jpg" alt="Black hole">
-</div>  
-Photo from <a href="https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/Black_hole#/media/File:Black_hole_-_Messier_87.jpg">Wikimedia</a>
-
 Evidence for the importance of research software
 -----------------------------------------------------------------
 
@@ -32,6 +27,12 @@ _June 8, 2020_
 Authors: [Michelle Barker](https://orcid.org/0000-0002-3623-172X),
 [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525) and
 [Alejandra Gonzalez-Beltran](https://orcid.org/0000-0003-3499-8262)
+
+<div class="row justify-content-center">
+    <img src="blackhole.jpg" alt="Black hole">
+</div>  
+Photo from <a href="https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/Black_hole#/media/File:Black_hole_-_Messier_87.jpg">Wikimedia</a>
+
 
 #### Important Links
 
