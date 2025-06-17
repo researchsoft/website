@@ -67,19 +67,147 @@ sections:
             <div class="col-md-4">
               <img src="uploads/theme-people.png">
               <h2 align="center">People</h2>
-              <p align="center">Enhance social infrastructure for individuals and communities to improve software practices.</p>
+              <p align="center">Enhance social infrastructure for individuals and communities to improve software practices</p>
+              <div align="center">
+                <p>
+                  <a href="https://www.researchsoft.org/taskforces/">ReSA community consultations</a> with 
+                  <strong>people</strong> impacts include:
+                </p>
+                <ul style="text-align: left; display: inline-block;">
+                  <li>
+                    Co-hosting an African community of practice around research software with 
+                    <a href="https://www.talarify.co.za/">Talarify</a> in South Africa 
+                    (<a href="https://doi.org/10.5281/zenodo.7980634">report</a> and 
+                    <a href="https://www.talarify.co.za/2023/05/29/driving-sustainable-research-software-and-systems-insights-from-the-first-research-software-indaba-in-africa/">blog post</a>).
+                  </li>
+                  <li>
+                    Establishment of the ReSA 
+                    <a href="https://www.researchsoft.org/community-forum">Community Leaders Forum (CLF)</a> 
+                    for decision makers and key influencers in the global research software community.
+                  </li>
+                  <li>
+                    Work of ReSA's 
+                    <a href="https://www.researchsoft.org/people/">Community Managers</a> in Africa and Asia.
+                  </li>
+                  <li>
+                    <a href="https://www.researchsoft.org/events/2022-04/">Vive la differénce - research software engineers</a>, 
+                    a hybrid Lorentz Center workshop focused on broadening the research software community, March-May 2022.
+                  </li>
+                  <li>
+                    The 
+                    <a href="https://www.researchsoft.org/documents/people-roadmap.pdf">People Roadmap</a> 
+                    community consultation facilitated identification and prioritisation of the major issues related to people 
+                    (or personnel) challenges faced by the research software community, including research software engineers.
+                  </li>
+                  <li>
+                    The 
+                    <a href="http://doi.org/10.5281/zenodo.3699950">software landscape analysis taskforce</a> 
+                    analysed the research software landscape to identify different communities, stakeholders and topics of interest.
+                  </li>
+                </ul>
+              </div>
             </div>
 
             <div class="col-md-4">
               <img src="uploads/theme-infrastructure.png">
               <h2 align="center">Infrastructure</h2>
               <p align="center">Identify and promote needed infrastructure</p>
+              <div align="center">
+                <p>
+                  <a href="https://www.researchsoft.org/taskforces/">ReSA task forces</a> and activities with 
+                  <strong>infrastructure</strong> impacts include:
+                </p>
+                <ul style="text-align: left; display: inline-block;">
+                  <li>
+                    Co-authorship of 
+                    <a href="https://doi.org/10.5281/zenodo.13350747">position paper</a> 
+                    on criticality of research software in AI-driven research.
+                  </li>
+                  <li>
+                    Leadership of 
+                    <a href="https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg">FAIR for Research Software Working Group (FAIR4RS WG)</a> 
+                    with the 
+                    <a href="https://www.rd-alliance.org/">Research Data Alliance (RDA)</a> 
+                    and 
+                    <a href="https://www.force11.org/">FORCE11</a>, 
+                    to develop and guide adoption of community-endorsed FAIR principles for research software.
+                  </li>
+                  <li>
+                    Co-chairing of 
+                    <a href="https://www.researchsoft.org/rsi-forum/">Research Software Infrastructure Forum</a> 
+                    to consider how to individually and collectively address common challenges.
+                  </li>
+                  <li>
+                    Coordination of 
+                    <a href="https://www.researchsoft.org/taskforces/">FAIR for Research Software Roadmap</a> 
+                    to guide strategic planning and investment of implementation of the FAIR principles for research software across the sector. 
+                    Focus areas include FAIR for research software 
+                    <a href="https://docs.google.com/document/d/1BpzecVx4ZvSNfHD-UHhofZVdA6qiP_ENrmozmiq9zY4/edit">metrics</a>.
+                  </li>
+                  <li>
+                    <a href="https://www.researchsoft.org/blog/2023-06/">How Can Open Source Program Offices (OSPOs) Support Research Software?</a> 
+                    is a ReSA blog post that explores the role of OSPOs in supporting open-source research software in universities, governments, and civic institutions.
+                  </li>
+                </ul>
+              </div>
             </div>
 
             <div class="col-md-4">
               <img src="uploads/theme-policies.jpg">
               <h2 align="center">Policy</h2>
               <p align="center">Encourage and support software recognition</p>
+                <div>
+                  <p>
+                    <a href="https://www.researchsoft.org/taskforces/">ReSA activities</a> with 
+                    <strong>policy</strong> impacts include:
+                  </p>
+                  <ul>
+                    <li>
+                      Establishment of the 
+                      <a href="https://www.researchsoft.org/funders-forum">Research Software Funders Forum</a>.
+                    </li>
+                    <li>
+                      <a href="https://adore.software/">Amsterdam Declaration on Funding Research Software Sustainability (ADORE.software)</a> 
+                      aims to raise awareness of the role of funding practice in the sustainability of research software, and to improve that practice.
+                    </li>
+                    <li>
+                      The joint ReSA 
+                      <a href="https://www.researchsoft.org/taskforces/">task force</a> and 
+                      <a href="https://force11.org/">FORCE11</a> working group on Code Availability is working towards greater alignment on policy and other related actions for code availability.
+                    </li>
+                    <li>
+                      <a href="https://www.rd-alliance.org/groups/policies-research-organisations-research-software-pro4rs">Policies in Research Organisations for Research Software (PRO4RS)</a> 
+                      is a joint working group with the 
+                      <a href="https://www.rd-alliance.org/">Research Data Alliance (RDA)</a> 
+                      to help build our collection of 
+                      <a href="https://www.researchsoft.org/software-policies/">institutional policies</a> 
+                      and consider how to better share these with interested stakeholders.
+                    </li>
+                    <li>
+                      Development of research software sharing guidelines for policy makers, funders, publishers and researchers in the 
+                      <a href="https://www.rd-alliance.org/group/rda-covid19-rda-covid19-omics-rda-covid19-epidemiology-rda-covid19-clinical-rda-covid19-1">
+                        Research Data Alliance COVID-19 Guidelines and Recommendations
+                      </a>.
+                    </li>
+                    <li>
+                      Supporting the inclusion of software in the 
+                      <a href="https://www.oecd.org/sti/recommendation-access-to-research-data-from-public-funding.htm">
+                        OECD Recommendation on Access to Research Data from Public Funding
+                      </a>, which is soft law for OECD member states.
+                    </li>
+                    <li>
+                      Engagement with the 
+                      <a href="https://en.unesco.org/science-sustainable-future/open-science/recommendation">
+                        UNESCO Recommendation on Open Science
+                      </a> to include research software elements.
+                    </li>
+                    <li>
+                      Analysis of 
+                      <a href="https://www.researchsoft.org/taskforces/">evidence for the importance of research software</a> 
+                      to support policy discussions and provide information for sharing with key influencers.
+                    </li>
+                  </ul>
+                </div>
             </div>
           </div>
     design:
