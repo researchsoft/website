@@ -6,7 +6,20 @@ type: landing
 sections:
   - block: 
     content:
-      title: Our Team
+      title: |
+        Our Team
+        {style="color: white; font-size: 2rem; text-align: center; "}
+    design:
+      background:
+        image:
+          filename: main-hero.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: false      
+       
 
   - block: markdown
     content:

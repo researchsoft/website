@@ -108,7 +108,7 @@ sections:
 
   - block: markdown
     content:
-      title:
+      title: Former Steering Committee Members
       text:   |
         **Yo Yehudi**, Co-founder, Open Life Science (OLS), UK (2023-2025)
 
@@ -142,7 +142,7 @@ sections:
 
   - block: markdown
     content:
-      title:
+      title: 
       text:   |
         For further information, please refer to the ReSA Steering Committee [**Terms of Reference**](https://docs.google.com/document/d/1cr6jce4TBgd0KJemYtpuK-V4CQW1ZAYlcVqnJi4ZRCg/edit?tab=t.0#heading=h.qc1uwr8o0jhl)
 
