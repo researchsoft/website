@@ -35,7 +35,7 @@ Authors: [Michelle Barker](https://www.linkedin.com/in/michelledbarker/), [Neil 
 Image by [Lightspring](https://www.shutterstock.com/image-illustration/team-thinking-together-diverse-group-people-1553419640) on Shutterstock.
 
 
-## Important Links
+### Important Links
   * Table of Contents
       * [International adoption](https://www.researchsoft.org/blog/2021-12/#international-adoption)
       * [National landscape analysis](https://www.researchsoft.org/blog/2021-12/#national-landscape-analysis)

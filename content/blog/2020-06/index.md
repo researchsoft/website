@@ -30,8 +30,7 @@ Authors: [Michelle Barker](https://orcid.org/0000-0002-3623-172X),
 </div>  
 Photo from <a href="https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/Black_hole#/media/File:Black_hole_-_Messier_87.jpg">Wikimedia</a>
 
-
-#### Important Links
+### Important Links
 
   * [Evidence for the importance of research software](https://zenodo.org/record/3884311)
   * NLeSC [blog post](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3)
