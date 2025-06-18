@@ -54,14 +54,11 @@ footer:
   show_social: true
 social:
   - icon: github
-    icon_pack: fab
-    link: "https://github.com/yourusername"
+    icon_pack: fa-github
+    link: "https://github.com/researchsoft/website"
   - icon: linkedin
-    icon_pack: fab
-    link: "https://linkedin.com/in/yourprofile"
-  - icon: twitter
-    icon_pack: fab
-    link: "https://twitter.com/yourhandle"
+    icon_pack: fa-linkedin-in
+    link: "https://www.linkedin.com/company/research-software-alliance/posts/?feedView=all"
 
 # Localization
 

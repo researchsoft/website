@@ -1,23 +1,26 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog", "Task force"]
-
-title = "The Research Software Alliance (ReSA) and the community landscape"
-#subtitle = ""
-title_align = "left"
-
-display_date = true
-date = "2020-03-11"
-author = ["Daniel S. Katz", "Michelle Barker", "Paula Andrea Martinez", "Hartwig Anzt", "Alejandra Gonzalez-Beltran", "Tom Bakker"]
-
-+++
+---
+title: "The Research Software Alliance (ReSA) and the community landscape"
+date: 2020-03-11
+authors:
+  - "Daniel S. Katz"
+  - "Michelle Barker"
+  - "Paula Andrea Martinez"
+  - "Hartwig Anzt"
+  - "Alejandra Gonzalez-Beltran"
+  - "Tom Bakker"
+categories: 
+  - Blog
+  - Task force
+summary: ""
+draft: false
+---
 
 DOI: [10.5281/zenodo.3699950](https://doi.org/10.5281/zenodo.3699950)
 
 Cross-posted on 11 March 2020 by the [Netherlands eScience Centre](https://blog.esciencecenter.nl/the-research-software-alliance-resa-and-the-community-landscape-9b8a6290ebb3), [Software Sustainability Institute](https://www.software.ac.uk/blog/2020-03-11-research-software-alliance-resa-and-community-landscape), [US Research Software Sustainability Institute](https://urssi.us/blog/2020/03/11/the-research-software-alliance-resa-and-the-community-landscape/) and [US Research Software Engineering](https://us-rse.org/blog/2020/urssi-us/the-research-software-alliance-resa-and-the-community-landscape/)
 
-The Research Software Alliance (ReSA) and the Community Landscape
+## The Research Software Alliance (ReSA) and the Community Landscape
+
 -----------------------------------------------------------------
 
 _March 11, 2020_  
