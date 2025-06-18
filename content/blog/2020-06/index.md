@@ -1,26 +1,23 @@
-
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog", "Task force"]
-
-title = "Evidence for the importance of research software"
-#subtitle = ""
-title_align = "left"
-
-display_date = true
-date = "2020-06-08"
-author = ["Michelle Barker", "Daniel S. Katz", "Alejandra Gonzalez-Beltran"]
-
-+++
+---
+title: "Evidence for the importance of research software"
+date: 2020-06-08
+authors:
+  - "Michelle Barker"
+  - "Daniel S. Katz"
+  - "Alejandra Gonzalez-Beltran"
+categories: 
+  - Blog
+  - Task force
+summary: ""
+draft: false
+---
 
 [DOI: 10.5281/zenodo.3884311](https://zenodo.org/record/3884311)
 
 Cross-posted on 8 June 2020 by the [Netherlands eScience Centre](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3), [Software Sustainability Institute](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software),
  and [US Research Software Sustainability Institute](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/)
 
-Evidence for the importance of research software
------------------------------------------------------------------
+## Evidence for the importance of research software
 
 _June 8, 2020_  
 

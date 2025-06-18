@@ -21,8 +21,6 @@ Cross-posted on 11 March 2020 by the [Netherlands eScience Centre](https://blog.
 
 ## The Research Software Alliance (ReSA) and the Community Landscape
 
------------------------------------------------------------------
-
 _March 11, 2020_  
 
 Authors: [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525),
