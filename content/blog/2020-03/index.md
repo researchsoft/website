@@ -35,17 +35,6 @@ Authors: [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525),
 </div>  
 Photo from <a href="https://www.pexels.com/photo/clouds-daylight-forest-grass-371589/">Pixabay</a>
 
-### Important Links
-  * [List of research software communities](https://doi.org/10.5281/zenodo.3699950)
-  *  NLeSC [blog post](https://blog.esciencecenter.nl/the-research-software-alliance-resa-and-the-community-landscape-9b8a6290ebb3)SSI [blog post](https://www.software.ac.uk/blog/2020-03-11-research-software-alliance-resa-and-community-landscape)
-  * SSI [blog post](https://www.software.ac.uk/blog/2020-03-11-research-software-alliance-resa-and-community-landscape)
-  * URSSI [blog post](https://urssi.us/blog/2020/03/11/the-research-software-alliance-resa-and-the-community-landscape/)
-  * US RSE [blog post](https://us-rse.org/blog/2020/urssi-us/the-research-software-alliance-resa-and-the-community-landscape/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-
 ReSA’s mission is to bring research software communities together to collaborate on the advancement of research software. Its vision is to have research software recognized and valued as a fundamental and vital component of research worldwide. Given our mission, there are multiple reasons that it’s important for us to understand the landscape of communities that are involved with software, in aspects such as preservation, citation, career paths, productivity, and sustainability. One of these reasons is that ReSA seeks to be a link between these communities, which requires identifying and understanding them. We want to be sure that there aren’t significant community organizations that we don’t know about to involve in our work. Also, identifying where there are gaps will help us create the opportunities and communities of practices as required.
 
 When thinking about these communities, it’s clear that in addition to those that focus on software, there are others for which software is just a small part of their interest. Some examples are communities that focus on open science, reproducibility, roles and careers for people who are less visible in research, publishing and review, and other types of scholarly products and digital objects. ReSA also wants to define how we fit and interact with that broader scholarly landscape.
@@ -88,5 +77,16 @@ We invite readers to continue to add or make corrections to the [ReSA list of re
 The ever-growing number of constituents of the research software community both reflects and demonstrates the increasing recognition of research software. The research software community is now a complex ecosystem comprised of a wide variety of organizations and initiatives, some of which are community networks themselves. Collaboration and coordination across these initiatives is important, to enable the broader community to work together to achieve bigger goals.
 
 ReSA aims to coordinate across these efforts to leverage investments, to achieve the shared long-term goal of research software valued as a fundamental and vital component of research worldwide. Subscribe to the [ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2) to stay up-to-date on our activities.
+
+### Important Links
+  * [List of research software communities](https://doi.org/10.5281/zenodo.3699950)
+  *  NLeSC [blog post](https://blog.esciencecenter.nl/the-research-software-alliance-resa-and-the-community-landscape-9b8a6290ebb3)SSI [blog post](https://www.software.ac.uk/blog/2020-03-11-research-software-alliance-resa-and-community-landscape)
+  * SSI [blog post](https://www.software.ac.uk/blog/2020-03-11-research-software-alliance-resa-and-community-landscape)
+  * URSSI [blog post](https://urssi.us/blog/2020/03/11/the-research-software-alliance-resa-and-the-community-landscape/)
+  * US RSE [blog post](https://us-rse.org/blog/2020/urssi-us/the-research-software-alliance-resa-and-the-community-landscape/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)
 
 _Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._

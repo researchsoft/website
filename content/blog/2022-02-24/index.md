@@ -30,21 +30,6 @@ This report aims to provide a brief overview of the funding landscape for resear
 
 Image courtesy of icon king1 from [freeicons.io](https://freeicons.io/finances-and-banking/croudfunding-group-funding-icon-1312).
 
-### Important links
-  * Table of Contents
-      * [Methodology](https://www.researchsoft.org/blog/2022-02-24/#methodology)
-      * [Research software funding](https://www.researchsoft.org/blog/2022-02-24/#research-software-funding)
-      * [Discussion](https://www.researchsoft.org/blog/2022-02-24/#discussion)
-      * [Future Work](https://www.researchsoft.org/blog/2022-02-24/#future-work)
-      * [Acknowledgements](https://www.researchsoft.org/blog/2022-02-24/#acknowledgements)
-      * [References](https://www.researchsoft.org/blog/2022-02-24/#references)
-
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-
-
 # Methodology
 
 There are multiple ways in which analysis of research software funding could be undertaken, such as by type of funder<sup>1</sup>, by country<sup>2</sup>, research discipline<sup>3</sup>, type of output<sup>4</sup>, etc. Life cycle stages were chosen here as analyses have repeatedly identified challenges in obtaining funding for the life cycle stage focused on maintaining research software (Knowles, Mateen, and Yehudi 2021; Sufi et al. 2020), yet there is little international data to support this.
@@ -198,4 +183,19 @@ UKRI. 2020. &quot;The UK&#39;s Research and Innovation Infrastructure: Landscape
 [4](#sdfootnote4anc) Open hardware funding can be classified as supporting outputs in four categories: community-related outputs, documentation, hardware and usage or adoption (GOSH 2021b).
 
 ----
+
+### Important links
+  * Table of Contents
+      * [Methodology](https://www.researchsoft.org/blog/2022-02-24/#methodology)
+      * [Research software funding](https://www.researchsoft.org/blog/2022-02-24/#research-software-funding)
+      * [Discussion](https://www.researchsoft.org/blog/2022-02-24/#discussion)
+      * [Future Work](https://www.researchsoft.org/blog/2022-02-24/#future-work)
+      * [Acknowledgements](https://www.researchsoft.org/blog/2022-02-24/#acknowledgements)
+      * [References](https://www.researchsoft.org/blog/2022-02-24/#references)
+
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)
+
 _Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._

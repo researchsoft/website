@@ -30,16 +30,6 @@ Authors: [Michelle Barker](https://orcid.org/0000-0002-3623-172X),
 </div>  
 Photo from <a href="https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/Black_hole#/media/File:Black_hole_-_Messier_87.jpg">Wikimedia</a>
 
-### Important Links
-
-  * [Evidence for the importance of research software](https://zenodo.org/record/3884311)
-  * NLeSC [blog post](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3)
-  * SSI [blog post](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software)
-  * URSSI [blog post](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
 
 This blog analyses work evidencing the importance of research software to research outcomes, to enable the research software community to find useful evidence to share with key influencers. This analysis considers papers relating to meta-research, policy, community, education and training, research breakthroughs and specific software.
 
@@ -114,5 +104,16 @@ This summary of evidence of the importance of research software to research outc
 We encourage readers to submit additional resources to the ReSA resources list, which is publicly available:
 
 *   Add it directly to the ReSA [Zotero group library](https://www.zotero.org/groups/2400609/resa/library) (requires Zotero account).
+
+### Important Links
+
+  * [Evidence for the importance of research software](https://zenodo.org/record/3884311)
+  * NLeSC [blog post](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3)
+  * SSI [blog post](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software)
+  * URSSI [blog post](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)
 
 _Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._

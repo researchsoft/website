@@ -34,22 +34,6 @@ Authors: [Michelle Barker](https://www.linkedin.com/in/michelledbarker/), [Neil 
 
 Image by [Lightspring](https://www.shutterstock.com/image-illustration/team-thinking-together-diverse-group-people-1553419640) on Shutterstock.
 
-
-### Important Links
-  * Table of Contents
-      * [International adoption](https://www.researchsoft.org/blog/2021-12/#international-adoption)
-      * [National landscape analysis](https://www.researchsoft.org/blog/2021-12/#national-landscape-analysis)
-      * [Key recommendations from ReSA](https://www.researchsoft.org/blog/2021-12/#key-recommendations-from-resa)
-
-  * Research software is essential for research data, so how should governments respond?. Zenodo. [https://doi.org/10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
-  * SSI [news post](https://software.ac.uk/news/research-software-alliance-calls-governments-improve-research-software-policies)
-  *  NLeSC [news post](https://www.esciencecenter.nl/news/research-software-alliance-calls-on-governments-to-improve-research-software-policies/)
-
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-
 Research software is becoming increasingly valued in the research ecosystem, and international and national policy practices are evolving to reflect this. Studies have shown that [33 percent of international research](https://www.oecd-ilibrary.org/science-and-technology/charting-the-digital-transformation-of-science_1b06c47c-en) produces new code (see Figure 3.4), [90 percent of UK researchers](https://doi.org/10.5281/zenodo.14809) acknowledge software as important for their research, while [95 percent of US postdoctoral students](https://figshare.com/articles/journal_contribution/Track_1_Paper_Surveying_the_U_S_National_Postdoctoral_Association_Regarding_Software_Use_and_Training_in_Research/5328442/3) use research software.
 
 Several governments are now expanding their focus on research software, in line with increasing international recognition of the crucial role that research software plays in research outcomes. Key international bodies, such as the Organisation for Economic Co-operation and Development (OECD) and the United Nations Educational, Scientific and Cultural Organisation (UNESCO), have recently incorporated research software into their recommendations. Going beyond the requirements of the UNESCO and OECD, the vision of the [Research Software Alliance](https://www.researchsoft.org/) (ReSA)  and its collaborators is that research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide.
@@ -161,5 +145,20 @@ To advance this agenda across the research community as a whole requires both po
 ReSA aims to establish collaborations that  support this work, including the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/). This collaboration of organisations that are committed to supporting research software, and those who develop it, will convene in early 2022 with investment from the [Alfred](https://sloan.org/programs/digital-technology/better-software-for-science)[ P. Sloan Foundation](https://sloan.org/programs/digital-technology/better-software-for-science). The Forum will create a formal mechanism to share funding practices, learn from each other, and propose methods to better tackle common challenges such as resourcing for maintenance of research software investments.
 
 ReSA encourages national governments to review their policies and implementation strategies in light of OECD, UNESCO, and ReSA recommendations. To support the work of individual countries, a more detailed analysis of how a range of countries are progressing should also be undertaken, based on a framework such as the maturity matrix that [Science Europe](https://www.scienceeurope.org/media/b3odxx3s/se-practical-guide-sustainable-research-data.pdf) uses to assess the sustainability of the research data initiatives. This could provide organisations such as OECD and UNESCO with evidence of how government policies are implementing their recommendations and identify geographic regions needing additional support.
+
+### Important Links
+  * Table of Contents
+      * [International adoption](https://www.researchsoft.org/blog/2021-12/#international-adoption)
+      * [National landscape analysis](https://www.researchsoft.org/blog/2021-12/#national-landscape-analysis)
+      * [Key recommendations from ReSA](https://www.researchsoft.org/blog/2021-12/#key-recommendations-from-resa)
+
+  * Research software is essential for research data, so how should governments respond?. Zenodo. [https://doi.org/10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
+  * SSI [news post](https://software.ac.uk/news/research-software-alliance-calls-governments-improve-research-software-policies)
+  *  NLeSC [news post](https://www.esciencecenter.nl/news/research-software-alliance-calls-on-governments-to-improve-research-software-policies/)
+
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)
 
 _Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
