@@ -13,6 +13,12 @@ draft: false
 
 Cross-posted on 17 February 2022.
 
+<div class="row justify-content-center">
+    <img src="ReSAFoundingMembers.jpg" alt="In 2022 ReSA announced six Founding Members">
+</div>  
+
+Image courtesy of Bongkarn Thanyakij from Pexels via [canva](https://www.canva.com/media/MAD2q4Qf7GY).
+
 -----------------------------------------------------------------
 
 _February 17, 2022_  
