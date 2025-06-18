@@ -23,12 +23,6 @@ Image courtesy of Bongkarn Thanyakij from Pexels via [canva](https://www.canva.c
 
 _February 17, 2022_  
 
-<div class="row justify-content-center">
-    <img src="ReSAFoundingMembers.jpg" alt="In 2022 ReSA announced six Founding Members">
-</div>  
-
-Image courtesy of Bongkarn Thanyakij from Pexels via [canva](https://www.canva.com/media/MAD2q4Qf7GY).
-
 The [Research Software Alliance (ReSA)](https://www.researchsoft.org/) is honored to announce the six Founding Members of its international community:
 
 * [Australian Research Data Commons](https://ardc.edu.au/) (ARDC): The ARDC enables the Australian research community and industry access to nationally significant, digital research infrastructure.
