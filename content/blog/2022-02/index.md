@@ -13,6 +13,8 @@ draft: false
 
 Cross-posted on 17 February 2022.
 
+Meet our Founding Members!
+
 <div class="row justify-content-center">
     <img src="ReSAFoundingMembers.jpg" alt="In 2022 ReSA announced six Founding Members">
 </div>  
@@ -56,5 +58,11 @@ There are many ways to get involved with ReSA. In line with its mission, ReSA of
 * Connecting with other community members at our [events](https://www.researchsoft.org/events/)
 * [Contributing](https://www.researchsoft.org/contact/) ideas for task forces, events, newsletter items
 
+### Important links
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [ReSA Code of Conduct](https://www.researchsoft.org/code-of-conduct/)
+  * [Contact us](/contact)
 
 _Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
