@@ -73,3 +73,10 @@ To stay up to date on ADORE.software, visit [www.adore.software](http://www.ador
 If you're interested in learning more about ReSA and its activities, join our next [Research Software Community Leaders Forum](https://www.researchsoft.org/community-forum/) on 15 November at 20:00 UTC. ReSA's Community Leaders Forum is open to all, and you can [sign up](https://landing.mailerlite.com/webforms/landing/o1n4v3) for calendar invites.
 
 We would like to express our sincere gratitude to our community, Founding Members, and Organisational Members – without whom none of this work would have been possible. This project has also been made possible in part by grant 2021-000000 from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) DAF, an advised fund of the Silicon Valley Community Foundation; and the [Alfred P. Sloan Foundation](https://sloan.org/).
+
+### Important links
+  * [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)
