@@ -1,5 +1,5 @@
 ---
-title: "Strengthening global collaboration: ReSA welcomes the Research Data Alliance as an Organisational Member"
+title: "ReSA News: September 2021"
 subtitle: ""
 date: 2021-09-23
 authors:
