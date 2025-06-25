@@ -2,6 +2,8 @@
 title: "ReSA News: September 2021"
 subtitle: ""
 date: 2021-09-23
+authors:
+  - ""
 
 summary: ""
 draft: false
