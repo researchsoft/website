@@ -2,8 +2,6 @@
 title: "ReSA News: August 2019"
 subtitle: ""
 date: 2019-08-16
-authors:
-  - ""
 
 summary: ""
 draft: false
