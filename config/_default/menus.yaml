@@ -116,6 +116,14 @@ main:
   - name: Events
     url: events
     weight: 60
+  - parent: Events
+    name: ReSA Events
+    url: events/resa-events
+    weight: 10
+  - parent: Events
+    name: ReSA Community Calls
+    url: events/community-calls
+    weight: 20 
   - name: Blog
     url: blog
     weight: 70
