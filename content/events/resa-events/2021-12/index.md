@@ -27,3 +27,8 @@ ReSA will host two webinars to further discuss this work. Registration is free, 
 * Session 2 (repeat session): 9 December, 09:00 UTC (convert to [your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ReSA+People+Roamap&iso=20211209T09&ah=1)). [Register for this meeting](https://us02web.zoom.us/meeting/register/tZMtdOGopz8uGNHcuFbjeHJsu1cIg8nK1_0Y) (free)
 
 Photo by <a href="https://unsplash.com/@surface?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Surface</a> on <a href="https://unsplash.com/s/photos/presentation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
+
+### Useful links
+  * [People Roadmap Report](https://www.researchsoft.org/documents/people-roadmap.pdf)
+  * [Webinar recording](https://youtu.be/XvvrOZgi5Ns)
+  
