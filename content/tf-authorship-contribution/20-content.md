@@ -16,30 +16,27 @@ The task force builds on [previous work](https://sdruskat.net/software-authorshi
 
 #### Software Authorship Community Guidelines
 
-| Step                          | Status |
-| ------------------------------------ | ------ |
-| Examine relevant previous work | DONE |
-| Draft [authorship guidelines v0](https://sdruskat.net/software-authorship/#authorship) | DONE |
-| Draft authorship guidelines v1 | DONE |
-| Expert consultation and review of authorship guidelines v1 | DONE |
-| **Review integration in authorship guidelines v2** | **DOING** |
-| Community survey on authorship guidelines v2 | TODO |
-| Survey results integration in authorship guidelines v3 | TODO |
-| Publish authorship guidelines v3 | TODO |
+
+1. ☑ *Examine relevant previous work*
+2. ☑ *Draft [authorship guidelines v0](https://sdruskat.net/software-authorship/#authorship)*
+3. ☑ *Draft authorship guidelines v1*
+4. ☑ *Expert consultation and review of authorship guidelines v1*
+5. ➔ **Review integration in authorship guidelines v2**
+6. ☐ Community survey on authorship guidelines v2
+7. ☐ Survey results integration in authorship guidelines v3
+8. ☐ Publish authorship guidelines v3
 
 #### Software Contribution Community Guidelines
 
-| Step                          | Status |
-| ------------------------------------ | ------ |
-| Examine relevant previous work | DONE |
-| Draft [contribution taxonomy v0](https://sdruskat.net/software-authorship/#taxonomy) | DONE |
-| Re-examine relevant previous work based on authorship guidelines | TODO |
-| Draft contribution taxonomy v1 | TODO |
-| Expert consultation and review of taxonomy v1 | TODO |
-| Review integration in taxonomy v2 | TODO |
-| Community survey on taxonomy v2 | TODO |
-| Survey results integration in taxonomy v3 | TODO |
-| Publish contribution taxonomy v3 | TODO |
+1. ☑ *Examine relevant previous work*
+2. ☑ *Draft [contribution taxonomy v0](https://sdruskat.net/software-authorship/#taxonomy)*
+3. ☐ Re-examine relevant previous work based on authorship guidelines
+4. ☐ Draft contribution taxonomy v1
+5. ☐ Expert consultation and review of taxonomy v1
+6. ☐ Review integration in taxonomy v2
+7. ☐ Community survey on taxonomy v2
+8. ☐ Survey results integration in taxonomy v3
+9. ☐ Publish contribution taxonomy v3
 
 ### Task Force Members
 
