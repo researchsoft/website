@@ -14,10 +14,32 @@ The task force builds on [previous work](https://sdruskat.net/software-authorshi
 
 ### Roadmap
 
-1. Examine relevant previous work
-2. Draft definitions of software authorship and contributions
-3. Facilitate expert and community review and consultation
-4. Publish community guidelines
+#### Software Authorship Community Guidelines
+
+| Step                          | Status |
+| ------------------------------------ | ------ |
+| Examine relevant previous work | DONE |
+| Draft [authorship guidelines v0](https://sdruskat.net/software-authorship/#authorship) | DONE |
+| Draft authorship guidelines v1 | DONE |
+| Expert consultation and review of authorship guidelines v1 | DONE |
+| **Review integration in authorship guidelines v2** | **DOING** |
+| Community survey on authorship guidelines v2 | TODO |
+| Survey results integration in authorship guidelines v3 | TODO |
+| Publish authorship guidelines v3 | TODO |
+
+#### Software Contribution Community Guidelines
+
+| Step                          | Status |
+| ------------------------------------ | ------ |
+| Examine relevant previous work | DONE |
+| Draft [contribution taxonomy v0](https://sdruskat.net/software-authorship/#taxonomy) | DONE |
+| Re-examine relevant previous work based on authorship guidelines | TODO |
+| Draft contribution taxonomy v1 | TODO |
+| Expert consultation and review of taxonomy v1 | TODO |
+| Review integration in taxonomy v2 | TODO |
+| Community survey on taxonomy v2 | TODO |
+| Survey results integration in taxonomy v3 | TODO |
+| Publish contribution taxonomy v3 | TODO |
 
 ### Task Force Members
 
