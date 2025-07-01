@@ -14,7 +14,6 @@ draft: false
 
 April 2025
 
-
 ReSA has released its [2024 Community Report](https://doi.org/10.5281/zenodo.15264852), highlighting another impactful year of global collaboration to advance research software and support the people behind it. This year’s highlights include the Research Software Funders Forum’s involvement in the Global Research Council’s annual meeting and the successful hosting of its third international workshop in Sweden. Additional milestones include updates to the Amsterdam Declaration on Funding Research Software Sustainability (ADORE.software), progress toward convening the first international research software conference, the launch of the Research Software Infrastructure (RSI) Forum, and ReSA’s new role as secretariat of the International Council of RSE Associations. With new task forces focused on making research software FAIR and continued leadership in AI and open science, ReSA continues to catalyse change across the global research ecosystem.
 
 ![My Image](04-2025-blog.jpg)
