@@ -1,7 +1,7 @@
 ---
 title: "ReSA  Community Leaders Forum"
 subtitle: "Bringing together the research software community"
-date: ""
+date: "2024-10-11"
 authors:
   - ""
 
@@ -46,4 +46,3 @@ Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm
   * [Contact ReSA](../../contact/)
   * [ReSA’s Code of Conduct](../../code-of-conduct/)
   * [Register your email for updates](https://dashboard.mailerlite.com/forms/778129/110635102019519744/share)
-  
