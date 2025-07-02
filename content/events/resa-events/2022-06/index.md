@@ -16,7 +16,6 @@ draft: false
 
 ![Close up of tiny rainbow colored sugar candies.](sharon-mccutcheon-colourful-unsplash.jpg)
 
-
 ## Research Software Community Leaders Forum 
 
 The [Community Leaders Forum](https://www.researchsoft.org/community-forum/) (CLF) offers an opportunity for participants to meet other community leaders, engage in interactive discussions, and consider how to address common issues to achieve shared goals. The CLF is one of the online forums that ReSA hosts for decision makers and key influencers in the global research software community. ReSA aims to coordinate discussions across a wide range of research software organisations and programs, enabling the community to create outcomes that will achieve both local goals and those of the international community.
@@ -47,3 +46,4 @@ Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm
   * [Contact ReSA](../../contact/)
   * [ReSA’s Code of Conduct](../../code-of-conduct/)
   * [Register your email for updates](https://dashboard.mailerlite.com/forms/778129/110635102019519744/share)
+  
