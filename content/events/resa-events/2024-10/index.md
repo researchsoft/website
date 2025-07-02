@@ -17,7 +17,6 @@ The next stage of the development of these ideas is to gain feedback through ope
 draft: false  
 
 ---
-
 ![Image credit: Chris Montgomery, [Unsplash](https://unsplash.com/photos/macbook-pro-displaying-group-of-people-smgTvepind4)](chris-montgomery-smgTvepind4-unsplash.jpg)
 
 # Event Summary
