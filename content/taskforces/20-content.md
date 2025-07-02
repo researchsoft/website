@@ -9,7 +9,7 @@ background = "white"
 
 ReSA’s mission is to advance the research software ecosystem by collaborating with decision makers and key influencers, to achieve the vision that research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide.
 
-To deliver on this mission, we invite the ReSA community to join us on ReSA activities stemming from the [ReSA Strategic Plan](https://www.researchsoft.org/documents/Strategic_Plan_2021-23.pdf). You can also support ReSA's work through [Organisational Membership](https://www.researchsoft.org/membership/), [task force support](https://www.researchsoft.org/tf-support/), or a [donation](https://www.researchsoft.org/donate/).
+To deliver on this mission, we invite the ReSA community to join us on ReSA activities stemming from the [ReSA Strategic Plan](https://doi.org/10.5281/zenodo.15444952). You can also support ReSA's work through [Organisational Membership](https://www.researchsoft.org/membership/), [task force support](https://www.researchsoft.org/tf-support/), or a [donation](https://www.researchsoft.org/donate/).
 
 ## Current task forces
 
