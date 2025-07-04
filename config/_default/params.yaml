@@ -51,15 +51,7 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
-  show_social: true
 
-  social:
-    - icon: github
-      icon_pack: fa
-      link: "https://github.com/researchsoft/website"
-    - icon: linkedin-in
-      icon_pack: fa
-      link: "https://www.linkedin.com/company/research-software-alliance/posts/?feedView=all"
 
 # Localization
 
@@ -125,3 +117,17 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+social:
+  - icon: linkedin
+    icon_pack: fab
+    url: "https://www.linkedin.com/in/your-profile/"
+    title: "LinkedIn"
+  - icon: github
+    icon_pack: fab
+    url: "https://github.com/your-org"
+    title: "GitHub"
+  - icon: twitter
+    icon_pack: fab
+    url: "https://twitter.com/your-handle"
+    title: "Twitter"

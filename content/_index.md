@@ -252,4 +252,35 @@ sections:
       background:
         color: "#f98c01"
         text_color_light: false
+
+  - block: markdown
+    content:
+      title: "Connect with us"
+      subtitle: ""
+      text: |
+        <p align="center">
+          <a href="https://github.com/researchsoft/website" target="_blank" title="GitHub">
+            <i class="fab fa-github fa-2x" style="margin: 0 15px;"></i>
+          </a>
+          <a href="mailto:contact@researchsoft.org" target="_blank" title="Email">
+            <i class="fas fa-envelope fa-2x" style="margin: 0 15px;"></i>
+          </a>
+          <a href="https://researchsoft.slack.com/" target="_blank" title="Slack">
+            <i class="fab fa-slack fa-2x" style="margin: 0 15px;"></i>
+          </a>
+          <a href="https://www.linkedin.com/company/research-software-alliance/" target="_blank" title="LinkedIn">
+            <i class="fab fa-linkedin fa-2x" style="margin: 0 15px;"></i>
+          </a>
+          <a href="https://fosstodon.org/@researchsoft" target="_blank" title="Mastodon">
+            <i class="fab fa-mastodon fa-2x" style="margin: 0 15px;"></i>
+          </a>
+          <a href="/index.xml" target="_blank" title="RSS Feed">
+            <i class="fas fa-rss fa-2x" style="margin: 0 15px;"></i>
+          </a>
+        </p>
+    design:
+      background:
+        color: "#ffffff"
+        text_color_light: false
 ---
+

@@ -129,4 +129,4 @@ main:
     weight: 70
   - name: "<i class='fab fa-linkedin'></i> LinkedIn"
     url: https://www.linkedin.com/company/research-software-alliance/
-    weight: 80
+    weight: 80    
