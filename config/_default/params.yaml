@@ -52,13 +52,14 @@ footer:
       share_alike: true
       allow_commercial: false
   show_social: true
-social:
-  - icon: github
-    icon_pack: fa-github
-    link: "https://github.com/researchsoft/website"
-  - icon: linkedin
-    icon_pack: fa-linkedin-in
-    link: "https://www.linkedin.com/company/research-software-alliance/posts/?feedView=all"
+
+  social:
+    - icon: github
+      icon_pack: fa
+      link: "https://github.com/researchsoft/website"
+    - icon: linkedin-in
+      icon_pack: fa
+      link: "https://www.linkedin.com/company/research-software-alliance/posts/?feedView=all"
 
 # Localization
 
