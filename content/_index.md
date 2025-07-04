@@ -16,7 +16,7 @@ sections:
           Our vision: Research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide
           {style="color: white; font-size: 1.5rem; "} 
         
-        {{< cta cta_text="Learn more" cta_link="about-resa" cta_new_tab="false" >}}
+        {{< cta cta_text="Learn more" cta_link="about" cta_new_tab="false" >}}
 
 
     design:
