@@ -9,6 +9,9 @@ summary: ""
 draft: false
 ---
 
+* Call for community involvement in ReSA projects
+* Community news
+
 This month, we have a call for community involvement in ReSA projects, along with some
 timely tidbits from the larger community.
 
