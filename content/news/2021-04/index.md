@@ -20,8 +20,6 @@ The [FAIR for Research Software (FAIR4RS) Working Group](https://www.rd-alliance
 
 ![FAIR4RS draft principles](FAIR4RS_principles_2021-April.png)
 
-
-
 The Working Group initiated community consultation with the ~ 70 attendees focusing on key questions that arose during the writing sprints to create the first draft of the FAIR4RS principles. The intent of the FAIR principles for research software is to “ensure transparency, reproducibility, and reusability”, while acknowledging that foundational principles of Findable, Accessible, Interoperable, and Reusable may need to be reinterpreted to ensure that they are applicable to software. Drafting of the FAIR principles for research software includes consideration of two key challenges: 1) Finding the balance between general, more abstract, principles that capture the ethos of FAIR vs specific principles that point to the means of implementation. 2) Sticking closely to the FAIR data principles or reinterpreting the FAIR ethos for software.
 
 The [slides](https://docs.google.com/presentation/d/1rX4iGsYhzDbrfHU6KkLZOGdY9y8BzRwRXxjiu8NgFJc/present#slide=id.g8885490676_0_74) and [collaborative notes](https://docs.google.com/document/d/12HkgeK35K5f9lfIk3-QLw1x8w7UL1KfrOp9CW9S97OY/edit%23heading%3Dh.pajmjy1b8nz1) are available for review and the recording will be publicly available at the end of May via the RDA YouTube channel. Instructions of how to engage in the next iteration of the draft principles will be sent via the FAIR4RS mailing list ([RDA FAIR4RS WG posts](https://www.rd-alliance.org/node/69317/posts)). Join the group to receive the notification.
@@ -40,8 +38,6 @@ It’s a wrap for [Collaborations Workshop 2021](https://www.software.ac.uk/cw21
   -  [Group discussion summary: Implementing FAIR for research software: attitudes, advantages and challenges](https://doi.org/10.6084/m9.figshare.14453031)
   -  [Tips and Traps on the Road to FAIR software principles](https://doi.org/10.6084/m9.figshare.14494170.v1)
 
-
-
 ### Community news
 
 - ReSA Steering Committee members Daniel S. Katz and Neil P. Chue Hong are editing a **special issue of PeerJ Computer Science on software citation, indexing and discoverability**. If you are doing any work in this area, please consider [submitting](https://peerj.com/special-issues/84-software).
@@ -53,11 +49,6 @@ It’s a wrap for [Collaborations Workshop 2021](https://www.software.ac.uk/cw21
 - **SeptembRSE** - an online RSE Conference for 2021. The Society of Research Software Engineering will run a series of online sessions that will be spread throughout the month of September. Save the date!
 - Software source code is a complex object, see Roberto Di Cosmo lightning talk [slides](https://annex.softwareheritage.org/public/talks/2021/2021-04-21-RDA-Data-Granularity.pdf) on software granularity at \#RDA [Plenary 17](https://www.rd-alliance.org/rdas-17th-plenary-meeting-programme)
 - For information on Software Heritage see The Great Library of Source Code by Stefano Zacchiroli [slides](https://upsilon.cc/~zack/talks/2021/2021-03-20-libreplanet.pdf).
-
-
-
-
-
 
 *If you’d like to suggest items for inclusion in ReSA News, please send them to [info@researchsoft.org](mailto:info@researchsoft.org). To receive ReSA newsletters, join the[ ](https://groups.google.com/forum/%23!forum/research-software-alliance)[ReSA google group](https://groups.google.com/forum/%23!forum/research-software-alliance) by sending a blank email to [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com) and follow us on twitter [@researchsoft](https://twitter.com/researchsoft)*.
 
