@@ -9,8 +9,6 @@ summary: ""
 draft: false
 ---
 
-**[Read the September Newsletter](https://preview.mailerlite.io/preview/778129/emails/114351112770815371)**
-
 _Please note that from September 2021 the ReSA newsletters are hosted on MailerLite._
 
 This month’s news includes:
@@ -24,3 +22,5 @@ This month’s news includes:
 - People Roadmap update  
 - Opportunities to get involved with community initiatives  
 - Community events & resources
+
+**[Read the September Newsletter](https://preview.mailerlite.io/preview/778129/emails/114351112770815371)**
