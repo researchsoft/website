@@ -1,5 +1,5 @@
 ---
-title: "ReSA News: March 2022"
+title: "ReSA Newsletter: March 2022"
 subtitle: ""
 date: 2022-03-24
 authors:

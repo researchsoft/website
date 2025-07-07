@@ -1,5 +1,5 @@
 ---
-title: "ReSA News: September 2021"
+title: "ReSA Newsletter: September 2021"
 subtitle: ""
 date: 2021-09-23
 authors:
