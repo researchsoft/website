@@ -45,11 +45,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Research Software Alliance. This work is licensed under {license}'
+    notice: '© {year} Research Software Alliance. This work is <a href="/license">licensed</a> under CC BY 4.0 International.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 
