@@ -127,6 +127,21 @@ main:
   - name: Blog
     url: blog
     weight: 70
-  - name: "<i class='fab fa-linkedin'></i> LinkedIn"
+  - name: "<i class='fab fa-github'></i>"
+    url: https://github.com/researchsoft/website
+    weight: 80
+  - name: "<i class='fas fa-envelope'></i>"
+    url: mailto:contact@researchsoft.org
+    weight: 90
+  - name: "<i class='fab fa-slack'></i>"
+    url: https://researchsoft.slack.com/
+    weight: 100
+  - name: "<i class='fab fa-linkedin'></i>"
     url: https://www.linkedin.com/company/research-software-alliance/
-    weight: 80    
+    weight: 110
+  - name: "<i class='fab fa-mastodon'></i>"
+    url: https://fosstodon.org/@researchsoft
+    weight: 120
+  - name: "<i class='fas fa-rss'></i>"
+    url: /index.xml
+    weight: 130
