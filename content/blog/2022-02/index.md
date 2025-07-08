@@ -7,19 +7,17 @@ categories:
   - Blog
   - Press release
 
-summary: ""
+summary: "Meet our founding members"
 draft: false
 ---
-
-Cross-posted on 17 February 2022.
-
-Meet our Founding Members!
 
 <div class="row justify-content-center">
     <img src="ReSAFoundingMembers.jpg" alt="In 2022 ReSA announced six Founding Members">
 </div>  
 
 Image courtesy of Bongkarn Thanyakij from Pexels via [canva](https://www.canva.com/media/MAD2q4Qf7GY).
+
+Cross-posted on 17 February 2022.
 
 -----------------------------------------------------------------
 

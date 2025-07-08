@@ -13,7 +13,6 @@ draft: false
 
 Cross-posted on 21 June 2022.
 
-FAIR Principles for Research Software Released
 -----------------------------------------------------------------
 
 _June 21, 2022_ FAIR4RS Working Group Steering Committee

@@ -21,7 +21,6 @@ Cross-posted on 9 December 2021 by the [Netherlands eScience Centre](https://www
 
 [DOI: 10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
 
-Research software is essential for research data, so how should governments respond?
 -----------------------------------------------------------------
 
 _December 9, 2021_  

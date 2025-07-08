@@ -17,21 +17,18 @@ draft: false
 Cross-posted on 8 June 2020 by the [Netherlands eScience Centre](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3), [Software Sustainability Institute](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software),
  and [US Research Software Sustainability Institute](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/)
 
-## Evidence for the importance of research software
-
 _June 8, 2020_  
 
 Authors: [Michelle Barker](https://orcid.org/0000-0002-3623-172X),
 [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525) and
 [Alejandra Gonzalez-Beltran](https://orcid.org/0000-0003-3499-8262)
 
+This blog analyses work evidencing the importance of research software to research outcomes, to enable the research software community to find useful evidence to share with key influencers. This analysis considers papers relating to meta-research, policy, community, education and training, research breakthroughs and specific software.
+
 <div class="row justify-content-center">
     <img src="blackhole.jpg" alt="Black hole">
 </div>  
 Photo from <a href="https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/Black_hole#/media/File:Black_hole_-_Messier_87.jpg">Wikimedia</a>
-
-
-This blog analyses work evidencing the importance of research software to research outcomes, to enable the research software community to find useful evidence to share with key influencers. This analysis considers papers relating to meta-research, policy, community, education and training, research breakthroughs and specific software.
 
 The Research Software Alliance (ReSA) [Taskforce for the importance of research software](https://www.researchsoft.org/taskforces/) was formed initially to bring together existing evidence showing the importance of research software in the research process. This kind of information is critical to achieving ReSA’s vision to have research software recognised and valued as a fundamental and vital component of research worldwide.
 

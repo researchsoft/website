@@ -14,7 +14,6 @@ draft: false
 
 Posted on 24 February 2022.
 
-Overview of research software funding landscape
 -----------------------------------------------------------------
 
 _February 24, 2022_  
