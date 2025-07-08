@@ -33,7 +33,12 @@ main:
   - parent: About
     name: Contact Us
     url: about/contact
-    weight: 70  
+    weight: 70 
+  - parent: About
+    name: Code of Conduct
+    url: about/code-of-conduct
+    weight: 80  
+
 
   - name: Task Forces
     weight: 20
