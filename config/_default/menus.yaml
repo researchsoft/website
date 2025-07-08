@@ -29,7 +29,11 @@ main:
   - parent: About
     name: Donate
     url: about/donate
-    weight: 60  
+    weight: 60
+  - parent: About
+    name: Contact Us
+    url: about/contact
+    weight: 70  
 
   - name: Task Forces
     weight: 20
