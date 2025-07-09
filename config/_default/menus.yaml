@@ -96,11 +96,11 @@ main:
     url: resources_page
   - parent: Resources
     name: Resources
-    url: resa-resources
+    url: resources_page/resa-resources
     weight: 10
   - parent: Resources
     name: Guidelines
-    url: guidelines
+    url: resources_page/guidelines
     weight: 20
   - parent: Resources
     name: Funding Opportunities
@@ -116,7 +116,7 @@ main:
     weight: 50
   - parent: Resources
     name: Research Software Engineers (RSEs)
-    url: research-software-engineers
+    url: resources_page/research-software-engineers
     weight: 60
 
   - name: News
