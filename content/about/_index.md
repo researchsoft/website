@@ -338,33 +338,35 @@ sections:
       text: |
         <br>
 
-        <div class="row justify-content-center">
+        <div class="row justify-content-center align-items-center"">
           <div class="col-md-3 text-center">
-            <p><a href="https://alliancecan.ca/"><img src="images/UCBerkeley_wordmark_blue.png" style="width:"50%";></a></p>            
+            <p><a href="https://www.berkeley.edu/"><img src="images/UCBerkeley_wordmark_blue.png" alt = "UC berkeley logo" style="width:"50%";></a></p>            
           </div>
 
           <div class="col-md-3 text-center">
-            <p><a href="https://alliancecan.ca/"><img src="images/Carpentries.png" style="width:"50%";></a></p>            
+            <p><a href="https://carpentries.org"><img src="images/Carpentries.png" alt = "The Carpentries" style="width:"50%";></a></p>            
           </div>
         
           <div class="col-md-2" style="text-align: center;">
-            <p><a href="https://alliancecan.ca/">Ford Foundation</a></p>
+            <p><a href="https://www.fordfoundation.org/">Ford Foundation</a></p>
           </div>
          
           <div class="col-md-3 text-center">
-            <p><a href="https://alliancecan.ca/"><img src="images/moore-logo-color-small.png" style="width:"50%";></a></p>            
+            <p><a href="https://www.moore.org/"><img src="images/moore-logo-color-small.png" alt = "Moore foundation logo" style="width:"50%";></a></p>            
           </div>
 
+        <div class="row mt-5 justify-content-center align-items-center">  
+
           <div class="col-md-3 text-center">
-            <p><a href="https://alliancecan.ca/"><img src="images/rdc-logo.png" style="width:"50%";></a></p>            
+            <p><a href="https://www.rdc-drc.ca/"><img src="images/rdc-logo.png" alt = "RDC DCR logo" style="width:"50%";></a></p>            
           </div>
  
           <div class="col-md-3 text-center">
-            <p><a href="https://alliancecan.ca/"><img src="images/stanford-university-stacked.png" style="width:"50%";></a></p>            
+            <p><a href="https://www.stanford.edu/"><img src="images/stanford-university-stacked.png" alt = "Stanford logo" style="width:"50%";></a></p>            
           </div>
  
           <div class="col-md-3 text-center">
-            <p><a href="https://alliancecan.ca/"><img src="images/Wellcome-logo.png" style="width:"50%";></a></p>            
+            <p><a href="https://wellcome.org/"><img src="images/Wellcome-logo.png" alt = "Wellcome Trust logo" style="width:"50%";></a></p>            
           </div>
  
 
