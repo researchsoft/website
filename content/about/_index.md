@@ -323,7 +323,7 @@ sections:
 
         <div class="row justify-content-center">
           <div class="col-md-3 text-center">
-            <p><a href="https://alliancecan.ca/"><img src="images/RDA_Logotype_Low.png" style="width:"50%";></a></p>            
+            <p><a href="https://www.rd-alliance.org/"><img src="images/RDA_Logotype_Low.png" alt = "RDA logo" style="width:"50%";></a></p>            
           </div>
         </div>
             
