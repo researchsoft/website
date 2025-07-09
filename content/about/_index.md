@@ -294,19 +294,19 @@ sections:
 
         <div class="row justify-content-center">
           <div class="col-md-3">
-            <p><a href="https://alliancecan.ca/"><img src="images/CZI_Logo.jpg" style="width:"50%";></a></p>            
+            <p><a href="https://chanzuckerberg.com/"><img src="images/CZI_Logo.jpg" alt="Chan Zuckerberg Initiative" style="width:"50%";></a></p>            
           </div>
 
           <div class="col-md-3">
-            <p><a href="https://alliancecan.ca/"><img src="images/Sloan-logo.png" style="width:"50%";></a></p>            
+            <p><a href="https://sloan.org/"><img src="images/Sloan-logo.png" alt="Sloan logo" style="width:"50%";></a></p>            
           </div>
 
           <div class="col-md-3">
-            <p><a href="https://alliancecan.ca/"><img src="images/STFC+logo.png" style="width:"50%";></a></p>            
+            <p><a href="https://stfc.ukri.org/"><img src="images/STFC+logo.png" alt="STFC logo" style="width:"50%";></a></p>            
           </div>
 
           <div class="col-md-3">
-            <p><a href="https://alliancecan.ca/"><img src="images/illinois-logo-internal-collaboration.png" style="width:"50%";></a></p>            
+            <p><a href="https://www.illinois.edu/"><img src="images/illinois-logo-internal-collaboration.png" alt="University of Illinois logo" style="width:"50%";></a></p>            
           </div>
         </div>
             
