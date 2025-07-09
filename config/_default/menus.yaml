@@ -87,9 +87,9 @@ main:
     url: https://researchsoftware.org/council.html
     weight: 80
   - parent: Forums
-    name: Community Leaders Forum
-    url: forums/community-forum
-    weight: 90
+    name: Research Software Community Leadership Forum
+    url: forums/community-leadership-forum
+    weight: 10
 
   - name: Resources
     weight: 40
