@@ -95,7 +95,7 @@ main:
     weight: 40
     url: resources_page
   - parent: Resources
-    name: Resources
+    name: ReSA Resources
     url: resources_page/resa-resources
     weight: 10
   - parent: Resources

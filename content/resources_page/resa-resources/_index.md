@@ -1,6 +1,7 @@
+
 ---
 title:
-date: 2025-06-10
+date: 2025-07-08
 type: landing
 
 sections:
@@ -20,7 +21,6 @@ sections:
           position: center
           size: cover
           text_color_light: false   
-
 
 
   - block: markdown
