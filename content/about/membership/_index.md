@@ -123,93 +123,103 @@ sections:
       text: |
         <br>
 
-        <div class="row justify-content-center">
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/Sloan-logo.png" style="width:"50%";></a></p>            
+        <div class="row justify-content-center align-items-center">
+          <div class="col-md-3 text-center">
+            <p><a href="https://sloan.org/"><img src="images/Sloan-logo.png" alt="Alfred P. Sloan Foundation"  style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/ARDC_logo_RGB.png" style="width:"50%";></a></p>            
+          <div class="col-md-3">
+            <p><a href="https://ardc.edu.au/"><img src="images/ARDC_logo_RGB.png" alt="ARDC logo"  style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/ASAP_FullColor.png" style="width:"50%";></a></p>            
+          <div class="col-md-3">
+            <p><a href="https://parkinsonsroadmap.org/#"><img src="images/ASAP_FullColor.png" alt="ASAP"  style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/AsteraLogo.png" style="width:"50%";></a></p>            
+          <div class="col-md-3">
+            <p><a href="https://astera.org/"><img src="images/AsteraLogo.png" alt="Astera logo" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/CZI_Logo.jpg" style="width:"50%";></a></p>            
+        <div class="row mt-5 justify-content-center align-items-center">
+
+          <div class="col-md-3">
+            <p><a href="https://chanzuckerberg.com/"><img src="images/CZI_Logo.jpg" alt="Chan Zuckerberg Initiative" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/DFG_logo.jpg" style="width:"50%";></a></p>            
+          <div class="col-md-3 text-center">
+            <p><a href="https://www.dfg.de/en/index.jsp"><img src="images/DFG_logo.jpg" alt="German Research Foundation" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/Alliance.png" style="width:"50%";></a></p>            
+          <div class="col-md-3">
+            <p><a href="https://alliancecan.ca/"><img src="images/Alliance.png" alt="Digital Research Alliance of Canada" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/The_Kavli_Foundation_Logo_White_Red.png" style="width:"50%";></a></p>            
+          <div class="col-md-3">
+            <p><a href="https://www.kavlifoundation.org/"><img src="images/The_Kavli_Foundation_Logo_White_Red.png" alt="Kavli logo" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/1_MESR_RVB.jpg" style="width:"50%";></a></p>            
+        <div class="row mt-5 justify-content-center align-items-center">
+
+          <div class="col-md-3">
+            <p><a href="https://www.ouvrirlascience.fr/the-committee-for-open-science/"><img src="images/1_MESR_RVB.jpg" alt="French Committee for Open Science logo" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2" style="text-align: center;">
-            <p><a href="https://alliancecan.ca/">NASA</a></p>
+          <div class="col-md-3" style="text-align: center;">
+            <p><a href="https://www.nasa.gov">NASA</a></p>
           </div>
 
-          <div class="col-md-2" style="text-align: center;">
-            <p><a href="https://alliancecan.ca/">National Institutes of Health</a></p>
+          <div class="col-md-3" style="text-align: center;">
+            <p><a href="https://www.nih.gov">National Institutes of Health</a></p>
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/NCSA.png" style="width:"50%";></a></p>            
+          <div class="col-md-3">
+            <p><a href="https://www.ncsa.illinois.edu"><img src="images/NCSA.png" alt="NCSA" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/NeSI.png" style="width:"50%";></a></p>            
+        <div class="row mt-5 justify-content-center align-items-center">
+
+          <div class="col-md-3">
+            <p><a href="https://www.nesi.org.nz/"><img src="images/NeSI.png" alt="New Zealand eScience Infrastructure" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/nesc.png" style="width:"50%";></a></p>            
+          <div class="col-md-3">
+            <p><a href="https://www.esciencecenter.nl/"><img src="images/nesc-transparent.png" alt="Netherlands eScience Center" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/NWO-logo.jpeg" style="width:"50%";></a></p>            
+          <div class="col-md-3">
+            <p><a href="https://www.nwo.nl/en"><img src="images/NWO-logo.jpeg" alt="NWO logo" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/Stradini_logo_ENG_vert-RGB.jpg" style="width:"50%";></a></p>            
+          <div class="col-md-3">
+            <p><a href="https://www.rsu.lv/en/bioinformatics-group"><img src="images/Stradini_logo_ENG_vert-RGB.jpg" alt="RSU logo" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/Simons-Foundation.jpg" style="width:"50%";></a></p>            
+        <div class="row mt-5 justify-content-center align-items-center">
+
+          <div class="col-md-3">
+            <p><a href="https://www.simonsfoundation.org/"><img src="images/Simons-Foundation.jpg" alt="Simons Foundation"  style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/ssi_logo_with_name-small2.png" style="width:"50%";></a></p>            
+          <div class="col-md-3">
+            <p><a href="https://www.software.ac.uk/"><img src="images/ssi_logo_with_name-small2.png" alt="Software Sustainability Institute" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/UKRI logo.png" style="width:"50%";></a></p>            
+          <div class="col-md-3">
+            <p><a href="https://www.ukri.org/"><img src="images/UKRI logo.png" alt="UKRI logo" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/USRSE logo.png" style="width:"50%";></a></p>            
+          <div class="col-md-3">
+            <p><a href="https://us-rse.org/"><img src="images/USRSE logo.png" alt="US-RSE logo" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/Volkswagen.jpg" style="width:"50%";></a></p>            
+        <div class="row mt-5 justify-content-center align-items-center">          
+
+          <div class="col-md-3">
+            <p><a href="https://www.volkswagenstiftung.de/en"><img src="images/Volkswagen.jpg" alt="Volkswagen Foundation logo" style="width:"50%;"></a></p>            
           </div>
 
-          <div class="col-md-2">
-            <p><a href="https://alliancecan.ca/"><img src="images/Wellcome_logo_Black.jpg" style="width:"50%";></a></p>            
+          <div class="col-md-3">
+            <p><a href="https://wellcome.org/"><img src="images/Wellcome_logo_Black.jpg" alt="Wellcome logo" style="width:"50%;"></a></p>            
           </div>
 
         </div>
@@ -218,6 +228,7 @@ sections:
       background:
         color: "#f98c01"
         text_color_light: false      
+
 
   - block: markdown
     content:
