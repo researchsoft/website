@@ -227,30 +227,54 @@ sections:
         <br>
 
         <div class="row justify-content-center">
-          <div class="col-md-4">
-            <p><a href="https://alliancecan.ca/"><img src="images/Alliance.png" style="width:"50%";></a></p>            
+          <div class="col-md-4" >
+            <p>
+              <a href="https://alliancecan.ca/">
+                <img src="images/Alliance.png" alt="Digital Research Alliance of Canada" style="width: 50%;">
+              </a>
+            </p>            
           </div>
 
           <div class="col-md-4">
-            <p><a href="https://ardc.edu.au/"><img src="images/ARDC_logo_RGB.png" style="width:"50%";></a></p>
+            <p>
+              <a href="https://ardc.edu.au/">
+                <img src="images/ARDC_logo_RGB.png" alt="ARDC logo" style="width: 50%;">
+              </a>
+            </p>
           </div>
 
           <div class="col-md-4">
-            <p><a href="https://www.ncsa.illinois.edu/"><img src="images/NCSA.png" style="width:"50%";></a></p>
+            <p>
+              <a href="https://www.ncsa.illinois.edu/">
+                <img src="images/NCSA.png" alt="NCSA logo" style="width: 50%;">
+              </a>
+            </p>
           </div>
         </div>
-
+        <div class="row mt-5">
         <div class="row">
           <div class="col-md-4">
-            <p><a href="https://www.ncsa.illinois.edu/"><img src="images/nesc.png" style="width:"50%";></a></p>
+            <p>
+              <a href="https://www.esciencecenter.nl/">
+                <img src="images/nesc.png" alt="Netherlands eScience Center logo" style="width: 50%;">
+              </a>
+            </p>
           </div>
 
           <div class="col-md-4">
-            <p><a href="https://www.ncsa.illinois.edu/"><img src="images/Sloan-logo.png" style="width:"50%";></a></p>
+            <p>
+              <a href="https://sloan.org/">
+                <img src="images/Sloan-logo.png" alt="Sloan logo" style="width: 50%;">
+              </a>
+            </p>
           </div>
 
           <div class="col-md-4">
-            <p><a href="https://www.ncsa.illinois.edu/"><img src="images/ssi_logo_with_name-small2.png" style="width:"50%";></a></p>
+            <p>
+              <a href="https://www.software.ac.uk/">
+                <img src="images/ssi_logo_with_name-small2.png" alt="SSI logo" style="width: 50%;">
+              </a>
+            </p>
           </div>
         </div>
             
