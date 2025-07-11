@@ -47,7 +47,7 @@ Since 2022, the Funders Forum has convened annual global gatherings of research 
 - Biotechnology and Biological Sciences Research Council (BBSRC)
 - Cancer Research UK
 - Chan Zuckerberg Initiative (CZI)
-- Department of Energy (DoE)
+- Department of Energy (DOE)
 - Digital Research Alliance of Canada 
 - Dutch Research Council (NWO)
 - Ecuadorian Corporation for the Development of Research and Academy (CEDIA)
@@ -59,6 +59,7 @@ Since 2022, the Funders Forum has convened annual global gatherings of research 
 - Japan Agency for Medical Research and Development (AMED)
 - Japan Science and Technology Agency (JST)
 - Kavli Foundation
+- Klaus Tschira Foundation
 - Linux Foundation
 - Medical Research Council (UKRI)
 - Michael J. Fox Foundation
