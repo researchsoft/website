@@ -115,55 +115,56 @@ sections:
     
         <br>
 
-        <div class="row justify-content-center align-items-center">
-          <div class="col-md-4" >
-            <p>
+        <style>
+          .logo-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 150px; /* Adjust as needed */
+          }
+
+          .logo-image {
+            width: 250px; /* Fixed width */
+            height: 250px; /* Fixed height */
+            object-fit: contain;
+          }
+        </style>
+
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-md-4 logo-container">
               <a href="https://alliancecan.ca/">
-                <img src="images/Alliance.png" alt="Digital Research Alliance of Canada" style="width: 50%;">
+                <img src="images/Alliance.png" alt="Digital Research Alliance of Canada" class="logo-image">
               </a>
-            </p>            
-          </div>
-
-          <div class="col-md-4">
-            <p>
+            </div>
+            <div class="col-md-4 logo-container">
               <a href="https://ardc.edu.au/">
-                <img src="images/ARDC_logo_RGB.png" alt="ARDC logo" style="width: 50%;">
+                <img src="images/ARDC_logo_RGB.png" alt="ARDC logo" class="logo-image">
               </a>
-            </p>
-          </div>
-
-          <div class="col-md-4">
-            <p>
+            </div>
+            <div class="col-md-4 logo-container">
               <a href="https://www.ncsa.illinois.edu/">
-                <img src="images/NCSA.png" alt="NCSA logo" style="width: 50%;">
+                <img src="images/NCSA.png" alt="NCSA logo" class="logo-image">
               </a>
-            </p>
+            </div>
           </div>
-        </div>
-        <div class="row mt-5 justify-content-center align-items-center">
-        <div class="row">
-          <div class="col-md-4">
-            <p>
+
+          <div class="row justify-content-center mt-5">
+            <div class="col-md-4 logo-container">
               <a href="https://www.esciencecenter.nl/">
-                <img src="images/nesc.png" alt="Netherlands eScience Center logo" style="width: 50%;">
+                <img src="images/nesc.png" alt="Netherlands eScience Center logo" class="logo-image">
               </a>
-            </p>
-          </div>
-
-          <div class="col-md-4">
-            <p>
+            </div>
+            <div class="col-md-4 logo-container">
               <a href="https://sloan.org/">
-                <img src="images/Sloan-logo.png" alt="Sloan logo" style="width: 50%;">
+                <img src="images/Sloan-logo.png" alt="Sloan logo" class="logo-image">
               </a>
-            </p>
-          </div>
-
-          <div class="col-md-4">
-            <p>
+            </div>
+            <div class="col-md-4 logo-container">
               <a href="https://www.software.ac.uk/">
-                <img src="images/ssi_logo_with_name-small2.png" alt="SSI logo" style="width: 50%;">
+                <img src="images/ssi_logo_with_name-small2.png" alt="SSI logo" class="logo-image">
               </a>
-            </p>
+            </div>
           </div>
         </div>
             
@@ -179,106 +180,153 @@ sections:
       text: |
         <br>
 
-        <div class="row justify-content-center align-items-center">
-          <div class="col-md-3 text-center">
-            <p><a href="https://sloan.org/"><img src="images/Sloan-logo.png" alt="Alfred P. Sloan Foundation"  style="width:"50%;"></a></p>            
+        <style>
+          .logo-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 150px; /* Adjust as needed */
+          }
+
+          .logo-image {
+            width: 250px; /* Fixed width */
+            height: 250px; /* Fixed height */
+            object-fit: contain;
+          }
+        </style>
+
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-md-4 logo-container">
+              <a href="https://sloan.org/">
+                <img src="images/Sloan-logo.png" alt="Alfred P. Sloan Foundation" class="logo-image">
+              </a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://ardc.edu.au/">
+                <img src="images/ARDC_logo_RGB.png" alt="ARDC logo" class="logo-image">
+              </a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://parkinsonsroadmap.org/#">
+                <img src="images/ASAP_FullColor.png" alt="ASAP" class="logo-image">
+              </a>
+            </div>
           </div>
 
-          <div class="col-md-3">
-            <p><a href="https://ardc.edu.au/"><img src="images/ARDC_logo_RGB.png" alt="ARDC logo"  style="width:"50%;"></a></p>            
+          <div class="row justify-content-center mt-5">
+            <div class="col-md-4 logo-container">
+              <a href="https://astera.org/">
+                <img src="images/AsteraLogo.png" alt="Astera logo" class="logo-image">
+              </a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://chanzuckerberg.com/">
+                <img src="images/CZI_Logo.jpg" alt="Chan Zuckerberg Initiative" class="logo-image">
+              </a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://www.dfg.de/en/index.jsp">
+                <img src="images/DFG_logo.jpg" alt="German Research Foundation" class="logo-image">
+              </a>
+            </div>
           </div>
 
-          <div class="col-md-3">
-            <p><a href="https://parkinsonsroadmap.org/#"><img src="images/ASAP_FullColor.png" alt="ASAP"  style="width:"50%;"></a></p>            
+          <div class="row justify-content-center mt-5">
+            <div class="col-md-4 logo-container">
+              <a href="https://alliancecan.ca/">
+                <img src="images/Alliance.png" alt="Digital Research Alliance of Canada" class="logo-image">
+              </a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://www.kavlifoundation.org/">
+                <img src="images/The_Kavli_Foundation_Logo_White_Red.png" alt="Kavli logo" class="logo-image">
+              </a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://www.ouvrirlascience.fr/the-committee-for-open-science/">
+                <img src="images/1_MESR_RVB.jpg" alt="French Committee for Open Science logo" class="logo-image">
+              </a>
+            </div>
           </div>
 
-          <div class="col-md-3">
-            <p><a href="https://astera.org/"><img src="images/AsteraLogo.png" alt="Astera logo" style="width:"50%;"></a></p>            
+          <div class="row justify-content-center mt-5">
+            <div class="col-md-4 logo-container">
+              <a href="https://www.nasa.gov">NASA</a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://www.nih.gov">National Institutes of Health</a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://www.ncsa.illinois.edu">
+                <img src="images/NCSA.png" alt="NCSA" class="logo-image">
+              </a>
+            </div>
           </div>
 
-        <div class="row mt-5 justify-content-center align-items-center">
-
-          <div class="col-md-3">
-            <p><a href="https://chanzuckerberg.com/"><img src="images/CZI_Logo.jpg" alt="Chan Zuckerberg Initiative" style="width:"50%;"></a></p>            
+          <div class="row justify-content-center mt-5">
+            <div class="col-md-4 logo-container">
+              <a href="https://www.nesi.org.nz/">
+                <img src="images/NeSI.png" alt="New Zealand eScience Infrastructure" class="logo-image">
+              </a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://www.esciencecenter.nl/">
+                <img src="images/nesc-transparent.png" alt="Netherlands eScience Center" class="logo-image">
+              </a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://www.nwo.nl/en">
+                <img src="images/NWO-logo.jpeg" alt="NWO logo" class="logo-image">
+              </a>
+            </div>
           </div>
 
-          <div class="col-md-3 text-center">
-            <p><a href="https://www.dfg.de/en/index.jsp"><img src="images/DFG_logo.jpg" alt="German Research Foundation" style="width:"50%;"></a></p>            
+          <div class="row justify-content-center mt-5">
+            <div class="col-md-4 logo-container">
+              <a href="https://www.rsu.lv/en/bioinformatics-group">
+                <img src="images/Stradini_logo_ENG_vert-RGB.jpg" alt="RSU logo" class="logo-image">
+              </a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://www.simonsfoundation.org/">
+                <img src="images/Simons-Foundation.jpg" alt="Simons Foundation" class="logo-image">
+              </a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://www.software.ac.uk/">
+                <img src="images/ssi_logo_with_name-small2.png" alt="Software Sustainability Institute" class="logo-image">
+              </a>
+            </div>
           </div>
 
-          <div class="col-md-3">
-            <p><a href="https://alliancecan.ca/"><img src="images/Alliance.png" alt="Digital Research Alliance of Canada" style="width:"50%;"></a></p>            
+          <div class="row justify-content-center mt-5">
+            <div class="col-md-4 logo-container">
+              <a href="https://www.ukri.org/">
+                <img src="images/UKRI logo.png" alt="UKRI logo" class="logo-image">
+              </a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://us-rse.org/">
+                <img src="images/USRSE logo.png" alt="US-RSE logo" class="logo-image">
+              </a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://www.volkswagenstiftung.de/en">
+                <img src="images/Volkswagen.jpg" alt="Volkswagen Foundation logo" class="logo-image">
+              </a>
+            </div>
           </div>
 
-          <div class="col-md-3">
-            <p><a href="https://www.kavlifoundation.org/"><img src="images/The_Kavli_Foundation_Logo_White_Red.png" alt="Kavli logo" style="width:"50%;"></a></p>            
+          <div class="row justify-content-center mt-5">
+            <div class="col-md-4 logo-container">
+              <a href="https://wellcome.org/">
+                <img src="images/Wellcome_logo_Black.jpg" alt="Wellcome logo" class="logo-image">
+              </a>
+            </div>
           </div>
-
-        <div class="row mt-5 justify-content-center align-items-center">
-
-          <div class="col-md-3">
-            <p><a href="https://www.ouvrirlascience.fr/the-committee-for-open-science/"><img src="images/1_MESR_RVB.jpg" alt="French Committee for Open Science logo" style="width:"50%;"></a></p>            
-          </div>
-
-          <div class="col-md-3" style="text-align: center;">
-            <p><a href="https://www.nasa.gov">NASA</a></p>
-          </div>
-
-          <div class="col-md-3" style="text-align: center;">
-            <p><a href="https://www.nih.gov">National Institutes of Health</a></p>
-          </div>
-
-          <div class="col-md-3">
-            <p><a href="https://www.ncsa.illinois.edu"><img src="images/NCSA.png" alt="NCSA" style="width:"50%;"></a></p>            
-          </div>
-
-        <div class="row mt-5 justify-content-center align-items-center">
-
-          <div class="col-md-3">
-            <p><a href="https://www.nesi.org.nz/"><img src="images/NeSI.png" alt="New Zealand eScience Infrastructure" style="width:"50%;"></a></p>            
-          </div>
-
-          <div class="col-md-3">
-            <p><a href="https://www.esciencecenter.nl/"><img src="images/nesc-transparent.png" alt="Netherlands eScience Center" style="width:"50%;"></a></p>            
-          </div>
-
-          <div class="col-md-3">
-            <p><a href="https://www.nwo.nl/en"><img src="images/NWO-logo.jpeg" alt="NWO logo" style="width:"50%;"></a></p>            
-          </div>
-
-          <div class="col-md-3">
-            <p><a href="https://www.rsu.lv/en/bioinformatics-group"><img src="images/Stradini_logo_ENG_vert-RGB.jpg" alt="RSU logo" style="width:"50%;"></a></p>            
-          </div>
-
-        <div class="row mt-5 justify-content-center align-items-center">
-
-          <div class="col-md-3">
-            <p><a href="https://www.simonsfoundation.org/"><img src="images/Simons-Foundation.jpg" alt="Simons Foundation"  style="width:"50%;"></a></p>            
-          </div>
-
-          <div class="col-md-3">
-            <p><a href="https://www.software.ac.uk/"><img src="images/ssi_logo_with_name-small2.png" alt="Software Sustainability Institute" style="width:"50%;"></a></p>            
-          </div>
-
-          <div class="col-md-3">
-            <p><a href="https://www.ukri.org/"><img src="images/UKRI logo.png" alt="UKRI logo" style="width:"50%;"></a></p>            
-          </div>
-
-          <div class="col-md-3">
-            <p><a href="https://us-rse.org/"><img src="images/USRSE logo.png" alt="US-RSE logo" style="width:"50%;"></a></p>            
-          </div>
-
-        <div class="row mt-5 justify-content-center align-items-center">          
-
-          <div class="col-md-3">
-            <p><a href="https://www.volkswagenstiftung.de/en"><img src="images/Volkswagen.jpg" alt="Volkswagen Foundation logo" style="width:"50%;"></a></p>            
-          </div>
-
-          <div class="col-md-3">
-            <p><a href="https://wellcome.org/"><img src="images/Wellcome_logo_Black.jpg" alt="Wellcome logo" style="width:"50%;"></a></p>            
-          </div>
-
         </div>
+
             
     design:
       background:
@@ -292,23 +340,45 @@ sections:
       text: |
         <br>
 
-        <div class="row justify-content-center">
-          <div class="col-md-3">
-            <p><a href="https://chanzuckerberg.com/"><img src="images/CZI_Logo.jpg" alt="Chan Zuckerberg Initiative" style="width:"50%";></a></p>            
-          </div>
+          <style>
+            .logo-container {
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              height: 150px; /* Adjust as needed */
+            }
 
-          <div class="col-md-3">
-            <p><a href="https://sloan.org/"><img src="images/Sloan-logo.png" alt="Sloan logo" style="width:"50%";></a></p>            
-          </div>
+            .logo-image {
+              width: 250px;  /* Fixed width */
+              height: 250px; /* Fixed height */
+              object-fit: contain;
+            }
+          </style>
 
-          <div class="col-md-3">
-            <p><a href="https://stfc.ukri.org/"><img src="images/STFC+logo.png" alt="STFC logo" style="width:"50%";></a></p>            
+          <div class="row justify-content-center mt-5">
+            <div class="col-md-4 logo-container">
+              <a href="https://chanzuckerberg.com/" target="_blank" title="Chan Zuckerberg Initiative">
+                <img src="/about/images/CZI_Logo.jpg" alt="Chan Zuckerberg Initiative" class="logo-image">
+              </a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://sloan.org/" target="_blank" title="Sloan Foundation">
+                <img src="/about/images/Sloan-logo.png" alt="Sloan logo" class="logo-image">
+              </a>
+            </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://stfc.ukri.org/" target="_blank" title="STFC">
+                <img src="/about/images/STFC+logo.png" alt="STFC logo" class="logo-image">
+              </a>
+            </div>
           </div>
-
-          <div class="col-md-3">
-            <p><a href="https://www.illinois.edu/"><img src="images/illinois-logo-internal-collaboration.png" alt="University of Illinois logo" style="width:"50%";></a></p>            
+          <div class="row justify-content-center mt-5">
+            <div class="col-md-4 logo-container">
+              <a href="https://www.illinois.edu/" target="_blank" title="University of Illinois">
+                <img src="/about/images/illinois-logo-internal-collaboration.png" alt="University of Illinois logo" class="logo-image">
+              </a>
+            </div>
           </div>
-        </div>
             
     design:
       background:
@@ -321,11 +391,28 @@ sections:
       text: |
         <br>
 
-        <div class="row justify-content-center">
-          <div class="col-md-3 text-center">
-            <p><a href="https://www.rd-alliance.org/"><img src="images/RDA_Logotype_Low.png" alt = "RDA logo" style="width:"50%";></a></p>            
+          <style>
+            .logo-container {
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              height: 150px; /* Adjust as needed */
+            }
+
+            .logo-image {
+              width: 250px;  /* Fixed width */
+              height: 250px; /* Fixed height */
+              object-fit: contain;
+            }
+          </style>
+
+          <div class="row justify-content-center mt-5">
+            <div class="col-md-4 logo-container">
+              <a href="https://www.rd-alliance.org/" target="_blank" title="RDA">
+                <img src="/about/images/RDA_Logotype_Low.png" alt="RDA logo" class="logo-image">
+              </a>
+            </div>
           </div>
-        </div>
             
     design:
       background:
@@ -338,38 +425,63 @@ sections:
       text: |
         <br>
 
-        <div class="row justify-content-center align-items-center"">
-          <div class="col-md-3 text-center">
-            <p><a href="https://www.berkeley.edu/"><img src="images/UCBerkeley_wordmark_blue.png" alt = "UC berkeley logo" style="width:"50%";></a></p>            
-          </div>
+        <style>
+          .logo-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 150px; /* Adjust as needed */
+          }
 
-          <div class="col-md-3 text-center">
-            <p><a href="https://carpentries.org"><img src="images/Carpentries.png" alt = "The Carpentries" style="width:"50%";></a></p>            
-          </div>
-        
-          <div class="col-md-2" style="text-align: center;">
-            <p><a href="https://www.fordfoundation.org/">Ford Foundation</a></p>
-          </div>
-         
-          <div class="col-md-3 text-center">
-            <p><a href="https://www.moore.org/"><img src="images/moore-logo-color-small.png" alt = "Moore foundation logo" style="width:"50%";></a></p>            
-          </div>
+          .logo-image {
+            width: 250px;  /* Fixed width */
+            height: 250px; /* Fixed height */
+            object-fit: contain;
+          }
+        </style>
 
-        <div class="row mt-5 justify-content-center align-items-center">  
+        <div class="row justify-content-center mt-5">
+          <div class="col-md-4 logo-container">
+            <a href="https://www.berkeley.edu/" target="_blank" title="UC Berkeley">
+              <img src="images/UCBerkeley_wordmark_blue.png" alt="UC Berkeley logo" class="logo-image">
+            </a>
+          </div>
+          <div class="col-md-4 logo-container">
+            <a href="https://carpentries.org" target="_blank" title="The Carpentries">
+              <img src="images/Carpentries.png" alt="The Carpentries" class="logo-image">
+            </a>
+          </div>
+          <div class="col-md-4 logo-container">
+            <a href="https://www.fordfoundation.org/" target="_blank" title="Ford Foundation">
+              <div style="font-size: 20px; font-weight: bold;">Ford Foundation</div>
+            </a>
+          </div>
+        </div>
 
-          <div class="col-md-3 text-center">
-            <p><a href="https://www.rdc-drc.ca/"><img src="images/rdc-logo.png" alt = "RDC DCR logo" style="width:"50%";></a></p>            
+        <div class="row justify-content-center mt-5">
+          <div class="col-md-4 logo-container">
+            <a href="https://www.moore.org/" target="_blank" title="Moore Foundation">
+              <img src="images/moore-logo-color-small.png" alt="Moore Foundation logo" class="logo-image">
+            </a>
           </div>
- 
-          <div class="col-md-3 text-center">
-            <p><a href="https://www.stanford.edu/"><img src="images/stanford-university-stacked.png" alt = "Stanford logo" style="width:"50%";></a></p>            
+          <div class="col-md-4 logo-container">
+            <a href="https://www.rdc-drc.ca/" target="_blank" title="RDC DRC">
+              <img src="images/rdc-logo.png" alt="RDC DRC logo" class="logo-image">
+            </a>
           </div>
- 
-          <div class="col-md-3 text-center">
-            <p><a href="https://wellcome.org/"><img src="images/Wellcome-logo.png" alt = "Wellcome Trust logo" style="width:"50%";></a></p>            
+          <div class="col-md-4 logo-container">
+            <a href="https://www.stanford.edu/" target="_blank" title="Stanford University">
+              <img src="images/stanford-university-stacked.png" alt="Stanford logo" class="logo-image">
+            </a>
           </div>
- 
+        </div>
 
+        <div class="row justify-content-center mt-5">
+          <div class="col-md-4 logo-container">
+            <a href="https://wellcome.org/" target="_blank" title="Wellcome Trust">
+              <img src="images/Wellcome-logo.png" alt="Wellcome Trust logo" class="logo-image">
+            </a>
+          </div>
         </div>
             
     design:
