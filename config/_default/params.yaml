@@ -45,12 +45,16 @@ header:
 
 footer:
   copyright:
-    notice: '<span style="white-space: nowrap;">
-      <a href="" target="_blank" style="display: inline-block;">
-        <img src="/about/images/logo.svg" alt="ReSA Logo" style="height: 30px; vertical-align: middle; margin-right: 6px;">
-      </a>
-      </span> © {year} Research Software Alliance. This work is <a href="/license">licensed</a> under CC BY 4.0 International.'
-
+    notice: '
+      <section style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: #333333; padding: 10px 0;">
+        <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px; color: white; text-align: center;">
+          <a href="/" target="_blank" style="display: inline-block;">
+            <img src="/uploads/resa-logo-inverted.svg" alt="ReSA Logo" style="height: 40px; vertical-align: middle; margin-right: 6px;">
+          </a>
+          © {year} Research Software Alliance. This work is
+          <a href="/license" style="color: white; text-decoration: underline;">licensed</a> under CC BY 4.0 International.
+        </div>
+      </section>'
     license:
       enable: false
       allow_derivatives: false
