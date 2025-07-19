@@ -8,7 +8,12 @@ authors:
 categories: 
   - Event
 
-summary: "New ReSA forums advance global research software efforts"
+summary: "Read more..."
+
+image:
+  preview_only: true
+  filename: "Global_meeting.jpg"  # This is the image file placed in static/media/
+
 draft: false  
 
 ---
