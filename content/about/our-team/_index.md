@@ -28,7 +28,9 @@ sections:
       text: |
           <div class="row">
             <div class="col-md-4" style="margin: 0 auto; text-align: center;">
-              <img src="michelle.jpg">
+              <div style="display: flex; justify-content: center;">
+                <img src="michelle.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+              </div>
               <h2 align="center">Dr Michelle Barker</h2>
               <p align="center">Director</p>
               <p align="center"> <i> Lives In Australia </i> </p>
@@ -48,7 +50,9 @@ sections:
 
 
             <div class="col-md-4" style="margin: 0 auto; text-align: center;">
-              <img src="Jyoti_square.jpeg">
+              <div style="display: flex; justify-content: center;">
+                <img src="Jyoti_square.jpeg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+              </div>
               <h2 align="center">Jyoti Bhogal</h2>
               <p align="center">Community Manager & Community Engagement Partner (Asia)</p>
               <p align="center"> <i> Lives in India </i> </p>
@@ -72,7 +76,9 @@ sections:
 
 
             <div class="col-md-4" style="margin: 0 auto; text-align: center;">
-              <img src="kim_sq.jpg">
+              <div style="display: flex; justify-content: center;">
+                <img src="kim_sq.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+              </div>            
               <h2 align="center">Kim Hartley</h2>
               <p align="center">Program Manager</p>
               <p align="center"> <i> Lives in Canada </i> </p>
@@ -99,7 +105,9 @@ sections:
 
           <div class="row">
             <div class="col-md-4" style="margin: 0 auto; text-align: center;">
-              <img src="talarify-people.png">
+              <div style="display: flex; justify-content: center;">
+                <img src="talarify-people.png" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+              </div> 
               <h2 align="center">Talarify</h2>
               <p align="center">Community Engagement Partner (Africa)</p>
               <p align="center"> <i> Lives In South Africa </i> </p>
@@ -122,7 +130,9 @@ sections:
             </div>
 
             <div class="col-md-4" style="margin: 0 auto; text-align: center;">
-              <img src="CSS_square.png">
+              <div style="display: flex; justify-content: center;">
+                <img src="CSS_square.png" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+              </div> 
               <h2 align="center">Code for Science & Society</h2>
               <p align="center">Fiscal Sponsor</p>
               <!-- Social media icons section -->
