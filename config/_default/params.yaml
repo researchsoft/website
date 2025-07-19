@@ -47,7 +47,7 @@ footer:
   copyright:
     notice: '<span style="white-space: nowrap;">
       <a href="" target="_blank" style="display: inline-block;">
-        <img src="/about/images/logo.svg" alt="ReSA Logo" style="height: 50px; vertical-align: middle; margin-right: 6px;">
+        <img src="/about/images/logo.svg" alt="ReSA Logo" style="height: 30px; vertical-align: middle; margin-right: 6px;">
       </a>
       </span> © {year} Research Software Alliance. This work is <a href="/license">licensed</a> under CC BY 4.0 International.'
 
@@ -135,3 +135,6 @@ social:
     icon_pack: fab
     url: "https://twitter.com/your-handle"
     title: "Twitter"
+
+#custom_js:
+#  - scrolltotop-debug.js
