@@ -17,7 +17,7 @@ sections:
           filters:
             brightness: 1
           parallax: false
-          position: center
+          position: bottom
           size: cover
           text_color_light: false      
 
@@ -284,7 +284,7 @@ sections:
         <br>
 
           <div class="row justify-content-center">
-            <div class="col-md-8">
+            <div class="col-md-">
               <a href="">
                 <img src="images/ReSAFoundingMembersSquare.jpg" alt="Founding members">
               </a>

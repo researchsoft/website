@@ -20,7 +20,7 @@ sections:
           filters:
             brightness: 1
           parallax: false
-          position: center
+          position: bottom
           size: cover
           text_color_light: true     
 
