@@ -9,7 +9,7 @@ categories:
   - Event
   - Ongoing
 
-summary: "ReSA's mission is to bring research software communities together to collaborate on the advancement of the research software ecosystem."
+summary: "Read more..."
 draft: false  
 
 ---

@@ -9,7 +9,7 @@ categories:
   - Event
   - Past
 
-summary: "ReSA will convene two webinars in early December to discuss the outcomes of the People Roadmap Report"
+summary: "Read more..."
 draft: false
 ---
 

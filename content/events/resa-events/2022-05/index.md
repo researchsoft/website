@@ -9,7 +9,7 @@ categories:
   - Event
   - Ongoing
 
-summary: "ReSA supports \"DiveRSE\" a series of talks and related activities supporting Equity, Diversity and Inclusion within the Research Software Engineering community"
+summary: "Read more..."
 draft: false  
 
 ---

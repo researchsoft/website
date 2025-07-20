@@ -9,11 +9,7 @@ categories:
   - Event
   - Past
 
-summary: "Join one of our upcoming webinars to discuss community-supported routes for convening the first-ever international research software conference in 2025/26, or provide feedback asynchronously on the options paper, Towards an international research software conference (version 2). 
-
-ReSA is engaging with key stakeholders to identify and recommend possible options, with three conference options proposed currently. These all share a common overarching aim of community building but differ in the communities they focus on. 
-
-The next stage of the development of these ideas is to gain feedback through open public consultation. This includes identifying stakeholders who would be interested in shepherding the development of at least one of these ideas in 2025/26, including possible pilots in 2025."
+summary: "Read more..."
 draft: false  
 
 ---

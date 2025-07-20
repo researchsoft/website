@@ -9,7 +9,7 @@ categories:
   - Event
   - Ongoing
 
-summary: "ReSA has established three committees to lead development of each of the three options identified within [*Towards an International Research Software Conference*](https://zenodo.org/records/14793104). If you're passionate about advancing the research software community, consider joining a committee/s by reaching out to [michelle@researchsoft.org](mailto:michelle@researchsoft.org)."
+summary: "Read more..."
 draft: false  
 
 ---

@@ -8,7 +8,7 @@ authors:
 categories: 
   - Event
 
-summary: "ReSA is seeking feedback on the ReSA Strategic Plan 2025-28."
+summary: "Read more..."
 draft: false  
 
 ---

@@ -8,7 +8,7 @@ authors:
 categories: 
   - Event
 
-summary: "Supporting Research Software in Research Policy and Funding Programs"
+summary: "Read more..."
 draft: false  
 
 ---

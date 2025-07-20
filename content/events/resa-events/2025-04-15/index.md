@@ -8,7 +8,7 @@ authors:
 categories: 
   - Event
 
-summary: "Towards an International Research Software Conference"
+summary: "Read more..."
 draft: false  
 
 ---
