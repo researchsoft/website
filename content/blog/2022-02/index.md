@@ -7,7 +7,7 @@ categories:
   - Blog
   - Press release
 
-summary: "Meet our founding members"
+summary: "Read more..."
 draft: false
 ---
 

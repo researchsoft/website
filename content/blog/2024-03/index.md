@@ -3,19 +3,12 @@ title: "The FAIR for Research Software Principles after two years: an adoption u
 subtitle: ""
 date: 2024-03-20
 authors:
-  - "Michelle Barker"
-  - "Leyla Jael Castro"
-  - "Bernadette Fritzsch" 
-  - "Daniel S. Katz"
-  - "Carlos Martinez-Ortiz"
-  - "Anna Niehues" 
-  - "Alexander Struck"
-  - "Qian Zhang"
+  - ""
 
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

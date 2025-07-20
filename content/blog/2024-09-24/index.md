@@ -3,16 +3,12 @@ title: "RSE Worldwide: Opportunities to Strengthen the Global RSE Community"
 subtitle: ""
 date: 2024-09-25
 authors:
-  - "Michelle Barker"
-  - "Sandra Gesing"
-  - "Rowland Mosbergen"
-  - "Uwe Schmitt" 
-  - "Carlos Martinez-Ortiz"
+  - ""
 
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

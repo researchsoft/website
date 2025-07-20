@@ -3,12 +3,12 @@ title: "Resources for supporting policy change in research institutions in pract
 subtitle: ""
 date: 2024-06-10
 authors:
-  - "Michelle Barker, Domhnall Carlin, Jeremy Cohen, Eric A. Jensen, Catherine M. Jones, Carlos Martinez Ortiz and Dan Rudmann"
+  - ""
 
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

@@ -3,14 +3,13 @@ title: "Directions for Research Software Engineering Research"
 subtitle: ""
 date: 2024-09-19
 authors:
-  - "Michelle Barker"
-  - "Wilhelm Hasselbring"
+  - ""
 
 categories: 
   - Blog
   - Task force
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

@@ -3,14 +3,12 @@ title: "Funder community focuses on crucial role of research software"
 subtitle: ""
 date: 2024-06-20
 authors:
-  - "Kim Hartley"
-  - "Michelle Barker"
-  - "Daniel S. Katz"
+  - ""
 
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

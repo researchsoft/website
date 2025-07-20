@@ -3,15 +3,12 @@ title: "How Can Open Source Program Offices (OSPOs) Support Research Software?"
 subtitle: ""
 date: 2023-06-01
 authors:
-  - "Kim Hartley" 
-  - "Michelle Barker"
-  - "Mark Leggott"
-  - "Daniel S. Katz"
+  - ""
 
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

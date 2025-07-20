@@ -3,12 +3,12 @@ title: "Can National Research and Education Networks be a focal point for Resear
 subtitle: ""
 date: 2023-04-17
 authors:
-  - "Saranjeet Kaur Bhogal"
+  - ""
 
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

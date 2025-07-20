@@ -3,12 +3,12 @@ title: "Expanding the mapping of the global research software community"
 subtitle: ""
 date: 2022-10-21
 authors:
-  - "Michelle Barker"
+  - ""
 
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

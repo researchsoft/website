@@ -3,22 +3,12 @@ title: "FAIR for Research Software (FAIR4RS): A summary"
 subtitle: ""
 date: 2022-08-15
 authors:
-  - "Daniel S. Katz"
-  - "Tom Honeyman"
-  - "Paula Andrea Martinez"
-  - "Michelle Barker"
-  - "Leyla Jael Castro"
-  - "Neil Chue Hong"
-  - "Morane Gruenpeter"
-  - "Jennifer Harrow"
-  - "Anna-Lena Lamprecht"
-  - "Carlos Martinez-Ortiz"
-  - "Fotis Psomopoulos"
+  - ""
 categories: 
   - Blog
   - Task force
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

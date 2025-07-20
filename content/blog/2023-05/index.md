@@ -3,12 +3,12 @@ title: "Research institution policies to support research software - Task Force"
 subtitle: ""
 date: 2023-05-09
 authors:
-  - "Paula Andrea Martinez"
+  - ""
 
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

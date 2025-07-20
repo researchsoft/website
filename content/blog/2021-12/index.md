@@ -2,18 +2,12 @@
 title: "Research software is essential for research data, so how should governments respond?"
 date: 2021-12-09
 authors:
-  - "Michelle Barker"
-  - "Neil Chue Hong"
-  - "Daniel S. Katz"
-  - "Mark Leggott"
-  - "Andrew Treloar"
-  - "Joris van Eijnatten"
-  - "Selina Aragon"
+  - ""
 
 categories: 
   - Blog
   - Recommendations
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

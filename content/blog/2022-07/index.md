@@ -3,12 +3,12 @@ title: "Vive la différence - research software engineers"
 subtitle: "A hybrid DEI-focused workshop"
 date: 2022-07-12
 authors:
-  - "FAIR4RS Working Group Steering Committee"
+  - ""
 categories: 
   - Blog
   - Press release
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

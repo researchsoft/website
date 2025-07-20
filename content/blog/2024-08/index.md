@@ -3,18 +3,12 @@ title: "Research software is critical to the future of AI-driven research"
 subtitle: ""
 date: 2024-08-22
 authors:
-  - "Michelle Barker"
-  - "Kim Hartley"
-  - "Daniel S. Katz"
-  - "Richard Littauer"
-  - "Qian Zhang"
-  - "Shurui Zhou"
-  - "Jyoti Bhogal"
+  - ""
 
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

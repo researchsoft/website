@@ -2,13 +2,12 @@
 title: "Overview of research software funding landscape"
 date: 2022-02-24
 authors:
-  - "Michelle Barker"
-  - "Daniel S. Katz"
+  - ""
 
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

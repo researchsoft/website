@@ -2,13 +2,11 @@
 title: "Evidence for the importance of research software"
 date: 2020-06-08
 authors:
-  - "Michelle Barker"
-  - "Daniel S. Katz"
-  - "Alejandra Gonzalez-Beltran"
+  - ""
 categories: 
   - Blog
   - Task force
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

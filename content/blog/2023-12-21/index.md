@@ -3,12 +3,12 @@ title: "Advocating for Research Software Engineering in Asia: 2023 in Review"
 subtitle: ""
 date: 2023-12-20
 authors:
-  - "Saranjeet Kaur Bhogal"
+  - ""
 
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

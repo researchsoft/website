@@ -3,14 +3,13 @@ title: "Encouraging entry, retention, diversity and inclusion in research softwa
 subtitle: ""
 date: 2022-09-28
 authors:
-  - "Michelle Barker"
-  - "Daniel S. Katz"
+  - ""
 
 categories: 
   - Blog
   - Task force
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

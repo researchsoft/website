@@ -3,12 +3,12 @@ title: "Research Software Alliance Community Report 2023"
 subtitle: ""
 date: 2024-01-09
 authors:
-  - "Kim Hartley & Michelle Barker"
+  - ""
 
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

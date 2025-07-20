@@ -3,13 +3,12 @@ title: "Elevating Research Software: Developing a Roadmap"
 subtitle: ""
 date: 2023-09-04
 authors:
-  - "Eric Allen Jensen"
-  - "Daniel S. Katz"
+  - ""
 
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

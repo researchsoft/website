@@ -3,23 +3,12 @@ title: "ReSA 2022 Year in review"
 subtitle: ""
 date: 2023-02-17
 authors:
-  - "Michelle Barker"
-  - "Valentina Azzarà"
-  - "Tom Bakker"
-  - "Lieke de Boer"
-  - "Neil Chue Hong"
-  - "Maria Cruz"
-  - "Niels Drost"
-  - "Joris van Eijnatten"
-  - "Maaike de Jong"
-  - "Daniel S. Katz"
-  - "Carlos Martinez-Ortiz"
-  - "Veronica Pang"
-
+  - ""
+  
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

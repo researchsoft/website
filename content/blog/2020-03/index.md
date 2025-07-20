@@ -2,16 +2,11 @@
 title: "The Research Software Alliance (ReSA) and the community landscape"
 date: 2020-03-11
 authors:
-  - "Daniel S. Katz"
-  - "Michelle Barker"
-  - "Paula Andrea Martinez"
-  - "Hartwig Anzt"
-  - "Alejandra Gonzalez-Beltran"
-  - "Tom Bakker"
+  - ""
 categories: 
   - Blog
   - Task force
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

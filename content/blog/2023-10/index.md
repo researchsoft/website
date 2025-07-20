@@ -3,13 +3,11 @@ title: "Investing in People: Anticipating the Future of Research Software"
 subtitle: ""
 date: 2023-10-24
 authors:
-  - "Kim Hartley"
-  - "Michelle Barker"
-
+  - ""
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 

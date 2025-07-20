@@ -3,17 +3,12 @@ title: "International Research Software Funders Workshop 2024 – Building a Sus
 subtitle: ""
 date: 2024-10-16
 authors:
-  - "Michelle Barker"
-  - "Chris Erdmann"
-  - "Eric Jensen" 
-  - "Kim Hartley"
-  - "Anna Henriksson"
-  - "Suné Joubert"
+  - ""
 
 categories: 
   - Blog
 
-summary: ""
+summary: "Read more..."
 draft: false
 ---
 
