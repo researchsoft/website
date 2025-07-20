@@ -12,11 +12,11 @@ sections:
       title:
       text:   |
         <p align=center>
-          <img src="uploads/resa-logo-inverted.svg" width="80%">
+          <img src="uploads/resa-logo-inverted.svg" width="35%">
         </p>
 
           Our vision: Research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide
-          {style="color: white; font-size: 1.5rem; "} 
+          {style="color: white; font-size: 2rem; "} 
         
         <div style="text-align: center; margin-top: 20px;">
           <a href="/about" target="_self" 
@@ -30,13 +30,13 @@ sections:
     design:
       background:
         image:
-          filename: main-hero.png
+          filename: main-hero_bottom_half.png
           size: cover
-          position: bottom
+          position:  bottom
           parallax: false
           text_color_light: true
       spacing:
-        height: "50vh"
+        height: "30vh"
         padding: ["2rem", "2rem"]
        
 
