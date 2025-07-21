@@ -13,6 +13,8 @@ sections:
       title: ReSA Steering Committee
       subtitle: ''
       text: |
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
         <div class="row">
           <div class="col-md-4" style="margin: 0 auto; text-align: center;">
             <div style="display: flex; justify-content: center;">
@@ -45,7 +47,11 @@ sections:
             <p align="center">Caxton Murira is a Product Specialist and team lead for the <a href="https://scienceforafrica.foundation/clinical-research-and-trials-community">Clinical Research and Trials Community (CRTC) programme</a> at the <a href="https://scienceforafrica.foundation/">Science for Africa Foundation</a>. He is passionate about data and has delivered successful projects in a myriad of sectors such as health, governance, climate change for INGOs, government and public institutions. Caxton has an MSc in project management and a BSc in computer science. Prior to joining SFA Foundation, he worked at the African Academy of Sciences and other not for profit outfits in similar roles. Caxton is keen to promote open research initiatives, open data, and research software, with the goal of achieving fair access to healthcare and creating sustainable innovative solutions that address Africa's most pressing challenges.</p>
           </div>
         </div>
+        </div>
+        </div>  
 
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
         <div class="row">
           <div class="col-md-4" style="margin: 0 auto; text-align: center;">
             <div style="display: flex; justify-content: center;">
@@ -77,7 +83,11 @@ sections:
             <p align="center">Nicolás is an Adjunct Researcher at the National Research Council in Argentina (CONICET) and a Project Leader at the Structural Bioinformatics Group, Universidad Nacional de Quilmes (UNQ, Buenos Aires, Argentina). His research is focused on understanding the functional nature of proteins, with special interest in their evolutionary relationships and their interactions in biological systems. He is a certified trainer and over the last 15 years he has delivered online and virtual courses on biology, programming and education for graduate and postgraduate university students, as well as several workshops in different communities of practice. Nicolas is also the Co-Executive Director and Advisory Committee Chair of MetaDocencia, an online community that builds scientific and technical capacities through the co-creation of networks, learning spaces, and accessible resources focused on Spanish-speaking communities.</p>
           </div>
         </div>
+        </div>
+        </div>  
 
+        <div class="d-flex justify-content-center">
+        <div class="col-md-8 text-start">
         <div class="row">
           <div class="col-md-4" style="margin: 0 auto; text-align: center;">
             <div style="display: flex; justify-content: center;">
@@ -89,12 +99,16 @@ sections:
             <p align="center">Shurui Zhou is an Assistant Professor at the University of Toronto. Her research focuses on facilitating distributed and interdisciplinary software teams to build high-quality systems, including but not limited to building better programming environments for software developers, designing better code review and issue tracking systems to facilitate better collaboration among team members, and identifying vulnerabilities from the codebase. She studies and tackles the problems from both technical and social perspectives, especially in the context of modern open-source collaboration forms, Industrial plant software, and interdisciplinary teams when building AI-based systems or scientific software. She also investigates the collaboration challenges for hardware teams, specifically for CAD designers using online collaborative platforms. To achieve her goals, she combines advances in tooling and software engineering principles with insights from other disciplines that study human collaboration, for which she combines and mixes a wide range of research methods.</p>
           </div>
         </div>
+        </div>
+        </div>  
 
 
     design:
       background:
         color: "#ffffff"
         text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]   
 
 
   - block: markdown
@@ -115,13 +129,19 @@ sections:
             </div>
 
           </div>
-
+    design:
+      spacing:
+        padding: ["3rem", "1rem"]  
+ 
 
 
   - block: markdown
     content:
       title: Former Steering Committee Members
       text:   |
+       <div class="d-flex justify-content-center">
+        <div class="col-md-8 text-start">
+        
         **Yo Yehudi**, Co-founder, Open Life Science (OLS), UK (2023-2025)
 
         **Mark Leggott**, Director of International Relations, Digital Research Alliance of Canada (2021-2024)
@@ -145,25 +165,37 @@ sections:
         **Catherine Jones**, Energy Data Centre Lead, Science and Technologies Facilities Council, UK (2019-2020)
 
         **Scott Henwood**, Senior Director, Programs, CANARIE, Canada (2019)
-    
+        </div>
+        </div>      
 
     design:
       background:
         color: "#ffffff"
-        text_color_light: false       
+        text_color_light: false 
+      spacing:
+        padding: ["3rem", "1rem"]    
+        
 
   - block: markdown
     content:
       title: 
       text:   |
-        For further information, please refer to the ReSA Steering Committee [**Terms of Reference**](https://docs.google.com/document/d/1cr6jce4TBgd0KJemYtpuK-V4CQW1ZAYlcVqnJi4ZRCg/edit?tab=t.0#heading=h.qc1uwr8o0jhl)
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">        
+          
+          For further information, please refer to the ReSA Steering Committee 
+          [**Terms of Reference**](https://docs.google.com/document/d/1cr6jce4TBgd0KJemYtpuK-V4CQW1ZAYlcVqnJi4ZRCg/edit?tab=t.0#heading=h.qc1uwr8o0jhl).
 
-        To meet the ReSA team go to the [**People page**](https://www.researchsoft.org/people/).
+          To meet the ReSA team go to the [**People page**](https://www.researchsoft.org/people/).
+         </div>
+        </div>          
     
 
     design:
       background:
         color: "#ffffff"
-        text_color_light: false       
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]           
 
 ---
