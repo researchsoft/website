@@ -31,6 +31,7 @@ sections:
       text:   |
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
+
         The vision of the Research Software Alliance (ReSA) is that research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide. 
 
         A [wide range](https://arxiv.org/abs/1811.08473) of research software organisations and programs exist internationally to address the varied challenges in
@@ -60,6 +61,7 @@ sections:
       text:   |
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
+
         [Software is pervasive in modern research](https://zenodo.org/record/3884311#.YeV3C1hBzJw), enabling the generation, analysis and/or presentation of research outputs. Research software is a key driver of innovation and the economy. ReSA focuses on software that is developed to serve a research purpose, rather than the standard software that some researchers also use for research purposes.
 
         While software has started to be recognised internationally as a key part of facilitating trusted, reproducible research outputs and open science, recognition of research software as a valuable research input and output has lagged behind that of research data. AI-driven research is also [dependent on software](https://doi.org/10.5281/zenodo.13350747), although it is not always adequately understood that data preparation and model training are performed by software, and that models are implemented in software.
@@ -79,7 +81,8 @@ sections:
       title:
       text:   |
         <div class="d-flex justify-content-center">
-         <div class="col-md-8 text-start">        
+         <div class="col-md-8 text-start">   
+
         Research software is [defined](https://doi.org/10.15497/RDA00068) by Barker et al (2022) in the [FAIR for Research Software Principles](https://www.nature.com/articles/s41597-022-01710-x) as including _“source code files, algorithms, scripts, computational workflows and executables that were created during the research process or for a research purpose. Software components (e.g., operating systems, libraries, dependencies, packages, scripts, etc.) that are used for research but were not created during or with a clear research intent should be considered software in research and not research software. This differentiation may vary between disciplines."_
 
         The [roles of research software](https://doi.org/10.54900/xdh2x-kj281) have also been described by Rob van Nieuwpoort and Daniel S. Katz (2024) as follows:
@@ -104,6 +107,7 @@ sections:
       text:   |
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
+
         ReSA is supported by the community through:
         * [Organisational Members](https://www.researchsoft.org/membership/)
         * Project grants
@@ -132,6 +136,7 @@ sections:
       text: |
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
+         
         In 2022 ReSA announced six Founding Members. Founding Members express their deep commitment to the ReSA vision that research software
         and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide. To do this, they provide
         resources needed to support ReSA in its aim to bring research software communities together to collaborate on the advancement of the

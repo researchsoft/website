@@ -19,7 +19,8 @@ sections:
           position: bottom
           size: cover
           text_color_light: false      
-       
+      spacing:
+        padding: ["4rem", "2rem"]       
 
   - block: markdown
     content:
