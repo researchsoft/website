@@ -55,60 +55,60 @@ main:
     weight: 30
     url: forums
   - parent: Forums
+    name: Research Software Community Leadership Forum
+    url: forums/community-leadership-forum
+    weight: 10    
+  - parent: Forums
     name: Research Software Funders Forum
     url: forums/funders-forum
-    weight: 10
+    weight: 20
   - parent: Forums
     name: Research Software Infrastructure Forum
     url: forums/rsi-forum
-    weight: 20
+    weight: 30
   - parent: Forums
     name: Research Software Policy Forum
     url: forums/rsp-forum
-    weight: 30  
+    weight: 40  
   - parent: Forums
     name: Metascience and Research Software Forum
     url: forums/mars-forum
-    weight: 40
+    weight: 50
   - parent: Forums
     name: Publishing Research Software Forum
     url: forums/pubsoft-forum
-    weight: 50
+    weight: 60
   - parent: Forums
     name: Skills and Training for Research Software Forum
     url: forums/stars-forum
-    weight: 60
+    weight: 70
   - parent: Forums
     name: ADORE.software Secretariat
     url: https://adore.software
-    weight: 70
+    weight: 80
   - parent: Forums
     name: International Council of RSE Associations
     url: https://researchsoftware.org/council.html
-    weight: 80
-  - parent: Forums
-    name: Research Software Community Leadership Forum
-    url: forums/community-leadership-forum
-    weight: 10
+    weight: 90
 
   - name: Resources
     weight: 40
-    url: resources_page
+    url: resource
   - parent: Resources
     name: ReSA Resources
-    url: resources_page/resa-resources
+    url: resource/resa-resources
     weight: 10
   - parent: Resources
     name: Guidelines
-    url: resources_page/guidelines
+    url: resource/guidelines
     weight: 20
   - parent: Resources
     name: Funding Opportunities
-    url: resources_page/funding-opportunities
+    url: resource/funding-opportunities
     weight: 30
   - parent: Resources
     name: Software Policies
-    url: resources_page/software-policies
+    url: resource/software-policies
     weight: 40
   - parent: Resources
     name: ADORE.software Declaration
@@ -116,7 +116,7 @@ main:
     weight: 50
   - parent: Resources
     name: Research Software Engineers (RSEs)
-    url: resources_page/research-software-engineers
+    url: resource/research-software-engineers
     weight: 60
 
   - name: News

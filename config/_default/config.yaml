@@ -1,8 +1,0 @@
-enableGitInfo: false
-
-section_pager:
-  show_date: true
-  show_lastmod: false
-
-blog:
-  show_last_updated: false
