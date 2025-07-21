@@ -26,6 +26,7 @@ Membership is comprised of representatives from two stakeholder groups:
 2. An open nomination process to ensure representation of stakeholders not already engaged through ReSA forums. The nomination process for missing voices is through self-nomination. The key criteria for nominees is their ability to represent a missing stakeholder group, with evidence of engagement with and representation of that group for this nomination. ReSA will also conduct targeted outreach to identify and encourage participation from missing voices, such as research support infrastructures and university consortia. 
 
 **Time commitment**
+
 CLF representatives serve three-year terms, with an annual time commitment of approximately 5–10 hours. This includes attending 1–2 online meetings each year, as well as participating in asynchronous discussions. Members are expected to act as liaisons between the CLF and their stakeholder groups, bringing forward relevant perspectives, priorities, and insights to support inclusive leadership in the research software community.
 
 **How to apply**
