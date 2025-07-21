@@ -19,12 +19,16 @@ sections:
           parallax: false
           position: bottom
           size: cover
-          text_color_light: false      
+          text_color_light: false 
+      spacing:
+        padding: ["4rem", "2rem"]                 
        
   - block: markdown
     content:
       title:
       text:   |
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">      
         ReSA engages multiple stakeholder groups across the international research software community to collaborate to achieve common goals. ReSA’s community encompasses many relevant research software organisations, initiatives, and communities that have a national or regional focus, disciplinary focus, or thematic focus (such as software citation or representation of RSEs).
 
         Our stakeholders include:
@@ -38,14 +42,19 @@ sections:
         * **Thematic communities:** Co-leading the drafting of the [FAIR for Research Software Principles](https://www.nature.com/articles/s41597-022-01710-x) (FAIR4RS) which engaged 500+ community members; with outcomes documented in a [two-year adoption update](https://doi.org/10.5281/zenodo.10816032); and supporting ReSA [task forces](https://www.researchsoft.org/taskforces/) on [Actionable Guidelines for Making Research Software FAIR](https://drive.google.com/drive/u/0/folders/15srfB15eg9I5jKTSTMF_MlFZfGwX8qx8), and [FAIR4RS Review](https://drive.google.com/drive/u/0/folders/1YZn-oJ85eStIwBqymB6D2sOxrnG0Jm7A) that aims to understand where the principles have and have not been adopted, and why.
         * **Research on research software:** Co-authoring a [position paper](https://doi.org/10.5281/zenodo.13350747) on the criticality of research software in AI-driven research.  
 
+        <br>
+
         <div class="row justify-content-center">
             <img src="images/stakeholders.png" alt="stakeholders">
         </div>    
+         </div>
+        </div>   
 
     design:
       background:
         color: "#ffffff"
-        text_color_light: false       
-
-
+        text_color_light: false    
+      spacing:
+        padding: ["3rem", "1rem"]            
+  
 ---
