@@ -20,11 +20,15 @@ sections:
           position: bottom
           size: cover
           text_color_light: false      
-       
+      spacing:
+        padding: ["4rem", "2rem"]
+
   - block: markdown
     content:
       title:
       text:   |
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
         Your donation will help ReSA to serve the research software community in the
         following ways:
 
@@ -58,11 +62,17 @@ sections:
         [overview](https://docs.google.com/spreadsheets/d/1u00bPi5jIeI_iO5AfaBA97jxdLTgQW5rWwGkGI7RI0M/edit#gid=0)
         of ReSA income and expenditures is available for review. Our grants are also
         available on [Open Grants](https://www.ogrants.org/).
+     
+         </div>
+        </div>  
+     
 
     design:
       background:
         color: "#ffffff"
-        text_color_light: false     
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]             
 
 ---
 

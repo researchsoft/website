@@ -57,7 +57,7 @@ sections:
       background:
         color: "#ffffff"
       spacing:
-        padding: ["4rem", "2rem"]             
+        padding: ["3rem", "1rem"]             
 
   - block: markdown
     content:
@@ -76,7 +76,7 @@ sections:
         color: "#ffffff"
         text_color_light: false  
       spacing:
-        padding: ["4rem", "2rem"]
+        padding: ["3rem", "1rem"]
 
   - block: markdown
     content:
@@ -99,7 +99,7 @@ sections:
         color: "#ffffff"
         text_color_light: false
       spacing:
-        padding: ["4rem", "2rem"]
+        padding: ["3rem", "1rem"]
 
   - block: markdown
     content:
@@ -136,5 +136,5 @@ sections:
         color: "#ffffff"
         text_color_light: false
       spacing:
-        padding: ["4rem", "2rem"]        
+        padding: ["3rem", "1rem"]        
 ---
