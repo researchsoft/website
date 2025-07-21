@@ -62,7 +62,7 @@ sections:
           You can become involved by:
           
           - Joining [task forces](taskforces) focused on specific activities
-          - Receiving updates through our regular [newsletter](newsletter)
+          - Receiving updates through our regular [newsletter](news)
           - Encouraging your organisation to become an [Organisational Member](membership), support a [task force](tf-support), or make a [donation](donate)
           - Helping to raise awareness of the importance of software in research through use of [ReSA resources](resa-resources)
           - Connecting with other community members through our [Linked In](https://www.linkedin.com/company/research-software-alliance/) or at our [events](events/) 
