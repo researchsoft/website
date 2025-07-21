@@ -11,7 +11,7 @@ sections:
       text:   |
 
           Code of Conduct
-          {style="color: white; font-size: 1.5rem; text-align: center;"} 
+          {style="color: white; font-size: 2rem; text-align: center;"} 
 
     design:
       background:
@@ -23,12 +23,17 @@ sections:
           position: bottom
           size: cover
           text_color_light: true     
-
+      spacing:
+        padding: ["4rem", "2rem"]
 
   - block: markdown
     content:
       title: ReSA Code of Conduct
       text:   |
+
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+        
         **Contents**
 
         1. Introduction and Scope    
@@ -106,10 +111,14 @@ sections:
 
         This code of conduct has been adapted from the [US-RSE Association Code of Conduct](https://us-rse.org/code-of-conduct/), which builds on the [NumFocus Code of Conduct](https://numfocus.org/code-of-conduct), which was itself adapted from numerous sources, including the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), created by the Ada Initiative and other volunteers, which is under a [Creative Commons Zero license](https://creativecommons.org/share-your-work/public-domain/cc0/), the [Contributor Covenant version 1.2.0](http://contributor-covenant.org/version/1/2/0/), the [Bokeh Code of Conduct](https://github.com/bokeh/bokeh/blob/master/CODE_OF_CONDUCT.md), the [SciPy Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/enforcement.md), the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#enforcement-manual), and the [NeurIPS Code of Conduct](https://nips.cc/public/CodeOfConduct).
 
-        The ReSA Code of Conduct is made available under the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0).    
+        The ReSA Code of Conduct is made available under the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0).
+         </div>
+        </div>          
     design:
       background:
         color: "#ffffff"
         text_color_light: false  
+      spacing:
+        padding: ["3rem", "1rem"]        
 
 ---
