@@ -139,3 +139,9 @@ social:
     icon_pack: fab
     url: "https://twitter.com/your-handle"
     title: "Twitter"
+
+# Blog date 
+
+blog:
+  show_date: true
+  show_lastmod: false
