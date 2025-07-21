@@ -547,10 +547,10 @@ sections:
 
   - block: markdown
     content:
-      title: 
+      title: |
         <div class="d-flex justify-content-center">
-         <div class="col-md-8 text-start">           
-            "Data implies software - it’s not much good gathering data if you don’t have the ability to analyse it."
+         <div class="col-md-8 text-start">      
+            "Data implies software: it’s not much good gathering data if you don’t have the ability to analyse it."
          </div>
         </div>            
       subtitle: 
