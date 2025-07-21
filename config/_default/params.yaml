@@ -46,7 +46,7 @@ header:
 footer:
   copyright:
     notice: '
-      <section style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: #333333; padding: 10px 0;">
+      <section style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: #343a40; padding: 8px 0;">
         <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px; color: white; text-align: center;">
           <a href="/" target="_blank" style="display: inline-block;">
             <img src="/uploads/resa-logo-inverted.svg" alt="ReSA Logo" style="height: 40px; vertical-align: middle; margin-right: 6px;">
@@ -139,6 +139,3 @@ social:
     icon_pack: fab
     url: "https://twitter.com/your-handle"
     title: "Twitter"
-
-#custom_js:
-#  - scrolltotop-debug.js
