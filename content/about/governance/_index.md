@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: 
     content:
-      title: ReSA Governance
+      title:
 
   - block: markdown
     content:
