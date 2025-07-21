@@ -117,7 +117,8 @@ sections:
       title: Software Matters
       text: |
         <div class="d-flex justify-content-center">
-         <div class="col-md-8 text-start">      
+         <div class="col-md-8 text-start">   
+            
         Research software is recognised as critical to research outcomes. As early as 2014, a [UK survey](https://zenodo.org/records/14809) of 1,000 randomly chosen researchers showed that more than 90% of researchers acknowledged software as being important for their own research, and about 70% of researchers said that their research would not be possible without software. A study of [Nature papers from Jan-March 2016](https://ieeexplore.ieee.org/document/8109183) reveals that “32 of the 40 papers examined mention software, and the 32 papers contain 211 mentions of distinct pieces of software, for an average of 6.5 mentions per paper.” [2].
 
         Research software is also critical in artificial intelligence (AI)-driven research, and the technological infrastructure to support AI acceleration must include research software and its personnel. Read our [position paper](https://doi.org/10.5281/zenodo.13350747) on this vital part of AI infrastructure, which includes recommendations for stakeholders on how to consider research software in their AI goals.
@@ -172,11 +173,9 @@ sections:
           <a href="https://fosstodon.org/@researchsoft" target="_blank" title="Mastodon">
             <i class="fab fa-mastodon fa-2x" style="margin: 0 15px;"></i>
           </a>
-
           <a href="https://bsky.app/profile/researchsoftware.bsky.social" target="_blank" title="Bluesky">
-            <img src="/images/Bluesky--Streamline-Simple-Icons.png" alt="" style="height: 32px; margin: 0 15px; vertical-align: middle;">
-          </a>
-
+            <i class="fas fa-globe fa-2x" style="margin: 0 15px;"></i>
+          </a>         
           <a href="/index.xml" target="_blank" title="RSS Feed">
             <i class="fas fa-rss fa-2x" style="margin: 0 15px;"></i>
           </a>

@@ -9,31 +9,11 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+        
       email: test@example.org
-      phone: 888 888 88 88
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
+
+
+# Automatically link email and phone or display as text?
       autolink: true
     
       # Email form provider
@@ -66,4 +46,64 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
+
+  - block: markdown
+    content:
+      title: Community
+      text:   |
+        If you want to be part of our community join our current [task forces](https://www.researchsoft.org/taskforces/) and subscribe to our newsletter.    
+    design:
+      background:
+        color: "#ffffff"
+        text_color_light: false  
+
+  - block: markdown
+    content:
+      title:
+      text:   |        
+        <div style="text-align: center; margin-top: 20px;">
+          <a href="https://dashboard.mailerlite.com/forms/778129/110635094443558050/share" target="_blank" 
+            style="background-color: rgb(0, 143, 84); color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; display: inline-block; border: 1px solid #ccc;">
+            Subscribe to the ReSA newsletter
+          </a>
+        </div>
+    
+    design:
+      background:
+        color: "#ffffff"
+        text_color_light: false
+
+  - block: markdown
+    content:
+      title: "Connect with us"
+      subtitle: ""
+      text: |
+        <p align="center">
+          <a href="https://github.com/researchsoft/website" target="_blank" title="GitHub">
+            <i class="fab fa-github fa-2x" style="margin: 0 15px;"></i>
+          </a>
+          <a href="mailto:contact@researchsoft.org" target="_blank" title="Email">
+            <i class="fas fa-envelope fa-2x" style="margin: 0 15px;"></i>
+          </a>
+          <a href="https://researchsoft.slack.com/" target="_blank" title="Slack">
+            <i class="fab fa-slack fa-2x" style="margin: 0 15px;"></i>
+          </a>
+          <a href="https://www.linkedin.com/company/research-software-alliance/" target="_blank" title="LinkedIn">
+            <i class="fab fa-linkedin fa-2x" style="margin: 0 15px;"></i>
+          </a>
+          <a href="https://fosstodon.org/@researchsoft" target="_blank" title="Mastodon">
+            <i class="fab fa-mastodon fa-2x" style="margin: 0 15px;"></i>
+          </a>
+          <a href="https://bsky.app/profile/researchsoftware.bsky.social" target="_blank" title="Bluesky">
+            <i class="fas fa-globe fa-2x" style="margin: 0 15px;"></i>
+          </a>         
+          <a href="/index.xml" target="_blank" title="RSS Feed">
+            <i class="fas fa-rss fa-2x" style="margin: 0 15px;"></i>
+          </a>
+        </p>
+    design:
+      background:
+        color: "#ffffff"
+        text_color_light: false
+
 ---

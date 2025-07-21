@@ -151,6 +151,9 @@ main:
   - name: "<i class='fab fa-mastodon'></i>"
     url: https://fosstodon.org/@researchsoft
     weight: 120
+  - name: "<i class='fas fa-globe'></i>"
+    url: https://bsky.app/profile/researchsoftware.bsky.social 
+    weight: 130   
   - name: "<i class='fas fa-rss'></i>"
     url: /index.xml
-    weight: 130
+    weight: 140
