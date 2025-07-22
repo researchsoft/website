@@ -19,13 +19,18 @@ sections:
           parallax: false
           position: bottom
           size: cover
-          text_color_light: false      
-
+          text_color_light: false
+      spacing:
+        padding: ["4rem", "2rem"]          
 
   - block: markdown
     content:
       title: 
       text:   |
+ 
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+          
         The Metascience and Research Software (MaRS) Forum is a collaboration of metascience groups, communities, and organisations committed to supporting research software, and those who develop it, as fundamental and vital to research. Research software metascience aims to understand implications of research software on the research ecosystem, particularly on the research process, and could include:
         
         - The impact of research software policy or funding on the research ecosystem (e.g.,  representation, carbon budgets)
@@ -51,8 +56,14 @@ sections:
         - Broader metascience organisations (e.g., Research on Research Institute (RoRI))
 
         Members can suggest other organisations that support research software metascience to join, or potential participants can contact [ReSA](mailto:info@researchsoft.org) for information on joining.
+
+         </div>
+        </div>  
+
     design:
       background:
         color: "#ffffff"
-        text_color_light: false     
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]
 ---

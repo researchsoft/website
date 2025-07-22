@@ -19,7 +19,9 @@ sections:
           parallax: false
           position: bottom
           size: cover
-          text_color_light: false      
+          text_color_light: false 
+      spacing:
+        padding: ["4rem", "2rem"]                 
 
 
 
@@ -27,6 +29,10 @@ sections:
     content:
       title: 
       text:   |
+
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+
         The Community Leadership Forum (CLF) is a forum of research software community leaders, committed to supporting research software, and those who develop it, as fundamental and vital to research. It  brings together a representative group of decision makers, and influencers, to function as a community body with a shared vision, guiding the strategic direction, priorities, and values of our collective work. It draws on the diverse expertise and perspectives of our stakeholders to ensure that decision-making is participatory and inclusive.
 
         The CLF provides a formal mechanism for members to consider how to collectively address common challenges to achieve the significant cultural change needed across the research sector globally. It aims to:
@@ -43,9 +49,15 @@ sections:
         3. An open nomination process to ensure representation of stakeholders not already engaged through ReSA forums and/or targeted outreach. Nominations must include evidence of support from the community the nominee seeks to represent.
 
         For further information, please refer to the [Terms of Reference](https://docs.google.com/document/d/19SYb-RDn9x73siK8CKWz1fC2x0xjd-hgTxFxQFh3IXw/edit?tab=t.0) or email ReSA: info@researchsoft.org. 
+
+         </div>
+        </div>  
+
     design:
       background:
         color: "#ffffff"
-        text_color_light: false     
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]
 
 ---

@@ -19,13 +19,19 @@ sections:
           parallax: false
           position: bottom
           size: cover
-          text_color_light: false      
+          text_color_light: false
+      spacing:
+        padding: ["4rem", "2rem"]
 
 
   - block: markdown
     content:
       title: 
       text:   |
+
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+               
         The Research Software Policy (RSP) Forum is a collaboration of policymakers committed to supporting research software, and those who develop it, as fundamental and vital to research. Policy makers include representatives of organisations focused on research, open science, and open source software, that influence policy at the national, regional, and/or international level. 
 
         Software has become an essential constituent of research and research software is starting to be seen as an equal partner of research data in key international policy documents such as UNESCO and the OECD. However, support and recognition of the importance of research software and the people who develop and maintain it, has failed to keep pace with the scale of use of research software in research. 
@@ -49,8 +55,15 @@ sections:
         - Funding and/or research organisation consortia (e.g., Science Europe, LA Referencia)
 
         Members can suggest other organisations that support research software policy to join, or potential participants can contact [ReSA](mailto:info@researchsoft.org) for information on joining.
+     
+         </div>
+        </div>  
+
     design:
       background:
         color: "#ffffff"
-        text_color_light: false     
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]  
+
 ---

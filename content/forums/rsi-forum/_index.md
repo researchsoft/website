@@ -19,13 +19,19 @@ sections:
           parallax: false
           position: bottom
           size: cover
-          text_color_light: false      
+          text_color_light: false
+      spacing:
+        padding: ["4rem", "2rem"]          
 
 
   - block: markdown
     content:
       title: 
       text:   |
+
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+               
         The Research Software Infrastructure (RSI) Forum is a collaboration of infrastructure organisations committed to supporting research software, and those who develop it, as fundamental and vital to research. Infrastructure organisations are organisations that support research software development, maintenance, sharing, connectivity, etc., often through services.
 
         Software is an [essential constituent](https://doi.org/10.1038/s43588-024-00651-2) of research, and research software is recognised as a crucial part of open science in key international policy documents from [UNESCO](https://en.unesco.org/science-sustainable-future/open-science/recommendation) and the [OECD](https://www.oecd.org/en/publications/oecd-principles-and-guidelines-for-access-to-research-data-from-public-funding_9789264034020-en-fr.html). However, some aspects of infrastructure have failed to keep pace with the scale of use of research software in research. Infrastructure that supports research software can play a key role in improving research impact. Increased focus on alignment can provide societal benefits that include accelerating innovation, reducing information-sharing gaps, encouraging innovation, and promoting reproducibility. 
@@ -47,10 +53,15 @@ sections:
         - Organisations and initiatives that create standards (e.g., CITATION.cff, FAIR-Impact, CodeMeta). 
 
         Members can invite other organisations that provide infrastructure to research software to join at their own discretion, or potential participants can contact [ReSA](mailto:info@researchsoft.org) for information on joining.
+
+         </div>
+        </div>  
+
     design:
       background:
         color: "#ffffff"
-        text_color_light: false     
-
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]       
 
 ---

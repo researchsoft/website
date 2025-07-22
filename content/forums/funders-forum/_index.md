@@ -19,7 +19,9 @@ sections:
           parallax: false
           position: bottom
           size: cover
-          text_color_light: false      
+          text_color_light: false
+      spacing:
+        padding: ["4rem", "2rem"]
 
 
 
@@ -27,6 +29,10 @@ sections:
     content:
       title: 
       text:   |
+
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+               
         The Research Software Funders Forum is a collaboration of funding organisations committed to supporting research software, and those who develop it, as fundamental and vital to research. It provides a formal mechanism for funders to share practices and consider how to address common challenges to achieve the significant cultural change needed across the research sector globally. For further information, please refer to the [Terms of Reference](https://docs.google.com/document/d/1UHnEAMmZI9glkqoT8Mx36A15xJqupdUmp_qBFCwY0rI/edit) and this ReSA blog post: [Funder community focuses on crucial role of research software](https://www.researchsoft.org/blog/2024-06-20/)
 
         Software has become an [essential constituent](https://zenodo.org/record/3884311) of research and research software is starting to be seen as an equal partner of research data in key international policy documents such as [UNESCO](https://en.unesco.org/science-sustainable-future/open-science/recommendation) and the [OECD](https://www.oecd.org/en/publications/oecd-principles-and-guidelines-for-access-to-research-data-from-public-funding_9789264034020-en-fr.html). However, support and recognition of the importance of research software and the people who develop and maintain it, has failed to keep pace with the scale of use of research software in research. 
@@ -109,9 +115,14 @@ sections:
 
         See also ReSA's [Research Software Funding Opportunities](https://www.researchsoft.org/funding-opportunities/) to find funding opportunities or contribute information on [new calls](https://docs.google.com/forms/d/e/1FAIpQLSdeZrx0kXAhD4XfpDrQ8Dmg4qJTRZWboMd-zvgjjtgBs1I68g/viewform).
 
+         </div>
+        </div>  
+
     design:
       background:
         color: "#ffffff"
-        text_color_light: false     
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]
 
 ---

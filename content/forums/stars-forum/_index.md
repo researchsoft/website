@@ -19,13 +19,18 @@ sections:
           parallax: false
           position: bottom
           size: cover
-          text_color_light: false      
-
+          text_color_light: false
+      spacing:
+        padding: ["4rem", "2rem"]
 
   - block: markdown
     content:
       title: 
       text:   |
+
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">   
+   
         The Skills and Training for Research Software (STaRS) Forum is a collaboration of skills and training organisations committed to supporting research software, and those who develop it, as fundamental and vital to research. Skills and training organisations/initiatives are those efforts that develop curricula and learning pathways that support research software development, primarily at international, national, and/or disciplinary levels.
 
         Software has become an essential constituent of research and research software is starting to be seen as an equal partner of research data in key international policy documents such as UNESCO and the OECD. However, support and recognition of the importance of research software and the people who develop and maintain it, has failed to keep pace with the scale of use of research software in research.
@@ -49,8 +54,14 @@ sections:
         - Broader international initiatives for a range of digital skills (e.g., The Carpentries, SKILLS4EOSC, CODATA-RDA School of Research Data Science, Turing Way)
 
         Members can suggest other organisations that support research software skills and training to join, or potential participants can contact [ReSA](mailto:info@researchsoft.org) for information on joining.
+
+         </div>
+        </div>          
     design:
       background:
         color: "#ffffff"
-        text_color_light: false     
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]
+
 ---
