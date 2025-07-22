@@ -3,4 +3,5 @@
   <div>
     {{ .Date.Format $fmt }}
   </div>
+  <pre>{{ printf "%#v" . }}</pre>
 {{ end }}
