@@ -19,13 +19,18 @@ sections:
           parallax: false
           position: bottom
           size: cover
-          text_color_light: false   
-
+          text_color_light: false
+      spacing:
+        padding: ["4rem", "2rem"]
 
   - block: markdown
     content:
       title: 
       text:   |
+
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+         
         ## ReSA Outputs
 
         ReSA outputs can provide useful references to support recognition and valuing of research software as a key component of research, and can also be found in the ReSA [Zenodo community](https://zenodo.org/communities/resa/?page=1&size=20). See also the [**ADORE.software Toolkit**](https://adore.software/toolkit/). The toolkit is where ReSA amalgamates many resources. It provides examples of programs, policies, and resources for each of the [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/declaration/)’s recommendations in the four areas of research software practice, research software ecosystem, research software personnel, and research software ethics.
@@ -70,18 +75,32 @@ sections:
         * Add [new calls](https://forms.gle/r4Jw4swUd1SXigZc9) to the [Research Software Funding Opportunities](https://www.researchsoft.org/funding-opportunities/)
         * Submit a resource as an issue in [GitHub](https://github.com/researchsoft/website/issues/new) (requires GitHub account)
         * [Email it directly to ReSA](mailto:info@researchsoft.org)
+
+        </div>
+        </div>
     design:
       background:
         color: "#ffffff"
-        text_color_light: false     
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]       
 
   - block: markdown
     content:
-      title: "Software is the ubiquitous instrument of science."
+      title: 
+      
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+        "Software is the ubiquitous instrument of science."
+        </div>
+        </div>  
       subtitle: 
       text: <p align="center"><a href="https://www.raeng.org.uk/diversity-in-engineering/diversity-and-inclusion-at-the-academy/celebrating-leading-women-in-engineering/carole-globe">Carole Goble, Professor of Computer Science, University of Manchester, UK</a></p>
+
     design:
       background:
         color: "#f98c01"
         text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]  
 ---

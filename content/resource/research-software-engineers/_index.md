@@ -19,14 +19,18 @@ sections:
           parallax: false
           position: bottom
           size: cover
-          text_color_light: false   
-
-
+          text_color_light: false
+      spacing:
+        padding: ["4rem", "2rem"]       
 
   - block: markdown
     content:
       title: 
       text:   |
+
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+
         ReSA aims to coordinate discussions across a wide range of research software organisations and programs. Our [stakeholders](https://www.researchsoft.org/stakeholders/) include funders, policy-makers, research software engineer associations, infrastructure providers, university consortia, publishers, and thematic communities.
 
         ReSA is the secretariat for the [International Council of RSE Associations](https://researchsoftware.org/council.html) – we work with leaders in the research software engineering community through the Council. The following ReSA resources might be of interest to both leaders and individual RSEs:
@@ -55,10 +59,15 @@ sections:
         * [RSE-AUNZ \- RSE Association of Australia and New Zealand](https://rse-aunz.github.io/)
         * [RSSE Africa](https://rsse.africa/)
         * [Soc-RSE \- UK Society of Research Software Engineering](https://society-rse.org/)
-        * [US-RSE \- United States Research Software Engineer Association](https://us-rse.org/)   
+        * [US-RSE \- United States Research Software Engineer Association](https://us-rse.org/)
+
+          </div>
+        </div>  
     design:
       background:
         color: "#ffffff"
-        text_color_light: false     
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]       
 
 ---

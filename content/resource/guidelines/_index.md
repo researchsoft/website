@@ -20,13 +20,17 @@ sections:
           position: bottom
           size: cover
           text_color_light: false   
-
-
+      spacing:
+        padding: ["4rem", "2rem"]
 
   - block: markdown
     content:
       title: 
       text:   |
+
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+
         To help you identify key resources this page highlights those
         relevant to each of the ReSA themes: people, policy and
         infrastructure. These resources are mostly international
@@ -191,18 +195,33 @@ sections:
             [*GitHub*](https://github.com/researchsoft/website/issues/new) 
             (requires a GitHub account)
         -   [Email it directly to ReSA](mailto:info@researchsoft.org).
+
+         </div>
+        </div>  
+
     design:
       background:
         color: "#ffffff"
-        text_color_light: false     
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]       
 
   - block: markdown
     content:
-      title: "To increase research impact and recognise the role that software plays in it, it is critical to build the Research Software Engineering community and profession in all geographic regions, while also fostering global collaborations."
+      title: 
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+        "To increase research impact and recognise the role that software plays in it, it is critical to build the Research Software Engineering community and profession in all geographic regions, while also fostering global collaborations."
+
+         </div>
+        </div>
+
       subtitle: 
       text: <p align="center"><a href="https://fellows.software.ac.uk/fellow/saranjeet-kaur-bhogal/">Saranjeet Kaur Bhogal, Fellow 2023, Software Sustainability Institute, India</a></p>
     design:
       background:
         color: "#f98c01"
         text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]  
 ---
