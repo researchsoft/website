@@ -1,7 +1,9 @@
-{{/* Only show the publish date; remove lastmod/updated date */}}
+{{ $date_format := site.Params.locale.date_format | default "Jan 2, 2006" }}
 
-{{ if .PublishDate }}
-  <p><i class="fas fa-calendar"></i> Published on {{ .PublishDate.Format "January 2, 2006" }}</p>
-{{ else if .Date }}
-  <p><i class="fas fa-calendar"></i> Published on {{ .Date.Format "January 2, 2006" }}</p>
+{{ with .Date }}
+  <div class="article-metadata">
+    <span class="article-date">
+      {{ .Format $date_format }}
+    </span>
+  </div>
 {{ end }}
