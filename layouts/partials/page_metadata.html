@@ -1,0 +1,7 @@
+{{/* Only show the publish date; remove lastmod/updated date */}}
+
+{{ if .PublishDate }}
+  <p><i class="fas fa-calendar"></i> Published on {{ .PublishDate.Format "January 2, 2006" }}</p>
+{{ else if .Date }}
+  <p><i class="fas fa-calendar"></i> Published on {{ .Date.Format "January 2, 2006" }}</p>
+{{ end }}
