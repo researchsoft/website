@@ -10,6 +10,10 @@ categories:
   - Ongoing
 
 summary: "Read more..."
+image:
+  preview_only: true
+  filename: "colour-circles-bg-unsplash.jpg"  # This is the image file placed in static/media/
+
 draft: false  
 
 ---

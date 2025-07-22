@@ -9,6 +9,9 @@ categories:
   - Event
 
 summary: "Read more..."
+image:
+  preview_only: true
+  filename: "9354.jpg"  # This is the image file placed in static/media/
 draft: false  
 
 ---

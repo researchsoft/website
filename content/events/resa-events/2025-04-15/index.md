@@ -11,6 +11,9 @@ categories:
 summary: "Read more..."
 draft: false  
 
+image:
+  preview_only: true
+  filename: "inrscon.jpg"  # This is the image file placed in static/media/
 ---
 
 ![people-with-global-network](inrscon.jpg)

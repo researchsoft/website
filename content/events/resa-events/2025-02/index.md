@@ -10,6 +10,9 @@ categories:
   - Ongoing
 
 summary: "Read more..."
+image:
+  preview_only: true
+  filename: "2024-09-24-image.jpeg"  # This is the image file placed in static/media/
 draft: false  
 
 ---

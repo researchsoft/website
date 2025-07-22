@@ -10,6 +10,9 @@ categories:
   - Past
 
 summary: "Read more..."
+image:
+  preview_only: true
+  filename: "myleon-unsplash-collaboration.jpg"  # This is the image file placed in static/media/
 draft: false
 ---
 

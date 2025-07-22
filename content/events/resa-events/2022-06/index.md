@@ -10,6 +10,9 @@ categories:
   - Ongoing
 
 summary: "Read more..."
+image:
+  preview_only: true
+  filename: "sharon-mccutcheon-colourful-unsplash.jpg"  # This is the image file placed in static/media/
 draft: false  
 
 ---

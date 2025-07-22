@@ -10,6 +10,9 @@ categories:
   - Past
 
 summary: "Read more..."
+image:
+  preview_only: true
+  filename: "chris-montgomery-smgTvepind4-unsplash.jpg"  # This is the image file placed in static/media/
 draft: false  
 
 ---
