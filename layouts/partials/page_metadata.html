@@ -1,8 +1,6 @@
+{{ $fmt := site.Params.locale.date_format | default "Jan 2, 2006" }}
 {{ if .Date }}
   <div>
-    📅 {{ .Date.Format "Jan 2, 2006" }}
+    {{ .Date.Format $fmt }}
   </div>
-{{ else }}
-  <div>⚠️ No date found</div>
 {{ end }}
-
