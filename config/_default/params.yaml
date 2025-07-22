@@ -144,3 +144,4 @@ social:
 
 blog:
   show_date: true
+  show_last_updated: false
