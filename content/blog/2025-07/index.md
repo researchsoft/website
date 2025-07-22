@@ -34,7 +34,7 @@ Research software and the people who support it have emerged over the past decad
 
 In response to the recognition of research software as a vital component of the research ecosystem, the OECD’s Committee for Scientific and Technological Policies (CSTP) is launching a new project aimed at understanding the achievements and policy gaps concerning access to research software. This emphasis, alongside initiatives like ReSA’s [Research Software Policy (RSP) Forum](https://www.researchsoft.org/rsp-forum/), marks a clear shift from high-level vision to coordinated, practical implementation.
 
-New OECD project on access to research software
+## New OECD project on access to research software
 
 The OECD’s 2025-2026 project on research software builds on recent developments across OECD countries, where research software has gained substantial policy support and is now widely acknowledged as a core research output. Initiatives across funding, assessment, and infrastructure have increasingly promoted the sustainability, development, and openness of scientific software, sometimes extending beyond general open science policies.
 
