@@ -19,7 +19,9 @@ sections:
           parallax: false
           position: bottom
           size: cover
-          text_color_light: false      
+          text_color_light: false
+      spacing:
+        padding: ["4rem", "2rem"]
 
 
 
@@ -27,6 +29,10 @@ sections:
     content:
       title: 
       text:   |
+
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+               
         [ReSA task forces](https://www.researchsoft.org/taskforces/) are community-led initiatives to create international solutions that can also be used to solve challenges in local environments. These task forces rely on participants contributing their time to collaborate to solve community problems.
 
         ReSA seeks to identify resources that can support each task force's work where possible. Information on ReSA's current task forces are available on the [task forces](https://www.researchsoft.org/taskforces/) page, and include:
@@ -63,9 +69,14 @@ sections:
 
         ReSA also provides each task force with support as part of its normal services, including promotion through ReSA communications channel to identify members, engage the community with the content, and share outputs; and status as a ReSA task force.
 
+         </div>
+        </div>  
+
     design:
       background:
         color: "#ffffff"
-        text_color_light: false     
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]       
 
 ---

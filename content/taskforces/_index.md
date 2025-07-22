@@ -20,13 +20,18 @@ sections:
           position: bottom
           size: cover
           text_color_light: false      
-       
+      spacing:
+        padding: ["4rem", "2rem"]        
 
 
   - block: markdown
     content:
       title:
       text:   |
+
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+               
         ReSA’s mission is to advance the research software ecosystem by collaborating with decision makers and key influencers, to achieve the vision that research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide.
 
         To deliver on this mission, we invite the ReSA community to join us on ReSA activities stemming from the [ReSA Strategic Plan](https://www.researchsoft.org/documents/Strategic_Plan_2021-23.pdf). You can also support ReSA's work through [Organisational Membership](https://www.researchsoft.org/membership/), [task force support](https://www.researchsoft.org/tf-support/), or a [donation](https://www.researchsoft.org/donate/).
@@ -99,18 +104,29 @@ sections:
         * Policy such as best practice examples relating to personnel issues
         * Infrastructure, physical infrastructure and standards in areas such as software citation that support people-themed issues
 
+         </div>
+        </div>  
     design:
       background:
         color: "#ffffff"
-        text_color_light: false       
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]         
         
   - block: markdown
     content:
-      title: "The work of the people who develop and maintain research software is often hidden and needs to be recognised."
+      title: 
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+        "The work of the people who develop and maintain research software is often hidden and needs to be recognised."
+        </div>
+        </div>  
       subtitle: 
       text: <p align="center"><a href="https://ropensci.org/author/yanina-bellini-saibene/">Yanina Bellini, Community Manager, rOpenSci, Argentina</a></p>
     design:
       background:
         color: "#f98c01"
         text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]         
 ---
