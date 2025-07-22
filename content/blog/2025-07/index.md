@@ -7,7 +7,7 @@ title = "Elevating research software: A new era in international policy"
 #subtitle = ""
 title_align = "left"
 
-disabled = true
+disabled = false
 display_date = false
 date = "2025-07-22"
 authors = ["Kim Hartley & Michelle Barker"]
@@ -25,7 +25,7 @@ authors = ["Kim Hartley & Michelle Barker"]
 
 +++
 
-![My Image]() 
+![My Image](07-2025-blog.jpg) 
 
 By Kim Hartley & Michelle Barker
 
@@ -80,6 +80,8 @@ Contribute your insights and examples to support the OECD’s ongoing work and a
 **Acknowledgements**
 
 ReSA has been supported to undertake this work as part of Alfred P. Sloan Foundation grant 2024-22426, [Research Software Alliance: Catalyzing community-led collaborations](https://zenodo.org/records/10927376).
+
+_Image credit: [Unsplash](https://unsplash.com/photos/a-map-of-the-world-made-up-of-tiny-plants-yjRE4-gAnkk)_
 
 
 ## Appendix: Summary of OECD _Access to research data from public funding toolkit_
