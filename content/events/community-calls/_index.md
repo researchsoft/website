@@ -19,18 +19,22 @@ sections:
           parallax: false
           position: center
           size: cover
-          text_color_light: false      
-
-
+          text_color_light: false
+      spacing:
+        padding: ["4rem", "2rem"]
 
   - block: markdown
     content:
       title: 
       text:   |
 
-       ![Close up of tiny rainbow colored sugar candies.](sharon-mccutcheon-colourful-unsplash.jpg)
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
 
-       [Ongoing]
+
+        ![Close up of tiny rainbow colored sugar candies.](sharon-mccutcheon-colourful-unsplash.jpg)
+
+        [Ongoing]
 
         ReSA Community Calls are periodic online gatherings designed to connect the global research software community. Open to all, these calls provide a collaborative space for connection, interactive discussion, and shared problem-solving.
 
@@ -62,9 +66,14 @@ sections:
           * [Contact ReSA](../../contact/)
           * [ReSA’s Code of Conduct](../../code-of-conduct/)
 
+           </div>
+        </div>         
+
     design:
       background:
         color: "#ffffff"
-        text_color_light: false     
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]       
 
 ---
