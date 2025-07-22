@@ -99,7 +99,6 @@ _Image credit: [Unsplash](https://unsplash.com/photos/a-map-of-the-world-made-up
 
 - **Recommendation:** Promote and, where appropriate, require compliance with technical standards and practices that ensure publicly funded research data and digital objects are findable, accessible, interoperable, and reusable (FAIR).
 - **Software-specific action:** This pillar aligns with the FAIR principles and open technical standards by promoting the assignment of Persistent Identifiers (PIDs) to software, workflows, and algorithms; encouraging open technical standards and open-source approaches; and maintaining and curating codebases and ensuring long-term usability of software.
-- **Case study:** The [French Data, Algorithms, and Source Code Policy - Roadmap 2021-2024](https://www.oecd.org/en/publications/access-to-public-research-data-toolkit_a12e8998-en/data-algorithms-and-source-code-policy-roadmap-2021-2024_d0f1d3ee-en.html)
 
 #### **3\. Responsibility, ownership, and stewardship**
 
@@ -127,7 +126,6 @@ _Image credit: [Unsplash](https://unsplash.com/photos/a-map-of-the-world-made-up
   - Invest in infrastructure and skilled human resources to maintain repositories and prevent duplication.
   - Avoid vendor lock-in through mandates for open-source software and interoperability.
 - **Challenges:** changing storage formats, software dependencies, and unstable platforms that threaten long-term usability.
-- **Case study:** [_Digital Research Infrastructure Contribution Program_](https://www.oecd.org/en/publications/access-to-public-research-data-toolkit_a12e8998-en/digital-research-infrastructure-contribution-program_e8de1060-en.html) illustrates how public investment supports sustainability.
 
 #### **6\. Human capital**
 
