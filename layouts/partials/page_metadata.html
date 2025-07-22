@@ -1,7 +1,0 @@
-{{ $fmt := site.Params.locale.date_format | default "Jan 2, 2006" }}
-{{ if .Date }}
-  <div>
-    {{ .Date.Format $fmt }}
-  </div>
-  <pre>{{ printf "%#v" . }}</pre>
-{{ end }}
