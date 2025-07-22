@@ -1,9 +1,8 @@
-{{ $date_format := site.Params.locale.date_format | default "Jan 2, 2006" }}
-
-{{ with .Date }}
-  <div class="article-metadata">
-    <span class="article-date">
-      {{ .Format $date_format }}
-    </span>
+{{ if .Date }}
+  <div>
+    📅 {{ .Date.Format "Jan 2, 2006" }}
   </div>
+{{ else }}
+  <div>⚠️ No date found</div>
 {{ end }}
+
