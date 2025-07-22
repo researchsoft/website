@@ -22,6 +22,27 @@ sections:
           text_color_light: false
       spacing:
         padding: ["4rem", "2rem"]
+ 
+  - block: markdown
+    content:
+      title: 
+      text:   |
+
+       <div class="d-flex justify-content-center">
+        <div class="col-md-8 text-start">
+          <div style="text-align: left;">
+            <span class="badge" style="font-size:1rem; background-color:rgb(0, 143, 84); color:#fff;">Ongoing Event</span>
+          </div>
+        </div>
+       </div> 
+
+    design:
+      background:
+        color: "#ffffff"
+        text_color_light: false
+      spacing:
+        padding: ["1rem", "1rem"] 
+ 
 
   - block: markdown
     content:
@@ -34,7 +55,6 @@ sections:
 
         ![Close up of tiny rainbow colored sugar candies.](sharon-mccutcheon-colourful-unsplash.jpg)
 
-        [Ongoing]
 
         ReSA Community Calls are periodic online gatherings designed to connect the global research software community. Open to all, these calls provide a collaborative space for connection, interactive discussion, and shared problem-solving.
 
