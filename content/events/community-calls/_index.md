@@ -31,7 +31,7 @@ sections:
        <div class="d-flex justify-content-center">
         <div class="col-md-8 text-start">
           <div style="text-align: left;">
-            <span class="badge" style="font-size:1rem; background-color:rgb(0, 143, 84); color:#fff;">Ongoing Event</span>
+            <span class="badge" style="font-size:1rem; background-color:rgb(0, 143, 84); color:#fff;">Ongoing</span>
           </div>
         </div>
        </div> 
