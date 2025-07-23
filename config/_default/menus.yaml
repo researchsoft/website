@@ -4,136 +4,136 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: About
+  - name: '<span style="font-size: 1rem;">About</span>'
     weight: 10
-  - parent: About
-    name: About ReSA
+  - parent: '<span style="font-size: 1rem;">About</span>'
+    name: '<span style="font-size: 0.8rem;">About ReSA</span>'
     url: about
     weight: 10
-  - parent: About
-    name: Governance
+  - parent: '<span style="font-size: 1rem;">About</span>'
+    name: '<span style="font-size: 0.8rem;">Governance</span>'
     url: about/governance
     weight: 20
-  - parent: About
-    name: Our Team
+  - parent: '<span style="font-size: 1rem;">About</span>'
+    name: '<span style="font-size: 0.8rem;">Our Team</span>'
     url: about/our-team
     weight: 30
-  - parent: About
-    name: Organisational Membership
+  - parent: '<span style="font-size: 1rem;">About</span>'
+    name: '<span style="font-size: 0.8rem;">Organisational Membership</span>'
     url: about/membership
     weight: 40
-  - parent: About
-    name: Stakeholders
+  - parent: '<span style="font-size: 1rem;">About</span>'
+    name: '<span style="font-size: 0.8rem;">Stakeholders</span>'
     url: about/stakeholders
     weight: 50
-  - parent: About
-    name: Donate
+  - parent: '<span style="font-size: 1rem;">About</span>'
+    name: '<span style="font-size: 0.8rem;">Donate</span>'
     url: about/donate
     weight: 60
-  - parent: About
-    name: Contact Us
+  - parent: '<span style="font-size: 1rem;">About</span>'
+    name: '<span style="font-size: 0.8rem;">Contact Us</span>'
     url: about/contact
     weight: 70 
-  - parent: About
-    name: Code of Conduct
+  - parent: '<span style="font-size: 1rem;">About</span>'
+    name: '<span style="font-size: 0.8rem;">Code of Conduct</span>'
     url: about/code-of-conduct
     weight: 80  
 
 
-  - name: Task Forces
+  - name: '<span style="font-size: 1rem;">Task Forces </span>'
     weight: 20
-  - parent: Task Forces
-    name: About Task Forces
+  - parent: '<span style="font-size: 1rem;">Task Forces </span>'
+    name: '<span style="font-size: 0.8rem;">About Task Forces</span>'
     url: taskforces
     weight: 10
-  - parent: Task Forces
-    name: Task Force Support
+  - parent: '<span style="font-size: 1rem;">Task Forces </span>'
+    name: '<span style="font-size: 0.8rem;">Task Force Support</span>'
     url: taskforces/tf-support
     weight: 20
 
-  - name: Forums
+  - name: '<span style="font-size: 1rem;">Forums</span>'
     weight: 30
     url: forums
-  - parent: Forums
-    name: Research Software Community Leadership Forum
+  - parent: '<span style="font-size: 1rem;">Forums</span>'
+    name: '<span style="font-size: 0.8rem;">Research Software Community Leadership Forum</span>'
     url: forums/community-leadership-forum
     weight: 10    
-  - parent: Forums
-    name: Research Software Funders Forum
+  - parent: '<span style="font-size: 1rem;">Forums</span>'
+    name: '<span style="font-size: 0.8rem;">Research Software Funders Forum</span>'
     url: forums/funders-forum
     weight: 20
-  - parent: Forums
-    name: Research Software Infrastructure Forum
+  - parent: '<span style="font-size: 1rem;">Forums</span>'
+    name: '<span style="font-size: 0.8rem;">Research Software Infrastructure Forum</span>'
     url: forums/rsi-forum
     weight: 30
-  - parent: Forums
-    name: Research Software Policy Forum
+  - parent: '<span style="font-size: 1rem;">Forums</span>'
+    name: '<span style="font-size: 0.8rem;">Research Software Policy Forum</span>'
     url: forums/rsp-forum
     weight: 40  
-  - parent: Forums
-    name: Metascience and Research Software Forum
+  - parent: '<span style="font-size: 1rem;">Forums</span>'
+    name: '<span style="font-size: 0.8rem;">Metascience and Research Software Forum</span>'
     url: forums/mars-forum
     weight: 50
-  - parent: Forums
-    name: Publishing Research Software Forum
+  - parent: '<span style="font-size: 1rem;">Forums</span>'
+    name: '<span style="font-size: 0.8rem;">Publishing Research Software Forum</span>'
     url: forums/pubsoft-forum
     weight: 60
-  - parent: Forums
-    name: Skills and Training for Research Software Forum
+  - parent: '<span style="font-size: 1rem;">Forums</span>'
+    name: '<span style="font-size: 0.8rem;">Skills and Training for Research Software Forum</span>'
     url: forums/stars-forum
     weight: 70
-  - parent: Forums
-    name: ADORE.software Secretariat
+  - parent: '<span style="font-size: 1rem;">Forums</span>'
+    name: '<span style="font-size: 0.8rem;">ADORE.software Secretariat</span>'
     url: https://adore.software
     weight: 80
-  - parent: Forums
-    name: International Council of RSE Associations
+  - parent: '<span style="font-size: 1rem;">Forums</span>'
+    name: '<span style="font-size: 0.8rem;">International Council of RSE Associations</span>'
     url: https://researchsoftware.org/council.html
     weight: 90
 
-  - name: Resources
+  - name: '<span style="font-size: 1rem;">Resources</span>'
     weight: 40
     url: resource
-  - parent: Resources
-    name: ReSA Resources
+  - parent: '<span style="font-size: 1rem;">Resources</span>'
+    name: '<span style="font-size: 0.8rem;">ReSA Resources</span>'
     url: resource/resa-resources
     weight: 10
-  - parent: Resources
-    name: Guidelines
+  - parent: '<span style="font-size: 1rem;">Resources</span>'
+    name: '<span style="font-size: 0.8rem;">Guidelines</span>'
     url: resource/guidelines
     weight: 20
-  - parent: Resources
-    name: Funding Opportunities
+  - parent: '<span style="font-size: 1rem;">Resources</span>'
+    name: '<span style="font-size: 0.8rem;">Funding Opportunities</span>'
     url: resource/funding-opportunities
     weight: 30
-  - parent: Resources
-    name: Software Policies
+  - parent: '<span style="font-size: 1rem;">Resources</span>'
+    name: '<span style="font-size: 0.8rem;">Software Policies</span>'
     url: resource/software-policies
     weight: 40
-  - parent: Resources
-    name: ADORE.software Declaration
+  - parent: '<span style="font-size: 1rem;">Resources</span>'
+    name: '<span style="font-size: 0.8rem;">ADORE.software Declaration</span>'
     url: https://adore.software
     weight: 50
-  - parent: Resources
-    name: Research Software Engineers (RSEs)
+  - parent: '<span style="font-size: 1rem;">Resources</span>'
+    name: '<span style="font-size: 0.8rem;">Research Software Engineers (RSEs)</span>'
     url: resource/research-software-engineers
     weight: 60
 
-  - name: News
+  - name: '<span style="font-size: 1rem;">News</span>'
     url: news
     weight: 50
-  - name: Events
+  - name: '<span style="font-size: 1rem;">Events</span>'
     url: events
     weight: 60
-  - parent: Events
-    name: ReSA Events
+  - parent: '<span style="font-size: 1rem;">Events</span>'
+    name: '<span style="font-size: 0.8rem;">ReSA Events</span>'
     url: events/resa-events
     weight: 10
-  - parent: Events
-    name: ReSA Community Calls
+  - parent: '<span style="font-size: 1rem;">Events</span>'
+    name: '<span style="font-size: 0.8rem;">ReSA Community Calls</span>'
     url: events/community-calls
-    weight: 20 
-  - name: Blog
+    weight: 20
+  - name: '<span style="font-size: 1rem;">Blog</span>'
     url: blog
     weight: 70
   - name: "<i class='fab fa-github'></i>"
