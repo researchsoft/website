@@ -1,28 +1,17 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog", "Task force"]
+---
+title: "Directions for Research Software Engineering Research"
+subtitle: ""
+date: 2024-09-19
+authors:
+  - ""
 
-title = "Directions for Research Software Engineering Research"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
+  - Task force
 
-display_date = true
-date = "2024-09-19"
-authors = ["Michelle Barker", "Wilhelm Hasselbring"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  #sticky = true # Default is false
-  content = """
-  * [DOI: https://doi.org/10.59350/kr4cp-1vf81](https://doi.org/10.59350/kr4cp-1vf81)
-  * [International RSE Research (IRSER)](https://irser.github.io/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  """
-  
-+++
+summary: "Read more..."
+draft: false
+---
 
 _September, 2024_  
 
@@ -69,3 +58,9 @@ An online [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf9lgs194WrFW
 * How do we define the critical research software that underpins research, and the impact if it was not available?
 
 RSE research offers an exciting opportunity to enhance the way software is developed in research contexts. The outcomes from the panel discussion provide valuable insights for future research directions, inviting the community to contribute to a growing field that sits at the intersection of research and research software development. For updates and further details, visit [International RSE Research](https://irser.github.io/) (IRSER).
+
+### Important links
+  * [DOI: https://doi.org/10.59350/kr4cp-1vf81](https://doi.org/10.59350/kr4cp-1vf81)
+  * [International RSE Research (IRSER)](https://irser.github.io/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)

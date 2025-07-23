@@ -1,15 +1,14 @@
+---
+title: "ReSA Newsletter: June 2024"
+subtitle: ""
+date: 2024-06-27
+authors:
+  - ""
 
-+++ 
-fragment = "content" 
-weight = 100
+summary: ""
+draft: false
+---
 
-title = "ReSA Newsletter: June 2024" 
-title_align = "left"
-
-display_date = false 
-date = "2024-06-27"
-
-summary = """ 
 This month’s news includes:
 
 * This month in research software - community news
@@ -19,9 +18,5 @@ This month’s news includes:
 * Opportunities to get involved with community initiatives
 * Resources
 * Community events
-
-"""
-
-+++
 
 **[Read the June newsletter](https://preview.mailerlite.io/preview/778129/emails/124579541862582079)**

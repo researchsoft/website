@@ -1,14 +1,13 @@
-+++
-fragment = "content"
-weight = 100
+---
+title: "ReSA Newsletter: July 2021"
+subtitle: ""
+date: 2021-07-21
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA Newsletter: July 2021"
-title_align = "left"
-
-display_date = false
-date = "2021-07-21"
-
-summary = """
 This month’s news includes:
 
 * This month in research software - community news
@@ -17,11 +16,6 @@ This month’s news includes:
 * FAIR4RS update
 * Opportunities to get involved with community initiatives
 * Community events
-
-"""
-
-+++
-
 
 ### This month in research software - community news
 

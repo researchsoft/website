@@ -1,14 +1,13 @@
-+++
-fragment = "content"
-weight = 100
+---
+title: "ReSA News: January 2021"
+subtitle: ""
+date: 2021-01-28
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA News: January 2021"
-title_align = "left"
-
-display_date = false
-date = "2021-01-28"
-
-summary = """
 This month’s news includes:
 
 * Sloan funding for ReSa task force
@@ -16,9 +15,6 @@ This month’s news includes:
 * Welcome to our Community Manager
 * FAIR4RS Update
 * Community news: Recognizing the value of software: a software citation guide, and Series of Online Research Software Events events
-"""
-
-+++
 
 ### Sloan funding for ReSA task force
 

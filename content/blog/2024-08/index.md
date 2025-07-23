@@ -1,41 +1,25 @@
- +++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Research software is critical to the future of AI-driven research"
+subtitle: ""
+date: 2024-08-22
+authors:
+  - ""
 
-title = "Research software is critical to the future of AI-driven research"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-disabled = false
-display_date = true
-date = "2024-08-22"
-authors = ["Michelle Barker, Kim Hartley, Daniel S. Katz, Richard Littauer, Qian Zhang, Shurui Zhou, Jyoti Bhogal"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false
-  content = """
-  * [DOI: https://doi.org/10.5281/zenodo.13350747](https://doi.org/10.5281/zenodo.13350747)
-  * [Digital Research Alliance of Canada](https://alliancecan.ca/en)
-  * [ReSA newsletter](https://www.researchsoft.org/news/)
-  * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
-  * [ReSA resources](https://www.researchsoft.org/resa-resources/)
-  * [Contact us](https://www.researchsoft.org/contact/)
-  """
-
-+++
-
-![My Image](AI-research-software.jpg) 
-_Image was created with the assistance of AI._ 
-
+summary: "Read more..."
+draft: false
+---
 
 By Michelle Barker, Kim Hartley, Daniel S. Katz, Richard Littauer, Qian Zhang, Shurui Zhou, Jyoti Bhogal
 
 August 2024
 
 [This blog post has been cross-posted by the [Netherlands eScience Center](https://blog.esciencecenter.nl/research-software-is-critical-to-the-future-of-ai-driven-research-8a408eea6879) and the [Software Sustainability Institute](https://www.software.ac.uk/blog/research-software-critical-future-ai-driven-research).]
+
+![My Image](AI-research-software.jpg) 
+_Image was created with the assistance of AI._ 
 
 ### Abstract
 
@@ -208,3 +192,11 @@ UKRI. 2023. ‘£300 Million to Launch First Phase of New AI Research Resource�
 US-RSE Association and IEEE Computer Society. 2023. ‘Research Software Engineers: Creating a Career Path—and a Career’. Zenodo. https://doi.org/10.5281/ZENODO.10073232.
 
 Van Tuyl, Steve (Ed.). 2023. ‘Hiring, Managing, and Retaining Data Scientists and Research Software Engineers in Academia: A Career Guidebook from ADSA and US-RSE’. Zenodo. https://doi.org/10.5281/ZENODO.8274378.
+
+### Important links
+  * [DOI: https://doi.org/10.5281/zenodo.13350747](https://doi.org/10.5281/zenodo.13350747)
+  * [Digital Research Alliance of Canada](https://alliancecan.ca/en)
+  * [ReSA newsletter](https://www.researchsoft.org/news/)
+  * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
+  * [ReSA resources](https://www.researchsoft.org/resa-resources/)
+  * [Contact us](https://www.researchsoft.org/contact/)

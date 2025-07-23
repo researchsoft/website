@@ -1,41 +1,26 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Global gathering of research software funders sets the agenda for supporting sustainable research software"
+subtitle: ""
+date: 2022-11-24
+authors:
+  - ""
 
-title = "Global gathering of research software funders sets the agenda for supporting sustainable research software"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-display_date = true
-date = "2022-11-24"
-author = ["Michelle Barker", "Valentina Azzarà", "Tom Bakker", "Lieke de Boer", "Neil Chue Hong", "Maria Cruz", "Niels Drost", "Joris van Eijnatten", "Maaike de Jong", "Daniel S. Katz", "Carlos Martinez-Ortiz", "Veronica Pang"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  #sticky = true # Default is false
-  content = """
-  * [Event website](https://future-of-research-software.org)
-  * [Event keynotes](https://future-of-research-software.org/presentations)
-  * [Report](https://doi.org/10.5281/zenodo.7350199)
-  * NLeSC [blog post](https://blog.esciencecenter.nl/)
-  * [Draft Declaration on Funding RSS](https://future-of-research-software.org/draft-amsterdam-declaration-on-funding-research-software-sustainability/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-[asset]
-  image = "FF_CaroleGoble.jpg"
-  text = "Carole Goble presenting “Research Software Sustainability Takes a Village”. Photo credit: Annelies Verhelst"
-+++
-Image: Carole Goble presenting “Research Software Sustainability Takes a Village”. Photo credit: [Annelies Verhelst](https://anneliesverhelst.com/)
+summary: "Read more..."
+draft: false
+---
 
 _November, 2022_  
 
 Authors: Michelle Barker, Valentina Azzarà, Tom Bakker, Lieke de Boer, Neil Chue Hong, Maria Cruz, Niels Drost, Joris van Eijnatten, Maaike de Jong, Daniel S. Katz, Carlos Martinez-Ortiz, Veronica Pang
+
+<div class="row justify-content-center">
+    <img src="FF_CaroleGoble.jpg" alt="Carole Goble presenting “Research Software Sustainability Takes a Village”. Photo credit: Annelies Verhelst">
+</div> 
+
+Image: Carole Goble presenting “Research Software Sustainability Takes a Village”. Photo credit: [Annelies Verhelst](https://anneliesverhelst.com/)
 
 This blog post is being cross-posted by the [Research Software Alliance](https://www.researchsoft.org/blog/2022-11/) and [Netherlands eScience Center](https://medium.com/@eScienceCenter/the-future-of-research-software-602878378c5f).
 
@@ -64,3 +49,14 @@ This workshop marks a further step in the development of the research software c
 The next ReSA [Research Software Community Forum](https://www.researchsoft.org/community-forum/) on 29 November, 15:00-16:00 UTC, will also feature Joris van Eijnatten from the Netherlands eScience Center, who will discuss the workshop outcomes and next steps in this public forum.
 
 Drafting of the Declaration will now continue; if you would like to be kept up to date and potentially be involved in this process then email [amsterdamdeclaration@esciencecenter.nl](mailto:amsterdamdeclaration@esciencecenter.nl) to request to be sent subscription details when available.
+
+### Important links
+  * [Event website](https://future-of-research-software.org)
+  * [Event keynotes](https://future-of-research-software.org/presentations)
+  * [Report](https://doi.org/10.5281/zenodo.7350199)
+  * NLeSC [blog post](https://blog.esciencecenter.nl/)
+  * [Draft Declaration on Funding RSS](https://future-of-research-software.org/draft-amsterdam-declaration-on-funding-research-software-sustainability/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)

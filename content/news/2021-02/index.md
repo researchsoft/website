@@ -1,14 +1,13 @@
-+++
-fragment = "content"
-weight = 100
+---
+title: "ReSA News: February 2021"
+subtitle: ""
+date: 2021-02-25
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA News: February 2021"
-title_align = "left"
-
-display_date = false
-date = "2021-02-25"
-
-summary = """
 This month’s news includes:
 
 * Wellcome Trust funding 
@@ -17,9 +16,6 @@ This month’s news includes:
 * FAIR4RS Update
 * OECD Recommendation on access to research data now includes software
 * Community news: RSE Stories podcast, Dryad and Zenodo integration, csv,conf, IEEE eScience 2021 International Conference, Wellcome Open Research Fund 
-"""
-
-+++
 
 ### Wellcome Trust funding 
 

@@ -1,14 +1,12 @@
-+++
-fragment = "content"
-weight = 100
-
-title = "ReSA News: December 2020"
-title_align = "left"
-
-display_date = false
-date = "2020-12-21"
-
-summary = """
+---
+title: "ReSA News: December 2020"
+subtitle: ""
+date: 2020-12-21
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
 This month’s news includes:
 
@@ -17,9 +15,7 @@ This month’s news includes:
 * Recent ReSA talks
 * ReSA Code of Conduct released
 * Community news: SORSE events; Collaborations Workshop 2021; and some holiday reading suggestions
-"""
 
-+++
 
 ### ReSA’s three focus areas: Spotlight on policy
 

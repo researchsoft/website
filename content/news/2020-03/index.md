@@ -1,23 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-#background = ""
-#categories = ["Sample", "Blog", "Lorem Ipsum"]
+---
+title: "ReSA News: March 2020"
+subtitle: ""
+date: 2020-03-25
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA News: March 2020"
-#subtitle = ""
-title_align = "left"
-
-display_date = false
-date = "2020-03-25"
-
-summary = """
 - ReSA’s first blog post
 - FAIR 4 Ressearch Software 
 - Journal special issues
-"""
-
-+++
 
 We hope that everyone is able to stay safe in these difficult times.
 

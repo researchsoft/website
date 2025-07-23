@@ -1,15 +1,14 @@
+---
+title: "ReSA Newsletter: March 2025"
+subtitle: ""
+date: 2025-03-26
+authors:
+  - ""
 
-+++
-fragment = "content"
-weight = 100
+summary: ""
+draft: false
+---
 
-title = "ReSA Newsletter: March 2025"
-title_align = "left"
-
-display_date = false
-date = "2025-03-26"
-
-summary = """
 This month’s news includes:
 
 * Research software community news, including the Klaus Tschira Foundation’s support for software in scientific research
@@ -22,9 +21,5 @@ This month’s news includes:
 * Opportunities to get involved with community initiatives
 * Resources
 * Community events, including the SciCodes Symposium
-
-"""
-
-+++
 
 **[Read the March newsletter](https://preview.mailerlite.io/preview/778129/emails/149868938432349580)**

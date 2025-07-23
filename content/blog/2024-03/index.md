@@ -1,31 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "The FAIR for Research Software Principles after two years: an adoption update"
+subtitle: ""
+date: 2024-03-20
+authors:
+  - ""
 
-title = "The FAIR for Research Software Principles after two years: an adoption update"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-disabled = false
-display_date = true
-date = "2024-03-20"
-author = ["Michelle Barker, Leyla Jael Castro, Bernadette Fritzsch, Daniel S. Katz, Carlos Martinez-Ortiz, Anna Niehues, Alexander Struck, Qian Zhang"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false # Default is false
-  content = """
-  * [Full report DOI: 10.5281/zenodo.10816031](https://doi.org/10.5281/zenodo.10816032)
-  * [FAIR for Research Software (FAIR4RS) Principles](https://doi.org/10.1038/s41597-022-01710-x)
-  * [ReSA newsletter](https://www.researchsoft.org/news/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-+++
+summary: "Read more..."
+draft: false
+---
 
 By Michelle Barker, Leyla Jael Castro, Bernadette Fritzsch, Daniel S. Katz, Carlos Martinez-Ortiz, Anna Niehues, Alexander Struck, Qian Zhang
 
@@ -117,3 +102,11 @@ Resources that support inclusion of FAIR into institutional policies are also re
 The publication of the FAIR4RS principles and introductory articles created awareness and raised interest in the research community, reflected in over 200 citations from across the disciplinary spectrum. Examples include the results of searches on Google Scholar for “[FAIR principles for research software (FAIR4RS principles)](https://scholar.google.com/scholar?cluster=15311589062181606409&hl=en&as_sdt=2005&sciodt=0,5)” or “ [Introducing the FAIR Principles for research software](https://scholar.google.com/scholar?cites=438298512771465318)”. In addition to work discussing trans-disciplinary application of the FAIR4RS Principles, there are research policy and software management publications referring to and implementing the FAIR4RS Principles.
 
 The FAIR4RS Principles have also provided value to the broader research ecosystem by providing a base for other communities to adapt the FAIR Principles to different research objects. Examples include [FAIR AI Models in High Energy Physics](https://doi.org/10.1088/2632-2153/ad12e3), which provides a practical definition of FAIR principles for machine learning and artificial intelligence models in experimental high energy physics, including a FAIR AI project template; and the Open Modeling Foundation’s work to identify, develop, and promote common standards and best practices for [FAIR modelling](https://doi.org/10.1016/j.envsoft.2022.105496), by working with model organisations and individuals active within the social, ecological, environmental, and geophysical sciences.
+
+### Important links
+  * [Full report DOI: 10.5281/zenodo.10816031](https://doi.org/10.5281/zenodo.10816032)
+  * [FAIR for Research Software (FAIR4RS) Principles](https://doi.org/10.1038/s41597-022-01710-x)
+  * [ReSA newsletter](https://www.researchsoft.org/news/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)

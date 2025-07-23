@@ -1,21 +1,12 @@
-+++
-fragment = "content"
-weight = 100
-
-title = "Call for Steering Committee nominations"
-title_align = "left"
-
-display_date = false
-date = "2020-10-19"
-
-summary = """
-
-The ReSA [Steering Committee](https://www.researchsoft.org/people/) is calling for nominations for 4 new members of the Steering Committee in 2021.
-"""
-
-+++
-
-### 
+---
+title: "Call for Steering Committee nominations"
+subtitle: ""
+date: 2020-10-19
+authors:
+  - ""
+summary: "The ReSA [Steering Committee](https://www.researchsoft.org/people/) is calling for nominations for 4 new members of the Steering Committee in 2021."
+draft: false
+---
 
 The ReSA [Steering Committee](https://www.researchsoft.org/people/) is calling for nominations for 4 new members of the Steering Committee in 2021.
 The ReSA Steering Committee is responsible for the strategic direction of ReSA. The role of the Steering Committee members is to provide strategic inputs to the development of ReSA, to achieve the ReSA vision that research software is recognised and valued as a fundamental and vital component of research worldwide, and the mission to bring research software communities together to collaborate on the advancement of research software.

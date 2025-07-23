@@ -1,23 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-#background = ""
-#categories = ["Sample", "Blog", "Lorem Ipsum"]
+---
+title: "ReSA News: April 2020"
+subtitle: ""
+date: 2020-04-29
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA News: April 2020"
-#subtitle = ""
-title_align = "left"
-
-display_date = false
-date = "2020-04-29"
-
-summary = """
 - Update on the software component of the RDA COVID WG
 - FAIR for Research Software news
 - Introducing the ReSA Director, Michelle Barker
-"""
-
-+++
 
 We hope that you are all safe and well in these extraordinary times.
 

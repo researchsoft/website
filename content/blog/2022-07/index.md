@@ -1,27 +1,17 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog", "Press release"]
+---
+title: "Vive la différence - research software engineers"
+subtitle: "A hybrid DEI-focused workshop"
+date: 2022-07-12
+authors:
+  - ""
+categories: 
+  - Blog
+  - Press release
 
-title = "Vive la différence - research software engineers"
-subtitle = "A hybrid DEI-focused workshop"
-title_align = "left"
+summary: "Read more..."
+draft: false
+---
 
-display_date = true
-date = "2022-07-12"
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = true # Default is false
-  content = """
-  * [Lorentz Centre](https://www.lorentzcenter.nl/about-us.html)
-  * [Workshop Page](https://www.lorentzcenter.nl/vive-la-difference-research-software-engineers.html)
-  * [DOI: 10.5281/zenodo.6859709](https://zenodo.org/record/6859709#.YtY74OxBx24)
-  * [Community Forum calendar invite](https://drive.google.com/file/d/1b0Bd2OdKH5xRYf4HjclUot7lqKV4veU1/view)
-  """
-
-+++
 _Cross-posted by [Better Scientific Software (BSSw)](https://bssw.io/blog_posts/vive-la-difference-research-software-engineers-a-hybrid-dei-focused-workshop) and ReSA_.
 
 How can we reframe research software engineering (RSE) to place diversity, equity, and inclusion (DEI) as a central organising principle in the community? This compelling question was the impetus for the [_Vive la différence - research software engineers_](https://www.researchsoft.org/events/2022-04/)  [workshop](https://zenodo.org/record/6816193#.Ys1kIezMJhG), a hybrid event that took place both in person at the [Lorentz Center](https://www.lorentzcenter.nl/about-us.html) in Leiden, the Netherlands, from 19-22 April 2022; and online from March to April 2022. The workshop brought together 40 participants from across the globe, including representatives from international RSE communities and others interested in DEI.
@@ -57,3 +47,9 @@ https://us02web.zoom.us/j/2187873236?pwd=cXpmZXQzalhMcGlUN0J1bWUzdVM3QT09
 Zoom ID: 2187873236 and (passcode: 446688)
 
 [Download a calendar invite](https://drive.google.com/file/d/1b0Bd2OdKH5xRYf4HjclUot7lqKV4veU1/view).
+
+### Important links
+  * [Lorentz Centre](https://www.lorentzcenter.nl/about-us.html)
+  * [Workshop Page](https://www.lorentzcenter.nl/vive-la-difference-research-software-engineers.html)
+  * [DOI: 10.5281/zenodo.6859709](https://zenodo.org/record/6859709#.YtY74OxBx24)
+  * [Community Forum calendar invite](https://drive.google.com/file/d/1b0Bd2OdKH5xRYf4HjclUot7lqKV4veU1/view)

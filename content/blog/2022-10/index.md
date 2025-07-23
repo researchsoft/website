@@ -1,33 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Expanding the mapping of the global research software community"
+subtitle: ""
+date: 2022-10-21
+authors:
+  - ""
 
-title = "Expanding the mapping of the global research software community"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-display_date = true
-date = "2022-10-21"
-author = ["Michelle Barker"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  #sticky = true # Default is false
-  content = """
-  * [video about this report](https://www.youtube.com/watch?v=pxmYroTxz-A)
-  * Martinez, Paula Andrea. (2022, October 12). The Research Software Community Landscape in the Global South [Video]. Zenodo. [https://doi.org/10.5281/zenodo.7192692](https://doi.org/10.5281/zenodo.7192692)
-  * Martinez, Paula Andrea. (2022). The Research Software Community Landscape in the Global South. Zenodo. [https://doi.org/10.5281/zenodo.7179892](https://doi.org/10.5281/zenodo.7179892)
-  * Martinez, Paula Andrea. (2022). Research Software Communities Global South [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.7179807](https://doi.org/10.5281/zenodo.7179807)
-  * Martinez, Paula Andrea. (2022). Research Software Funders Global South [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.7179867](https://doi.org/10.5281/zenodo.7179867)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-  
-+++
+summary: "Read more..."
+draft: false
+---
 
 _October, 2022_  
 
@@ -83,3 +66,13 @@ You can also engage with colleagues at our monthly [Research Software Community 
 
 This work was supported by the Wellcome Trust grant [222436/Z/21/Z].
 
+### Important links
+  * [video about this report](https://www.youtube.com/watch?v=pxmYroTxz-A)
+  * Martinez, Paula Andrea. (2022, October 12). The Research Software Community Landscape in the Global South [Video]. Zenodo. [https://doi.org/10.5281/zenodo.7192692](https://doi.org/10.5281/zenodo.7192692)
+  * Martinez, Paula Andrea. (2022). The Research Software Community Landscape in the Global South. Zenodo. [https://doi.org/10.5281/zenodo.7179892](https://doi.org/10.5281/zenodo.7179892)
+  * Martinez, Paula Andrea. (2022). Research Software Communities Global South [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.7179807](https://doi.org/10.5281/zenodo.7179807)
+  * Martinez, Paula Andrea. (2022). Research Software Funders Global South [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.7179867](https://doi.org/10.5281/zenodo.7179867)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)

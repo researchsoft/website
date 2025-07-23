@@ -1,23 +1,17 @@
-+++
-fragment = "content"
-weight = 100
-#background = ""
-#categories = ["Sample", "Blog", "Lorem Ipsum"]
+---
+title: "ReSA News: November 2019"
+subtitle: ""
+date: 2019-11-19
+authors:
+  - ""
 
-title = "ReSA News: November 2019"
-#subtitle = ""
-title_align = "left"
+summary: ""
+draft: false
+---
 
-display_date = false
-date = "2019-11-19"
-
-summary = """
 - ReSA call for participation
 - UKRI strategy recognises the critical role of software in Research
 - Chan Zuckerberg Initiative Awards $5 Million for Open Source Software Projects Essential to Science
-"""
-
-+++
 
 This month, we have a call for participation to an important survey, a link to great recognition of the role of software in research from the UK government and news on the Chan Zuckerberg Initiative for Open Source Software Projects.
 

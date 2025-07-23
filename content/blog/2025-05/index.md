@@ -1,31 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Strengthening global collaboration: ReSA welcomes the Research Data Alliance as an Organisational Member"
+subtitle: ""
+date: '2025-05-30'
+authors:
+  - ""
 
-title = "Strengthening global collaboration: ReSA welcomes the Research Data Alliance as an Organisational Member"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-disabled = false
-display_date = false
-date = "2025-05-30"
-authors = ["Kim Hartley & Michelle Barker"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false # Default is false
-  content = """
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [RDA newsletters](https://www.rd-alliance.org/news-stories/newsletters/)
-  * [Contact us](/contact)
-  """
-
-+++
-
-![My Image](05-2025-blog.jpg) 
+summary: "Read more..."
+draft: false
+---
 
 By Kim Hartley & Michelle Barker
 
@@ -33,6 +18,8 @@ By Kim Hartley & Michelle Barker
 May 2025
 
 The [Research Software Alliance (ReSA)](https://www.researchsoft.org/) is delighted to welcome the [Research Data Alliance (RDA)](https://www.rd-alliance.org/) as our latest [Organisational Member](https://www.researchsoft.org/membership/), further deepening the longstanding, collaborative relationship between our two organisations. Over the years, ReSA and RDA have built a strong foundation of joint initiatives that advance the global research ecosystem.
+
+![My Image](05-2025-blog.jpg)
 
 Founded in 2013, the RDA is a community-driven initiative with a vision that researchers and innovators can openly share and re-use data across technologies, disciplines, and borders to tackle society’s grand challenges. Its mission is to build the social and technical bridges necessary to achieve this vision, through the development, adoption, and use of infrastructure that reduces barriers to data sharing and exchange. The RDA’s global community brings together scientists, researchers, and technical experts through focused Working Groups (WG), Interest Groups (IG), and Communities of Practice (CoP). Membership is free and open to all.
 
@@ -74,3 +61,9 @@ Together, we can build a more sustainable, open, and collaborative research ecos
 
 
 _Image by pch.vector on_ [_Freepik_](https://www.freepik.com/free-vector/tiny-business-persons-working-jigsaw-puzzle-together-metaphor-cooperation-partnership-collaboration-team-people-flat-vector-illustration-communication-teamwork-concept_28480855.htm#fromView=search&page=1&position=36&uuid=0d3b4aa4-54e9-4e57-a175-934bf4a75975&query=organizational+collaboration)
+
+### Important links
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [RDA newsletters](https://www.rd-alliance.org/news-stories/newsletters/)
+  * [Contact us](/contact)

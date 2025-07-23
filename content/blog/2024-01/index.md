@@ -1,29 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Research Software Alliance Community Report 2023"
+subtitle: ""
+date: 2024-01-09
+authors:
+  - ""
 
-title = "Research Software Alliance Community Report 2023"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-disabled = false
-display_date = false
-date = "2024-01-09"
-authors = ["Kim Hartley & Michelle Barker"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false # Default is false
-  content = """
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-+++
+summary: "Read more..."
+draft: false
+---
 
 January 2024
 
@@ -36,3 +23,9 @@ Citation: Hartley, Kim & Barker, Michelle (2024). Research Software Alliance Com
 <br/>
 <iframe src="https://drive.google.com/file/d/1rIGNZMe3d6VxnlgqVPU5Zc61ODDLaJnE/preview" width="740" height="520" allow="autoplay"></iframe>
 
+### Important links
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)
+  

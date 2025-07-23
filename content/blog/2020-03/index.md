@@ -1,47 +1,18 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog", "Task force"]
-
-title = "The Research Software Alliance (ReSA) and the community landscape"
-#subtitle = ""
-title_align = "left"
-
-display_date = true
-date = "2020-03-11"
-author = ["Daniel S. Katz", "Michelle Barker", "Paula Andrea Martinez", "Hartwig Anzt", "Alejandra Gonzalez-Beltran", "Tom Bakker"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  #sticky = true # Default is false
-  content = """
-  * [List of research software communities](https://doi.org/10.5281/zenodo.3699950)
-  *  NLeSC [blog post](https://blog.esciencecenter.nl/the-research-software-alliance-resa-and-the-community-landscape-9b8a6290ebb3)SSI [blog post](https://www.software.ac.uk/blog/2020-03-11-research-software-alliance-resa-and-community-landscape)
-  * SSI [blog post](https://www.software.ac.uk/blog/2020-03-11-research-software-alliance-resa-and-community-landscape)
-  * URSSI [blog post](https://urssi.us/blog/2020/03/11/the-research-software-alliance-resa-and-the-community-landscape/)
-  * US RSE [blog post](https://us-rse.org/blog/2020/urssi-us/the-research-software-alliance-resa-and-the-community-landscape/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-[asset]
-  image = "landscape.jpg"
-  text = "landscape"
-+++
+---
+title: "The Research Software Alliance (ReSA) and the community landscape"
+date: 2020-03-11
+authors:
+  - ""
+categories: 
+  - Blog
+  - Task force
+summary: "Read more..."
+draft: false
+---
 
 DOI: [10.5281/zenodo.3699950](https://doi.org/10.5281/zenodo.3699950)
 
 Cross-posted on 11 March 2020 by the [Netherlands eScience Centre](https://blog.esciencecenter.nl/the-research-software-alliance-resa-and-the-community-landscape-9b8a6290ebb3), [Software Sustainability Institute](https://www.software.ac.uk/blog/2020-03-11-research-software-alliance-resa-and-community-landscape), [US Research Software Sustainability Institute](https://urssi.us/blog/2020/03/11/the-research-software-alliance-resa-and-the-community-landscape/) and [US Research Software Engineering](https://us-rse.org/blog/2020/urssi-us/the-research-software-alliance-resa-and-the-community-landscape/)
-
-Photo from <a href="https://www.pexels.com/photo/clouds-daylight-forest-grass-371589/">Pixabay</a>
-
-
-
-The Research Software Alliance (ReSA) and the Community Landscape
------------------------------------------------------------------
 
 _March 11, 2020_  
 
@@ -51,6 +22,11 @@ Authors: [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525),
 [Hartwig Anzt](https://orcid.org/0000-0003-2177-952X),
 [Alejandra Gonzalez-Beltran](https://orcid.org/0000-0003-3499-8262), and
 [Tom Bakker](https://orcid.org/0000-0002-6465-5589)
+
+<div class="row justify-content-center">
+    <img src="landscape.jpg" alt="landscape">
+</div>  
+Photo from <a href="https://www.pexels.com/photo/clouds-daylight-forest-grass-371589/">Pixabay</a>
 
 ReSA’s mission is to bring research software communities together to collaborate on the advancement of research software. Its vision is to have research software recognized and valued as a fundamental and vital component of research worldwide. Given our mission, there are multiple reasons that it’s important for us to understand the landscape of communities that are involved with software, in aspects such as preservation, citation, career paths, productivity, and sustainability. One of these reasons is that ReSA seeks to be a link between these communities, which requires identifying and understanding them. We want to be sure that there aren’t significant community organizations that we don’t know about to involve in our work. Also, identifying where there are gaps will help us create the opportunities and communities of practices as required.
 
@@ -94,5 +70,16 @@ We invite readers to continue to add or make corrections to the [ReSA list of re
 The ever-growing number of constituents of the research software community both reflects and demonstrates the increasing recognition of research software. The research software community is now a complex ecosystem comprised of a wide variety of organizations and initiatives, some of which are community networks themselves. Collaboration and coordination across these initiatives is important, to enable the broader community to work together to achieve bigger goals.
 
 ReSA aims to coordinate across these efforts to leverage investments, to achieve the shared long-term goal of research software valued as a fundamental and vital component of research worldwide. Subscribe to the [ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2) to stay up-to-date on our activities.
+
+### Important Links
+  * [List of research software communities](https://doi.org/10.5281/zenodo.3699950)
+  *  NLeSC [blog post](https://blog.esciencecenter.nl/the-research-software-alliance-resa-and-the-community-landscape-9b8a6290ebb3)SSI [blog post](https://www.software.ac.uk/blog/2020-03-11-research-software-alliance-resa-and-community-landscape)
+  * SSI [blog post](https://www.software.ac.uk/blog/2020-03-11-research-software-alliance-resa-and-community-landscape)
+  * URSSI [blog post](https://urssi.us/blog/2020/03/11/the-research-software-alliance-resa-and-the-community-landscape/)
+  * US RSE [blog post](https://us-rse.org/blog/2020/urssi-us/the-research-software-alliance-resa-and-the-community-landscape/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)
 
 _Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._

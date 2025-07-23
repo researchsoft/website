@@ -1,14 +1,13 @@
-+++
-fragment = "content"
-weight = 100
+---
+title: "ReSA Newsletter: June 2021"
+subtitle: ""
+date: 2021-06-24
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA Newsletter: June 2021"
-title_align = "left"
-
-display_date = false
-date = "2021-06-24"
-
-summary = """
 This month’s news includes:
 
 * FAIR4RS Update
@@ -17,9 +16,6 @@ This month’s news includes:
 * Community News
 * Community Surveys
 * Research software community organisation profile: CodeMeta
-"""
-
-+++
 
 ### FAIR4RS Update
 

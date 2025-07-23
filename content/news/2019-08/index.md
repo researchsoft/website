@@ -1,21 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-#background = ""
-#categories = ["Sample", "Blog", "Lorem Ipsum"]
+---
+title: "ReSA News: August 2019"
+subtitle: ""
+date: 2019-08-16
+authors:
+  - ""
 
-title = "ReSA News: August 2019"
-#subtitle = ""
-title_align = "left"
+summary: ""
+draft: false
+---
 
-display_date = false
-date = "2019-08-16"
-
-summary = """
-- Call for community involvement in ReSA projects
-- Community news"""
-
-+++
+* Call for community involvement in ReSA projects
+* Community news
 
 This month, we have a call for community involvement in ReSA projects, along with some
 timely tidbits from the larger community.

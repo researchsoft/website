@@ -1,24 +1,19 @@
-+++
-fragment = "content"
-weight = 100
-#background = ""
-#categories = ["Sample", "Blog", "Lorem Ipsum"]
+---
+title: "ReSA News: September 2019"
+subtitle: ""
+date: 2019-09-25
+authors:
+  - ""
 
-title = "ReSA News: September 2019"
-#subtitle = ""
-title_align = "left"
+summary: ""
+draft: false
+---
 
-display_date = false
-date = "2019-09-25"
-
-summary = """
 ReSA taskforces:
 - Software landscape analysis
 - Evidence for the importance of research software
 - Current opportunities for funding research software
-"""
 
-+++
 This month, we wanted to reiterate the need for feedback and participation in the task forces beginning to take shape:
 
 * [Software landscape analysis](https://drive.google.com/open?id=1iBO-mkwrgdveVxWROGz_4Trkv2gey7I9). How can we identify the different communities and topics of interest for the research software community (e.g., preservation, RSEs, citation, productivity, sustainability)? We plan to use this understanding to write an article to educate the research community about the importance of software, and/or to find areas where we should try to involve additional representatives in ReSA. Please [contact ReSA](/contact) if you’re interested in collaborating on this.

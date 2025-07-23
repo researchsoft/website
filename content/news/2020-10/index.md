@@ -1,21 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-
-title = "ReSA News: October 2020"
-title_align = "left"
-
-display_date = false
-date = "2020-10-23"
-
-summary = """
+---
+title: "ReSA News: October 2020"
+subtitle: ""
+date: 2020-10-23
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
 * ReSA’s three focus areas: Spotlight on Infrastructure
 * ReSA Steering Committee call for nominations
 * Community news: SORSE events; diversity, equity and inclusion; CANARIE awards for software reuse; and the German Research Foundation (DFG) National Research Data Infrastructure (NFDI)
-"""
-
-+++
 
 ### **ReSA’s three focus areas: Spotlight on Infrastructure**
 
@@ -64,4 +59,3 @@ If you are interested in nominating yourself or someone else to be a ReSA Steeri
 *If you’d like to suggest items for inclusion in ReSA News then please [contact us](/contact). If you would to engage with the ReSA community, then join the [ReSA Google group](https://groups.google.com/forum/#!forum/research-software-alliance) to receive email updates. To subscribe send a blank email to [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)*
 
 *[ReSA](https://www.researchsoft.org/) is a community of influencers and members of major research software communities, programs, organisations and individuals. ReSA’s vision is that research software be recognised and valued as a fundamental and vital component of research worldwide. The ReSA mission is to bring research software communities together to collaborate on the advancement of research software. ReSA is a fiscally sponsored project of [Code for Science and Society](https://codeforscience.org/).*
-

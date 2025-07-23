@@ -1,23 +1,17 @@
-+++
-fragment = "content"
-weight = 100
-#background = ""
-#categories = ["Sample", "Blog", "Lorem Ipsum"]
+---
+title: "ReSA News: January 2020"
+subtitle: ""
+date: 2020-01-31
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA News: January 2020"
-#subtitle = ""
-title_align = "left"
-
-display_date = false
-date = "2020-01-31"
-
-summary = """
 - Events
 - Open calls
 - Other news
-"""
 
-+++
 
 ### Happy New Year!
 

@@ -1,14 +1,13 @@
-+++
-fragment = "content"
-weight = 100
+---
+title: "ReSA Newsletter: May 2021"
+subtitle: ""
+date: 2021-05-26
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA Newsletter: May 2021"
-title_align = "left"
-
-display_date = false
-date = "2021-05-26"
-
-summary = """
 This month’s news includes:
 
 * FAIR4RS Update
@@ -16,9 +15,6 @@ This month’s news includes:
 * Diversity, equity and inclusion in research software engineering
 * ReSA Steering Committee update
 * Community news
-"""
-
-+++
 
 ### FAIR4RS Update
 

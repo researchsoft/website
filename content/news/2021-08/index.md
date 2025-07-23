@@ -1,14 +1,13 @@
-+++
-fragment = "content"
-weight = 100
+---
+title: "ReSA Newsletter: August 2021"
+subtitle: ""
+date: 2021-08-25
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA Newsletter: August 2021"
-title_align = "left"
-
-display_date = false
-date = "2021-08-25"
-
-summary = """
 This month’s news includes:
 
 * This month in research software - community news
@@ -18,14 +17,12 @@ This month’s news includes:
 * Community events
 * Community resources
 
-"""
-
-+++
-
 ### This month in research software - community news
 
 * GitHub is now providing [built-in citation support](https://citation-file-format.github.io/) that makes it easy to add software citation files to a repository, and GitHub then uses this to let users know how to correctly cite the software. This will help software developers more easily receive acknowledgments for their contributions, and once this metadata is stored in the repository, it can also be used by other members of the scholarly community to support citation in other ways.
+
 * [Zenodo](https://zenodo.org/) has added support for GitHub’s new software citation feature in generating metadata for software repositories. Also, [Zotero](https://www.zotero.org/) can now [use the enhanced metadata](https://guides.github.com/activities/citable-code/) provided by developers when saving GitHub repositories. 
+
 * Applications are open for the [Better Scientific Software Fellowship Program](https://bssw.io/blog_posts/applications-open-for-the-2022-bssw-fellowship-program), which fosters and promotes practices, processes, and tools to improve developer productivity and software sustainability of scientific codes. Fellows must be affiliated with a US-based institution that can receive Federal funds and will receive up to $25,000 for an activity that promotes better scientific software. Applications close September 30, 2021.
 * Code for Science and Society is accepting [expressions of interest](https://blog.codeforscience.org/digital-infrastructure-incubator-is-live/) for the [Digital Infrastructure Incubator](http://incubator.codeforscience.org/?ref=Blogpost), which holds space for projects to imagine possibility and implement strategy. This six-month cohort program comes with a $5,000 stipend and supports open source digital infrastructure emergent leaders in the implementation of research-backed recommendations concerning sustainability, governance, and community health.
 

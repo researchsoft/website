@@ -1,30 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "How Can Open Source Program Offices (OSPOs) Support Research Software?"
+subtitle: ""
+date: 2023-06-01
+authors:
+  - ""
 
-title = "How Can Open Source Program Offices (OSPOs) Support Research Software?"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-disabled = false
-display_date = true
-date = "2023-06-01"
-author = ["Kim Hartley", "Michelle Barker", "Mark Leggott", "Daniel S. Katz"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false # Default is false
-  content = """
-  * [Research Software Policies Page](https://www.researchsoft.org/software-policies/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-+++
+summary: "Read more..."
+draft: false
+---
 
 June 2023
 

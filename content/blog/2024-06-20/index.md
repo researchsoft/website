@@ -1,40 +1,25 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Funder community focuses on crucial role of research software"
+subtitle: ""
+date: 2024-06-20
+authors:
+  - ""
 
-title = "Funder community focuses on crucial role of research software"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-disabled = false
-display_date = true
-date = "2024-06-20"
-author = ["Kim Hartley, Michelle Barker, Daniel S. Katz"]
+summary: "Read more..."
+draft: false
+---
 
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false
-  content = """
-  * [DOI: https://doi.org/10.5281/zenodo.12191210](https://doi.org/10.5281/zenodo.12191210)
-  * [ReSA newsletter](https://www.researchsoft.org/news/)
-  * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
-  * [ReSA resources](https://www.researchsoft.org/resa-resources/)
-  * [Contact us](https://www.researchsoft.org/contact/)
-  """
+Authors: Kim Hartley, Michelle Barker, Daniel S. Katz
 
-+++
+Given that software is an integral component of research processes and a widely used instrument for scientific research in all fields, funders have increasingly recognised and valued research software and the people who develop and maintain it as fundamental and vital to research globally. The Research Software Alliance (ReSA) has led the development of the funders community into the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/), which has engaged more than 60 funding organisations from across the globe since its inception in 2022. The Funders Forum has been working diligently to address common challenges to achieve the significant cultural change needed across the research sector and better coordinate investment globally. This group of funders has been instrumental in improving the research software ecosystem to accelerate research outcomes through its commitment to the sustainability of research software and the people who develop and maintain it. ReSA is pleased to highlight some of the Funders Forum’s accomplishments in this blog post, which follows the 2024 [Global Research Council (GRC)](https://globalresearchcouncil.org/) annual meeting in Interlaken, Switzerland. A key outcome of the Funders Forum’s work is the inclusion of a research software side event at the GRC meeting.
 
 ![My Image](GRC-meeting.png)
 
 _Daniel S. Katz, Maria Cruz, Michelle Barker, and Florian Mannseicher at the Global Research Council annual meeting in Interlaken, Switzerland - May 2024_
 _(Image credit: Daniel S. Katz)_
-
-
-Authors: Kim Hartley, Michelle Barker, Daniel S. Katz
-
-Given that software is an integral component of research processes and a widely used instrument for scientific research in all fields, funders have increasingly recognised and valued research software and the people who develop and maintain it as fundamental and vital to research globally. The Research Software Alliance (ReSA) has led the development of the funders community into the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/), which has engaged more than 60 funding organisations from across the globe since its inception in 2022. The Funders Forum has been working diligently to address common challenges to achieve the significant cultural change needed across the research sector and better coordinate investment globally. This group of funders has been instrumental in improving the research software ecosystem to accelerate research outcomes through its commitment to the sustainability of research software and the people who develop and maintain it. ReSA is pleased to highlight some of the Funders Forum’s accomplishments in this blog post, which follows the 2024 [Global Research Council (GRC)](https://globalresearchcouncil.org/) annual meeting in Interlaken, Switzerland. A key outcome of the Funders Forum’s work is the inclusion of a research software side event at the GRC meeting.
 
 The importance of research software is becoming increasingly clear. Not only has research software expedited scientific progress, it is now a crucial tool for ensuring the reproducibility of research outcomes. Research shows, for example, that [~20% of National Science Foundation (NSF) projects (totalling USD$10b) over 11 years discussed software in their abstracts](https://zenodo.org/records/5748175); [software-intensive projects are a majority of current publications](https://ieeexplore.ieee.org/document/8109183); [33% of research results in new code](https://www.oecd-ilibrary.org/science-and-technology/charting-the-digital-transformation-of-science_1b06c47c-en); and [47% of 13,784 Australian Research Council (ARC) grants between 2010 and 2019 produced software](https://zenodo.org/records/10530616). Moreover, [Software and skills for research computing in the UK](https://doi.org/10.5281/zenodo.10473186) reports that “software has transformed every stage of the research lifecycle”. And the Chan Zuckerberg Initiative (CZI) [has released a dataset](https://medium.com/czi-technology/new-data-reveals-the-hidden-impact-of-open-source-in-science-11cc4a16fea2) entirely composed of 67 million software mentions mined from the scientific literature to understand how widely research software and open source tools are used across disciplines, and which software is used where.
 
@@ -146,3 +131,10 @@ We look forward to welcoming you!
 
 This project has been made possible in part by grants from the Alfred P. Sloan Foundation: G-2022-19564 and G-2021-17001.
 
+### Important links
+  * [DOI: https://doi.org/10.5281/zenodo.12191210](https://doi.org/10.5281/zenodo.12191210)
+  * [ReSA newsletter](https://www.researchsoft.org/news/)
+  * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
+  * [ReSA resources](https://www.researchsoft.org/resa-resources/)
+  * [Contact us](https://www.researchsoft.org/contact/)
+  

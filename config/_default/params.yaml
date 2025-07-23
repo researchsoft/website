@@ -1,0 +1,138 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+appearance:
+  theme_day: resa
+  theme_night:
+  font: native
+  font_size: XS
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: ''
+    description: 'Our vision: Research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide.'
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: false
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '
+      <section style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: #343a40; padding: 8px 0;">
+        <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px; color: white; text-align: center;">
+          © {year} Research Software Alliance. This work is
+          <a href="/license" style="color: white; text-decoration: underline;">licensed</a> under CC BY 4.0 International.
+        </div>
+      </section>'
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: false
+      allow_commercial: false
+
+# Localization
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
+
+# Site features
+
+features:
+  syntax_highlighter:
+    enable: false
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/researchsoft/website'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  decap_cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Citation style
+
+publications:
+  date_format: January 2006
+  citation_style: apa
+
+social:
+  - icon: linkedin
+    icon_pack: fab
+    url: "https://www.linkedin.com/in/your-profile/"
+    title: "LinkedIn"
+  - icon: github
+    icon_pack: fab
+    url: "https://github.com/your-org"
+    title: "GitHub"
+  - icon: twitter
+    icon_pack: fab
+    url: "https://twitter.com/your-handle"
+    title: "Twitter"

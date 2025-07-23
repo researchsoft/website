@@ -1,14 +1,14 @@
-+++ 
-fragment = "content" 
-weight = 100
+---
+title: "ReSA Newsletter: September 2023"
+subtitle: ""
+date: 2023-09-21
+authors:
+  - ""
 
-title = "ReSA Newsletter: September 2023" 
-title_align = "left"
+summary: ""
+draft: false
+---
 
-display_date = false 
-date = "2023-09-21"
-
-summary = """ 
 This month’s news includes:
 
 * This month in research software - community news
@@ -20,8 +20,5 @@ This month’s news includes:
 * CZI’s Essential Open Source Software for Science (EOSS)
 * Opportunities to get involved with community initiatives
 * Community events and resources
-"""
-
-+++
 
 **[Read the September Newsletter](https://preview.mailerlite.io/preview/778129/emails/114274872874501755)**

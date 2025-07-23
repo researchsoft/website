@@ -1,37 +1,23 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Investing in People: Anticipating the Future of Research Software"
+subtitle: ""
+date: 2023-10-24
+authors:
+  - ""
+categories: 
+  - Blog
 
-title = "Investing in People: Anticipating the Future of Research Software "
-#subtitle = ""
-title_align = "left"
-
-disabled = false
-display_date = true
-date = "2023-10-24"
-author = ["Kim Hartley", "Michelle Barker"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false # Default is false
-  content = """
-  * [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-+++
-![My Image](IMG_3080-1440x1080.jpg)
+summary: "Read more..."
+draft: false
+---
 
 October 2023
 
 Authors: Kim Hartley and Michelle Barker
 
 We are proud to report that the second [International Research Software Funders Workshop](https://adore.software/international-research-software-funders-workshop/), co-hosted by the [Digital Research Alliance of Canada](https://alliancecan.ca/en) (the Alliance) and the [Research Software Alliance](https://www.researchsoft.org/) (ReSA) from 18-20 September was a great success. People are at the heart of research software sustainability and funders can lead the way by investing in the people who develop and maintain research software. That is why the workshop theme was "Investing in People: Anticipating the Future of Research Software". The event aimed to set the future agenda for government, philanthropic, and industry funders to support sustainable research software and communities.
+
+![My Image](IMG_3080-1440x1080.jpg)
 
 In total, 50 representatives from more than 35 organisations – including funders and organisations that support research software from around the globe – attended the hybrid workshop held in Montreal, Canada, and virtually. During the three-day workshop, experts explored how research software funders can facilitate capacity building through funder practices; research software platforms, infrastructure, and communities; and new initiatives. Moreover, [Version 1.0 of the Amsterdam Declaration on Funding Research Software Sustainability (ADORE.software)](https://adore.software/2023/09/adore-software-is-ready-for-signing/) was released and is now available for [signing](https://adore.software/get-involved/).
 
@@ -85,3 +71,10 @@ To stay up to date on ADORE.software, visit [www.adore.software](http://www.ador
 If you're interested in learning more about ReSA and its activities, join our next [Research Software Community Leaders Forum](https://www.researchsoft.org/community-forum/) on 15 November at 20:00 UTC. ReSA's Community Leaders Forum is open to all, and you can [sign up](https://landing.mailerlite.com/webforms/landing/o1n4v3) for calendar invites.
 
 We would like to express our sincere gratitude to our community, Founding Members, and Organisational Members – without whom none of this work would have been possible. This project has also been made possible in part by grant 2021-000000 from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) DAF, an advised fund of the Silicon Valley Community Foundation; and the [Alfred P. Sloan Foundation](https://sloan.org/).
+
+### Important links
+  * [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)

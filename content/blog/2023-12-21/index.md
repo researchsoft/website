@@ -1,29 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Advocating for Research Software Engineering in Asia: 2023 in Review"
+subtitle: ""
+date: 2023-12-20
+authors:
+  - ""
 
-title = "Advocating for Research Software Engineering in Asia: 2023 in Review "
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-disabled = false
-display_date = true
-date = "2023-12-20"
-author = ["Saranjeet Kaur Bhogal"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false # Default is false
-  content = """
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-+++
+summary: "Read more..."
+draft: false
+---
 
 December 2023
 
@@ -84,3 +71,9 @@ As I look back on this year, I am filled with gratitude for the opportunities I\
 **Acknowledgements**
 
 This project has been made possible in part by a grant from The Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation.
+
+### Important links
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)
