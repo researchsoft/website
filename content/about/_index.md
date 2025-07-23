@@ -206,13 +206,13 @@ sections:
       spacing:
         padding: ["3rem", "1rem"]                
 
-
   - block: markdown
     content:
       title: Organisational Members
       text: |
+
         <div class="d-flex justify-content-center">
-         <div class="col-md-8 text-start">        
+         <div class="col-md-8 text-start">
         <br>
 
         <style>
@@ -287,10 +287,10 @@ sections:
 
           <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
-              <a href="https://www.nasa.gov">NASA</a>
+              <a href="https://www.nasa.gov" style="font-size: 1.5rem;">NASA</a>
             </div>
             <div class="col-md-4 logo-container">
-              <a href="https://www.nih.gov">National Institutes of Health</a>
+              <a href="https://www.nih.gov" style="font-size: 1.5rem;">National Institutes of Health</a>
             </div>
             <div class="col-md-4 logo-container">
               <a href="https://www.ncsa.illinois.edu">
@@ -338,12 +338,12 @@ sections:
           <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://www.ukri.org/">
-                <img src="images/UKRI logo.png" alt="UKRI logo" class="logo-image">
+                <img src="images/UKRI_logo.png" alt="UKRI logo" class="logo-image">
               </a>
             </div>
             <div class="col-md-4 logo-container">
               <a href="https://us-rse.org/">
-                <img src="images/USRSE logo.png" alt="US-RSE logo" class="logo-image">
+                <img src="images/USRSE_logo.png" alt="US-RSE logo" class="logo-image">
               </a>
             </div>
             <div class="col-md-4 logo-container">
@@ -362,15 +362,15 @@ sections:
           </div>
         </div>
          </div>
-        </div>  
-
+        </div>          
             
     design:
       background:
         color: "#f98c01"
-        text_color_light: false      
+        text_color_light: false  
       spacing:
-        padding: ["3rem", "1rem"]  
+        padding: ["3rem", "1rem"]              
+
 
   - block: markdown
     content:

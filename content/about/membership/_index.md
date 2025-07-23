@@ -189,8 +189,8 @@ sections:
           }
 
           .logo-image {
-            width: 250px; /* Fixed width */
-            height: 250px; /* Fixed height */
+            width: 200px; /* Fixed width */
+            height: 200px; /* Fixed height */
             object-fit: contain;
           }
         </style>
@@ -252,10 +252,10 @@ sections:
 
           <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
-              <a href="https://www.nasa.gov">NASA</a>
+              <a href="https://www.nasa.gov" style="font-size: 1.5rem;">NASA</a>
             </div>
             <div class="col-md-4 logo-container">
-              <a href="https://www.nih.gov">National Institutes of Health</a>
+              <a href="https://www.nih.gov" style="font-size: 1.5rem;">National Institutes of Health</a>
             </div>
             <div class="col-md-4 logo-container">
               <a href="https://www.ncsa.illinois.edu">
