@@ -211,8 +211,9 @@ sections:
       title: 
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
-        "To increase research impact and recognise the role that software plays in it, it is critical to build the Research Software Engineering community and profession in all geographic regions, while also fostering global collaborations."
-
+          <span style="font-size:1.5rem;">
+           To increase research impact and recognise the role that software plays in it, it is critical to build the Research Software Engineering community and profession in all geographic regions, while also fostering global collaborations.
+          </span>
          </div>
         </div>
 

@@ -118,7 +118,9 @@ sections:
       title: 
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
-        "The work of the people who develop and maintain research software is often hidden and needs to be recognised."
+          <span style="font-size:1.5rem;">
+           The work of the people who develop and maintain research software is often hidden and needs to be recognised.
+          </span>
         </div>
         </div>  
       subtitle: 

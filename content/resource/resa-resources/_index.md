@@ -91,7 +91,9 @@ sections:
       
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
-        "Software is the ubiquitous instrument of science."
+          <span style="font-size:1.5rem;">
+            Software is the ubiquitous instrument of science.
+          </span>
         </div>
         </div>  
       subtitle: 

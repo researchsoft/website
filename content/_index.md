@@ -137,7 +137,9 @@ sections:
       title: 
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start"> 
-            "Without data it’s difficult to validate results. But without code, we waste the opportunity to advance science."
+          <span style="font-size:1.5rem;">
+            Without data it’s difficult to validate results. But without code, we waste the opportunity to advance science.
+          </span>  
          </div>
         </div>              
       subtitle:

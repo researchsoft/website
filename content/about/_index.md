@@ -554,8 +554,10 @@ sections:
     content:
       title: |
         <div class="d-flex justify-content-center">
-         <div class="col-md-8 text-start">      
-            "Data implies software: it’s not much good gathering data if you don’t have the ability to analyse it."
+         <div class="col-md-8 text-start">   
+          <span style="font-size: 1.5rem;">           
+            Data implies software: it’s not much good gathering data if you don’t have the ability to analyse it.
+          </span> 
          </div>
         </div>            
       subtitle: 
