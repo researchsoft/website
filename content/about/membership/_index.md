@@ -189,8 +189,8 @@ sections:
           }
 
           .logo-image {
-            width: 200px; /* Fixed width */
-            height: 200px; /* Fixed height */
+            width: 180px; /* Fixed width */
+            height: 180px; /* Fixed height */
             object-fit: contain;
           }
         </style>
