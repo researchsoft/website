@@ -277,29 +277,33 @@ sections:
               <a href="https://www.kavlifoundation.org/">
                 <img src="images/The_Kavli_Foundation_Logo_White_Red.png" alt="Kavli logo" class="logo-image">
               </a>
-            </div>
+            </div>   
+           <div class="col-md-4 logo-container">
+              <a href="https://www.microsoft.com/">
+                <img src="images/Microsoft_logo.png" alt="Microsoft logo" class="logo-image">
+              </a>
+            </div>  
+              </div>
+          <div class="row justify-content-center mt-5">          
             <div class="col-md-4 logo-container">
               <a href="https://www.ouvrirlascience.fr/the-committee-for-open-science/">
                 <img src="images/1_MESR_RVB.jpg" alt="French Committee for Open Science logo" class="logo-image">
               </a>
             </div>
-          </div>
-
-          <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://www.nasa.gov" style="font-size: 1.5rem;">NASA</a>
             </div>
             <div class="col-md-4 logo-container">
               <a href="https://www.nih.gov" style="font-size: 1.5rem;">National Institutes of Health</a>
             </div>
+          </div>
+
+          <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://www.ncsa.illinois.edu">
                 <img src="images/NCSA.png" alt="NCSA" class="logo-image">
               </a>
             </div>
-          </div>
-
-          <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://www.nesi.org.nz/">
                 <img src="images/NeSI.png" alt="New Zealand eScience Infrastructure" class="logo-image">
@@ -310,19 +314,25 @@ sections:
                 <img src="images/nesc-transparent.png" alt="Netherlands eScience Center" class="logo-image">
               </a>
             </div>
+          </div>
+          <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://www.nwo.nl/en">
                 <img src="images/NWO-logo.jpeg" alt="NWO logo" class="logo-image">
               </a>
             </div>
-          </div>
-
-          <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://www.rsu.lv/en/bioinformatics-group">
                 <img src="images/Stradini_logo_ENG_vert-RGB.jpg" alt="RSU logo" class="logo-image">
               </a>
             </div>
+            <div class="col-md-4 logo-container">
+              <a href="https://www.schmidtsciences.org/">
+                <img src="images/schmidtsciences_primary_color.png" alt="Schmidt Sciences logo" class="logo-image">
+              </a>
+            </div>
+            </div>
+          <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://www.simonsfoundation.org/">
                 <img src="images/Simons-Foundation.jpg" alt="Simons Foundation" class="logo-image">
@@ -333,14 +343,13 @@ sections:
                 <img src="images/ssi_logo_with_name-small2.png" alt="Software Sustainability Institute" class="logo-image">
               </a>
             </div>
-          </div>
-
-          <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://www.ukri.org/">
                 <img src="images/UKRI_logo.png" alt="UKRI logo" class="logo-image">
               </a>
             </div>
+          </div>
+          <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://us-rse.org/">
                 <img src="images/USRSE_logo.png" alt="US-RSE logo" class="logo-image">
@@ -351,15 +360,11 @@ sections:
                 <img src="images/Volkswagen.jpg" alt="Volkswagen Foundation logo" class="logo-image">
               </a>
             </div>
-          </div>
-
-          <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://wellcome.org/">
                 <img src="images/Wellcome_logo_Black.jpg" alt="Wellcome logo" class="logo-image">
               </a>
             </div>
-          </div>
         </div>
          </div>
         </div>          
@@ -380,20 +385,20 @@ sections:
          <div class="col-md-8 text-start">        
         <br>
 
-          <style>
-            .logo-container {
-              display: flex;
-              justify-content: center;
-              align-items: center;
-              height: 150px; /* Adjust as needed */
-            }
+        <style>
+          .logo-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 150px; /* Adjust as needed */
+          }
 
-            .logo-image {
-              width: 250px;  /* Fixed width */
-              height: 250px; /* Fixed height */
-              object-fit: contain;
-            }
-          </style>
+          .logo-image {
+            width: 180px !important;
+            height: 180px !important;
+            object-fit: contain;
+          }
+        </style>
 
           <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
@@ -436,20 +441,20 @@ sections:
          <div class="col-md-8 text-start">        
         <br>
 
-          <style>
-            .logo-container {
-              display: flex;
-              justify-content: center;
-              align-items: center;
-              height: 150px; /* Adjust as needed */
-            }
+        <style>
+          .logo-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 150px; /* Adjust as needed */
+          }
 
-            .logo-image {
-              width: 250px;  /* Fixed width */
-              height: 250px; /* Fixed height */
-              object-fit: contain;
-            }
-          </style>
+          .logo-image {
+            width: 180px !important;
+            height: 180px !important;
+            object-fit: contain;
+          }
+        </style>
 
           <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
@@ -485,8 +490,8 @@ sections:
           }
 
           .logo-image {
-            width: 250px;  /* Fixed width */
-            height: 250px; /* Fixed height */
+            width: 180px !important;
+            height: 180px !important;
             object-fit: contain;
           }
         </style>
