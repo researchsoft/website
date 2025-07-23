@@ -14,7 +14,7 @@ This month’s news includes:
 * Research software community news, including Lessons Learned from FAIRCORE4EOSC and FAIR-IMPACT: Research Software Outputs
 * Funding opportunities, including NSF’s Computational and Data-Enabled Science and Engineering
 * Announcing the Research Software Community Leadership Forum (CLF) – nominations now open
-* Elevating Research Software: A New Era in International Policy
+* Elevating research software: A new era in international policy
 * ReSA membership update - Schmidt Sciences 
 * Join a Research Software Funders Forum Working Group
 * Opportunities to get involved with community initiatives
