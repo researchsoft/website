@@ -19,6 +19,8 @@ This month’s news includes:
 * Join a Research Software Funders Forum Working Group
 * Opportunities to get involved with community initiatives
 * Resources
+* Community events, including US-RSE'25
+
 
 """
 
