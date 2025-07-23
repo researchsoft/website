@@ -154,8 +154,8 @@ sections:
           }
 
           .logo-image {
-            width: 250px; /* Fixed width */
-            height: 250px; /* Fixed height */
+            width: 180px !important;
+            height: 180px !important;
             object-fit: contain;
           }
         </style>
@@ -224,8 +224,8 @@ sections:
           }
 
           .logo-image {
-            width: 250px; /* Fixed width */
-            height: 250px; /* Fixed height */
+            width: 180px !important;
+            height: 180px !important;
             object-fit: contain;
           }
         </style>
