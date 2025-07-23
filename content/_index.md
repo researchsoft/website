@@ -4,7 +4,6 @@ title:
 date: 2022-10-24
 type: landing
 layout: "default"
-classes: "max-w-screen-lg px-4 mx-auto"
 
 sections:
   - block: markdown
@@ -141,7 +140,7 @@ sections:
             "Without data it’s difficult to validate results. But without code, we waste the opportunity to advance science."
          </div>
         </div>              
-      subtitle: 
+      subtitle:
       text:  
           <p align="center"><a href="https://twitter.com/npch/status/1258388356431478784">Neil Chue Hong, Director, Software Sustainability Institute, University of Edinburgh, UK</a></p>
 
