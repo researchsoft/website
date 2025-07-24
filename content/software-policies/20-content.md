@@ -6,7 +6,6 @@ weight = 20
 background = "white"
 +++
 
-# Research Software Policy Collections
 
 ## Institutional research software policies ##
 
