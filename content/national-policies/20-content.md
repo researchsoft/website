@@ -17,3 +17,5 @@ In some cases, research software is addressed within broader frameworks such as 
 For institutional-level research software policies, refer to ReSA’s [dedicated collection](https://www.researchsoft.org/institutional-policies/). Further information on national and international policies that support research software can be found on our [Guidelines page](https://www.researchsoft.org/guidelines/) and in our [blog post](https://www.researchsoft.org/blog/2021-12/). 
 
 You can add your country’s policy to the database through a comment in the [Google sheet](https://docs.google.com/spreadsheets/d/1zhhLqXIPNzirRVaHTxYy_859sCDEPob0TAl4HA6alAs/edit?gid=0#gid=0). 
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnQMT5oF8X1TPrqG9e-h33JM31MqIpGL1smUhTfybdYH46N7VIFB-MG1G7sdmRQE3dCGc91ZYHzOqI/pubhtml?widget=true&amp;headers=false" frameborder="0" height="1000" width="100%"></iframe> 
