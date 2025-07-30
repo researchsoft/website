@@ -83,8 +83,8 @@ sections:
         Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sharon McCutcheon</a> on <a href="https://unsplash.com/s/photos/connected-dots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
 
         ### Useful links
-          * [Contact ReSA](../../contact/)
-          * [ReSA’s Code of Conduct](../../code-of-conduct/)
+          * [Contact ReSA](/about/contact)
+          * [ReSA’s Code of Conduct](/about/code-of-conduct)
 
            </div>
         </div>         
