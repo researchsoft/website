@@ -72,6 +72,8 @@ sections:
 
 
         **Deadline for submissions: 5 September 2025**
+
+        For further information, please refer to the [CLF Nomination Process](https://docs.google.com/document/d/1jXKFrS1s0_dJiLv0uryaTDzUa453w98jnH0DuWWf3dU/edit?usp=drive_link) or the [Terms of Reference](https://docs.google.com/document/d/15uOY6fQbvE0dfEzZkADaDwMtIGqbXcS3PHVzCvSStbE/edit?usp=drive_link) or email info@researchsoft.org.
         
          </div>
         </div>  
