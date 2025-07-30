@@ -11,6 +11,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ''
+  caption: 'Please view our [past events](/events/resa-events-past).' 
   image: ''
 ---
