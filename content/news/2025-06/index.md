@@ -1,7 +1,7 @@
 ---
 title: "ReSA Newsletter: June 2025"
 subtitle: ""
-date: 2025-06-25T00:00:00Z
+date: 2025-06-25
 authors:
   - ""
 
