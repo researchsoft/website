@@ -35,8 +35,7 @@ sections:
         The vision of the Research Software Alliance (ReSA) is that research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide. 
 
         A [wide range](https://arxiv.org/abs/1811.08473) of research software organisations and programs exist internationally to address the varied challenges in
-        software productivity, quality, reproducibility, and sustainability. ReSA aims to coordinate across these efforts to leverage investments, to achieve shared goals. The [ReSA Strategic Plan](https://www.researchsoft.org/documents/Strategic_Plan_2021-23.pdf) provides details. The [ReSA engagement plan](https://doi.org/10.5281/zenodo.7714004) contains more information on how community engagement occurs. Also available is our [2023 year in review](https://doi.org/10.5281/zenodo.10471861) and [overview of ReSA](https://doi.org/10.54900/zwm7q-vet94).
-
+        software productivity, quality, reproducibility, and sustainability. ReSA aims to coordinate across these efforts to leverage investments, to achieve shared goals. The [ReSA Strategic Plan](https://doi.org/10.5281/zenodo.15444952) provides details. The [ReSA engagement plan](https://doi.org/10.5281/zenodo.7714004) contains more information on how community engagement occurs. Also available is our [2024 Community Report](https://doi.org/10.5281/zenodo.15264853) and [overview of ReSA](https://doi.org/10.54900/zwm7q-vet94).
 
         ReSA is a fiscally sponsored project of [Code for Science & Society](https://www.codeforsociety.org/) and led by the ReSA [Steering Committee](https://www.researchsoft.org/people/).  
 
@@ -115,7 +114,7 @@ sections:
         * [Task force support](https://www.researchsoft.org/tf-support/) 
         * [Donations](https://www.researchsoft.org/donate/)
 
-        ReSA has received income totalling USD$501,000 from 2019-2022. This is primarily used to support 1 part-time Director and 1 part-time Community Manager to lead the ReSA community and facilitate ReSA [task forces](https://www.researchsoft.org/taskforces/). In-kind support of $249,000 also provides ReSA with 1 part-time Community Manager and opportunities to co-lead initiatives with other organisations, such as the [International Funders Workshop: The Future of Research Software](https://www.future-of-research-software.org/). 
+        ReSA’s operations are supported through a combination of financial and in-kind contributions from Founding Members, Organisational Members, and project grants. These resources primarily sustain a part-time Director and a part-time Program Manager, who lead the ReSA community and facilitate its activities.
 
         An [overview](https://docs.google.com/spreadsheets/d/1u00bPi5jIeI_iO5AfaBA97jxdLTgQW5rWwGkGI7RI0M/edit#gid=0) of ReSA income and expenditures is available for review. Our grants are also available on [Open Grants](https://www.ogrants.org/).
          </div>

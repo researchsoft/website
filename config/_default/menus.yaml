@@ -57,39 +57,39 @@ main:
   - parent: '<span style="font-size: 1rem;">Forums</span>'
     name: '<span style="font-size: 0.8rem;">Research Software Community Leadership Forum</span>'
     url: forums/community-leadership-forum
-    weight: 10    
+    weight: 31    
   - parent: '<span style="font-size: 1rem;">Forums</span>'
     name: '<span style="font-size: 0.8rem;">Research Software Funders Forum</span>'
     url: forums/funders-forum
-    weight: 20
+    weight: 32
   - parent: '<span style="font-size: 1rem;">Forums</span>'
     name: '<span style="font-size: 0.8rem;">Research Software Infrastructure Forum</span>'
     url: forums/rsi-forum
-    weight: 30
+    weight: 33
   - parent: '<span style="font-size: 1rem;">Forums</span>'
     name: '<span style="font-size: 0.8rem;">Research Software Policy Forum</span>'
     url: forums/rsp-forum
-    weight: 40  
+    weight: 34  
   - parent: '<span style="font-size: 1rem;">Forums</span>'
     name: '<span style="font-size: 0.8rem;">Metascience and Research Software Forum</span>'
     url: forums/mars-forum
-    weight: 50
+    weight: 35
   - parent: '<span style="font-size: 1rem;">Forums</span>'
     name: '<span style="font-size: 0.8rem;">Publishing Research Software Forum</span>'
     url: forums/pubsoft-forum
-    weight: 60
+    weight: 36
   - parent: '<span style="font-size: 1rem;">Forums</span>'
     name: '<span style="font-size: 0.8rem;">Skills and Training for Research Software Forum</span>'
     url: forums/stars-forum
-    weight: 70
+    weight: 37
   - parent: '<span style="font-size: 1rem;">Forums</span>'
     name: '<span style="font-size: 0.8rem;">ADORE.software Secretariat</span>'
     url: https://adore.software
-    weight: 80
+    weight: 38
   - parent: '<span style="font-size: 1rem;">Forums</span>'
     name: '<span style="font-size: 0.8rem;">International Council of RSE Associations</span>'
     url: https://researchsoftware.org/council.html
-    weight: 90
+    weight: 39
 
   - name: '<span style="font-size: 1rem;">Resources</span>'
     weight: 40
@@ -128,11 +128,11 @@ main:
   - parent: '<span style="font-size: 1rem;">Events</span>'
     name: '<span style="font-size: 0.8rem;">ReSA Current Events</span>'
     url: events/resa-events-current
-    weight: 10    
+    weight: 61    
   - parent: '<span style="font-size: 1rem;">Events</span>'
     name: '<span style="font-size: 0.8rem;">ReSA Community Calls</span>'
     url: events/community-calls
-    weight: 20
+    weight: 62
   - name: '<span style="font-size: 1rem;">Blog</span>'
     url: blog
     weight: 70

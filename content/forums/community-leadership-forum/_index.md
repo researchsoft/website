@@ -1,6 +1,6 @@
 ---
 title:
-date: 2025-07-09
+date: 2025-06-04
 type: landing
 
 sections:
@@ -49,7 +49,7 @@ sections:
         3. An open nomination process to ensure representation of stakeholders not already engaged through ReSA forums and/or targeted outreach. Nominations must include evidence of support from the community the nominee seeks to represent.
 
         For further information, please refer to the [Terms of Reference](https://docs.google.com/document/d/19SYb-RDn9x73siK8CKWz1fC2x0xjd-hgTxFxQFh3IXw/edit?tab=t.0) or email ReSA: info@researchsoft.org. 
-
+        
          </div>
         </div>  
 
