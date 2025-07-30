@@ -4,12 +4,26 @@ date: 2025-06-10
 type: landing
 
 sections:
-  - block: 
+
+  - block: markdown
     content:
-      title: Research institution policies to support research software
+      title: 
+      text:   |
+        Research Software Policies
+        {style="color: white; font-size: 2rem; text-align: center; "}
     design:
+      background:
+        image:
+          filename: main-hero.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: bottom
+          size: cover
+          text_color_light: false
       spacing:
-        padding: ["4rem", "2rem"]  
+        padding: ["4rem", "2rem"]
+ 
 
   - block: markdown
     content:
@@ -17,8 +31,6 @@ sections:
       text:   |
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
-
-        # Research Software Policy Collections
 
         ## Institutional research software policies ##
 
@@ -28,7 +40,7 @@ sections:
 
         ## National research software policies ##
 
-        The [Research Software Policy (RSP) Forum](https://www.researchsoft.org/rsp-forum/), convened by ReSA, curates national (and regional/international policies) that support the development, recognition, and sustainability of research software. These resources are intended to guide governments and agencies in shaping or updating their policy frameworks.
+        The [Research Software Policy (RSP) Forum](https://www.researchsoft.org/rsp-forum/), convened by ReSA, curates national, regional, and international policies that support the development, recognition, and sustainability of research software. These resources are intended to guide governments and agencies in shaping or updating their policy frameworks.
 
         **[View national policies](https://www.researchsoft.org/national-policies/)**
           </div>
