@@ -126,21 +126,17 @@ main:
     url: events
     weight: 60
   - parent: '<span style="font-size: 1rem;">Events</span>'
-    name: '<span style="font-size: 0.8rem;">ReSA Events</span>'
-    url: events/resa-events
-    weight: 10
-  - parent: '<span style="font-size: 1rem;">Events</span>'
     name: '<span style="font-size: 0.8rem;">ReSA Current Events</span>'
     url: events/resa-events-current
-    weight: 20
+    weight: 10
   - parent: '<span style="font-size: 1rem;">Events</span>'
     name: '<span style="font-size: 0.8rem;">ReSA Past Events</span>'
     url: events/resa-events-past
-    weight: 30        
+    weight: 20        
   - parent: '<span style="font-size: 1rem;">Events</span>'
     name: '<span style="font-size: 0.8rem;">ReSA Community Calls</span>'
     url: events/community-calls
-    weight: 40
+    weight: 30
   - name: '<span style="font-size: 1rem;">Blog</span>'
     url: blog
     weight: 70
