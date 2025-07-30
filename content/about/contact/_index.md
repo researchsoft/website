@@ -124,6 +124,9 @@ sections:
           <a href="https://fosstodon.org/@researchsoft" target="_blank" title="Mastodon">
             <i class="fab fa-mastodon fa-2x" style="margin: 0 15px;"></i>
           </a>
+          <a href="https://bsky.app/profile/researchsoftware.bsky.social" target="_blank" title="Bluesky">
+            <i class="fas fa-globe fa-2x" style="margin: 0 15px;"></i>
+          </a> 
           <a href="/index.xml" target="_blank" title="RSS Feed">
             <i class="fas fa-rss fa-2x" style="margin: 0 15px;"></i>
           </a>
