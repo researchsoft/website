@@ -126,7 +126,7 @@ main:
     url: events
     weight: 60
   - parent: '<span style="font-size: 1rem;">Events</span>'
-    name: '<span style="font-size: 0.8rem;">ReSA Current Events</span>'
+    name: '<span style="font-size: 0.8rem;">Current Events</span>'
     url: events/events-current
     weight: 61    
   - parent: '<span style="font-size: 1rem;">Events</span>'
