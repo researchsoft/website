@@ -11,7 +11,6 @@ categories:
 summary: "Read more..."
 draft: false
 ---
-
 ![My Image](07-2025-blog.jpg) 
 
 By Kim Hartley & Michelle Barker
@@ -68,8 +67,8 @@ Contribute your insights and examples to support the OECD’s ongoing work and a
 
 ReSA has been supported to undertake this work as part of Alfred P. Sloan Foundation grant 2024-22426, [Research Software Alliance: Catalyzing community-led collaborations](https://zenodo.org/records/10927376).
 
-
 _Image credit: [Unsplash](https://unsplash.com/photos/a-map-of-the-world-made-up-of-tiny-plants-yjRE4-gAnkk)_
+
 
 ## Appendix: Summary of OECD _Access to research data from public funding toolkit_
 
@@ -113,7 +112,6 @@ _Image credit: [Unsplash](https://unsplash.com/photos/a-map-of-the-world-made-up
   - Invest in infrastructure and skilled human resources to maintain repositories and prevent duplication.
   - Avoid vendor lock-in through mandates for open-source software and interoperability.
 - **Challenges:** changing storage formats, software dependencies, and unstable platforms that threaten long-term usability.
-
 
 #### **6\. Human capital**
 
