@@ -14,7 +14,7 @@ draft: false
 
 ### **ReSA’s three focus areas: Spotlight on Infrastructure**
 
-ReSA has three main focus areas: policy, people and infrastructure. This month’s newsletter highlights [ReSA taskforces](https://www.researchsoft.org/taskforces/) in the infrastructure space, particularly on standards and guidelines.
+ReSA has three main focus areas: policy, people and infrastructure. This month’s newsletter highlights [ReSA taskforces](/taskforces/) in the infrastructure space, particularly on standards and guidelines.
 
 ReSA is a joint convenor of the [FAIR 4 Research Software Working Group (FAIR4RS WG) ](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) with the [Research Data Alliance (RDA)](https://www.rd-alliance.org/) and [FORCE11](https://www.force11.org/). FAIR4RS WG is enabling coordination of a range of existing community-led discussions on how to define and effectively apply FAIR principles to research software, to continue to advance the aims of the open science movement.
 
@@ -44,7 +44,7 @@ There will be many events in 2021 where the community can get information, provi
 
 ### **ReSA Steering Committee call for nominations**
 
-The [ReSA Steering Committee](https://www.researchsoft.org/people/) is **calling for [nominations](https://www.researchsoft.org/news/2020-11/) for 4 new members of the Steering Committee** in 2021.
+The [ReSA Steering Committee](/about/governance/) is **calling for [nominations](/news/2020-11/) for 4 new members of the Steering Committee** in 2021.
 The ReSA Steering Committee is responsible for the strategic direction of ReSA. The role of the Steering Committee members is to provide strategic inputs to the development of ReSA, to achieve the ReSA vision that research software is recognised and valued as a fundamental and vital component of research worldwide, and the mission to bring research software communities together to collaborate on the advancement of research software.
 ReSA Steering Committee Members are welcome from a broad diversity of individuals, disciplines of study, geographies, career stages and backgrounds, and are expected to have a broad understanding of, and a demonstrated commitment to research software or another relevant area such as open science. 
 If you are interested in nominating yourself or someone else to be a ReSA Steering Committee member, then please **fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfLhl_Vmtdd9Vuzb0Cf3_sry3F1OORpETIpWWwriHpIajJQhQ/viewform?vc=0&c=0&w=1&flr=0) by Fri 13 November** 2020. If you would like further information then please contact Michelle Barker, Director, ReSA. 

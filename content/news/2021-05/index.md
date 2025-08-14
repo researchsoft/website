@@ -24,7 +24,7 @@ The consultation and review are the primary channels for the community to engage
 
 ### FAIR4RS Roadmap Update
 
-The FAIR 4 Research Software Roadmap is a [ReSA task force](https://www.researchsoft.org/taskforces/) that aims to identify key stakeholders in areas arising from the application of the FAIR principles to research software, to guide strategic planning and investment. Two working groups have now been formed to advance particular elements of the Roadmap:
+The FAIR 4 Research Software Roadmap is a [ReSA task force](/taskforces/) that aims to identify key stakeholders in areas arising from the application of the FAIR principles to research software, to guide strategic planning and investment. Two working groups have now been formed to advance particular elements of the Roadmap:
 
 - [Metrics Working Group](https://docs.google.com/document/d/1BpzecVx4ZvSNfHD-UHhofZVdA6qiP_ENrmozmiq9zY4/edit), to develop FAIR research software metrics.
 - [Life Sciences Working Group](https://docs.google.com/document/d/1yQun2tObksymOrAV4RY7jqbSkZ0r8G6I-vrkDAGHnnI/edit), to support the implementation of the FAIR4RS principles in the life sciences community, with ELIXIR providing a pilot use case.

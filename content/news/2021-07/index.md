@@ -66,7 +66,7 @@ Upcoming FAIR4RS WG events include:
 
 ### Opportunities to get involved with community initiatives
 
-- ReSA welcomes suggestions of additions to our list of [useful resources](https://www.researchsoft.org/guidelines/), such as international recommendations, reports, and guidelines that emphasise best practices.
+- ReSA welcomes suggestions of additions to our list of [useful resources](/resource/guidelines/), such as international recommendations, reports, and guidelines that emphasise best practices.
 - The Society of RSE are encouraging UK RSE community members to consider [joining a peer review college as an expert reviewer](https://society-rse.org/software-is-part-of-research-and-research-software-engineers-should-be-part-of-how-it-is-assessed/), to ensure that the very best practice for use and development of research software. 
 - [Apply](https://www.eoscsecretariat.eu/eosc-liaison-platform/post/call-members-eosc-association-task-forces) to become a member of an [EOSC task force](https://www.eosc.eu/news/draft-charters-eosc-association-task-forces-published) such as [Infrastructure for Quality Research Software](https://www.eosc.eu/sites/default/files/tfcharters/eosca_tfinfrastructureforqualityresearchsoftware_draftcharter_20210614.pdf). Closes 30 July.
 - [Campus Research Computing Consortium](https://carcc.org/rcd-professionalization/rcdprof-census/research-study-on-research-computing-and-data-workforce/) (CaRCC) invites members of the Research Computing and Data community to participate in a research study of the Research Computing and Data  workforce in the United States, the [Research Computing Workforce Survey](https://northwestern.az1.qualtrics.com/jfe/form/SV_8345y1KCls4nNci). 

@@ -19,7 +19,7 @@ This month’s news includes:
 
 ### ReSA’s three focus areas: Spotlight on policy
 
-ReSA has three main focus areas: policy, people and infrastructure. This month’s newsletter highlights ReSA work in the policy space to achieve the ReSA aim that research software be recognised and valued as a fundamental and vital component of research worldwide. [ReSA taskforces](https://www.researchsoft.org/taskforces/) in this area have achieved outcomes including:
+ReSA has three main focus areas: policy, people and infrastructure. This month’s newsletter highlights ReSA work in the policy space to achieve the ReSA aim that research software be recognised and valued as a fundamental and vital component of research worldwide. [ReSA taskforces](/taskforces/) in this area have achieved outcomes including:
 
 * Development of research software sharing guidelines for policy makers, funders, publishers and researchers for inclusion in the [Research Data Alliance COVID-19 Guidelines and Recommendations](https://www.rd-alliance.org/group/rda-covid19-rda-covid19-omics-rda-covid19-epidemiology-rda-covid19-clinical-rda-covid19-1).
 * Supporting the inclusion of software in the OECD Committee for Science and Technology Policy recommendations (which will become soft law for OECD member states).
@@ -29,7 +29,7 @@ The taskforce on the evidence for the importance of research software completed 
 
 ### ReSA Steering Committee says farewell to Catherine Jones
 
-ReSA would like to thank Catherine Jones for her contributions as a member of the [ReSA Steering Committee](https://www.researchsoft.org/people/). Catherine has served on this committee since its inception two years ago, bringing significant expertise in software engineering and governance of not-for-profit organisations.
+ReSA would like to thank Catherine Jones for her contributions as a member of the [ReSA Steering Committee](/about/governance/). Catherine has served on this committee since its inception two years ago, bringing significant expertise in software engineering and governance of not-for-profit organisations.
 
 In November ReSA called for nominations for new members to join the Steering Committee in 2021 and will be announcing the new committee members shortly.
 
@@ -56,7 +56,7 @@ ReSA has been involved in the following workshops in November to engage our comm
 
 ### ReSA Code of Conduct
 
-ReSA now has a [Code of Conduct](/about/code-of-conduct/) that members of the ReSA community are expected to adhere to. This Code of Conduct should be honored in any ReSA related activities, by anyone claiming affiliation with ReSA, and especially when someone is representing ReSA in any role (including as an event volunteer or speaker). This Code of Conduct has been adapted from the [US-RSE Association Code of Conduct](https://www.researchsoft.org/code-of-conduct/), which builds on the work of [NumFocus](https://numfocus.org/code-of-conduct) and others.
+ReSA now has a [Code of Conduct](/about/code-of-conduct/) that members of the ReSA community are expected to adhere to. This Code of Conduct should be honored in any ReSA related activities, by anyone claiming affiliation with ReSA, and especially when someone is representing ReSA in any role (including as an event volunteer or speaker). This Code of Conduct has been adapted from the [US-RSE Association Code of Conduct](/about/code-of-conduct/), which builds on the work of [NumFocus](https://numfocus.org/code-of-conduct) and others.
 
 ### Community news
 

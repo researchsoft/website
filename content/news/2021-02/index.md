@@ -22,7 +22,7 @@ This month’s news includes:
 ReSA would like to thank the [Wellcome Trust](https://wellcome.org/) for their support for ReSA’s work in bringing research software communities together to collaborate on the advancement of research software through three programs during 2021:
 
 * [FAIR4RS WG](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) project direction to develop community-endorsed FAIR for research software principles
-* [FAIR4RS Roadmap](https://www.researchsoft.org/taskforces/) leadership to map FAIR for research software projects into a longer-term strategic framework
+* [FAIR4RS Roadmap](/taskforces/) leadership to map FAIR for research software projects into a longer-term strategic framework
 * People Roadmap to support the development of career paths and reward structures to complement the FAIR4RS Roadmap 
 
 The mission of the Wellcome Trust is to support science to solve the urgent health challenges facing everyone.
@@ -31,7 +31,7 @@ The mission of the Wellcome Trust is to support science to solve the urgent heal
 
 ReSA has three main focus areas: policy, people and infrastructure. This month’s newsletter highlights ReSA work in the people space to achieve the ReSA aim that research software be recognised and valued as a fundamental and vital component of research worldwide. ReSA engagement in this area include:
 
-* [Software landscape analysis taskforce](https://www.researchsoft.org/taskforces/). This task force identified and analysed the research software landscape in this blog posted in 2020. Help us keep the [ReSA list of research software communities](https://docs.google.com/spreadsheets/d/15JHqOxR4HIKHYe821IPvbxIuXP1zMjXKGEIJwB-GPqE/edit#gid=0) up to date by making comments in the spreadsheet.
+* [Software landscape analysis taskforce](/taskforces/). This task force identified and analysed the research software landscape in this blog posted in 2020. Help us keep the [ReSA list of research software communities](https://docs.google.com/spreadsheets/d/15JHqOxR4HIKHYe821IPvbxIuXP1zMjXKGEIJwB-GPqE/edit#gid=0) up to date by making comments in the spreadsheet.
 * ReSA is one of the organisations coordinating development of the [Research Data Alliance](https://www.rd-alliance.org)-led [Open Science Registry](http://openscienceregistry.org/). This registry will support Open Science practices by providing a publicly available, searchable and evidence-based online platform of the intentions and outcomes of ongoing and future policy changes to the research reward and evaluation system.
 * ReSA is part of the [AccelNet Proposal: Community of Open Scholarship Grassroots Networks](https://www.researchgate.net/publication/338934140_NSF_19-501_AccelNet_Proposal_Community_of_Open_Scholarship_Grassroots_Networks_COSGN) (COSGN) led by the [Centre for Open Science](https://www.cos.io/). COSGN includes 120 grassroots networks and proposes to formalise governance and coordination of the networks to maximise their impact and establish standard practices for sustainability. If the proposal is successful it will help ReSA in its role facilitating connections and communication across communities by leading an open source working group.
 
