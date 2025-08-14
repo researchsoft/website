@@ -56,7 +56,7 @@ ReSA has been involved in the following workshops in November to engage our comm
 
 ### ReSA Code of Conduct
 
-ReSA now has a [Code of Conduct](https://www.researchsoft.org/code-of-conduct/) that members of the ReSA community are expected to adhere to. This Code of Conduct should be honored in any ReSA related activities, by anyone claiming affiliation with ReSA, and especially when someone is representing ReSA in any role (including as an event volunteer or speaker). This Code of Conduct has been adapted from the [US-RSE Association Code of Conduct](https://www.researchsoft.org/code-of-conduct/), which builds on the work of [NumFocus](https://numfocus.org/code-of-conduct) and others.
+ReSA now has a [Code of Conduct](/about/code-of-conduct/) that members of the ReSA community are expected to adhere to. This Code of Conduct should be honored in any ReSA related activities, by anyone claiming affiliation with ReSA, and especially when someone is representing ReSA in any role (including as an event volunteer or speaker). This Code of Conduct has been adapted from the [US-RSE Association Code of Conduct](https://www.researchsoft.org/code-of-conduct/), which builds on the work of [NumFocus](https://numfocus.org/code-of-conduct) and others.
 
 ### Community news
 

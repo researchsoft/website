@@ -60,7 +60,7 @@ sections:
 
         Organised by the ReSA, the Community Calls bring together individuals and organisations from across the research software landscape to align efforts and collectively work toward both local and international goals.
 
-        Each call features a brief presentation followed by open discussion, encouraging attendees to engage with key topics and consider actionable next steps. To maximise global participation, meetings are held at alternating times and follow ReSA’s [Code of Conduct](https://www.researchsoft.org/code-of-conduct/) to ensure a welcoming and inclusive environment for all attendees.
+        Each call features a brief presentation followed by open discussion, encouraging attendees to engage with key topics and consider actionable next steps. To maximise global participation, meetings are held at alternating times and follow ReSA’s [Code of Conduct](../../about/code-of-conduct/) to ensure a welcoming and inclusive environment for all attendees.
 
         Join the conversation and help shape the future of research software—everyone is welcome.
 

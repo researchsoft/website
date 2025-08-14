@@ -25,7 +25,7 @@ The [Community Leaders Forum](https://www.researchsoft.org/community-forum/) (CL
 
 The CLF is open to everyone and features a short talk and follow-up discussion, with the aim of facilitating community consideration about next steps to address particular issues. We welcome input about topics for discussion. Please let us know if you’d like to suggest a topic for an upcoming call. 
 
-Meetings occur at alternating times to maximise attendance by participants in different time zones. The CLF endeavours to provide a welcoming and inclusive environment, and to engage a broad range of participants from across the globe. Meetings utilise ReSA’s [Code of Conduct](https://www.researchsoft.org/code-of-conduct/). To help us plan accessible calls, please let us know any requirements you may have by contacting info@researchsoft.org. 
+Meetings occur at alternating times to maximise attendance by participants in different time zones. The CLF endeavours to provide a welcoming and inclusive environment, and to engage a broad range of participants from across the globe. Meetings utilise ReSA’s [Code of Conduct](.../.../about/code-of-conduct/). To help us plan accessible calls, please let us know any requirements you may have by contacting info@researchsoft.org. 
 
 
 ### Upcoming calls:
@@ -47,5 +47,5 @@ Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm
 
 ### Useful links
   * [Contact ReSA](../../contact/)
-  * [ReSA’s Code of Conduct](../../code-of-conduct/)
+  * [ReSA’s Code of Conduct](/about/code-of-conduct/)
   * [Register your email for updates](https://dashboard.mailerlite.com/forms/778129/110635102019519744/share)

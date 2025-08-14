@@ -60,7 +60,7 @@ There are many ways to get involved with ReSA. In line with its mission, ReSA of
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
-  * [ReSA Code of Conduct](https://www.researchsoft.org/code-of-conduct/)
+  * [ReSA Code of Conduct](/about/code-of-conduct/)
   * [Contact us](/contact)
 
 _Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
