@@ -33,17 +33,17 @@ sections:
         following ways:
 
         - Bring community members together through
-        [task forces](https://www.researchsoft.org/taskforces/) on specific issues
+        [task forces](/taskforces/) on specific issues
         impacting the global research software ecosystem.
         - Facilitate
-        [networking opportunities](https://www.researchsoft.org/funders-forum/)
-        for [stakeholders](https://www.researchsoft.org/stakeholders/) to exchange information and collaborate on an international level.
-        - Create a range of [outputs](https://www.researchsoft.org/resa-resources/) that
+        [networking opportunities](/../forums/funders-forum/)
+        for [stakeholders](/about/stakeholders/) to exchange information and collaborate on an international level.
+        - Create a range of [outputs](/resource/resa-resources/) that
         provide useful references to support recognition and valuing of research
         software as a key component of research.
-        - Co-convene [events](https://www.researchsoft.org/events/) with international
+        - Co-convene [events](/events/events-current/) with international
         collaborators.
-        - Share [best practices](https://www.researchsoft.org/guidelines/) for the
+        - Share [best practices](/resource/guidelines/) for the
         recognition of research software and the people who develop and maintain it.
 
         We welcome any amount you can offer – every donation makes a positive impact on
