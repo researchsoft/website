@@ -83,7 +83,7 @@ sections:
         software can increase the access to unclassified published research, digital scientific
         data, and code supported by the US Government.
             
-        -   [Research software is essential for research data, so how should governments respond?](https://www.researchsoft.org/blog/2021-12/), 2021. This ReSA blog post provides an overview of the current state of international adoption of research software policies and how different countries address these, in order to lay out concrete advice and examples for national governments wishing to update their policies.
+        -   [Research software is essential for research data, so how should governments respond?](/blog/2021-12/), 2021. This ReSA blog post provides an overview of the current state of international adoption of research software policies and how different countries address these, in order to lay out concrete advice and examples for national governments wishing to update their policies.
 
         -   [Six Recommendations for implementation of FAIR practice by the FAIR
             in practice task force of the European Open Science Cloud FAIR
@@ -123,7 +123,7 @@ sections:
 
         ### Research institution policies
 
-        ReSA is creating a listing of [institutional policies that support research software](https://www.researchsoft.org/software-policies/) in a range of organisations - please add to this or join the [task force](https://www.researchsoft.org/taskforces/) undertaking this work.
+        ReSA is creating a listing of [institutional policies that support research software](/resource/software-policies/) in a range of organisations - please add to this or join the [task force](/taskforces/) undertaking this work.
 
         ## Infrastructure
 

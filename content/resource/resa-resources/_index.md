@@ -41,16 +41,16 @@ sections:
         * [Research institution policies to support research software -  Collection](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0) - updated regularly.
         * [Resources on how to create a research software engineering (RSE) group (within an organisation) or association (national, etc)](https://doi.org/10.5281/zenodo.14025417), 2024. 
         * [Research software is critical to the future of AI-driven research](https://doi.org/10.5281/zenodo.13350747), 2024.
-        * [The FAIR for Research Software Principles after two years: an adoption update](https://www.researchsoft.org/blog/2024-03/), 2024.
-        * [Investing in People: Anticipating the Future of Research Software](https://www.researchsoft.org/blog/2023-10/), 2023.
-        * [How Can Open Source Program Offices (OSPOs) Support Research Software?](https://www.researchsoft.org/blog/2023-06/), 2023.
+        * [The FAIR for Research Software Principles after two years: an adoption update](/blog/2024-03/), 2024.
+        * [Investing in People: Anticipating the Future of Research Software](/blog/2023-10/), 2023.
+        * [How Can Open Source Program Offices (OSPOs) Support Research Software?](/blog/2023-06/), 2023.
         * [Global gathering of research software funders sets the agenda for supporting sustainable research software](https://zenodo.org/record/7384410), 2022.
-        * [Encouraging entry, retention, diversity and inclusion in research software careers](https://www.researchsoft.org/blog/2022-09/), 2022.
+        * [Encouraging entry, retention, diversity and inclusion in research software careers](/blog/2022-09/), 2022.
         * [FAIR Principles for Research Software](https://rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs-0), 2022, which were introduced in this [article](https://www.nature.com/articles/s41597-022-01710-x) in *Scientific Data*.
-        * [Vive la différence - research software engineers](https://www.researchsoft.org/blog/2022-07/), outcomes of a hybrid workshop on centralising diversity, equity and inclusion at the heart of research software engineering, 2022.
-        * [Research software is essential for research data, so how should governments respond?](https://www.researchsoft.org/blog/2021-12/), 2021.
+        * [Vive la différence - research software engineers](/blog/2022-07/), outcomes of a hybrid workshop on centralising diversity, equity and inclusion at the heart of research software engineering, 2022.
+        * [Research software is essential for research data, so how should governments respond?](/blog/2021-12/), 2021.
         * [ReSA People Roadmap](https://www.researchsoft.org/documents/people-roadmap.pdf), 2021.
-        * [Overview of research software funding landscape](https://www.researchsoft.org/blog/2022-02-24/), 2021.
+        * [Overview of research software funding landscape](/blog/2022-02-24/), 2021.
         * [Research software landscape analysis](https://doi.org/10.5281/zenodo.3699950), 2020.
         * [ReSA Response to US RFI: Public Access to Peer-Reviewed Scholarly Publications, Data and Code Resulting From Federally Funded Research](https://doi.org/10.5281/zenodo.3828148), 2020.
         * [RDA COVID-19 Guidelines and Recommendations](https://doi.org/10.15497/rda00052) contains a software chapter coordinated by ReSA that provides guidelines to policy makers, funders, publishers, and the research community responding to COVID-19, 2020.
@@ -60,7 +60,7 @@ sections:
 
         The significant role that software plays in research has been identified in a range of surveys and studies that include the following:
 
-        * [Research Software - What to fund?](https://zenodo.org/records/10651247) summarises the results of an international survey that collected information from researchers worldwide on their expectations concerning an international funding call to support the development and enhancement of research software. The survey, conducted by the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/) working group on a multilateral funding call for research software, demonstrates a widespread interest in such an initiative and the areas in which such a call could be successful. 
+        * [Research Software - What to fund?](https://zenodo.org/records/10651247) summarises the results of an international survey that collected information from researchers worldwide on their expectations concerning an international funding call to support the development and enhancement of research software. The survey, conducted by the [Research Software Funders Forum](/forums/funders-forum/) working group on a multilateral funding call for research software, demonstrates a widespread interest in such an initiative and the areas in which such a call could be successful. 
         * [New data reveals the hidden impact of open source in science](https://medium.com/czi-technology/new-data-reveals-the-hidden-impact-of-open-source-in-science-11cc4a16fea2): The Chan Zuckerberg Initiative has released a dataset entirely composed of 67 million software mentions mined from the scientific literature, to understand how widely research software and open source tools are used across disciplines.
         * [The role of software in science: a knowledge graph-based analysis of software mentions in PubMed Central](https://doi.org/10.7717/peerj-cs.835) provides insights into the evolution of software usage and citation patterns across various fields, ranks of journals, and impact of publications.
         * [Charting the digital transformation of science: Findings from the 2018 OECD International Survey of Scientific Authors (ISSA2)](https://www.oecd-ilibrary.org/science-and-technology/charting-the-digital-transformation-of-science_1b06c47c-en) includes evidence that 25% of research produces new code.
