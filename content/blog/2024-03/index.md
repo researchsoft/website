@@ -53,7 +53,7 @@ This reflects that the FAIR4RS Principles are aspirational and high-level, and d
 - The German Research Council (DFG) published [guidelines for reviewing grant proposals](https://www.dfg.de/resource/blob/168500/a5f52374b2b21a184b9db9e48f411e9d/60-14-en-data.pdf) for Collaborative Research Centers (CRC/SFB) and suggested compliance with the FAIR4RS Principles for archiving and reuse.
 - The [Digital Research Alliance of Canada](https://alliancecan.ca/en) (the Alliance) published the [National Research Software Strategy 2023](https://zenodo.org/records/10214741). This proposes a set of strategic goals for advancing research software capability, community, and coordination in Canada for 2025-2030, with the FAIR4RS Principles providing a cross-cutting theme. The Alliance is developing a Software Management Plan (SMP) template to promote, cultivate and implement best practices, with an emphasis on the FAIR4RS Principles, for Canadian researchers. The goal is to implement the SMP template in future grant applications.
 
-Resources that support inclusion of FAIR into institutional policies are also relevant. The list of [research institutional policies](https://www.researchsoft.org/software-policies/) that support research software, curated by the Research Software Alliance (ReSA), is part of ongoing work by the joint ReSA and Research Data Alliance (RDA) [Policies in Research Organisations for Research Software (PRO4RS) Working Group](https://www.rd-alliance.org/groups/policies-research-organisations-research-software-pro4rs) to create a community of stakeholders involved in promoting and/or implementing policy that supports research software at the research institution level (such as universities, national laboratories). This includes curation of resources on how to influence policy change, such as [Health Research Performing Organisations (HRPOs) FAIR Guidelines](https://doi.org/10.15497/RDA00078) by Celia Alvarez Romero et al. This provides principles, steps, and resources to support the complex change needed to implement a data policy, which could also be applied to research software policy change.
+Resources that support inclusion of FAIR into institutional policies are also relevant. The list of [research institutional policies](/resource/software-policies/) that support research software, curated by the Research Software Alliance (ReSA), is part of ongoing work by the joint ReSA and Research Data Alliance (RDA) [Policies in Research Organisations for Research Software (PRO4RS) Working Group](https://www.rd-alliance.org/groups/policies-research-organisations-research-software-pro4rs) to create a community of stakeholders involved in promoting and/or implementing policy that supports research software at the research institution level (such as universities, national laboratories). This includes curation of resources on how to influence policy change, such as [Health Research Performing Organisations (HRPOs) FAIR Guidelines](https://doi.org/10.15497/RDA00078) by Celia Alvarez Romero et al. This provides principles, steps, and resources to support the complex change needed to implement a data policy, which could also be applied to research software policy change.
 
 **2\. Incentives that motivate change:**
 
@@ -66,7 +66,7 @@ Resources that support inclusion of FAIR into institutional policies are also re
 **3\. Communities that are normalising adoption:**
 
 - The RDA [Software Source Code Interest Group](https://www.rd-alliance.org/groups/software-source-code-ig) provides a forum to discuss issues on management, sharing, discovery, archival and provenance of software source code. In October 2023 the [group session](https://www.rd-alliance.org/plenaries/international-data-week-2023-salzburg/mastering-art-research-software-metadata-and-metrics) at the RDA Plenary included a focus on the FAIR-IMPACT Metrics for Assessing Research Software FAIRness ([recording](https://www.youtube.com/watch?v=whfFF1tMdlk)). In addition, this group is the maintenance home for the FAIR4RS Principles.
-- The [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/) included a working group focused on implementation of the FAIR4RS Principles, which review the FAIR4RS Principles per the interests of research software funders, to identify gaps.
+- The [Research Software Funders Forum](/forums/funders-forum/) included a working group focused on implementation of the FAIR4RS Principles, which review the FAIR4RS Principles per the interests of research software funders, to identify gaps.
 - [Ten simple rules for starting FAIR discussions in your community](https://doi.org/10.1371/journal.pcbi.1011668) presents guidance and recommendations on how to start up discussions around the implementation of the FAIR Principles and creation of standardised ways of working. Whilst not specific to FAIR4RS Principles, these recommendations can assist in providing understanding of the benefits and barriers of standardisation are, and will support a more effective way of engaging the community.
 
 **4\. Training to develop relevant skills:**
@@ -106,7 +106,7 @@ The FAIR4RS Principles have also provided value to the broader research ecosyste
 ### Important links
   * [Full report DOI: 10.5281/zenodo.10816031](https://doi.org/10.5281/zenodo.10816032)
   * [FAIR for Research Software (FAIR4RS) Principles](https://doi.org/10.1038/s41597-022-01710-x)
-  * [ReSA newsletter](https://www.researchsoft.org/news/)
+  * [ReSA newsletter](/news/)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
+  * [ReSA resources](/resource/resa-resources)
+  * [Contact us](/about/contact)

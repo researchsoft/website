@@ -184,16 +184,16 @@ UKRI. 2020. &quot;The UK&#39;s Research and Innovation Infrastructure: Landscape
 
 ### Important links
   * Table of Contents
-      * [Methodology](https://www.researchsoft.org/blog/2022-02-24/#methodology)
-      * [Research software funding](https://www.researchsoft.org/blog/2022-02-24/#research-software-funding)
-      * [Discussion](https://www.researchsoft.org/blog/2022-02-24/#discussion)
-      * [Future Work](https://www.researchsoft.org/blog/2022-02-24/#future-work)
-      * [Acknowledgements](https://www.researchsoft.org/blog/2022-02-24/#acknowledgements)
-      * [References](https://www.researchsoft.org/blog/2022-02-24/#references)
+      * [Methodology](/blog/2022-02-24/#methodology)
+      * [Research software funding](/blog/2022-02-24/#research-software-funding)
+      * [Discussion](/blog/2022-02-24/#discussion)
+      * [Future Work](/blog/2022-02-24/#future-work)
+      * [Acknowledgements](/blog/2022-02-24/#acknowledgements)
+      * [References](/blog/2022-02-24/#references)
 
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
   * [Contact us](/contact)
 
-_Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
+_Want to discuss this post with us? Send us an email via [contact us](/about/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._

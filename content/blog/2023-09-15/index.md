@@ -33,11 +33,11 @@ Organisations and individuals who do not fully identify with the definition of f
 
 "_Through new programs and funding opportunities at NIH, such as the Open Source Software program and the Software Research Engineers program, the agency is supporting sustainable foundations for the development and deployment of software tools in the biomedical and behavioral sciences._" \- Susan Gregurick, Director, Office of Data Science Strategy, National Institutes of Health, USA
 
-In the coming months we expect to see many funders signing the declaration and other non-funders showing their support! To stay updated on this declaration, [subscribe](https://www.researchsoft.org/news/) to the ReSA newsletter for updates.
+In the coming months we expect to see many funders signing the declaration and other non-funders showing their support! To stay updated on this declaration, [subscribe](/news/) to the ReSA newsletter for updates.
 
 ### Important links
-  * [ReSA Blog](https://www.researchsoft.org/blog/)
+  * [ReSA Blog](/blog/)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
+  * [ReSA newsletters](/news/)
+  * [ReSA resources](/resource/resa-resources/)
+  * [Contact us](/about/contact/)

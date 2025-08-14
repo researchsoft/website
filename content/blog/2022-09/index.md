@@ -138,6 +138,6 @@ This work is supported by the Alfred P. Sloan Foundation, grant no G-2021-17001.
 ### Important links
   * [DOI: 10.5281/zenodo.7117842](https://zenodo.org/record/7117842#.YzOwGOxByUl)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
+  * [ReSA newsletters](/news/)
+  * [ReSA resources](/resource/resa-resources/)
+  * [Contact us](/about/contact/)

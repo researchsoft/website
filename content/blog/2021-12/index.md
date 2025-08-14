@@ -150,8 +150,8 @@ ReSA encourages national governments to review their policies and implementation
   *  NLeSC [news post](https://www.esciencecenter.nl/news/research-software-alliance-calls-on-governments-to-improve-research-software-policies/)
 
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
+  * [ReSA newsletters](/news/)
+  * [ReSA resources](/resource/resa-resources/)
+  * [Contact us](/about/contact/)
 
 _Want to discuss this post with us? Send us an email via [contact us](/about/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._

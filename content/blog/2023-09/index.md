@@ -100,7 +100,7 @@ _Visibility of Achievements_
 This is a small selection of the 44 potential activities that are now live, prepared as part of the [URSSI Policy project](https://urssi.us/projects/policy/about/). The activities outlined so far offer a multi-pronged approach to advancing the research software field. They aim to create a more equitable, transparent, and dynamic academic ecosystem. These activities are not just suggestions to help the research software field chart its course; they're potential catalysts for change. They aim to redefine academic norms, making room for the computational cornerstone that is research software. It's time to give research software its due, not as a mere tool, but as a cornerstone of academic innovation. Ready to contribute or learn more? Check out the [collection of activities](https://github.com/si2-urssi/policy/issues?q=is%3Aissue+is%3Aopen+label%3AActivity) and let's elevate research software together!
 
 ### Important links
-  * [Research Blog](https://www.researchsoft.org/blog/)
+  * [Research Blog](/blog/)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)

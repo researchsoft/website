@@ -90,9 +90,9 @@ The [**Machine Intelligence Institute of Africa**](https://miiafrica.org/researc
 This project has been made possible in part by a grant from The Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation.
 
 ### Important links
-  * [ReSA newsletter](https://www.researchsoft.org/news/)
+  * [ReSA newsletter](/news/)
   * [RSSE Africa](https://rsse.africa/)
   * [RSSE Africa LinkedIn group](https://www.linkedin.com/groups/12903402/)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
+  * [ReSA resources](/resource/resa-resources)
+  * [Contact us](/about/contact)

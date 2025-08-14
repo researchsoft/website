@@ -18,7 +18,7 @@ Authors: Daniel S. Katz, Tom Honeyman, Paula Andrea Martinez, Michelle Barker, L
 
 ## Introduction
 
-This blog post describes the need for, the work towards, and the [recent completion](https://www.researchsoft.org/blog/2022-06/) of version 1.0 of the FAIR Principles for Research Software ([FAIR4RS Principles v1.0](https://doi.org/10.15497/RDA00068)). It also briefly discusses the principles themselves, and how they differ from the FAIR data principles. It concludes with next steps that stakeholders can take to implement the principles.
+This blog post describes the need for, the work towards, and the [recent completion](/blog/2022-06/) of version 1.0 of the FAIR Principles for Research Software ([FAIR4RS Principles v1.0](https://doi.org/10.15497/RDA00068)). It also briefly discusses the principles themselves, and how they differ from the FAIR data principles. It concludes with next steps that stakeholders can take to implement the principles.
 
 ## Need for FAIR principles for research software
 
@@ -130,7 +130,7 @@ The various types of stakeholders who work with research software now have a sol
 We look forward to seeing the results of these steps, which we think will lead to more FAIR software, in turn leading to more reuse and less redundant development.
 
 ### Important links
-  * [FAIR4 for Research Software completion article](https://www.researchsoft.org/blog/2022-06/)
+  * [FAIR4 for Research Software completion article](/blog/2022-06/)
   * [FAIR4RS Principles v1.0 on Zenodo](https://doi.org/10.15497/RDA00068)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
