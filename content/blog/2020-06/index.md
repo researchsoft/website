@@ -28,7 +28,7 @@ This blog analyses work evidencing the importance of research software to resear
 </div>  
 Photo from <a href="https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/Black_hole#/media/File:Black_hole_-_Messier_87.jpg">Wikimedia</a>
 
-The Research Software Alliance (ReSA) [Taskforce for the importance of research software](https://www.researchsoft.org/taskforces/) was formed initially to bring together existing evidence showing the importance of research software in the research process. This kind of information is critical to achieving ReSA’s vision to have research software recognised and valued as a fundamental and vital component of research worldwide.
+The Research Software Alliance (ReSA) [Taskforce for the importance of research software](/taskforces/) was formed initially to bring together existing evidence showing the importance of research software in the research process. This kind of information is critical to achieving ReSA’s vision to have research software recognised and valued as a fundamental and vital component of research worldwide.
 
 #### Methodology
 
@@ -111,4 +111,4 @@ We encourage readers to submit additional resources to the ReSA resources list, 
   * [ReSA resources](/resa-resources)
   * [Contact us](/contact)
 
-_Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
+_Want to discuss this post with us? Send us an email via [contact us](/about/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._

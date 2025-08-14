@@ -38,11 +38,11 @@ Research software is increasingly valued in the research ecosystem, and internat
 
 In 2022, the ReSA Founding Members will provide a combination of funding and in-kind support totalling USD$365,000. This will support a multitude of community projects, including:
 
-* [Vive la différence - research software engineers](https://www.researchsoft.org/events/2022-04/), a [Lorentz Center](https://www.lorentzcenter.nl/about-us.html) hybrid workshop in April 2022 to consider diversity, equity, and inclusion could be framed at the heart of research software engineering.
-* Establishment of the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/) to provide a formal mechanism for funders to share practices and consider how to address common challenges to achieve the significant cultural change needed across the research sector globally. Thirty funders from all over the world are participating in this initiative.
+* [Vive la différence - research software engineers](/events/events-past/2022-04/), a [Lorentz Center](https://www.lorentzcenter.nl/about-us.html) hybrid workshop in April 2022 to consider diversity, equity, and inclusion could be framed at the heart of research software engineering.
+* Establishment of the [Research Software Funders Forum](/forums/funders-forum/) to provide a formal mechanism for funders to share practices and consider how to address common challenges to achieve the significant cultural change needed across the research sector globally. Thirty funders from all over the world are participating in this initiative.
 * Expansion of the mapping of the research software community landscape to expand the [2020 analysis](https://doi.org/10.5281/zenodo.3699949) to include more geographic regions. Twelve experts from around the globe will provide information on the research software initiatives, events and funding opportunities in their own geographic regions.
 
-To date, ReSA has been [supported](https://www.researchsoft.org/about-resa/) to achieve its aims through USD$420,000 in philanthropic funding from the Alfred P. Sloan Foundation, Chan Zuckerberg Initiative, Gordon and Betty Moore Foundation, and Wellcome Trust. This has enabled outcomes across the three ReSA themes of people, policy and infrastructure, that include:
+To date, ReSA has been [supported](/about/) to achieve its aims through USD$420,000 in philanthropic funding from the Alfred P. Sloan Foundation, Chan Zuckerberg Initiative, Gordon and Betty Moore Foundation, and Wellcome Trust. This has enabled outcomes across the three ReSA themes of people, policy and infrastructure, that include:
 
 * People: Completion of the [ReSA People Roadmap](https://www.researchsoft.org/documents/people-roadmap.pdf) to facilitate identification and prioritization of the major issues related to people (or personnel) challenges faced by the research software community, including research software engineers.
 * Policy: Development of recommendations for policymakers, research organizations, funders and publishers on how to support research software (including in [response to COVID-19 challenges](https://zenodo.org/record/3932953#.Xx_f7Z4za70)).
@@ -50,17 +50,17 @@ To date, ReSA has been [supported](https://www.researchsoft.org/about-resa/) to 
 
 There are many ways to get involved with ReSA. In line with its mission, ReSA offers opportunities for community members representing multiple stakeholders to work together to achieve shared goals, which include:
 
-* Joining [task forces](https://www.researchsoft.org/taskforces/) focused on specific activities
-* Receiving updates through our regular [newsletter](https://www.researchsoft.org/news/)
-* Helping to raise awareness of the importance of software in research through use of [ReSA resources](https://www.researchsoft.org/resa-resources/)
-* Connecting with other community members at our [events](https://www.researchsoft.org/events/)
-* [Contributing](https://www.researchsoft.org/contact/) ideas for task forces, events, newsletter items
+* Joining [task forces](/taskforces/) focused on specific activities
+* Receiving updates through our regular [newsletter](/news/)
+* Helping to raise awareness of the importance of software in research through use of [ReSA resources](/resource/resa-resources/)
+* Connecting with other community members at our [events](/events/events-current/)
+* [Contributing](/../../about/contact/) ideas for task forces, events, newsletter items
 
 ### Important links
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
+  * [ReSA resources](/resource/resa-resources)
   * [ReSA Code of Conduct](/about/code-of-conduct/)
-  * [Contact us](/contact)
+  * [Contact us](/about/contact)
 
-_Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
+_Want to discuss this post with us? Send us an email via [contact us](/about/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._

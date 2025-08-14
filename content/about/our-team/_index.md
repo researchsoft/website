@@ -90,7 +90,7 @@ sections:
                 <i class="fab fa-github"></i>
                 </a>
                 </p>
-              <p align="center">Kim joined ReSA in 2022, with support from the <a href = "https://alliancecan.ca/">Digital Research Alliance of Canada</a>, to facilitate the <a href = "https://www.researchsoft.org/funders-forum/">Research Software Funders Forum</a>, a formal mechanism for international funding organisations to collaborate.
+              <p align="center">Kim joined ReSA in 2022, with support from the <a href = "https://alliancecan.ca/">Digital Research Alliance of Canada</a>, to facilitate the <a href = "https://www.researchsoft.org/forums/funders-forum/">Research Software Funders Forum</a>, a formal mechanism for international funding organisations to collaborate.
               Kim supports the Funders Forum by engaging the community in collaborative activities designed to share practices and address common challenges, with the
               intention of advancing the research software ecosystem.
               A social anthropologist by training, Kim brings a passion for understanding the ways in which people live in different social and cultural settings

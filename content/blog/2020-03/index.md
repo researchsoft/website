@@ -34,7 +34,7 @@ When thinking about these communities, it’s clear that in addition to those th
 
 ### How was this work undertaken?
 
-In September 2019, a [ReSA taskforce](https://www.researchsoft.org/taskforces/) came together to map the software community landscape, consisting of the authors of this blog. This group distributed a survey to ReSA subscribers to identify other groups interested in software. Other useful sources included:
+In September 2019, a [ReSA taskforce](/taskforces/) came together to map the software community landscape, consisting of the authors of this blog. This group distributed a survey to ReSA subscribers to identify other groups interested in software. Other useful sources included:
 
 *   [Netherlands eScience Center: Awesome-research-software-registries](https://github.com/NLeSC/awesome-research-software-registries/blob/master/README.md) by Jurriaan Spaaks
 *   [eResearch-meeting-list](https://github.com/jamespjh/eResearch-meeting-list/tree/master) by James Hetherington
@@ -63,7 +63,7 @@ There were a range of interesting outcomes of the analysis:
 
 ### What are the next steps?
 
-We invite readers to continue to add or make corrections to the [ReSA list of research software communities](https://docs.google.com/spreadsheets/d/15JHqOxR4HIKHYe821IPvbxIuXP1zMjXKGEIJwB-GPqE/edit#gid=0) by making comments in the list, which will continue to be curated by ReSA. We are also interested to hear from community members who would like to engage with us in writing a landscape paper based on further analysis and work. This could address questions such as what are the axes that create the space, where do the currently-known organizations fit in the space, and are there gaps where no organization is currently working? We also invite readers to consider involvement in other ReSA activities, including [Taskforces](https://www.researchsoft.org/taskforces/).
+We invite readers to continue to add or make corrections to the [ReSA list of research software communities](https://docs.google.com/spreadsheets/d/15JHqOxR4HIKHYe821IPvbxIuXP1zMjXKGEIJwB-GPqE/edit#gid=0) by making comments in the list, which will continue to be curated by ReSA. We are also interested to hear from community members who would like to engage with us in writing a landscape paper based on further analysis and work. This could address questions such as what are the axes that create the space, where do the currently-known organizations fit in the space, and are there gaps where no organization is currently working? We also invite readers to consider involvement in other ReSA activities, including [Taskforces](/taskforces/).
 
 ### Conclusion
 
@@ -82,4 +82,4 @@ ReSA aims to coordinate across these efforts to leverage investments, to achieve
   * [ReSA resources](/resa-resources)
   * [Contact us](/contact)
 
-_Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
+_Want to discuss this post with us? Send us an email via [contact us](/about/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._

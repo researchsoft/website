@@ -135,15 +135,15 @@ There is also strong consensus that the development of research software must be
 
 To advance this agenda across the research community as a whole requires both policy development and implementation. While there are clear recommendations on how national research software policies need to develop, and examples of how some countries are implementing increased recognition of the importance of research software and those who maintain it, different countries are at different stages of development.
 
-ReSA aims to establish collaborations that  support this work, including the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/). This collaboration of organisations that are committed to supporting research software, and those who develop it, will convene in early 2022 with investment from the [Alfred](https://sloan.org/programs/digital-technology/better-software-for-science)[ P. Sloan Foundation](https://sloan.org/programs/digital-technology/better-software-for-science). The Forum will create a formal mechanism to share funding practices, learn from each other, and propose methods to better tackle common challenges such as resourcing for maintenance of research software investments.
+ReSA aims to establish collaborations that  support this work, including the [Research Software Funders Forum](/forums/funders-forum/). This collaboration of organisations that are committed to supporting research software, and those who develop it, will convene in early 2022 with investment from the [Alfred](https://sloan.org/programs/digital-technology/better-software-for-science)[ P. Sloan Foundation](https://sloan.org/programs/digital-technology/better-software-for-science). The Forum will create a formal mechanism to share funding practices, learn from each other, and propose methods to better tackle common challenges such as resourcing for maintenance of research software investments.
 
 ReSA encourages national governments to review their policies and implementation strategies in light of OECD, UNESCO, and ReSA recommendations. To support the work of individual countries, a more detailed analysis of how a range of countries are progressing should also be undertaken, based on a framework such as the maturity matrix that [Science Europe](https://www.scienceeurope.org/media/b3odxx3s/se-practical-guide-sustainable-research-data.pdf) uses to assess the sustainability of the research data initiatives. This could provide organisations such as OECD and UNESCO with evidence of how government policies are implementing their recommendations and identify geographic regions needing additional support.
 
 ### Important Links
   * Table of Contents
-      * [International adoption](https://www.researchsoft.org/blog/2021-12/#international-adoption)
-      * [National landscape analysis](https://www.researchsoft.org/blog/2021-12/#national-landscape-analysis)
-      * [Key recommendations from ReSA](https://www.researchsoft.org/blog/2021-12/#key-recommendations-from-resa)
+      * [International adoption](/blog/2021-12/#international-adoption)
+      * [National landscape analysis](/blog/2021-12/#national-landscape-analysis)
+      * [Key recommendations from ReSA](/blog/2021-12/#key-recommendations-from-resa)
 
   * Research software is essential for research data, so how should governments respond?. Zenodo. [https://doi.org/10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
   * SSI [news post](https://software.ac.uk/news/research-software-alliance-calls-governments-improve-research-software-policies)
@@ -154,4 +154,4 @@ ReSA encourages national governments to review their policies and implementation
   * [ReSA resources](/resa-resources)
   * [Contact us](/contact)
 
-_Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
+_Want to discuss this post with us? Send us an email via [contact us](/about/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
