@@ -47,5 +47,5 @@ Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm
 
 ### Useful links
   * [Contact ReSA](../../contact/)
-  * [ReSA’s Code of Conduct](/about/code-of-conduct/)
+  * [ReSA’s Code of Conduct](.../.../about/code-of-conduct/)
   * [Register your email for updates](https://dashboard.mailerlite.com/forms/778129/110635102019519744/share)
