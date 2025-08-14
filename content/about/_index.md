@@ -37,7 +37,7 @@ sections:
         A [wide range](https://arxiv.org/abs/1811.08473) of research software organisations and programs exist internationally to address the varied challenges in
         software productivity, quality, reproducibility, and sustainability. ReSA aims to coordinate across these efforts to leverage investments, to achieve shared goals. The [ReSA Strategic Plan](https://doi.org/10.5281/zenodo.15444952) provides details. The [ReSA engagement plan](https://doi.org/10.5281/zenodo.7714004) contains more information on how community engagement occurs. Also available is our [2024 Community Report](https://doi.org/10.5281/zenodo.15264853) and [overview of ReSA](https://doi.org/10.54900/zwm7q-vet94).
 
-        ReSA is a fiscally sponsored project of [Code for Science & Society](https://www.codeforsociety.org/) and led by the ReSA [Steering Committee](https://www.researchsoft.org/people/).  
+        ReSA is a fiscally sponsored project of [Code for Science & Society](https://www.codeforsociety.org/) and led by the ReSA [Steering Committee](/about/governance/).  
 
         Members of the ReSA community are expected to adhere to the ReSA [Code of Conduct](/about/code-of-conduct/).
 
@@ -65,7 +65,7 @@ sections:
 
         While software has started to be recognised internationally as a key part of facilitating trusted, reproducible research outputs and open science, recognition of research software as a valuable research input and output has lagged behind that of research data. AI-driven research is also [dependent on software](https://doi.org/10.5281/zenodo.13350747), although it is not always adequately understood that data preparation and model training are performed by software, and that models are implemented in software.
 
-        [Significant effort](https://www.nature.com/articles/s43588-024-00651-2) is still needed to influence culture change towards research software across a broad spectrum of [stakeholders](https://www.researchsoft.org/stakeholders/), including researchers, institutions, funders, and publishers, and to develop and promote standards for developing research software that meets the needs of reliable, reproducible, and reusable research.
+        [Significant effort](https://www.nature.com/articles/s43588-024-00651-2) is still needed to influence culture change towards research software across a broad spectrum of [stakeholders](/about/stakeholders/), including researchers, institutions, funders, and publishers, and to develop and promote standards for developing research software that meets the needs of reliable, reproducible, and reusable research.
          </div>
         </div>  
     design:
@@ -108,11 +108,11 @@ sections:
          <div class="col-md-8 text-start">
 
         ReSA is supported by the community through:
-        * [Organisational Members](https://www.researchsoft.org/membership/)
+        * [Organisational Members](/about/membership/)
         * Project grants
         * Founding Members
-        * [Task force support](https://www.researchsoft.org/tf-support/) 
-        * [Donations](https://www.researchsoft.org/donate/)
+        * [Task force support](../taskforces/tf-support/) 
+        * [Donations](/about/donate/)
 
         ReSA’s operations are supported through a combination of financial and in-kind contributions from Founding Members, Organisational Members, and project grants. These resources primarily sustain a part-time Director and a part-time Program Manager, who lead the ReSA community and facilitate its activities.
 
