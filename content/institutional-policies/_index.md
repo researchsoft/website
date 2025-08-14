@@ -28,7 +28,7 @@ sections:
         The ReSA collection on institutional policies to support research software is open for input of new policies. You can add your organisation’s policy to it [via this form](https://docs.google.com/forms/d/e/1FAIpQLSenXMgY6c5IDpjvSxfXOWfMwvK8CNrWNFwqZNRgqqRYyyqVJg/viewform) or through a comment in the [google sheet](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0). You can also engage by 
         joining the [Policies in Research Organisations for Research Software (PRO4RS) Working Group](https://www.rd-alliance.org/groups/rda-resa-policies-research-organisations-research-software-pro4rs/forum/).
 
-        For information on national and international policies that support research software, refer to our [listing on the Guidelines page](https://www.researchsoft.org/guidelines/) and [blog post](https://www.researchsoft.org/blog/2021-12/).
+        For information on national and international policies that support research software, refer to our [listing on the Guidelines page](/resource/guidelines/) and [blog post](/blog/2021-12/).
 
         <br>
         <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFcGM-SZIA-IJ7Kb9jN0-CZNI6wWFKxXX6lFejoMDvVnn_N-tqTxHsRi_EMCYXeNUjYU8CPXJ8BbtU/pubhtml?widget=true&amp;headers=false"  frameborder="0" height="1000" width="100%"></iframe>

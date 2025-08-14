@@ -58,4 +58,4 @@ The closing date for input and feedback is **Friday 15 November, 2024**.
     * [5 Nov 2024, 05:00-6:00 UTC](https://drive.google.com/file/d/1MluuHJdOjCxvF2JCRgCbV5GIj2hj1OsO/view?usp=drive_link)
     * [5 Nov 2024, 09:00-10:00 UTC](https://drive.google.com/file/d/11WDjEWESC9d5KWWIeEyoIJ1u7GL7w-ic/view?usp=drive_link)
   * [ReSA’s Code of Conduct](.../.../about/code-of-conduct/)
-  * [Subscribe to ReSA newsletter](https://www.researchsoft.org/news/)
+  * [Subscribe to ReSA newsletter](/news/)

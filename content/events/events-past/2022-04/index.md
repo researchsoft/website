@@ -33,11 +33,11 @@ The workshop aims to:
 4. Connect efforts on improving DEI in research software engineering with similar efforts in the open source software community.
 5. Bring together representatives of the increasing array of different types of organisations and initiatives in this space, as enabling more alignment and networks between these has the potential to create the critical mass needed for some outcomes. These will include national RSE associations; DEI initiatives in RSE/data science; open source software; and industry.
 
-More information on the rationale for the workshop and the **[event agenda](https://docs.google.com/document/d/1jmJwcnP_xbyk1pYVws7mTX-vHrYp9fnAhfjvD2hdbFY/edit#)** is available on the **[Lorentz workshop page](https://www.researchsoft.org/lorentz/)**. ReSA is also collaborating with national research software engineering associations on [DiveRSE](https://diverse-rse.github.io/), a series of talks that provides a public forum to complement the “Vive la différence - research software engineers” workshop, which is limited to 55 participants.  Find out more about the DiveRSE [event series](https://diverse-rse.github.io/about).
+More information on the rationale for the workshop and the **[event agenda](https://docs.google.com/document/d/1jmJwcnP_xbyk1pYVws7mTX-vHrYp9fnAhfjvD2hdbFY/edit#)** is available on the **[Lorentz workshop page](/lorentz/)**. ReSA is also collaborating with national research software engineering associations on [DiveRSE](https://diverse-rse.github.io/), a series of talks that provides a public forum to complement the “Vive la différence - research software engineers” workshop, which is limited to 55 participants.  Find out more about the DiveRSE [event series](https://diverse-rse.github.io/about).
 
 **How to get involved**
 
-Sign up to the [ReSA newsletter](https://www.researchsoft.org/news/) to hear more about the online public events from March-May 2022 that will be associated with the workshop. The workshop itself has a maximum of 55 participants, and if you are interested in joining the participant list please contact [info@researchsoft.org](mailto:info@researchsoft.org).
+Sign up to the [ReSA newsletter](/news/) to hear more about the online public events from March-May 2022 that will be associated with the workshop. The workshop itself has a maximum of 55 participants, and if you are interested in joining the participant list please contact [info@researchsoft.org](mailto:info@researchsoft.org).
 
 **Workshop organisers**
 

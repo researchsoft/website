@@ -36,18 +36,18 @@ The final day of the workshop focused on co-design and collaboration. After expl
 Are you a funder who is interested in learning more about research software and how to explicitly support research software as part of your funding program?
 
 * Join the Funders Forum by [contacting ReSA](mailto:info@researchsoft.org) (or encourage your funders to join\!)  
-* [Subscribe](https://www.researchsoft.org/news/) to our monthly newsletter for [ADORE.software](https://adore.software/) updates  
+* [Subscribe](/news/) to our monthly newsletter for [ADORE.software](https://adore.software/) updates  
 * Show your support for ADORE.software by [signing the Declaration](https://adore.software/get-involved/)  
-* Become a ReSA [Organisational Member](https://www.researchsoft.org/membership/) to demonstrate your commitment to international collaboration and innovation for research; and connect with other decision makers and key influencers  
-* Check out our research software funding opportunities [database](https://www.researchsoft.org/funding-opportunities/) or [add to it](https://forms.gle/r4Jw4swUd1SXigZc9)  
-* [Join](https://www.researchsoft.org/taskforces/) or [support](https://www.researchsoft.org/tf-support/) a ReSA task force  
+* Become a ReSA [Organisational Member](/about/membership/) to demonstrate your commitment to international collaboration and innovation for research; and connect with other decision makers and key influencers  
+* Check out our research software funding opportunities [database](/resource/funding-opportunities/) or [add to it](https://forms.gle/r4Jw4swUd1SXigZc9)  
+* [Join](/taskforces/) or [support](/taskforces/tf-support/) a ReSA task force  
 * Follow us on [LinkedIn](https://www.linkedin.com/company/research-software-alliance/), [Slack](https://researchsoft.slack.com/join/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w#/shared-invite/email), and [Mastodon](https://fosstodon.org/@researchsoft)
 
 We look forward to welcoming you\!
 
 ### Important links
   * [Blog post DOI: https://doi.org/10.59350/j0jjs-0xn06](https://doi.org/10.59350/j0jjs-0xn06)
-  * [ReSA newsletter](https://www.researchsoft.org/news/)
+  * [ReSA newsletter](/news/)
   * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
+  * [ReSA resources](/resource/resa-resources/)
+  * [Contact us](/about/contact)

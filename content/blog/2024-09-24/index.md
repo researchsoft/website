@@ -44,5 +44,5 @@ Participants engaged in discussions around key topics such as building RSE commu
   * [Blog post DOI: https://doi.org/10.59350/fzjbr-tna85](https://doi.org/10.59350/fzjbr-tna85)
   * [RSE Worldwide sessions](https://rsecon24.society-rse.org/programme/rse-worldwide/)
   * [Research Software Engineering Conference](https://rsecon24.society-rse.org/programme/rse-worldwide/)
-  * [ReSA newsletter](https://www.researchsoft.org/news/)
+  * [ReSA newsletter](/news/)
   * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)

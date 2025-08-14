@@ -23,5 +23,5 @@ The SciLifeLab Data Centre and the Research Software Alliance (ReSA) are hosting
 
   * [2023 Research Software Funders Workshop](https://adore.software/international-research-software-funders-workshop/)
   * [2022 Research Software Funders Workshop](https://adore.software/2023/03/international-funders-workshop-the-future-of-research-software/)
-  * [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/)
-  * [Subscribe to ReSA newsletter](https://www.researchsoft.org/news/)
+  * [Research Software Funders Forum](/forums/funders-forum/)
+  * [Subscribe to ReSA newsletter](/news/)

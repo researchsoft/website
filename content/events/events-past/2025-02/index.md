@@ -33,4 +33,4 @@ The three committees are:
 
 ### Useful links
   * [ReSA’s Code of Conduct](.../.../about/code-of-conduct/)
-  * [Subscribe to ReSA newsletter](https://www.researchsoft.org/news/)
+  * [Subscribe to ReSA newsletter](/news/)
