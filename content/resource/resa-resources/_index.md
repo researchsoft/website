@@ -37,7 +37,7 @@ sections:
 
         Recent outputs include:
 
-        * [Research Software Funding Opportunities](https://www.researchsoft.org/funding-opportunities/) - updated regularly.
+        * [Research Software Funding Opportunities](/resource/funding-opportunities/) - updated regularly.
         * [Research institution policies to support research software -  Collection](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0) - updated regularly.
         * [Resources on how to create a research software engineering (RSE) group (within an organisation) or association (national, etc)](https://doi.org/10.5281/zenodo.14025417), 2024. 
         * [Research software is critical to the future of AI-driven research](https://doi.org/10.5281/zenodo.13350747), 2024.
@@ -72,7 +72,7 @@ sections:
 
         Do you have resources to add?
 
-        * Add [new calls](https://forms.gle/r4Jw4swUd1SXigZc9) to the [Research Software Funding Opportunities](https://www.researchsoft.org/funding-opportunities/)
+        * Add [new calls](https://forms.gle/r4Jw4swUd1SXigZc9) to the [Research Software Funding Opportunities](/resource/funding-opportunities/)
         * Submit a resource as an issue in [GitHub](https://github.com/researchsoft/website/issues/new) (requires GitHub account)
         * [Email it directly to ReSA](mailto:info@researchsoft.org)
 
