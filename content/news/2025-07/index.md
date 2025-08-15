@@ -1,14 +1,14 @@
-+++ 
-fragment = "content" 
-weight = 100
+---
+title: "ReSA Newsletter: July 2025"
+subtitle: ""
+date: 2025-07-23
+authors:
+  - ""
 
-title = "ReSA Newsletter: July 2025" 
-title_align = "left"
+summary: ""
+draft: false
+---
 
-display_date = false 
-date = "2025-07-23"
-
-summary = """ 
 This month’s news includes:
 
 * Research software community news, including Lessons Learned from FAIRCORE4EOSC and FAIR-IMPACT: Research Software Outputs
@@ -20,10 +20,5 @@ This month’s news includes:
 * Opportunities to get involved with community initiatives
 * Resources
 * Community events, including US-RSE'25
-
-
-"""
-
-+++
 
 **[Read the July newsletter](https://preview.mailerlite.io/preview/778129/emails/160562416771401098)**

@@ -1,30 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Elevating research software: A new era in international policy"
+subtitle: ""
+date: '2025-07-22'
+authors:
+  - ""
 
-title = "Elevating research software: A new era in international policy"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-disabled = false
-display_date = false
-date = "2025-07-22"
-authors = ["Kim Hartley & Michelle Barker"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false # Default is false
-  content = """
-  * [Research Software Policy (RSP) Forum](https://www.researchsoft.org/rsp-forum/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [Contact us](/contact)
-  """
-
-+++
-
+summary: "Read more..."
+draft: false
+---
 ![My Image](07-2025-blog.jpg) 
 
 By Kim Hartley & Michelle Barker
@@ -32,7 +18,7 @@ By Kim Hartley & Michelle Barker
 
 Research software and the people who support it have emerged over the past decade from behind the scenes to become a recognised cornerstone of open science. Research software is now commonly recognised as central to the global research ecosystem, on par with data, publications, and hardware. Ongoing international efforts are also starting to offer practical guidance that support implementation of these policies.
 
-In response to the recognition of research software as a vital component of the research ecosystem, the OECD’s Committee for Scientific and Technological Policies (CSTP) is launching a new project aimed at understanding the achievements and policy gaps concerning access to research software. This emphasis, alongside initiatives like ReSA’s [Research Software Policy (RSP) Forum](https://www.researchsoft.org/rsp-forum/), marks a clear shift from high-level vision to coordinated, practical implementation.
+In response to the recognition of research software as a vital component of the research ecosystem, the OECD’s Committee for Scientific and Technological Policies (CSTP) is launching a new project aimed at understanding the achievements and policy gaps concerning access to research software. This emphasis, alongside initiatives like ReSA’s [Research Software Policy (RSP) Forum](/forums/rsp-forum/), marks a clear shift from high-level vision to coordinated, practical implementation.
 
 ## New OECD project on access to research software
 
@@ -42,7 +28,7 @@ The OECD project includes a [hybrid workshop](https://www.linkedin.com/feed/upda
 
 ## Research Software Policy (RSP) Forum
 
-Complementing the OECD’s recent work, ReSA recently launched the [Research Software Policy (RSP) Forum](https://www.researchsoft.org/rsp-forum/), a new initiative that brings together policymakers who recognise the vital role of research software and its developers and maintainers in modern research. With participants from national, regional, and international bodies, it provides a collaborative space to share best practices, align policies, and address shared challenges. The RSP Forum aims to accelerate policy development and alignment to support research software through integration with broader research, open science, and open source strategies.
+Complementing the OECD’s recent work, ReSA recently launched the [Research Software Policy (RSP) Forum](/forums/rsp-forum/), a new initiative that brings together policymakers who recognise the vital role of research software and its developers and maintainers in modern research. With participants from national, regional, and international bodies, it provides a collaborative space to share best practices, align policies, and address shared challenges. The RSP Forum aims to accelerate policy development and alignment to support research software through integration with broader research, open science, and open source strategies.
 
 The inaugural meeting brought together representatives from a range of international and national government policy bodies, such as the OECD; Austrian Science Fund (FWF); Canada’s Social Sciences and Humanities Research Council (SSHRC); Dutch Research Council (NWO); Ecuadorian Corporation for the Development of Research and the Academy (CEDIA); Japan’s National Institute of Science and Technology Policy (NISTEP); Lero, the Research Ireland Centre for Software; UK Research and Innovation (UKRI); and US National Institutes of Health (NIH). It also included regional initiatives focused on research software policy, such as the European Virtual Institute for Research Software Excellence (EVERSE), and consortia of research and funding organisations like Science Europe and the Latin American Network for Open Science (LA Referencia). Alan Paic, Senior Policy Analyst at the OECD, delivered a presentation on the organisation’s work in open science, with an emphasis on open software.
 
@@ -60,7 +46,7 @@ See the appendix for our summary of the toolkit’s focus on research software a
 
 ## National policies that support research software
 
-Since ReSA’s earlier [blog post](https://doi.org/10.5281/zenodo.3873832) profiling national research software policies, momentum has continued to grow – an encouraging trend that ReSA regularly highlights in its [newsletter](https://www.researchsoft.org/news/). Several new policies have emerged recently, reflecting the growing global recognition of research software as a critical component of open science. Notable examples include France’s [Second French Plan for Open Science](https://www.ouvrirlascience.fr/second-national-plan-for-open-science/), Serbia’s [Open Science Platform 2.0](https://www.eifl.net/news/serbia-adopts-open-science-platform-20), Canada’s [National Research Software Strategy](https://doi.org/10.5281/zenodo.10214741), and Finland's [Policy for Open Research Data and Methods](https://avointiede.fi/en/policies/policies-open-science-and-research-finland/policy-open-research-data-and-methods), among others.
+Since ReSA’s earlier [blog post](https://doi.org/10.5281/zenodo.3873832) profiling national research software policies, momentum has continued to grow – an encouraging trend that ReSA regularly highlights in its [newsletter](/news/). Several new policies have emerged recently, reflecting the growing global recognition of research software as a critical component of open science. Notable examples include France’s [Second French Plan for Open Science](https://www.ouvrirlascience.fr/second-national-plan-for-open-science/), Serbia’s [Open Science Platform 2.0](https://www.eifl.net/news/serbia-adopts-open-science-platform-20), Canada’s [National Research Software Strategy](https://doi.org/10.5281/zenodo.10214741), and Finland's [Policy for Open Research Data and Methods](https://avointiede.fi/en/policies/policies-open-science-and-research-finland/policy-open-research-data-and-methods), among others.
 
 These national initiatives demonstrate the increasing commitment of governments to formally recognise and support research software as a core contributor to research and innovation. As more countries take action, sharing and learning from one another’s approaches becomes increasingly important. ReSA invites contributions to its growing list of [national policies that support research software](https://docs.google.com/spreadsheets/d/1zhhLqXIPNzirRVaHTxYy_859sCDEPob0TAl4HA6alAs/edit?gid=0#gid=0).
 
@@ -74,7 +60,7 @@ Contribute your insights and examples to support the OECD’s ongoing work and a
 
 - Add to our [list of national policies supporting research software](https://docs.google.com/spreadsheets/d/1zhhLqXIPNzirRVaHTxYy_859sCDEPob0TAl4HA6alAs/edit?gid=0#gid=0)
 - Explore the OECD [_Access to research data from public funding toolkit_](https://www.oecd.org/en/toolkits/access-to-research-data-from-public-funding-toolkit.html)
-- [Subscribe](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share) to the [ReSA newsletter](https://www.researchsoft.org/news/) for updates, opportunities, and resources
+- [Subscribe](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share) to the [ReSA newsletter](/news/) for updates, opportunities, and resources
 - [Contact us](mailto:info@researchsoft.org) to share your ideas and initiatives
 
 **Acknowledgements**
@@ -233,3 +219,9 @@ Article VIII.3 emphasises the need to attract and retain data scientists and res
   - (EU) [European Open Science Cloud (EOSC)](https://www.oecd.org/en/publications/access-to-public-research-data-toolkit_a12e8998-en/european-open-science-cloud-eosc_b02fcc1b-en.html)
 - Provision: International fora and consensus bodies
   - (international) [OECD - Recommendation on Enhancing Access to and Sharing of Data (2021)](https://www.oecd.org/en/publications/access-to-public-research-data-toolkit_a12e8998-en/oecd-recommendation-on-enhancing-access-to-and-sharing-of-data-2021_cd69b13a-en.html)
+
+### Important links
+  * [Research Software Policy (RSP) Forum](/forums/rsp-forum/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news/)
+  * [Contact us](/about/contact)
