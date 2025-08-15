@@ -5,10 +5,7 @@
 This repository contains the source files that generates the Research Software
 Alliance website. The repository is monitored by
 [Netlify](https://www.netlify.com/), which generates and hosts the live
-website.
-
-The website uses the [Hugo framework](https://gohugo.io/) with the
-[Syna theme](https://about.okkur.org/syna/docs/). All content files are written
+website. All content files are written
 in Markdown and are processed into HTML by [Netlify](https://app.netlify.com/sites/researchsoft/deploys).
 
 ## Editing content
