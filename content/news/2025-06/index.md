@@ -1,14 +1,14 @@
-+++ 
-fragment = "content" 
-weight = 100
+---
+title: "ReSA Newsletter: June 2025"
+subtitle: ""
+date: 2025-06-25
+authors:
+  - ""
 
-title = "ReSA Newsletter: June 2025" 
-title_align = "left"
+summary: ""
+draft: false
+---
 
-display_date = false 
-date = "2025-06-25"
-
-summary = """ 
 This month’s news includes:
 
 * Research software community news, including The Navigation Fund’s Open Science Initiative 
@@ -21,12 +21,5 @@ This month’s news includes:
 * Opportunities to get involved with community initiatives, featuring a new webinar series hosted by LA Referencia, RDA, and ReSA
 * Resources
 * Community events, including Research Software Asia Australia
-
-
-  
-
-"""
-
-+++
 
 **[Read the June newsletter](https://preview.mailerlite.io/preview/778129/emails/158017832753301347)**

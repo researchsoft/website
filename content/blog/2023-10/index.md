@@ -1,31 +1,15 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Investing in People: Anticipating the Future of Research Software"
+subtitle: ""
+date: 2023-10-24
+authors:
+  - ""
+categories: 
+  - Blog
 
-title = "Investing in People: Anticipating the Future of Research Software "
-#subtitle = ""
-title_align = "left"
-
-disabled = false
-display_date = true
-date = "2023-10-24"
-author = ["Kim Hartley", "Michelle Barker"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false # Default is false
-  content = """
-  * [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-+++
-![My Image](IMG_3080-1440x1080.jpg)
+summary: "Read more..."
+draft: false
+---
 
 October 2023
 
@@ -33,13 +17,15 @@ Authors: Kim Hartley and Michelle Barker
 
 We are proud to report that the second [International Research Software Funders Workshop](https://adore.software/international-research-software-funders-workshop/), co-hosted by the [Digital Research Alliance of Canada](https://alliancecan.ca/en) (the Alliance) and the [Research Software Alliance](https://www.researchsoft.org/) (ReSA) from 18-20 September was a great success. People are at the heart of research software sustainability and funders can lead the way by investing in the people who develop and maintain research software. That is why the workshop theme was "Investing in People: Anticipating the Future of Research Software". The event aimed to set the future agenda for government, philanthropic, and industry funders to support sustainable research software and communities.
 
+![My Image](IMG_3080-1440x1080.jpg)
+
 In total, 50 representatives from more than 35 organisations – including funders and organisations that support research software from around the globe – attended the hybrid workshop held in Montreal, Canada, and virtually. During the three-day workshop, experts explored how research software funders can facilitate capacity building through funder practices; research software platforms, infrastructure, and communities; and new initiatives. Moreover, [Version 1.0 of the Amsterdam Declaration on Funding Research Software Sustainability (ADORE.software)](https://adore.software/2023/09/adore-software-is-ready-for-signing/) was released and is now available for [signing](https://adore.software/get-involved/).
 
 **Background**
 
 This second iteration of the funders workshop built on the inaugural [International Funders Workshop: The Future of Research Software](https://future-of-research-software.org/), co-hosted by the Netherlands eScience Center and ReSA in November 2022 in Amsterdam. During this first workshop, more than 40 funding organisations gathered to set the agenda for supporting sustainable research software and drafting of the [ADORE.software](https://adore.software/declaration/). Following public consultation in 2023 and 19 organisational expressions of interest in becoming signatories, [Version 1.0 of the Declaration was released](https://adore.software/2023/09/adore-software-is-ready-for-signing/) in advance of the Montreal workshop and is now available for [signing](https://adore.software/get-involved/). ADORE.software is the first step towards formalising, on a global level, the basic principles and recommendations related to funding the sustainability of research software, including the people needed to achieve this goal.
 
-The first workshop marked a further step in the development of the research software community. Stakeholders have continued to build on this momentum through involvement in the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/), convened by ReSA, and its funder-led working groups. The Alliance and ReSA, together with the workshop Steering Committee, organised the 2nd International Research Software Funders Workshop to continue this important work and facilitate global collaboration among funders and other key decision makers and influencers across the research software ecosystem.
+The first workshop marked a further step in the development of the research software community. Stakeholders have continued to build on this momentum through involvement in the [Research Software Funders Forum](/forums/funders-forum/), convened by ReSA, and its funder-led working groups. The Alliance and ReSA, together with the workshop Steering Committee, organised the 2nd International Research Software Funders Workshop to continue this important work and facilitate global collaboration among funders and other key decision makers and influencers across the research software ecosystem.
 
 **2nd International Research Software Funders Workshop**
 
@@ -64,7 +50,7 @@ The recommendations in ADORE.software informed the structure of the workshop's b
 
 Malvika Sharan from The Alan Turing Institute and Open Life Science provided a research software community perspective in her [talk](https://zenodo.org/records/8361334) on "Exploring 'Do No Harm' Principles in Open Research Communities." Malvika's compelling keynote encouraged funders to become leaders in the research software ecosystem by incentivising and recognising all types of research roles; investing in capacity-building goals that focus on bridging scientific and economic divides; and applying community-oriented frameworks to extend the benefits of research to the broader community that 'do no harm', thereby ensuring open science practices enable equitable research and research outcomes.
 
-During the second breakout session, participants investigated capacity building through research software platforms, infrastructure, and communities. One group explored the role of [Open Source Program Offices](https://www.researchsoft.org/blog/2023-06/) (OSPOs), noting that OSPOs as centres of software could ultimately help research institutions understand their software investments. Another group considered why and how to support research software communities, highlighting the need for more evidence-led recommendations and exploring the possibility of reversing the funding mechanism to fund projects after the fact, as a function of how much they were used. In discussing research software in research assessment reform, participants noted that very few research software outputs are being assessed and indicators are fragmented and field-specific. Some solutions include sharing guidance on how software is being evaluated in a single place, sharing job profiles for RSEs, and sharing existing examples of research indicators that include software. Finally, another group highlighted that the environmental impact of research software is an emerging field, and persuading researchers to think about making their code efficient is a challenge.
+During the second breakout session, participants investigated capacity building through research software platforms, infrastructure, and communities. One group explored the role of [Open Source Program Offices](/blog/2023-06/) (OSPOs), noting that OSPOs as centres of software could ultimately help research institutions understand their software investments. Another group considered why and how to support research software communities, highlighting the need for more evidence-led recommendations and exploring the possibility of reversing the funding mechanism to fund projects after the fact, as a function of how much they were used. In discussing research software in research assessment reform, participants noted that very few research software outputs are being assessed and indicators are fragmented and field-specific. Some solutions include sharing guidance on how software is being evaluated in a single place, sharing job profiles for RSEs, and sharing existing examples of research indicators that include software. Finally, another group highlighted that the environmental impact of research software is an emerging field, and persuading researchers to think about making their code efficient is a challenge.
 
 **Workshop Day 2 - September 20**
 
@@ -76,12 +62,19 @@ The workshop culminated with a Do-a-Thon, "a short collaboration where participa
 
 **Overall outcomes and how you can get involved**
 
-The workshop solidified the importance of international collaboration to support research software. There is a widening group of funders with awareness of the need to support research software and an understanding of how to do this. The [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/) has been building momentum since its inception in early 2022; its dedicated funder-led working groups are expanding their reach by engaging with other stakeholders and organisations, such as the [Global Research Council](https://globalresearchcouncil.org/). Moreover, the workshop highlighted areas where coordination by funders would be beneficial, for example, in supporting the [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/declaration/). Participants also expressed an interest in exploring opportunities for forums, for example, to engage publishers around software citations (along with the existing [ReSA Task Force on Code Availability](https://www.researchsoft.org/taskforces/)).
+The workshop solidified the importance of international collaboration to support research software. There is a widening group of funders with awareness of the need to support research software and an understanding of how to do this. The [Research Software Funders Forum](/forums/funders-forum/) has been building momentum since its inception in early 2022; its dedicated funder-led working groups are expanding their reach by engaging with other stakeholders and organisations, such as the [Global Research Council](https://globalresearchcouncil.org/). Moreover, the workshop highlighted areas where coordination by funders would be beneficial, for example, in supporting the [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/declaration/). Participants also expressed an interest in exploring opportunities for forums, for example, to engage publishers around software citations (along with the existing [ReSA Task Force on Code Availability](/taskforces/)).
 
 We thank all the participants for their engagement during the workshop sessions. We're grateful to the workshop Steering Committee for their efforts in organising a successful hybrid workshop. A full report, written and edited collectively by workshop participants, is forthcoming. 
 
-To stay up to date on ADORE.software, visit [www.adore.software](http://www.adore.software/). If you want to show your support for the Declaration, you can become a [signatory](https://adore.software/sign/) (for funders) or [supporter](https://adore.software/support/) (for non-funders) and help share the [news](https://adore.software/2023/09/adore-software-is-ready-for-signing/). To receive updates on news related to the Declaration and future activities, subscribe to the [ReSA newsletter](https://landing.mailerlite.com/webforms/landing/i5e1h2). Funders are invited to join the (free) [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/) by contacting ReSA at [info@researchsoft.org](mailto:info@researchsoft.org).
+To stay up to date on ADORE.software, visit [www.adore.software](http://www.adore.software/). If you want to show your support for the Declaration, you can become a [signatory](https://adore.software/sign/) (for funders) or [supporter](https://adore.software/support/) (for non-funders) and help share the [news](https://adore.software/2023/09/adore-software-is-ready-for-signing/). To receive updates on news related to the Declaration and future activities, subscribe to the [ReSA newsletter](https://landing.mailerlite.com/webforms/landing/i5e1h2). Funders are invited to join the (free) [Research Software Funders Forum](forums/funders-forum/) by contacting ReSA at [info@researchsoft.org](mailto:info@researchsoft.org).
 
-If you're interested in learning more about ReSA and its activities, join our next [Research Software Community Leaders Forum](https://www.researchsoft.org/community-forum/) on 15 November at 20:00 UTC. ReSA's Community Leaders Forum is open to all, and you can [sign up](https://landing.mailerlite.com/webforms/landing/o1n4v3) for calendar invites.
+If you're interested in learning more about ReSA and its activities, join our next [Research Software Community Leaders Forum](/forums/community-leadership-forum/) on 15 November at 20:00 UTC. ReSA's Community Leaders Forum is open to all, and you can [sign up](https://landing.mailerlite.com/webforms/landing/o1n4v3) for calendar invites.
 
 We would like to express our sincere gratitude to our community, Founding Members, and Organisational Members – without whom none of this work would have been possible. This project has also been made possible in part by grant 2021-000000 from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) DAF, an advised fund of the Silicon Valley Community Foundation; and the [Alfred P. Sloan Foundation](https://sloan.org/).
+
+### Important links
+  * [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resource/resa-resources)
+  * [Contact us](/about/contact)

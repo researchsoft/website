@@ -1,15 +1,14 @@
+---
+title: "ReSA Newsletter: August 2024"
+subtitle: ""
+date: 2024-08-29
+authors:
+  - ""
 
-+++ 
-fragment = "content" 
-weight = 100
+summary: ""
+draft: false
+---
 
-title = "ReSA Newsletter: August 2024" 
-title_align = "left"
-
-display_date = false 
-date = "2024-08-29"
-
-summary = """ 
 This month’s news includes:
 
 * This month in research software - community news
@@ -20,10 +19,4 @@ This month’s news includes:
 * Resources
 * Community events
 
-"""
-
-+++
-
 **[Read the August newsletter](https://preview.mailerlite.io/emails/webview/778129/131006008802674445)**
-
-

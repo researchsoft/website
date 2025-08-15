@@ -1,15 +1,14 @@
+---
+title: "ReSA Newsletter: November 2024"
+subtitle: ""
+date: 2024-11-27
+authors:
+  - ""
 
-+++
-fragment = "content"
-weight = 100
+summary: ""
+draft: false
+---
 
-title = "ReSA Newsletter: November 2024"
-title_align = "left"
-
-display_date = false
-date = "2024-11-27"
-
-summary = """
 This month’s news includes:
 
 * Research software community news, including CZI’s award to rOpenSci
@@ -21,9 +20,5 @@ This month’s news includes:
 * Opportunities to get involved with community initiatives, including the Open Source Science Initiative (OSSci)
 * Resources
 * Community events, including FOSDEM 2025
-
-"""
-
-+++
 
 **[Read the November newsletter](https://preview.mailerlite.io/emails/webview/778129/139135398084347097)**

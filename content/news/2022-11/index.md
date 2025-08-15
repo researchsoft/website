@@ -1,14 +1,14 @@
-+++ 
-fragment = "content" 
-weight = 100
+---
+title: "ReSA Newsletter: November 2022"
+subtitle: ""
+date: 2022-11-03
+authors:
+  - ""
 
-title = "ReSA Newsletter: November 2022" 
-title_align = "left"
+summary: ""
+draft: false
+---
 
-display_date = false 
-date = "2022-11-03"
-
-summary = """ 
 This month’s news includes:
 
 * This month in research software: Community news
@@ -18,7 +18,4 @@ This month’s news includes:
 * ReSA update
 * Opportunities to get involved with community initiatives
 
-"""
-
-+++
 **[Read the November Newsletter](https://preview.mailerlite.io/preview/778129/emails/114349164517656560)**

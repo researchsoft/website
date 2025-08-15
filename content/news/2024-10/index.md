@@ -1,15 +1,14 @@
+---
+title: "ReSA Newsletter: October 2024"
+subtitle: ""
+date: 2024-10-23
+authors:
+  - ""
 
-+++ 
-fragment = "content" 
-weight = 100
+summary: ""
+draft: false
+---
 
-title = "ReSA Newsletter: October 2024" 
-title_align = "left"
-
-display_date = false 
-date = "2024-10-23"
-
-summary = """ 
 This month’s news includes:
 
 * Research software community news, including the Netherlands National Research Software Day
@@ -21,9 +20,5 @@ This month’s news includes:
 * Opportunities to get involved with community initiatives
 * Resources
 * Community events, including eResearch NZ and RDA Plenary 23 (with an update from [Policies in Research Organisations for Research Software (PRO4RS) WG](https://www.rd-alliance.org/groups/rda-resa-policies-research-organisations-research-software-pro4rs/members/all-members/))
-  
-"""
-
-+++
 
 **[Read the October newsletter](https://preview.mailerlite.io/emails/webview/778129/135969311810389509)**

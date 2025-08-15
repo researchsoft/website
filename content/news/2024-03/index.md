@@ -1,15 +1,14 @@
+---
+title: "ReSA Newsletter: March 2024"
+subtitle: ""
+date: 2024-03-21
+authors:
+  - ""
 
-+++ 
-fragment = "content" 
-weight = 100
+summary: ""
+draft: false
+---
 
-title = "ReSA Newsletter: March 2024" 
-title_align = "left"
-
-display_date = false 
-date = "2024-03-21"
-
-summary = """ 
 This month’s news includes:
 
 * This month in research software - community news
@@ -20,9 +19,5 @@ This month’s news includes:
 * PRO4RS call for policies
 * Opportunities to get involved with community initiatives
 * Community events and resources
-
-"""
-
-+++
 
 **[Read the March Newsletter](https://preview.mailerlite.io/preview/778129/emails/115832043709924425)**

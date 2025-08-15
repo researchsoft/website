@@ -1,46 +1,18 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Overview of research software funding landscape"
+date: 2022-02-24
+authors:
+  - ""
 
-title = "Overview of research software funding landscape"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-display_date = true
-date = "2022-02-24"
-author = ["Michelle Barker", "Daniel S. Katz"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = true # Default is false
-  content = """
-
-  * Table of Contents
-      * [Methodology](https://www.researchsoft.org/blog/2022-02-24/#methodology)
-      * [Research software funding](https://www.researchsoft.org/blog/2022-02-24/#research-software-funding)
-      * [Discussion](https://www.researchsoft.org/blog/2022-02-24/#discussion)
-      * [Future Work](https://www.researchsoft.org/blog/2022-02-24/#future-work)
-      * [Acknowledgements](https://www.researchsoft.org/blog/2022-02-24/#acknowledgements)
-      * [References](https://www.researchsoft.org/blog/2022-02-24/#references)
-
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-[asset]
-  image = "funding.png"
-  text = "Funding icon"
-+++
-
-Image courtesy of icon king1 from [freeicons.io](https://freeicons.io/finances-and-banking/croudfunding-group-funding-icon-1312).
+summary: "Read more..."
+draft: false
+---
 
 Posted on 24 February 2022.
 
-Overview of research software funding landscape
 -----------------------------------------------------------------
 
 _February 24, 2022_  
@@ -49,6 +21,12 @@ By [Michelle Barker](https://www.linkedin.com/in/michelledbarker/) and [Daniel S
 DOI: [https://www.doi.org/10.5281/zenodo.6102487](https://www.doi.org/10.5281/zenodo.6102487)
 
 This report aims to provide a brief overview of the funding landscape for research software throughout its life cycle. This report explains the methodology, considers available information, and suggests future work.
+
+<div class="row justify-content-center">
+    <img src="funding.png" alt="Funding icon">
+</div>  
+
+Image courtesy of icon king1 from [freeicons.io](https://freeicons.io/finances-and-banking/croudfunding-group-funding-icon-1312).
 
 # Methodology
 
@@ -203,4 +181,19 @@ UKRI. 2020. &quot;The UK&#39;s Research and Innovation Infrastructure: Landscape
 [4](#sdfootnote4anc) Open hardware funding can be classified as supporting outputs in four categories: community-related outputs, documentation, hardware and usage or adoption (GOSH 2021b).
 
 ----
-_Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
+
+### Important links
+  * Table of Contents
+      * [Methodology](/blog/2022-02-24/#methodology)
+      * [Research software funding](/blog/2022-02-24/#research-software-funding)
+      * [Discussion](/blog/2022-02-24/#discussion)
+      * [Future Work](/blog/2022-02-24/#future-work)
+      * [Acknowledgements](/blog/2022-02-24/#acknowledgements)
+      * [References](/blog/2022-02-24/#references)
+
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)
+
+_Want to discuss this post with us? Send us an email via [contact us](/about/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._

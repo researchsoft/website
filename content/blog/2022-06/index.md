@@ -1,37 +1,21 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog", "Press release"]
+---
+title: "FAIR Principles for Research Software Released"
+date: 2022-06-21
+authors:
+  - ""
+categories: 
+  - Blog
+  - Press release
 
-title = "FAIR Principles for Research Software Released"
-#subtitle = ""
-title_align = "left"
-
-display_date = true
-date = "2022-06-21"
-author = ["FAIR4RS Working Group Steering Committee"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = true # Default is false
-  content = """
-
-  * [FAIR Principles for Research Software version 1.0](https://doi.org/10.15497/RDA00068)
-  * [RDA Software Source Code Interest Group](https://www.rd-alliance.org/groups/software-source-code-ig)
-  * Please share news via social media using [#FAIR4RS](https://twitter.com/search?q=%23FAIR4RS)
-  * [FAIR4RS community in Zenodo](https://zenodo.org/communities/fair4rs/)
-  """
-
-+++
+summary: "Read more..."
+draft: false
+---
 
 Cross-posted on 21 June 2022.
 
-FAIR Principles for Research Software Released
 -----------------------------------------------------------------
 
 _June 21, 2022_ FAIR4RS Working Group Steering Committee
-
 
 We are pleased to announce the release of version 1.0 of the FAIR Principles for Research Software (FAIR4RS Principles), after about 2 years of work by over 500 people. This work has been organized by the FAIR4RS Working Group, which was jointly convened by the [Research Data Alliance (RDA)](https://www.rd-alliance.org/), the [Research Software Alliance (ReSA)](https://www.researchsoft.org/), and [FORCE11](https://force11.org/). Similar to the [FAIR Guiding Principles for scientific data management and stewardship](https://www.go-fair.org/fair-principles/), the goal of the FAIR4RS Principles is to improve the sharing and reuse of research software, by making it Findable, Accessible, Interoperable, and Reusable. These principles are needed because specific characteristics of software — such as its executability, composite nature, and continuous evolution and versioning — make it necessary to revise and extend the FAIR data principles.
 
@@ -48,3 +32,9 @@ We have now transferred governance of these principles to the [RDA Software Sour
 We encourage everyone to engage with the FAIR4RS Principles and look forward to seeing the benefits of their community-wide adoption.
 
 Please share news via social media using [#FAIR4RS](https://twitter.com/search?q=%23FAIR4RS), and continue to add resources to the [FAIR4RS community in Zenodo](https://zenodo.org/communities/fair4rs/).
+
+### Important links
+  * [FAIR Principles for Research Software version 1.0](https://doi.org/10.15497/RDA00068)
+  * [RDA Software Source Code Interest Group](https://www.rd-alliance.org/groups/software-source-code-ig)
+  * Please share news via social media using [#FAIR4RS](https://twitter.com/search?q=%23FAIR4RS)
+  * [FAIR4RS community in Zenodo](https://zenodo.org/communities/fair4rs/)

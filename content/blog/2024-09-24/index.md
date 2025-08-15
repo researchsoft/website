@@ -1,39 +1,25 @@
- +++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "RSE Worldwide: Opportunities to Strengthen the Global RSE Community"
+subtitle: ""
+date: 2024-09-25
+authors:
+  - ""
 
-title = "RSE Worldwide: Opportunities to Strengthen the Global RSE Community"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-disabled = false
-display_date = true
-date = "2024-09-25"
-authors = ["Michelle Barker, Sandra Gesing, Rowland Mosbergen, Uwe Schmitt, Carlos Martinez-Ortiz"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false
-  content = """
-  * [Blog post DOI: https://doi.org/10.59350/fzjbr-tna85](https://doi.org/10.59350/fzjbr-tna85)
-  * [RSE Worldwide sessions](https://rsecon24.society-rse.org/programme/rse-worldwide/)
-  * [Research Software Engineering Conference](https://rsecon24.society-rse.org/programme/rse-worldwide/)
-  * [ReSA newsletter](https://www.researchsoft.org/news/)
-  * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
-  """
-
-+++
-
-![My Image](2024-09-24-image.jpeg) 
-_Image credit: Viri Gutiérrez, [Lummi](https://www.lummi.ai/photo/global-connectivity-work-on-laptop-hhipk)_ 
+summary: "Read more..."
+draft: false
+---
 
 By Michelle Barker, Sandra Gesing, Rowland Mosbergen, Uwe Schmitt, Carlos Martinez-Ortiz
 
 September 2024
 
 The [RSE Worldwide sessions](https://rsecon24.society-rse.org/programme/rse-worldwide/) at this year’s [Research Software Engineering Conference](https://rsecon24.society-rse.org/) (RSECon) in the UK continue to address the importance of connecting these emerging communities with the global research software community. The RSE community continues to grow globally, with numerous regional and national conferences and associations. While there are established networks in many parts of the world, there are still regions where research software engineering happens without structured support. Each community brings unique regional and cultural contexts, and while challenges differ, the lessons learned in one area can be invaluable to others.
+
+![My Image](2024-09-24-image.jpeg) 
+_Image credit: Viri Gutiérrez, [Lummi](https://www.lummi.ai/photo/global-connectivity-work-on-laptop-hhipk)_ 
 
 The annual sessions at RSECon offer a platform for members of the diverse global RSE community to meet, network, and share experiences. They aim to support emerging communities by leveraging the knowledge of established networks while promoting international coordination and cooperation. These sessions also seek to counteract potential siloes by discussing ways to foster strong local communities while maintaining global engagement and collaboration.
 
@@ -53,3 +39,10 @@ The RSE Worldwide sessions commenced with a keynote by Sandra Gesing on US-RSE f
 - US: US-RSE (Sandra Gesing): US-RSE [has grown](https://us-rse.org/join/) from 20 members in 2018 to over 2700 in 2024. US-RSE is a grass-root organisation that supports RSEs through several initiatives: [resources](https://us-rse.org/resources/rses/), community-building activities such as over [12 working groups](https://us-rse.org/working-groups/), [community calls](https://us-rse.org/events/), and the annual conference - [USRSE’24](https://us-rse.org/usrse24/) comes up in October 2024 - and initiatives like the [awards](https://us-rse.org/community-awards/) and the [US-RSE Community Fund](https://us-rse.org/community-funds/). Currently, US-RSE is setting up an organisational membership model with organisations being able to join as founding members for life. The organisation's future plans include securing more funding to benefit the community, to support volunteers, and to invest in creating sustainable career paths for RSEs.
 
 Participants engaged in discussions around key topics such as building RSE communities, and ensuring volunteer sustainability; and established communities shared strategies for securing funding and organisational support. ReSA also shared updates on its activities, including the scoping of an international research software conference. This session highlighted the need for continued collaboration and international engagement to support both emerging and established RSE groups worldwide.
+
+### Important links
+  * [Blog post DOI: https://doi.org/10.59350/fzjbr-tna85](https://doi.org/10.59350/fzjbr-tna85)
+  * [RSE Worldwide sessions](https://rsecon24.society-rse.org/programme/rse-worldwide/)
+  * [Research Software Engineering Conference](https://rsecon24.society-rse.org/programme/rse-worldwide/)
+  * [ReSA newsletter](/news/)
+  * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)

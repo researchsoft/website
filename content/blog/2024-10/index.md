@@ -1,38 +1,25 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "International Research Software Funders Workshop 2024 – Building a Sustainable Future for Research Software"
+subtitle: ""
+date: 2024-10-16
+authors:
+  - ""
 
-title = "International Research Software Funders Workshop 2024 – Building a Sustainable Future for Research Software"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-display_date = true
-date = "2024-10-16"
-authors = ["Michelle Barker, Chris Erdmann, Eric Jensen, Kim Hartley, Anna Henriksson, Suné Joubert"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false # Default is false
-  content = """
-  * [Blog post DOI: https://doi.org/10.59350/j0jjs-0xn06](https://doi.org/10.59350/j0jjs-0xn06)
-  * [ReSA newsletter](https://www.researchsoft.org/news/)
-  * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-+++
-
-![My Image](Group_image_3.jpeg) 
-_Image credit: [SciLifeLab](https://www.scilifelab.se/)_
+summary: "Read more..."
+draft: false
+---
 
 By Michelle Barker, Chris Erdmann, Eric Jensen, Kim Hartley, Anna Henriksson, Suné Joubert  
 
 October 2024
 
 The 2024 [International Research Software Funders Workshop](https://adore.software/2024-international-research-software-funders-workshop/) continued to progress the way funders sustain and support research software. This hybrid event in September in Uppsala, Sweden, brought together [funders and experts in research software](https://adore.software/2024-international-research-software-funders-workshop/) to discuss operationalising the [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/) (ADORE.software). ADORE.software aims to raise awareness of the role of funding practice in the sustainability of research software, and to improve that practice. 
+
+![My Image](Group_image_3.jpeg) 
+_Image credit: [SciLifeLab](https://www.scilifelab.se/)_
 
 This year's workshop focused on developing funders’ monitoring and evaluation frameworks to assess what is working and why in funders’ support for research software impact. Presentations from this year’s Funder Workshop and the [EVERSE](https://everse.software/) (European Virtual Institute for Research Software Excellence) satellite event are available [here](https://zenodo.org/communities/2024-research-software-funders-workshop/records?q=&l=list&p=1&s=10&sort=newest). See also [SciLifeLab and Data Centre co-host two events: Elevating the importance of research software in Sweden](https://www.scilifelab.se/news/scilifelab-and-data-centre-co-host-two-events-elevating-the-importance-of-research-software-in-sweden/) and a summary  of the EVERSE event, [Building the future of research software as a first-class citizen in science; a global perspective](https://doi.org/10.5281/zenodo.13915755).
 
@@ -49,11 +36,18 @@ The final day of the workshop focused on co-design and collaboration. After expl
 Are you a funder who is interested in learning more about research software and how to explicitly support research software as part of your funding program?
 
 * Join the Funders Forum by [contacting ReSA](mailto:info@researchsoft.org) (or encourage your funders to join\!)  
-* [Subscribe](https://www.researchsoft.org/news/) to our monthly newsletter for [ADORE.software](https://adore.software/) updates  
+* [Subscribe](/news/) to our monthly newsletter for [ADORE.software](https://adore.software/) updates  
 * Show your support for ADORE.software by [signing the Declaration](https://adore.software/get-involved/)  
-* Become a ReSA [Organisational Member](https://www.researchsoft.org/membership/) to demonstrate your commitment to international collaboration and innovation for research; and connect with other decision makers and key influencers  
-* Check out our research software funding opportunities [database](https://www.researchsoft.org/funding-opportunities/) or [add to it](https://forms.gle/r4Jw4swUd1SXigZc9)  
-* [Join](https://www.researchsoft.org/taskforces/) or [support](https://www.researchsoft.org/tf-support/) a ReSA task force  
+* Become a ReSA [Organisational Member](/about/membership/) to demonstrate your commitment to international collaboration and innovation for research; and connect with other decision makers and key influencers  
+* Check out our research software funding opportunities [database](/resource/funding-opportunities/) or [add to it](https://forms.gle/r4Jw4swUd1SXigZc9)  
+* [Join](/taskforces/) or [support](/taskforces/tf-support/) a ReSA task force  
 * Follow us on [LinkedIn](https://www.linkedin.com/company/research-software-alliance/), [Slack](https://researchsoft.slack.com/join/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w#/shared-invite/email), and [Mastodon](https://fosstodon.org/@researchsoft)
 
-We look forward to welcoming you\!  
+We look forward to welcoming you\!
+
+### Important links
+  * [Blog post DOI: https://doi.org/10.59350/j0jjs-0xn06](https://doi.org/10.59350/j0jjs-0xn06)
+  * [ReSA newsletter](/news/)
+  * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
+  * [ReSA resources](/resource/resa-resources/)
+  * [Contact us](/about/contact)

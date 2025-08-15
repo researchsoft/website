@@ -1,21 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-#background = ""
-#categories = ["Sample", "Blog", "Lorem Ipsum"]
+---
+title: "ReSA News: December 2019"
+subtitle: ""
+date: 2019-12-21
+authors:
+  - ""
 
-title = "ReSA News: December 2019"
-#subtitle = ""
-title_align = "left"
+summary: ""
+draft: false
+---
 
-display_date = false
-date = "2019-12-21"
-
-summary = """
 - Update from the taskforce on evidence for the importance of research software
-- Community news"""
-
-+++
+- Community news
 
 First a piece of good news! We’ve received some funding and we will let you know how we’re using that in the New Year.
 

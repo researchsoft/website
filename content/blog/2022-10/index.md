@@ -1,33 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Expanding the mapping of the global research software community"
+subtitle: ""
+date: 2022-10-21
+authors:
+  - ""
 
-title = "Expanding the mapping of the global research software community"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-display_date = true
-date = "2022-10-21"
-author = ["Michelle Barker"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  #sticky = true # Default is false
-  content = """
-  * [video about this report](https://www.youtube.com/watch?v=pxmYroTxz-A)
-  * Martinez, Paula Andrea. (2022, October 12). The Research Software Community Landscape in the Global South [Video]. Zenodo. [https://doi.org/10.5281/zenodo.7192692](https://doi.org/10.5281/zenodo.7192692)
-  * Martinez, Paula Andrea. (2022). The Research Software Community Landscape in the Global South. Zenodo. [https://doi.org/10.5281/zenodo.7179892](https://doi.org/10.5281/zenodo.7179892)
-  * Martinez, Paula Andrea. (2022). Research Software Communities Global South [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.7179807](https://doi.org/10.5281/zenodo.7179807)
-  * Martinez, Paula Andrea. (2022). Research Software Funders Global South [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.7179867](https://doi.org/10.5281/zenodo.7179867)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-  
-+++
+summary: "Read more..."
+draft: false
+---
 
 _October, 2022_  
 
@@ -35,7 +18,7 @@ Authors: Michelle Barker
 
 **Introduction**
 
-The Research Software Alliance (ReSA) has been expanding their 2020 [mapping](https://www.researchsoft.org/blog/2020-03/) of the international research software community landscape (Katz et al., 2020), to assist in fulfilling the ReSA mission to bring research software communities together to collaborate on the advancement of research software. We wanted to learn more about communities that share our vision that research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide.
+The Research Software Alliance (ReSA) has been expanding their 2020 [mapping](/blog/2020-03/) of the international research software community landscape (Katz et al., 2020), to assist in fulfilling the ReSA mission to bring research software communities together to collaborate on the advancement of research software. We wanted to learn more about communities that share our vision that research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide.
 
 Increasing international collaboration and information flow around our vision can help increase research impact and assist in other societal goals. Just as open science and open source software can be a [driver of equity](https://chanzuckerberg.com/blog/importance-open-source-science-software/) [(Powell, 2021)](https://www.zotero.org/google-docs/?ggFhWx), this can be true of research software:
 
@@ -49,7 +32,7 @@ The resulting report, [The Research Software Community Landscape in the Global S
 - South America: Argentina, Bolivia, Brazil, and Colombia. By Nicolás Wolovick, Paula Andrea Martinez, Renato Augusto Corrêa dos Santos, and Stephannie Jimenez Gacha
 - Asia: Bangladesh, Bhutan, China, India, Indonesia, Nepal, Pakistan, Saudi Arabia, and Sri Lanka. By Abdullah Shams Bin Tariq, Saranjeet Kaur Bhogal, Jyoti Bhogal, Arslan Sheikh, and Batool Almarzouq 
 
-This report’s analysis shows that few of the [126 organisations and communities](https://doi.org/10.5281/zenodo.7179807) focus solely on research software, for most research software is just a part of their interests. For example, [Open Science Community Saudi Arabia](https://osc-ksa.com/) (OSCSA) mainly targets academics and encourages best practices of sharing, versioning, and documenting research software (amongst many other skills and practices); and [OpenScienceKE](https://github.com/BioinfoNet/OpenScienceKE) seeks to promote open science practices in bioinformatics in Kenya. In comparison, the 2020 [mapping](https://www.researchsoft.org/blog/2020-03/) focused on organisations with a strong focus on research software, although not necessarily with only this focus.
+This report’s analysis shows that few of the [126 organisations and communities](https://doi.org/10.5281/zenodo.7179807) focus solely on research software, for most research software is just a part of their interests. For example, [Open Science Community Saudi Arabia](https://osc-ksa.com/) (OSCSA) mainly targets academics and encourages best practices of sharing, versioning, and documenting research software (amongst many other skills and practices); and [OpenScienceKE](https://github.com/BioinfoNet/OpenScienceKE) seeks to promote open science practices in bioinformatics in Kenya. In comparison, the 2020 [mapping](/blog/2020-03/) focused on organisations with a strong focus on research software, although not necessarily with only this focus.
 
 This focus can also be seen in the list of [62  funders](https://doi.org/10.5281/zenodo.7179867) where the majority focus on research, and sometimes technology or open source software in general, rather than specifically targeted programs. For example, in Brazil the São Paulo Research Foundation (FAPESP) offers a [Technical Training Program](https://bv.fapesp.br/en/18/technical-training-program/) that aims at training and improving the skills of mid-and higher level technicians who participate in the development of research projects in the state of São Paulo.
 
@@ -63,7 +46,7 @@ To continue to progress this work, readers are invited to continue to add or mak
 
 *There [is] a lack of incentives to promote open source work and science in academia in our countries … Inclusive communities of practice that lower as many barriers as possible to international involvement, such as R-Ladies, PyLadies, Open Life Science, or The Turing Way, help to change this. But we need many more.* [(Ación et al., 2022)](https://www.zotero.org/google-docs/?sK1fF7)
 
-You can also engage with colleagues at our monthly [Research Software Community Forum](https://www.researchsoft.org/community-forum/) or on our [Slack channel](https://researchsoft.slack.com/ssb/redirect), join [task forces](https://www.researchsoft.org/taskforces/), and stay up to date via our [newsletter](https://www.researchsoft.org/news/) or [Twitter](https://twitter.com/researchsoft).
+You can also engage with colleagues at our monthly [Research Software Community Forum](/forums/community-leadership-forum/) or on our [Slack channel](https://researchsoft.slack.com/ssb/redirect), join [task forces](/taskforces/), and stay up to date via our [newsletter](/news/) or [Twitter](https://twitter.com/researchsoft).
 
 **References**
 
@@ -83,3 +66,13 @@ You can also engage with colleagues at our monthly [Research Software Community 
 
 This work was supported by the Wellcome Trust grant [222436/Z/21/Z].
 
+### Important links
+  * [video about this report](https://www.youtube.com/watch?v=pxmYroTxz-A)
+  * Martinez, Paula Andrea. (2022, October 12). The Research Software Community Landscape in the Global South [Video]. Zenodo. [https://doi.org/10.5281/zenodo.7192692](https://doi.org/10.5281/zenodo.7192692)
+  * Martinez, Paula Andrea. (2022). The Research Software Community Landscape in the Global South. Zenodo. [https://doi.org/10.5281/zenodo.7179892](https://doi.org/10.5281/zenodo.7179892)
+  * Martinez, Paula Andrea. (2022). Research Software Communities Global South [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.7179807](https://doi.org/10.5281/zenodo.7179807)
+  * Martinez, Paula Andrea. (2022). Research Software Funders Global South [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.7179867](https://doi.org/10.5281/zenodo.7179867)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)

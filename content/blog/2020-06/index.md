@@ -1,45 +1,19 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog", "Task force"]
-
-title = "Evidence for the importance of research software"
-#subtitle = ""
-title_align = "left"
-
-display_date = true
-date = "2020-06-08"
-author = ["Michelle Barker", "Daniel S. Katz", "Alejandra Gonzalez-Beltran"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  #sticky = true # Default is false
-  content = """
-  * [Evidence for the importance of research software](https://zenodo.org/record/3884311)
-  * NLeSC [blog post](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3)
-  * SSI [blog post](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software)
-  * URSSI [blog post](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-[asset]
-  image = "blackhole.jpg"
-  text = "Black hole"
-+++
+---
+title: "Evidence for the importance of research software"
+date: 2020-06-08
+authors:
+  - ""
+categories: 
+  - Blog
+  - Task force
+summary: "Read more..."
+draft: false
+---
 
 [DOI: 10.5281/zenodo.3884311](https://zenodo.org/record/3884311)
 
 Cross-posted on 8 June 2020 by the [Netherlands eScience Centre](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3), [Software Sustainability Institute](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software),
  and [US Research Software Sustainability Institute](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/)
-
-Photo from <a href="https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/Black_hole#/media/File:Black_hole_-_Messier_87.jpg">Wikimedia</a>
-
-Evidence for the importance of research software
------------------------------------------------------------------
 
 _June 8, 2020_  
 
@@ -49,7 +23,12 @@ Authors: [Michelle Barker](https://orcid.org/0000-0002-3623-172X),
 
 This blog analyses work evidencing the importance of research software to research outcomes, to enable the research software community to find useful evidence to share with key influencers. This analysis considers papers relating to meta-research, policy, community, education and training, research breakthroughs and specific software.
 
-The Research Software Alliance (ReSA) [Taskforce for the importance of research software](https://www.researchsoft.org/taskforces/) was formed initially to bring together existing evidence showing the importance of research software in the research process. This kind of information is critical to achieving ReSA’s vision to have research software recognised and valued as a fundamental and vital component of research worldwide.
+<div class="row justify-content-center">
+    <img src="blackhole.jpg" alt="Black hole">
+</div>  
+Photo from <a href="https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/Black_hole#/media/File:Black_hole_-_Messier_87.jpg">Wikimedia</a>
+
+The Research Software Alliance (ReSA) [Taskforce for the importance of research software](/taskforces/) was formed initially to bring together existing evidence showing the importance of research software in the research process. This kind of information is critical to achieving ReSA’s vision to have research software recognised and valued as a fundamental and vital component of research worldwide.
 
 #### Methodology
 
@@ -121,4 +100,15 @@ We encourage readers to submit additional resources to the ReSA resources list, 
 
 *   Add it directly to the ReSA [Zotero group library](https://www.zotero.org/groups/2400609/resa/library) (requires Zotero account).
 
-_Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
+### Important Links
+
+  * [Evidence for the importance of research software](https://zenodo.org/record/3884311)
+  * NLeSC [blog post](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3)
+  * SSI [blog post](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software)
+  * URSSI [blog post](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)
+
+_Want to discuss this post with us? Send us an email via [contact us](/about/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._

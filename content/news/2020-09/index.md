@@ -1,26 +1,23 @@
-+++
-fragment = "content"
-weight = 100
-
-title = "ReSA News: September 2020"
-title_align = "left"
-
-display_date = false
-date = "2020-09-21"
-
-summary = """
+---
+title: "ReSA News: September 2020"
+subtitle: ""
+date: 2020-09-21
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
 * ReSA’s three focus areas: policy, people and infrastructure
 * FAIR4RS events 
 * SORSE event in late October: What do we (not) know about RSE?
 * Community news: BSSw Fellowships, ADSA Annual meeting, JupyterCon, GitHub CLI 1.0, JOSS's 1000th paper, The Festival of Maintenance and software
-"""
 
-+++
 
 ### **ReSA's three focus areas**
 
 ReSA has three main focus areas: policy, people and infrastructure. We’ll be profiling the work we do in each in future newsletters.
+
 ![Policy, infrastructure, people](3_areas.png)
 
 ### **FAIR4RS events**
@@ -57,7 +54,3 @@ This workshop aims to assess what we do and do not know about RSE. The participa
 *If you’d like to suggest items for inclusion in ReSA News then please [contact us](/contact). If you would to engage with the ReSA community, then join the [ReSA Google group](https://groups.google.com/forum/#!forum/research-software-alliance) to receive email updates. To subscribe send a blank email to [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)*
 
 *[ReSA](https://www.researchsoft.org/) is a community of influencers and members of major research software communities, programs, organisations and individuals. ReSA’s vision is that research software be recognised and valued as a fundamental and vital component of research worldwide. The ReSA mission is to bring research software communities together to collaborate on the advancement of research software. ReSA is a fiscally sponsored project of [Code for Science and Society](https://codeforscience.org/).*
-
-
-
-

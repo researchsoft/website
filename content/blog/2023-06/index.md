@@ -1,30 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "How Can Open Source Program Offices (OSPOs) Support Research Software?"
+subtitle: ""
+date: 2023-06-01
+authors:
+  - ""
 
-title = "How Can Open Source Program Offices (OSPOs) Support Research Software?"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-disabled = false
-display_date = true
-date = "2023-06-01"
-author = ["Kim Hartley", "Michelle Barker", "Mark Leggott", "Daniel S. Katz"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false # Default is false
-  content = """
-  * [Research Software Policies Page](https://www.researchsoft.org/software-policies/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-+++
+summary: "Read more..."
+draft: false
+---
 
 June 2023
 
@@ -40,7 +26,7 @@ To provide some context, an OSPO is a formal construct in an organisation that h
 
 **Sustainability**
 
-Several American universities are exploring OSPOs, with institutions in other countries likely to follow suit. The [Digital Research Alliance of Canada](https://alliancecan.ca/en) (the Alliance) – a nonprofit organisation funded by the Government of Canada, and one of ReSA's [founding members](https://www.researchsoft.org/about-resa/) – is interested in how OSPOs can address a key challenge for grant-funded research software platforms (RSPs): sustainability. As previously funded RSPs may become core infrastructure in the national or global research community, their sustainability can be precarious because, as existing infrastructure, they may no longer clearly fit the traditional innovation mandates held by funders. An OSPO, therefore, offers a valuable approach to extending the use and application of research software.
+Several American universities are exploring OSPOs, with institutions in other countries likely to follow suit. The [Digital Research Alliance of Canada](https://alliancecan.ca/en) (the Alliance) – a nonprofit organisation funded by the Government of Canada, and one of ReSA's [founding members](/about/) – is interested in how OSPOs can address a key challenge for grant-funded research software platforms (RSPs): sustainability. As previously funded RSPs may become core infrastructure in the national or global research community, their sustainability can be precarious because, as existing infrastructure, they may no longer clearly fit the traditional innovation mandates held by funders. An OSPO, therefore, offers a valuable approach to extending the use and application of research software.
 
 The [Alfred P. Sloan Foundation](https://sloan.org/) has played a fundamental role in helping universities establish OSPOs. Since 2020, the Sloan Foundation has approved grants to support six university OSPOs. The Sloan Technology Program identified several key benefits associated with OSPOs and better institutional support for open source practices as part of its recent [call](https://sloan.org/programs/digital-technology/ospo-loi). For advancement and sustainability of software and other research outputs within universities, implementing strong project oversight—clearly defined activities, procedures, and policies—supported by strong documentation practices can help ensure the continuity of individual projects. Stakeholders can thus continue engaging with projects beyond their tenure at a particular institution. By leveraging the collaborative nature of open source, outputs generated within an institution can be utilised by other stakeholders and can encourage further innovation across the broader community.
 

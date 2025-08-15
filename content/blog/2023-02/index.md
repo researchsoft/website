@@ -1,29 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "ReSA 2022 Year in review"
+subtitle: ""
+date: 2023-02-17
+authors:
+  - ""
+  
+categories: 
+  - Blog
 
-title = "ReSA 2022 Year in review"
-#subtitle = ""
-title_align = "left"
-
-display_date = true
-date = "2023-02-17"
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  #sticky = true # Default is false
-  content = """
-  * [Event website](https://future-of-research-software.org)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  * [Download the report](https://doi.org/10.5281/zenodo.7683174)
-  """
-
-+++
+summary: "Read more..."
+draft: false
+---
 
 _February, 2023_  
 
@@ -36,3 +23,11 @@ Citation: Hartley, Kim & Barker, Michelle (2023). Research Software Alliance - 2
 <br/>
 <br/>
 <iframe src="https://drive.google.com/file/d/1IclWEjLDr-Q2EWLa3rqd0ridUlAzhNZt/preview" width="740" height="520" allow="autoplay"></iframe>
+
+### Important links
+  * [Event website](https://future-of-research-software.org)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)
+  * [Download the report](https://doi.org/10.5281/zenodo.7683174)

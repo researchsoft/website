@@ -1,25 +1,18 @@
-+++
-fragment = "content"
-weight = 100
-#background = ""
-#categories = ["Sample", "Blog", "Lorem Ipsum"]
+---
+title: "ReSA News: May 2020"
+subtitle: ""
+date: 2020-05-21
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA News: May 2020"
-#subtitle = ""
-title_align = "left"
-
-display_date = false
-date = "2020-05-21"
-
-summary = """
 - ReSA becomes an RDA affiliate
 - ReSA responds to US government request for information
 - Recommendations for policy makers, funders and publishers
 - FAIR for Research Software update
 - Community news on the National Information Standards Organization and the  Zenodo COVID-19 Community
-"""
-
-+++
 
 ### ReSA becomes an RDA affiliate
 

@@ -1,15 +1,14 @@
+---
+title: "ReSA Newsletter: September 2024"
+subtitle: ""
+date: 2024-09-26
+authors:
+  - ""
 
-+++ 
-fragment = "content" 
-weight = 100
+summary: ""
+draft: false
+---
 
-title = "ReSA Newsletter: September 2024" 
-title_align = "left"
-
-display_date = false 
-date = "2024-09-26"
-
-summary = """ 
 This month’s news includes:
 
 * This month in research software - community news
@@ -21,11 +20,5 @@ This month’s news includes:
 * Opportunities to get involved with community initiatives
 * Resources
 * Community events
-  
-"""
-
-+++
 
 **[Read the September newsletter](https://preview.mailerlite.io/emails/webview/778129/133509948588950793)**
-
-

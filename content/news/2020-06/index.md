@@ -1,24 +1,17 @@
-+++
-fragment = "content"
-weight = 100
-#background = ""
-#categories = ["Sample", "Blog", "Lorem Ipsum"]
+---
+title: "ReSA News: June 2020"
+subtitle: ""
+date: 2020-06-26
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA News: June 2020"
-#subtitle = ""
-title_align = "left"
-
-display_date = false
-date = "2020-06-26"
-
-summary = """
 - ReSA blog: Evidence for the importance of research software
 - FAIR for Research Software webinars next week
 - Data science survey from Academic Data Science Alliance
 - Now open: Chan Zuckerberg Initiative Essential Open Source Software for Science program
-"""
-
-+++
 
 ### ReSA blog: Evidence for the importance of research software
 

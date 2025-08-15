@@ -1,30 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Elevating Research Software: Developing a Roadmap"
+subtitle: ""
+date: 2023-09-04
+authors:
+  - ""
 
-title = "Elevating Research Software: Developing a Roadmap"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-disabled = false
-display_date = true
-date = "2023-09-04"
-author = ["Eric Allen Jensen", "Daniel S. Katz"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false # Default is false
-  content = """
-  * [Research Blog](https://www.researchsoft.org/blog/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-+++
+summary: "Read more..."
+draft: false
+---
 
 4 September 2023
 
@@ -32,9 +18,9 @@ Authors: Eric Allen Jensen, Daniel S. Katz
 
 DOI: [10.5281/zenodo.8312543](https://zenodo.org/record/8312543)
 
-![My Image](252891110-f7f7219e-9d80-4496-b6ed-8c4a86d20eb9.png)
-
 Research software is the unsung hero of modern science. Yet it often plays second fiddle to traditional scholarly outputs such as journal articles. As research grows increasingly computational, the need to recognise software contributions becomes imperative. However, there are a number of challenges that must be overcome to achieve this. How do we measure and extend the impact of research software? How do we integrate it into academic evaluations? A set of answers may be found through policy-related activities, including advocacy, organising, and research.
+
+![My Image](252891110-f7f7219e-9d80-4496-b6ed-8c4a86d20eb9.png)
 
 Building on discussions in the US Research Software Sustainability Institute ([URSSI)](https://urssi.us/), including a number of workshops and an [implementation plan](https://plan.urssi.us/) that URSSI developed, we've created a set of possible activities aimed at elevating the role of research software in academic career paths, recognition, and beyond. As part of the Alfred P. Sloan-funded [URSSI Policy project](https://urssi.us/projects/policy/about/), we've assembled 44 of these ideas as a starting point, and we've posted them as [issues in GitHub](https://github.com/si2-urssi/policy/issues?q=is%3Aissue+is%3Aopen+label%3AActivity).
 
@@ -113,3 +99,10 @@ _Visibility of Achievements_
 
 This is a small selection of the 44 potential activities that are now live, prepared as part of the [URSSI Policy project](https://urssi.us/projects/policy/about/). The activities outlined so far offer a multi-pronged approach to advancing the research software field. They aim to create a more equitable, transparent, and dynamic academic ecosystem. These activities are not just suggestions to help the research software field chart its course; they're potential catalysts for change. They aim to redefine academic norms, making room for the computational cornerstone that is research software. It's time to give research software its due, not as a mere tool, but as a cornerstone of academic innovation. Ready to contribute or learn more? Check out the [collection of activities](https://github.com/si2-urssi/policy/issues?q=is%3Aissue+is%3Aopen+label%3AActivity) and let's elevate research software together!
 
+### Important links
+  * [Research Blog](/blog/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)
+  

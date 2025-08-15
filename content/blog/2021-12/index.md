@@ -1,54 +1,31 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog", "Recommendations"]
+---
+title: "Research software is essential for research data, so how should governments respond?"
+date: 2021-12-09
+authors:
+  - ""
 
-title = "Research software is essential for research data, so how should governments respond?"
-#subtitle = ""
-title_align = "left"
-
-display_date = true
-date = "2021-12-09"
-author = ["Michelle Barker", "Neil Chue Hong", "Daniel S. Katz", "Mark Leggott", "Andrew Treloar", "Joris van Eijnatten", "Selina Aragon"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = true # Default is false
-  content = """
-
-  * Table of Contents
-      * [International adoption](https://www.researchsoft.org/blog/2021-12/#international-adoption)
-      * [National landscape analysis](https://www.researchsoft.org/blog/2021-12/#national-landscape-analysis)
-      * [Key recommendations from ReSA](https://www.researchsoft.org/blog/2021-12/#key-recommendations-from-resa)
-
-  * Research software is essential for research data, so how should governments respond?. Zenodo. [https://doi.org/10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
-  * SSI [news post](https://software.ac.uk/news/research-software-alliance-calls-governments-improve-research-software-policies)
-  *  NLeSC [news post](https://www.esciencecenter.nl/news/research-software-alliance-calls-on-governments-to-improve-research-software-policies/)
-
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-[asset]
-  image = "light.jpg"
-  text = "Team thinking together as a diverse group of people coming together joining hands into the shape of an inspirational light bulb 3D elements"
-+++
-
-Image by [Lightspring](https://www.shutterstock.com/image-illustration/team-thinking-together-diverse-group-people-1553419640) on Shutterstock.
+categories: 
+  - Blog
+  - Recommendations
+summary: "Read more..."
+draft: false
+---
 
 Cross-posted on 9 December 2021 by the [Netherlands eScience Centre](https://www.esciencecenter.nl/news/research-software-alliance-calls-on-governments-to-improve-research-software-policies/) and the [Software Sustainability Institute](https://software.ac.uk/news/research-software-alliance-calls-governments-improve-research-software-policies).
 
 [DOI: 10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
 
-Research software is essential for research data, so how should governments respond?
 -----------------------------------------------------------------
 
 _December 9, 2021_  
 
 Authors: [Michelle Barker](https://www.linkedin.com/in/michelledbarker/), [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong), [Daniel S. Katz](https://danielskatz.org/), [Mark Leggott](https://www.linkedin.com/in/markleggott/?originalSubdomain=ca)[,](https://www.linkedin.com/in/markleggott/?originalSubdomain=ca) [Andrew Treloar](https://andrew.treloar.net/), [Joris van Eijnatten,](https://www.esciencecenter.nl/team/prof-dr-joris-van-eijnatten/)[ ](https://www.esciencecenter.nl/team/prof-dr-joris-van-eijnatten/)[Selina Aragon](https://www.software.ac.uk/about/staff/person/selina-aragon).
+
+<div class="row justify-content-center">
+    <img src="light.jpg" alt="Team thinking together as a diverse group of people coming together joining hands into the shape of an inspirational light bulb 3D elements">
+</div>
+
+Image by [Lightspring](https://www.shutterstock.com/image-illustration/team-thinking-together-diverse-group-people-1553419640) on Shutterstock.
 
 Research software is becoming increasingly valued in the research ecosystem, and international and national policy practices are evolving to reflect this. Studies have shown that [33 percent of international research](https://www.oecd-ilibrary.org/science-and-technology/charting-the-digital-transformation-of-science_1b06c47c-en) produces new code (see Figure 3.4), [90 percent of UK researchers](https://doi.org/10.5281/zenodo.14809) acknowledge software as important for their research, while [95 percent of US postdoctoral students](https://figshare.com/articles/journal_contribution/Track_1_Paper_Surveying_the_U_S_National_Postdoctoral_Association_Regarding_Software_Use_and_Training_in_Research/5328442/3) use research software.
 
@@ -158,8 +135,23 @@ There is also strong consensus that the development of research software must be
 
 To advance this agenda across the research community as a whole requires both policy development and implementation. While there are clear recommendations on how national research software policies need to develop, and examples of how some countries are implementing increased recognition of the importance of research software and those who maintain it, different countries are at different stages of development.
 
-ReSA aims to establish collaborations that  support this work, including the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/). This collaboration of organisations that are committed to supporting research software, and those who develop it, will convene in early 2022 with investment from the [Alfred](https://sloan.org/programs/digital-technology/better-software-for-science)[ P. Sloan Foundation](https://sloan.org/programs/digital-technology/better-software-for-science). The Forum will create a formal mechanism to share funding practices, learn from each other, and propose methods to better tackle common challenges such as resourcing for maintenance of research software investments.
+ReSA aims to establish collaborations that  support this work, including the [Research Software Funders Forum](/forums/funders-forum/). This collaboration of organisations that are committed to supporting research software, and those who develop it, will convene in early 2022 with investment from the [Alfred](https://sloan.org/programs/digital-technology/better-software-for-science)[ P. Sloan Foundation](https://sloan.org/programs/digital-technology/better-software-for-science). The Forum will create a formal mechanism to share funding practices, learn from each other, and propose methods to better tackle common challenges such as resourcing for maintenance of research software investments.
 
 ReSA encourages national governments to review their policies and implementation strategies in light of OECD, UNESCO, and ReSA recommendations. To support the work of individual countries, a more detailed analysis of how a range of countries are progressing should also be undertaken, based on a framework such as the maturity matrix that [Science Europe](https://www.scienceeurope.org/media/b3odxx3s/se-practical-guide-sustainable-research-data.pdf) uses to assess the sustainability of the research data initiatives. This could provide organisations such as OECD and UNESCO with evidence of how government policies are implementing their recommendations and identify geographic regions needing additional support.
 
-_Want to discuss this post with us? Send us an email via [contact us](https://www.researchsoft.org/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
+### Important Links
+  * Table of Contents
+      * [International adoption](/blog/2021-12/#international-adoption)
+      * [National landscape analysis](/blog/2021-12/#national-landscape-analysis)
+      * [Key recommendations from ReSA](/blog/2021-12/#key-recommendations-from-resa)
+
+  * Research software is essential for research data, so how should governments respond?. Zenodo. [https://doi.org/10.5281/zenodo.5762703](https://doi.org/10.5281/zenodo.5762703)
+  * SSI [news post](https://software.ac.uk/news/research-software-alliance-calls-governments-improve-research-software-policies)
+  *  NLeSC [news post](https://www.esciencecenter.nl/news/research-software-alliance-calls-on-governments-to-improve-research-software-policies/)
+
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news/)
+  * [ReSA resources](/resource/resa-resources/)
+  * [Contact us](/about/contact/)
+
+_Want to discuss this post with us? Send us an email via [contact us](/about/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._

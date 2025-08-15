@@ -1,15 +1,14 @@
+---
+title: "ReSA Newsletter: April 2025"
+subtitle: ""
+date: 2025-04-23
+authors:
+  - ""
 
-+++ 
-fragment = "content" 
-weight = 100
+summary: ""
+draft: false
+---
 
-title = "ReSA Newsletter: April 2025" 
-title_align = "left"
-
-display_date = false 
-date = "2025-04-23"
-
-summary = """ 
 This month’s news includes:
 
 * Research software community news, including EVERSE’s Research Software Quality Toolkit (RSQKit).
@@ -20,9 +19,5 @@ This month’s news includes:
 * Opportunities to get involved with community initiatives
 * Resources
 * Community events, including Collaborations Workshop 2025
-
-"""
-
-+++
 
 **[Read the April newsletter](https://preview.mailerlite.io/preview/778129/emails/152397949264987160)**

@@ -1,14 +1,14 @@
-+++
-fragment = "content"
-weight = 100
+---
+title: "ReSA Newsletter: October 2021"
+subtitle: ""
+date: 2021-10-27
+authors:
+  - ""
 
-title = "ReSA Newsletter: October 2021"
-title_align = "left"
+summary: ""
+draft: false
+---
 
-display_date = false
-date = "2021-10-27"
-
-summary = """
 This month’s news includes:
 
 * This month in research software - community news
@@ -19,10 +19,4 @@ This month’s news includes:
 * Opportunities to get involved with community initiatives
 * Community events and resources
 
-"""
-
-+++
-
-
 **[Read the October Newsletter](https://preview.mailerlite.io/preview/778129/emails/114350982352078792)**
-

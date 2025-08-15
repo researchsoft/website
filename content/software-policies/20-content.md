@@ -18,6 +18,3 @@ This collection highlights how research organisations govern the creation, maint
 The [Research Software Policy (RSP) Forum](https://www.researchsoft.org/rsp-forum/), convened by ReSA, curates national, regional, and international policies that support the development, recognition, and sustainability of research software. These resources are intended to guide governments and agencies in shaping or updating their policy frameworks.
 
 **[View national policies](https://www.researchsoft.org/national-policies/)**
-
-
-

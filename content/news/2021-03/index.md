@@ -1,23 +1,19 @@
-+++ 
-fragment = "content" 
-weight = 100
+---
+title: "ReSA News: March 2021"
+subtitle: ""
+date: 2021-03-24
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA News: March 2021" 
-title_align = "left"
-
-display_date = false 
-date = "2021-03-24"
-
-summary = """ 
 This month’s news includes:
 
 * FAIR4RS Update
 * Building research software communities
 * Volunteer to be a software expert at EGU21
 * Community news: 2021 INCF Assembly, Chan Zuckerberg Initiative, Research software sustainability in the Netherlands, 1st International Workshop on the Body of Knowledge for Software Sustainability (BoKSS’21), IEEE Computer Society, Academic Data Science Alliance and US-RSE Association, 2020 FAIR Convergence Symposium
-"""
-
-+++
 
 ### FAIR4RS Update
 

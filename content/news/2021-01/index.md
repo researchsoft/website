@@ -1,14 +1,13 @@
-+++
-fragment = "content"
-weight = 100
+---
+title: "ReSA News: January 2021"
+subtitle: ""
+date: 2021-01-28
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA News: January 2021"
-title_align = "left"
-
-display_date = false
-date = "2021-01-28"
-
-summary = """
 This month’s news includes:
 
 * Sloan funding for ReSa task force
@@ -16,13 +15,10 @@ This month’s news includes:
 * Welcome to our Community Manager
 * FAIR4RS Update
 * Community news: Recognizing the value of software: a software citation guide, and Series of Online Research Software Events events
-"""
-
-+++
 
 ### Sloan funding for ReSA task force
 
-ReSA is grateful to the [Alfred P. Sloan Foundation](https://sloan.org/) for supporting the [ReSA task force](https://www.researchsoft.org/taskforces/) applying the FAIR principles to research software. The activity is also a FORCE11 and Research Data Alliance working group. The grant from the Sloan Foundation will support the [FAIR for Research Software (FAIR4RS) Working Group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) to increase the FAIR community’s focus on improving software health through improved practices by engaging the research software community in the crucial first step of agreeing on the application of the FAIR principles to research software. 
+ReSA is grateful to the [Alfred P. Sloan Foundation](https://sloan.org/) for supporting the [ReSA task force](/taskforces/) applying the FAIR principles to research software. The activity is also a FORCE11 and Research Data Alliance working group. The grant from the Sloan Foundation will support the [FAIR for Research Software (FAIR4RS) Working Group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) to increase the FAIR community’s focus on improving software health through improved practices by engaging the research software community in the crucial first step of agreeing on the application of the FAIR principles to research software. 
 
 ### New ReSA Steering Committee members
 

@@ -1,41 +1,25 @@
- +++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Research software is critical to the future of AI-driven research"
+subtitle: ""
+date: 2024-08-22
+authors:
+  - ""
 
-title = "Research software is critical to the future of AI-driven research"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-disabled = false
-display_date = true
-date = "2024-08-22"
-authors = ["Michelle Barker, Kim Hartley, Daniel S. Katz, Richard Littauer, Qian Zhang, Shurui Zhou, Jyoti Bhogal"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false
-  content = """
-  * [DOI: https://doi.org/10.5281/zenodo.13350747](https://doi.org/10.5281/zenodo.13350747)
-  * [Digital Research Alliance of Canada](https://alliancecan.ca/en)
-  * [ReSA newsletter](https://www.researchsoft.org/news/)
-  * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
-  * [ReSA resources](https://www.researchsoft.org/resa-resources/)
-  * [Contact us](https://www.researchsoft.org/contact/)
-  """
-
-+++
-
-![My Image](AI-research-software.jpg) 
-_Image was created with the assistance of AI._ 
-
+summary: "Read more..."
+draft: false
+---
 
 By Michelle Barker, Kim Hartley, Daniel S. Katz, Richard Littauer, Qian Zhang, Shurui Zhou, Jyoti Bhogal
 
 August 2024
 
 [This blog post has been cross-posted by the [Netherlands eScience Center](https://blog.esciencecenter.nl/research-software-is-critical-to-the-future-of-ai-driven-research-8a408eea6879) and the [Software Sustainability Institute](https://www.software.ac.uk/blog/research-software-critical-future-ai-driven-research).]
+
+![My Image](AI-research-software.jpg) 
+_Image was created with the assistance of AI._ 
 
 ### Abstract
 
@@ -75,9 +59,9 @@ The research community personnel who develop and maintain research software are 
 
 The people who do this work can have many titles, including researchers, research software engineers (RSEs), data scientists, computer scientists, data engineers, bioinformaticians, students, community scientists, and many more (Hettrick et al. 2022; Barker and Buchhorn 2022). The inclusion of improved support for the staff who develop and maintain research software is also emphasised in the UK-focused [Review of Digital Research Infrastructure Requirements for AI](https://www.turing.ac.uk/sites/default/files/2022-09/ukri-requirements-report_final_edits.pdf) (Lazauskas et al. 2022). This report’s findings included emphasis that “any investment in any infrastructure for AI would need to be matched by investments in training and support”, with the second highest priority areas identified as funding for RSEs (Lazauskas et al. 2022). The UK’s [ExCALIBUR RSE Knowledge Integration Landscape Review](https://doi.org/10.5281/zenodo.4986062) also highlights the need for RSEs to acquire new skills relevant to AI, and notes that “These skill sets also begin to deviate from what is demanded by industries, requiring novel AI software and capabilities'' (Parsons et al. 2021).
 
-ReSA’s initial research on recognition of research software in the AI landscape was presented in March 2024 at its [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/) meetings. This forum engages representatives from over 60 funding organisations in online meetings and hybrid venues (ReSA 2024a). Attendees of these March meetings were immediately able to utilise these early findings from the presentation to strengthen their own cases for investment in research software within AI-dominated programs, where the criticality of this building block is not yet understood by many in their organisations. It became clear that further research on best practices would support not only funders, but a variety of stakeholders in the international research software community.
+ReSA’s initial research on recognition of research software in the AI landscape was presented in March 2024 at its [Research Software Funders Forum](/forums/funders-forum/) meetings. This forum engages representatives from over 60 funding organisations in online meetings and hybrid venues (ReSA 2024a). Attendees of these March meetings were immediately able to utilise these early findings from the presentation to strengthen their own cases for investment in research software within AI-dominated programs, where the criticality of this building block is not yet understood by many in their organisations. It became clear that further research on best practices would support not only funders, but a variety of stakeholders in the international research software community.
 
-The research in this position paper was undertaken as a partnership between [ReSA](https://www.researchsoft.org/) and the [Digital Research Alliance of Canada](https://alliancecan.ca/en), one of ReSA’s [Founding Members](https://www.researchsoft.org/about-resa/). One of ReSA’s key functions is to ensure that research software is considered in international discussions on how to advance research capabilities. ReSA is a global organisation that unites decision-makers and influencers across the international research software community. The Digital Research Alliance of Canada is a non-profit organisation funded by the Government of Canada. It advances Canada’s position as a leader in the knowledge economy on the international stage by integrating, championing and funding the infrastructure and activities required, with research software as one of the three main areas. Other community leaders were also brought in on this paper in order to present more balanced perspectives on the need for research software in AI, particularly from institutional and open source perspectives.
+The research in this position paper was undertaken as a partnership between [ReSA](https://www.researchsoft.org/) and the [Digital Research Alliance of Canada](https://alliancecan.ca/en), one of ReSA’s [Founding Members](/about/). One of ReSA’s key functions is to ensure that research software is considered in international discussions on how to advance research capabilities. ReSA is a global organisation that unites decision-makers and influencers across the international research software community. The Digital Research Alliance of Canada is a non-profit organisation funded by the Government of Canada. It advances Canada’s position as a leader in the knowledge economy on the international stage by integrating, championing and funding the infrastructure and activities required, with research software as one of the three main areas. Other community leaders were also brought in on this paper in order to present more balanced perspectives on the need for research software in AI, particularly from institutional and open source perspectives.
 
 ### 3. Consequences if research software is not supported
 There is a tendency for AI initiatives to minimise or exclude focus on research software. This minimisation creates challenges. To show this, evidence on the issues in supporting research software, including open-source scientific software, is also presented here.
@@ -123,8 +107,8 @@ Research software needs to be included in AI strategies. Our recommendations for
 Other ways to help ensure that the focus on technological infrastructure to support AI acceleration includes research software and its personnel as a vital part of that infrastructure include:
 
 - [Signing](https://adore.software/get-involved/) the [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/declaration/) (ADORE.software), which represents a first step to formalise, on a global level, the basic principles and recommendations related to funding the sustainability of research software, including the people needed to achieve this goal.
-- Supporting ReSA in its aim to ensure that research software is considered in international discussions on how to advance research capabilities. Become a ReSA [Organisational Member](https://www.researchsoft.org/membership/), [support a task force](https://www.researchsoft.org/tf-support/), or [donate](https://www.researchsoft.org/donate/).
-- For funders, joining the [Research Software Funders Forum](https://www.researchsoft.org/funders-forum/), a global collaboration of funding organisations committed to supporting research software, and those who develop and maintain it, as fundamental and vital to research.
+- Supporting ReSA in its aim to ensure that research software is considered in international discussions on how to advance research capabilities. Become a ReSA [Organisational Member](/about/membership/), [support a task force](/taskforces/tf-support/), or [donate](/about/donate/).
+- For funders, joining the [Research Software Funders Forum](/forums/funders-forum/), a global collaboration of funding organisations committed to supporting research software, and those who develop and maintain it, as fundamental and vital to research.
 
 ### References
 Barker, Michelle, Elena Breitmoser, Philippa Broadbent, Neil Chue Hong, Simon Hettrick, Ioanna Lampaki, Anthony Quinn, and Rebecca Taylor. 2024. ‘Software and Skills for Research Computing in the UK’. Zenodo. https://doi.org/10.5281/ZENODO.10473186.
@@ -208,3 +192,11 @@ UKRI. 2023. ‘£300 Million to Launch First Phase of New AI Research Resource�
 US-RSE Association and IEEE Computer Society. 2023. ‘Research Software Engineers: Creating a Career Path—and a Career’. Zenodo. https://doi.org/10.5281/ZENODO.10073232.
 
 Van Tuyl, Steve (Ed.). 2023. ‘Hiring, Managing, and Retaining Data Scientists and Research Software Engineers in Academia: A Career Guidebook from ADSA and US-RSE’. Zenodo. https://doi.org/10.5281/ZENODO.8274378.
+
+### Important links
+  * [DOI: https://doi.org/10.5281/zenodo.13350747](https://doi.org/10.5281/zenodo.13350747)
+  * [Digital Research Alliance of Canada](https://alliancecan.ca/en)
+  * [ReSA newsletter](/news/)
+  * [Sign up for the ReSA mailing list](https://dashboard.mailerlite.com/forms/778129/110635094443558050/share)
+  * [ReSA resources](/resource/resa-resources/)
+  * [Contact us](/about/contact/)

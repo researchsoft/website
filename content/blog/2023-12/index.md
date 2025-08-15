@@ -1,39 +1,25 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Navigating the Unseen: Unveiling the Scope of African Research Software and Systems Engineering"
+subtitle: ""
+date: 2023-12-06
+authors:
+  - ""
 
-title = "Navigating the Unseen: Unveiling the Scope of African Research Software and Systems Engineering "
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-disabled = false
-display_date = true
-date = "2023-12-06"
-author = ["Anelda Van der Walt"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false # Default is false
-  content = """
-  * [ReSA newsletter](https://www.researchsoft.org/news/)
-  * [RSSE Africa](https://rsse.africa/)
-  * [RSSE Africa LinkedIn group](https://www.linkedin.com/groups/12903402/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-+++
-![My Image](FwfmuBjWIAIQhg7-1024x768.jpeg)
-Participants of the first Research Software Indaba held in Cape Town, South Africa in May 2023. _(Photo credit: Noxolo Chalale)_
+summary: "Read more..."
+draft: false
+---
 
 By Anelda Van der Walt (Director, Talarify)
 
 6 December 2023
 
 The African continent is home to some of the world's most significant multi-country research projects. These projects often include research software and infrastructure development components, but it can be challenging to grasp the African research software and systems engineering (RSSE) landscape. This blog post shares information on ReSA’s activities to support RSSE in this region. It highlights the importance of having both a local community of practice where RSSEs can share their experiences and challenges, lessons learned, and solutions implemented *and* a global dialogue that includes African RSSEs as the RSSE movement matures, develops policies, and solidifies best practices. It concludes with a list of remarkable research projects and organisations that include RSSE components to illustrate how extensive and significant the African RSSE community is.
+
+![My Image](FwfmuBjWIAIQhg7-1024x768.jpeg)
+Participants of the first Research Software Indaba held in Cape Town, South Africa in May 2023. _(Photo credit: Noxolo Chalale)_
 
 In 2023, [Talarify](https://www.talarify.co.za/) was appointed as the African Community Engagement Partner for the [Research Software Alliance](https://www.researchsoft.org/) (ReSA), with funding from a [grant](https://doi.org/10.5281/zenodo.7275397) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). As the  ReSA African Community Engagement Partner, we highlight information from the African community to enhance the visibility of local RSSE-related initiatives. We also share news, opportunities and resources from the ReSA community with African RSSEs and organisations involved in research software development through the channels listed below. We have spoken about the international Research Software Engineers (RSE) movement and ReSA’s work at various African forums, such as the inaugural [ZA-REN Week](https://events.tenet.ac.za/event/33/) (view the [presentation](https://zenodo.org/doi/10.5281/zenodo.10013667)). We have also engaged with the global community to share African RSSE news through events such as the Annual Conference for Research Software Engineering (RSECon 2023) (view the [presentation](https://doi.org/10.5281/zenodo.10013746)).
 
@@ -102,3 +88,11 @@ The [**Machine Intelligence Institute of Africa**](https://miiafrica.org/researc
 **Acknowledgements**
 
 This project has been made possible in part by a grant from The Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation.
+
+### Important links
+  * [ReSA newsletter](/news/)
+  * [RSSE Africa](https://rsse.africa/)
+  * [RSSE Africa LinkedIn group](https://www.linkedin.com/groups/12903402/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA resources](/resource/resa-resources)
+  * [Contact us](/about/contact)

@@ -1,14 +1,13 @@
-+++
-fragment = "content"
-weight = 100
+---
+title: "ReSA Newsletter: August 2021"
+subtitle: ""
+date: 2021-08-25
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA Newsletter: August 2021"
-title_align = "left"
-
-display_date = false
-date = "2021-08-25"
-
-summary = """
 This month’s news includes:
 
 * This month in research software - community news
@@ -18,14 +17,12 @@ This month’s news includes:
 * Community events
 * Community resources
 
-"""
-
-+++
-
 ### This month in research software - community news
 
 * GitHub is now providing [built-in citation support](https://citation-file-format.github.io/) that makes it easy to add software citation files to a repository, and GitHub then uses this to let users know how to correctly cite the software. This will help software developers more easily receive acknowledgments for their contributions, and once this metadata is stored in the repository, it can also be used by other members of the scholarly community to support citation in other ways.
+
 * [Zenodo](https://zenodo.org/) has added support for GitHub’s new software citation feature in generating metadata for software repositories. Also, [Zotero](https://www.zotero.org/) can now [use the enhanced metadata](https://guides.github.com/activities/citable-code/) provided by developers when saving GitHub repositories. 
+
 * Applications are open for the [Better Scientific Software Fellowship Program](https://bssw.io/blog_posts/applications-open-for-the-2022-bssw-fellowship-program), which fosters and promotes practices, processes, and tools to improve developer productivity and software sustainability of scientific codes. Fellows must be affiliated with a US-based institution that can receive Federal funds and will receive up to $25,000 for an activity that promotes better scientific software. Applications close September 30, 2021.
 * Code for Science and Society is accepting [expressions of interest](https://blog.codeforscience.org/digital-infrastructure-incubator-is-live/) for the [Digital Infrastructure Incubator](http://incubator.codeforscience.org/?ref=Blogpost), which holds space for projects to imagine possibility and implement strategy. This six-month cohort program comes with a $5,000 stipend and supports open source digital infrastructure emergent leaders in the implementation of research-backed recommendations concerning sustainability, governance, and community health.
 
@@ -43,9 +40,9 @@ A webinar to introduce the subgroups and answer questions about them will also t
 
 ### ReSA Steering Committee Chair
 
-Daniel S. Katz has been announced as the [inaugural Chair](http://www.ncsa.illinois.edu/news/story/katz_named_inaugural_resa_steering_committee_chair) of the [ReSA Steering Committee](https://www.researchsoft.org/people/). Katz is chief scientist at the [National Center for Supercomputing Applications](http://www.ncsa.illinois.edu/) and Research Associate Professor in Computer Science, Electrical and Computer Engineering, and the School of Information Sciences, University of Illinois at Urbana-Champaign.
+Daniel S. Katz has been announced as the [inaugural Chair](http://www.ncsa.illinois.edu/news/story/katz_named_inaugural_resa_steering_committee_chair) of the [ReSA Steering Committee](/about/governance/). Katz is chief scientist at the [National Center for Supercomputing Applications](http://www.ncsa.illinois.edu/) and Research Associate Professor in Computer Science, Electrical and Computer Engineering, and the School of Information Sciences, University of Illinois at Urbana-Champaign.
 
-“I’ve been working on increasing the recognition of research software and its dependence on the people who develop and maintain it for many years,” says Katz, “as this is critical to improving research impacts. I co-founded ReSA with [Michelle Barker](https://www.researchsoft.org/people/) and [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong) to enable the strategic coordination needed to maximize the achievement of community-wide goals, so I’m pleased to be able to expand my role in ReSA to help accomplish this, working with our fiscal sponsor, [Code for Science & Society](https://codeforscience.org/).”
+“I’ve been working on increasing the recognition of research software and its dependence on the people who develop and maintain it for many years,” says Katz, “as this is critical to improving research impacts. I co-founded ReSA with [Michelle Barker](/about/our-team/) and [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong) to enable the strategic coordination needed to maximize the achievement of community-wide goals, so I’m pleased to be able to expand my role in ReSA to help accomplish this, working with our fiscal sponsor, [Code for Science & Society](https://codeforscience.org/).”
 
 ### Opportunities to get involved with community initiatives
 

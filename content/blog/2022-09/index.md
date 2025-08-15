@@ -1,29 +1,17 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Encouraging entry, retention, diversity and inclusion in research software careers"
+subtitle: ""
+date: 2022-09-28
+authors:
+  - ""
 
-title = "Encouraging entry, retention, diversity and inclusion in research software careers"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
+  - Task force
 
-display_date = true
-date = "2022-09-28"
-author = ["Michelle Barker", "Daniel S. Katz"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  #sticky = true # Default is false
-  content = """
-  * [DOI: 10.5281/zenodo.7117842](https://zenodo.org/record/7117842#.YzOwGOxByUl)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-  
-+++
+summary: "Read more..."
+draft: false
+---
 
 _September, 2022_  
 
@@ -105,7 +93,9 @@ This need is also recognised in the RSE community through initiatives such as:
 * In the [ReSA People Roadmap Report](https://www.researchsoft.org/documents/people-roadmap.pdf), career paths and recognition for research software personnel was the most commonly identified priority area (by 40% of the initiatives that were involved).
 * [Senior level RSE career paths (with an s)](https://danielskatzblog.wordpress.com/2021/09/27/senior-rse-paths/) identifies a range of possible career paths as shown in the following figure:
 
-<img src="CareerPaths.png" alt="RSE Career paths, image provided by Dan Katz">
+<div class="row justify-content-center">
+    <img src="CareerPaths.png" alt="RSE Career paths, image provided by Dan Katz">
+</div> 
 
 * A [report](https://bssw.io/blog_posts/a-report-on-the-sc21-research-software-engineers-in-hpc-rse-hpc-2021-workshop) on RSE in HPC noted that the role of HPC RSEs is still missing good career paths in academia and that their expertise is often not acknowledged.
 * In the UK, the [ExCALIBUR RSE Knowledge Integration Landscape Review](https://doi.org/10.5281/zenodo.4986061) highlights that investment in software means investment in people, and identifies where major training and skills gaps exist to address issues of long-term career development for RSEs in HPC.
@@ -137,12 +127,17 @@ There is a range of research on mobility issues in general; an [analysis of digi
 
 This analysis has shown that there are some useful initiatives and research available, although they are sparse. How could we build on these foundations to accelerate progress in this area? One option could be a landscape analysis identifying initiatives and gaps in this area. This could be structured utilising the Australian Research Data Commons’s [framework](https://zenodo.org/record/6378082#.YqAvdBNBxQM) for recognition of research software and the people responsible for it, which identifies three levels at which coordinated action is needed: to see software (increase visibility), to shape software (increase fit-for purpose), and to sustain software (increase sustainability). The table below includes some possible questions that could be asked of a variety of organisations to guide identification of useful initiatives going forward.
 
-<img src="Table.png" alt="the table includes questions to guide identification of useful initiatives, it has three levels at which coordinated action is needed: to see software (increase visibility), to shape software (increase fit-for purpose), and to sustain software (increase sustainability) ">
+<div class="row justify-content-center">
+    <img src="Table.png" alt="the table includes questions to guide identification of useful initiatives, it has three levels at which coordinated action is needed: to see software (increase visibility), to shape software (increase fit-for purpose), and to sustain software (increase sustainability)">
+</div> 
 
 ## Acknowledgements
 
 This work is supported by the Alfred P. Sloan Foundation, grant no G-2021-17001.
 
-
-
-
+### Important links
+  * [DOI: 10.5281/zenodo.7117842](https://zenodo.org/record/7117842#.YzOwGOxByUl)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news/)
+  * [ReSA resources](/resource/resa-resources/)
+  * [Contact us](/about/contact/)

@@ -1,14 +1,14 @@
-+++ 
-fragment = "content" 
-weight = 100
+---
+title: "ReSA Newsletter: May 2025"
+subtitle: ""
+date: 2025-05-21
+authors:
+  - ""
 
-title = "ReSA Newsletter: May 2025" 
-title_align = "left"
+summary: ""
+draft: false
+---
 
-display_date = false 
-date = "2025-05-21"
-
-summary = """ 
 This month’s news includes:
 
 * Research software community news, including Software Heritage’s OSPO-RADAR project
@@ -19,11 +19,5 @@ This month’s news includes:
 * Opportunities to get involved with community initiatives
 * Resources
 * Community events, including RSECon25
-
-  
-
-"""
-
-+++
 
 **[Read the May newsletter](https://preview.mailerlite.io/preview/778129/emails/154958299495662880)**

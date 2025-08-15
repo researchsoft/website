@@ -1,14 +1,14 @@
-+++
-fragment = "content"
-weight = 100
+---
+title: "ReSA Newsletter: December 2021"
+subtitle: ""
+date: 2021-12-09
+authors:
+  - ""
 
-title = "ReSA Newsletter: December 2021"
-title_align = "left"
+summary: ""
+draft: false
+---
 
-display_date = false
-date = "2021-12-09"
-
-summary = """
 This month’s news includes:
 
 * This month in research software - community news
@@ -18,10 +18,5 @@ This month’s news includes:
 * ReSA Steering Committee member profile: Eva Méndez
 * Opportunities to get involved with community initiatives
 * Community events and resources
-
-"""
-
-+++
-
 
 **[Read the December Newsletter](https://preview.mailerlite.io/preview/778129/emails/114350730116072588)**

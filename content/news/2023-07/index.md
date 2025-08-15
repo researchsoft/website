@@ -1,14 +1,14 @@
-+++ 
-fragment = "content" 
-weight = 100
+---
+title: "ReSA Newsletter: July 2023"
+subtitle: ""
+date: 2023-07-27
+authors:
+  - ""
 
-title = "ReSA Newsletter: July 2023" 
-title_align = "left"
+summary: ""
+draft: false
+---
 
-display_date = false 
-date = "2023-07-27"
-
-summary = """ 
 This month’s news includes:
 
 * This month in research software - community news
@@ -16,9 +16,5 @@ This month’s news includes:
 * ReSA Membership update
 * Opportunities to get involved with community initiatives
 * Community events and resources
-
-"""
-
-+++
 
 **[Read the July Newsletter](https://preview.mailerlite.io/preview/778129/emails/114275186109318910)**

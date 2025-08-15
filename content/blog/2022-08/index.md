@@ -1,30 +1,16 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog", "Task force"]
+---
+title: "FAIR for Research Software (FAIR4RS): A summary"
+subtitle: ""
+date: 2022-08-15
+authors:
+  - ""
+categories: 
+  - Blog
+  - Task force
 
-title = "FAIR for Research Software (FAIR4RS): A summary"
-#subtitle = ""
-title_align = "left"
-
-display_date = true
-date = "2022-08-15"
-authors = ["Daniel S. Katz", "Tom Honeyman", "Paula Andrea Martinez", "Michelle Barker", "Leyla Jael Castro", "Neil Chue Hong", "Morane Gruenpeter", "Jennifer Harrow", "Anna-Lena Lamprecht", "Carlos Martinez-Ortiz", "Fotis Psomopoulos"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  #sticky = true # Default is false
-  content = """
-  * [FAIR4 for Research Software completion article](https://www.researchsoft.org/blog/2022-06/)
-  * [FAIR4RS Principles v1.0 on Zenodo](https://doi.org/10.15497/RDA00068)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-  
-+++
+summary: "Read more..."
+draft: false
+---
 
 _August, 2022_  
 
@@ -32,7 +18,7 @@ Authors: Daniel S. Katz, Tom Honeyman, Paula Andrea Martinez, Michelle Barker, L
 
 ## Introduction
 
-This blog post describes the need for, the work towards, and the [recent completion](https://www.researchsoft.org/blog/2022-06/) of version 1.0 of the FAIR Principles for Research Software ([FAIR4RS Principles v1.0](https://doi.org/10.15497/RDA00068)). It also briefly discusses the principles themselves, and how they differ from the FAIR data principles. It concludes with next steps that stakeholders can take to implement the principles.
+This blog post describes the need for, the work towards, and the [recent completion](/blog/2022-06/) of version 1.0 of the FAIR Principles for Research Software ([FAIR4RS Principles v1.0](https://doi.org/10.15497/RDA00068)). It also briefly discusses the principles themselves, and how they differ from the FAIR data principles. It concludes with next steps that stakeholders can take to implement the principles.
 
 ## Need for FAIR principles for research software
 
@@ -76,7 +62,6 @@ Overall, the FAIR4RS WG engaged about 500 people (from more than 110 organizatio
 
 As commonly happens in large groups, recognizing contributions and defining co-authorship rules is not an easy task, particularly when people from different communities with different practices for co-authorship order contribute at different stages of the process. All contributions, from joining the working group via signing up to the mailing list, to participating in subgroups, events, and consultations, to editing and authoring the FAIR4RS documents are recognized and recorded. Contributions at each stage are tracked according to the level of contribution, broadly in three categories: leadership roles, significant contributions (either by importance to the final documents or by consistent useful contributions), and other useful contributions. Contributors’ placement in the author list are based on the level and amount of contributions they have made to the outputs at that point. The FAIR4RS WG is also listed as the last co-author, to recognize that all members play a part in ensuring that outputs are appropriate and adopted. This model ensures that all contributors are recognized and rewarded, and takes the challenges of managing a large number of individual contributors into account.
 
-
 ## FAIR4RS principles
 
 Cite as: Chue Hong, Neil P., Katz, Daniel S., Barker, Michelle, Lamprecht, Anna-Lena, Martinez, Carlos, Psomopoulos, Fotis E., Harrow, Jen, Castro, Leyla Jael, Gruenpeter, Morane, Martinez, Paula Andrea, Honeyman, Tom, Struck, Alessandra, Lee, Allen, Loewe, Axel, van Werkhoven, Ben, Jones, Catherine, Garijo, Daniel, Plomp, Esther, Genova, Francoise, … RDA FAIR4RS WG. (2022). FAIR Principles for Research Software (FAIR4RS Principles) (1.0). [https://doi.org/10.15497/RDA00068](https://doi.org/10.15497/RDA00068).
@@ -109,15 +94,11 @@ A1.2. The protocol allows for an authentication and authorization procedure, whe
 
 A2. Metadata are accessible, even when the software is no longer available.
 
-
-
 I: Software interoperates with other software by exchanging data and/or metadata, and/or through interaction via application programming interfaces (APIs), described through standards.
 
 I1. Software reads, writes and exchanges data in a way that meets domain-relevant community standards.
 
 I2. Software includes qualified references to other objects.
-
-
 
 R: Software is both usable (can be executed) and reusable (can be understood, modified, built upon, or incorporated into other software).
 
@@ -130,8 +111,6 @@ R1.2. Software is associated with detailed provenance.
 R2. Software includes qualified references to other software.
 
 R3. Software meets domain-relevant community standards.
-
-
 
 Overall, the Findable and Accessible FAIR4RS Principles are quite similar to the equivalent [FAIR data principles](https://doi.org/10.1038/sdata.2016.18), though of course, the term “(meta)data” used there has been expanded to “software and its metadata”. We did extend the F1 principle to take the complexity of software into account, and we use F1.2 to recognize that software typically evolves and has multiple versions, and each needs an identifier.
 
@@ -150,4 +129,11 @@ The various types of stakeholders who work with research software now have a sol
 
 We look forward to seeing the results of these steps, which we think will lead to more FAIR software, in turn leading to more reuse and less redundant development.
 
-
+### Important links
+  * [FAIR4 for Research Software completion article](/blog/2022-06/)
+  * [FAIR4RS Principles v1.0 on Zenodo](https://doi.org/10.15497/RDA00068)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)
+  

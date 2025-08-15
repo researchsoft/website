@@ -1,0 +1,18 @@
+# Theme metadata
+name = "resa"
+
+[light]
+  # Primary
+  primary = "#196734"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#4A8639"
+  menu_text_active = "#196734"
+  menu_title = "#4A8639"
+
+  link = "#196734"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(232,240,231)"

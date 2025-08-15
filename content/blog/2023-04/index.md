@@ -1,34 +1,20 @@
-+++
-fragment = "content"
-weight = 100
-categories = ["Blog"]
+---
+title: "Can National Research and Education Networks be a focal point for Research Software Engineers in some regions?"
+subtitle: ""
+date: 2023-04-17
+authors:
+  - ""
 
-title = "Can National Research and Education Networks be a focal point for Research Software Engineers in some regions?"
-#subtitle = ""
-title_align = "left"
+categories: 
+  - Blog
 
-display_date = true
-date = "2023-04-17"
-author = ["Saranjeet Kaur Bhogal"]
-
-[sidebar]
-  title = "Important Links"
-  align = "right"
-  sticky = false # Default is false
-  content = """
-  * [Event website APAN55](https://apan55.apan.net/)
-  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
-  * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
-  """
-
-+++
+summary: "Read more..."
+draft: false
+---
 
 April, 2023
 
 Author: [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/)
-
 
 ## Introduction
 
@@ -71,15 +57,20 @@ At APAN55, I presented the ["RSE Asia Association: Journey and Future Plans"](ht
 
 In a [Twitter thread](https://twitter.com/RSE_Asia/status/1635942735948414978?s=20), I compiled responses from APAN55 participants regarding their opinions on RSEng as a profession and a career path. One person from Malaysia responded, "I think it's an interesting path to choose especially for people who like to do research and also want to develop software". An attendee from Nepal commented, "For me it's a domain of software engineering”, while someone from South Korea observed that software has a significant impact in various domains. They stated that with software being integrated into almost every domain, there is a need for research to enhance its capabilities. Another participant from Nepal mentioned that they believed the role of RSEng to be important and its significance had grown over time. They further stated that the particular requirements of researchers could only be met by specialised software engineers who develop an understanding of the research ecosystem, have knowledge of existing solutions, and are capable of bridging any gaps that may exist. Quoting an attendee from India, "Indeed there could be a wonderful career for a software engineer in academia. If they get a rich experience over technology it can help the researchers to facilitate their theory into a workable project or product. Software Engineering could be a backbone where concepts can be transformed into productive algorithms and results can be automated. It can also set up a process path for executing a project. Problem statements can be set up by a software engineer for a group of students and academics."
 
-<img src="APAN55_RSEAsia_Nepal.png" alt="From left to right and top to bottom) Saranjeet's presentation about the RSE Asia Association, RSE Asia Association swags, Twitter thread about the activity. Image credit:Saranjeet Kaur Bhogal"/>
+<img src="APAN55_RSEAsia_Nepal.png" alt="From left to right and top to bottom) Saranjeet's presentation about the RSE Asia Association, RSE Asia Association swags, Twitter thread about the activity. Image credit: Saranjeet Kaur Bhogal"/>
 
 _(From left to right and top to bottom) My presentation about the RSE Asia Association, RSE Asia Association swags, Twitter thread about the activity._ **Image credit:** [Saranjeet Kaur Bhogal](mailto:kaur.saranjeet3@gmail.com)
 
 ## Call to Action
 
-In general, I have observed that RSEng is gaining recognition in broader conversations about Open Science, Open Source, etc. However, there seems to be a lack of direct attention towards this topic in the Asian region, as mentioned in a report on "[Expanding the mapping of the global research software community](https://www.researchsoft.org/blog/2022-10/)." To address this gap, I have been promoting awareness and leading the efforts to focus on RSEng within the APAN network (at APAN53 and APAN55). Given the breadth of the APAN network and NRENs in Asia, they could serve as a great hub for the research software community in the region. If you have any suggestions on how we can leverage NRENs to foster the growth of the RSEng community in Asia, please feel free to [get in touch](mailto:kaur.saranjeet3@gmail.com). We might be able to submit a panel discussion on this topic at APAN56! Also feel free to share any ideas for other relevant conferences in the Asia-Pacific region.
-
-
+In general, I have observed that RSEng is gaining recognition in broader conversations about Open Science, Open Source, etc. However, there seems to be a lack of direct attention towards this topic in the Asian region, as mentioned in a report on "[Expanding the mapping of the global research software community](/blog/2022-10/)." To address this gap, I have been promoting awareness and leading the efforts to focus on RSEng within the APAN network (at APAN53 and APAN55). Given the breadth of the APAN network and NRENs in Asia, they could serve as a great hub for the research software community in the region. If you have any suggestions on how we can leverage NRENs to foster the growth of the RSEng community in Asia, please feel free to [get in touch](mailto:kaur.saranjeet3@gmail.com). We might be able to submit a panel discussion on this topic at APAN56! Also feel free to share any ideas for other relevant conferences in the Asia-Pacific region.
 
 **Acknowledgements:**
 _This blog post has benefitted from the suggestions and feedback by [Michelle Barker](https://www.linkedin.com/in/michelledbarker/) and [Paula Andrea Martinez](https://www.linkedin.com/in/pambio/)._
+
+### Important links
+  * [Event website APAN55](https://apan55.apan.net/)
+  * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
+  * [ReSA newsletters](/news)
+  * [ReSA resources](/resa-resources)
+  * [Contact us](/contact)

@@ -1,21 +1,18 @@
-+++
-fragment = "content"
-weight = 100
+---
+title: "ReSA News: July 2020"
+subtitle: ""
+date: 2020-07-23
+authors:
+  - ""
+summary: ""
+draft: false
+---
 
-title = "ReSA News: July 2020"
-title_align = "left"
-
-display_date = false
-date = "2020-07-23"
-
-summary = """
 * FAIR for Research Software update
 * Recommendations on software sharing for policy makers, funders, publishers and researchers
 * Request for Proposals for Critical Digital Research Infrastructure by Ford Foundation and Sloan Foundation
 * OECD report on developing digital skills in the research sector
-* US Research Software Engineer Association July newsletter items of interest"""
-
-+++
+* US Research Software Engineer Association July newsletter items of interest
 
 ### FAIR for Research Software update
 
