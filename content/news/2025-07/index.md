@@ -2,8 +2,8 @@
 title: "ReSA Newsletter: July 2025"
 subtitle: ""
 #date: 2025-07-23
-date: 2025-07-23T10:00:00Z   # publish date
-lastmod: 2025-08-15T12:00:00Z # optional, edit date
+date: 2025-07-23   # publish date
+lastmod: 2025-07-23 # optional, edit date
 authors:
   - ""
 

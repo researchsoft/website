@@ -16,7 +16,7 @@ header:
 
 design:
   show_date: true
-  show_lastmod: false  
+  show_lastmod: true  
 
 
 ---
