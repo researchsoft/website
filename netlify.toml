@@ -19,3 +19,153 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "/about-resa"
+  to = "/about"
+  status = 301
+[[redirects]]
+  from = "/about-resa/"
+  to = "/about"
+  status = 301
+[[redirects]]
+  from = "/governance"
+  to = "/about/governance"
+  status = 301
+[[redirects]]
+  from = "/our-team"
+  to = "/about/our-team"
+  status = 301
+[[redirects]]
+  from = "/membership"
+  to = "/about/membership"
+  status = 301
+[[redirects]]
+  from = "/stakeholders"
+  to = "/about/stakeholders"
+  status = 301
+[[redirects]]
+  from = "/donate"
+  to = "/about/donate"
+  status = 301
+[[redirects]]
+  from = "/contact/"
+  to = "/about/contact"
+  status = 301
+[[redirects]]
+  from = "/code-of-conduct"
+  to = "/about/code-of-conduct"
+  status = 301
+
+[[redirects]]
+  from = "/taskforces"
+  to = "/taskforces"
+  status = 301
+[[redirects]]
+  from = "/taskforces/"
+  to = "/taskforces"
+  status = 301
+[[redirects]]
+  from = "/tf-support"
+  to = "/taskforces/tf-support"
+  status = 301
+
+[[redirects]]
+  from = "/forums"
+  to = "/forums"
+  status = 301
+[[redirects]]
+  from = "/forums/"
+  to = "/forums"
+  status = 301
+[[redirects]]
+  from = "/community-leadership-forum"
+  to = "/forums/community-leadership-forum"
+  status = 301
+[[redirects]]
+  from = "/funders-forum"
+  to = "/forums/funders-forum"
+  status = 301
+[[redirects]]
+  from = "/RSI-forum"
+  to = "/forums/rsi-forum"
+  status = 301
+[[redirects]]
+  from = "/rsp-forum"
+  to = "/forums/rsp-forum"
+  status = 301
+[[redirects]]
+  from = "/mars-forum"
+  to = "/forums/mars-forum"
+  status = 301
+[[redirects]]
+  from = "/pubsoft-forum"
+  to = "/forums/pubsoft-forum"
+  status = 301
+[[redirects]]
+  from = "/stars-forum"
+  to = "/forums/stars-forum"
+  status = 301
+[[redirects]]
+  from = "/adore.software/"
+  to = "https://adore.software"
+  status = 301
+[[redirects]]
+  from = "/council.html"
+  to = "https://researchsoftware.org/council.html"
+  status = 301
+
+[[redirects]]
+  from = "/resa-resources"
+  to = "/resource"
+  status = 301
+[[redirects]]
+  from = "/resa-resources/"
+  to = "/resource"
+  status = 301
+[[redirects]]
+  from = "/guidelines"
+  to = "/resource/guidelines"
+  status = 301
+[[redirects]]
+  from = "/funding-opportunities"
+  to = "/resource/funding-opportunities"
+  status = 301
+[[redirects]]
+  from = "/software-policies"
+  to = "/resource/software-policies"
+  status = 301
+[[redirects]]
+  from = "/research-software-engineers"
+  to = "/resource/research-software-engineers"
+  status = 301
+[[redirects]]
+  from = "/adore.software/"
+  to = "https://adore.software"
+  status = 301
+
+[[redirects]]
+  from = "/news"
+  to = "/news"
+  status = 301
+[[redirects]]
+  from = "/events"
+  to = "/events"
+  status = 301
+[[redirects]]
+  from = "/events/"
+  to = "/events"
+  status = 301
+[[redirects]]
+  from = "/community-calls"
+  to = "/events/community-calls"
+  status = 301
+
+[[redirects]]
+  from = "/blog"
+  to = "/blog"
+  status = 301
+[[redirects]]
+  from = "/feed.xml"
+  to = "/index.xml"
+  status = 301
