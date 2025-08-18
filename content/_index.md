@@ -162,7 +162,7 @@ sections:
           <a href="https://github.com/researchsoft/website" target="_blank" title="GitHub">
             <i class="fab fa-github fa-2x" style="margin: 0 15px;"></i>
           </a>
-          <a href="mailto:contact@researchsoft.org" target="_blank" title="Email">
+          <a href="mailto:info@researchsoft.org" target="_blank" title="Email">
             <i class="fas fa-envelope fa-2x" style="margin: 0 15px;"></i>
           </a>
           <a href="https://researchsoft.slack.com/" target="_blank" title="Slack">

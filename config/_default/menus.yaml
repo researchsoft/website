@@ -140,7 +140,7 @@ main:
     url: https://github.com/researchsoft/website
     weight: 80
   - name: "<i class='fas fa-envelope fa-2x'></i>"
-    url: mailto:contact@researchsoft.org
+    url: mailto:info@researchsoft.org
     weight: 90
   - name: "<i class='fab fa-slack fa-2x'></i>"
     url: https://researchsoft.slack.com/
