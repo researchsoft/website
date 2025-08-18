@@ -14,6 +14,10 @@ header:
   caption: ''
   image: ''
 
+design:
+  show_date: true
+  show_lastmod: false  
+
 
 ---
 
