@@ -9,7 +9,7 @@ appearance:
   theme_day: resa
   theme_night:
   font: native
-  font_size: S
+  font_size: M
 
 # SEO
 
