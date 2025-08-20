@@ -87,7 +87,7 @@
   to = "/forums/funders-forum"
   status = 301
 [[redirects]]
-  from = "/RSI-forum"
+  from = "/rsi-forum"
   to = "/forums/rsi-forum"
   status = 301
 [[redirects]]
