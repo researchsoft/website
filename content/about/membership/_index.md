@@ -286,6 +286,11 @@ sections:
                 <img src="images/NWO-logo.jpeg" alt="NWO logo" class="logo-image">
               </a>
             </div>
+          <div class="col-md-4 logo-container">
+              <a href="https://www.rd-alliance.org/">
+                <img src="images/RDA_Logotype_Low.png" alt="RDA logo" class="logo-image">
+              </a>
+            </div>
             <div class="col-md-4 logo-container">
               <a href="https://www.rsu.lv/en/bioinformatics-group">
                 <img src="images/Stradini_logo_ENG_vert-RGB.jpg" alt="RSU logo" class="logo-image">
