@@ -322,7 +322,7 @@ sections:
             </div>
          <div class="col-md-4 logo-container">
               <a href="https://www.rd-alliance.org/">
-                <img src="images/RDA-logo trans hi res.png" alt="RDA logo" class="logo-image">
+                <img src="images/RDA_Logotype_Low.png" alt="RDA logo" class="logo-image">
               </a>
             </div>   
             <div class="col-md-4 logo-container">
