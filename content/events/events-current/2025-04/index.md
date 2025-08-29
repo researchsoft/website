@@ -24,7 +24,7 @@ Image credit: Brisbane Local Marketing on [Unsplash](https://unsplash.com/photos
 
 **Friday 17 October 2025, 9am-noon AEST ([see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Supporting+Research+Software+in+Research+Policy+and+Funding+Programs&iso=20251017T09&p1=47&ah=3))**
 
-Location TBC and online
+Location: University of Queensland (St Lucia campus) in the [Axon Building](https://maps.uq.edu.au/?campusId=406&zoom=18&lat=-27.50013674748203&lng=153.0143598956863&zLevel=1&identifier=09bcd201-c844-403b-b702-35db469b39cc), room 505, and online
 
 Join the Research Software Alliance (ReSA) for a hybrid half-day workshop designed for **funders and policymakers** who want to better understand research software and its role in research. This session will explain the critical importance of research software and its personnel to research impact, and the significant benefits of recognising this through funding programs and policy. 
 
