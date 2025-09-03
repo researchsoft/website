@@ -7,11 +7,13 @@ sections:
   - block: markdown
     content:
       title: 
-      text: 
+      text:   |
+        International Research Software Conference (IRSC)
+        {style="color: white; font-size: 2rem; text-align: center; "}
     design:
       background:
         image:
-          filename: IRSC Banner.png
+          filename: main-hero.png
           filters:
             brightness: 1
           parallax: false
@@ -19,7 +21,7 @@ sections:
           size: cover
           text_color_light: false 
       spacing:
-        padding: ["4rem", "2rem"]                 
+        padding: ["4rem", "2rem"]                
 
 
 
