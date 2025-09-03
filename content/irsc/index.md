@@ -5,9 +5,6 @@ type: landing
 
 sections:
   - block: markdown
-    content:
-      title: 
-      text:   |
     design:
       background:
         image:
