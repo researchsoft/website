@@ -24,7 +24,7 @@ sections:
   - block: markdown
     content:
       title: 
-      text:   |
+      text:   
 
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
