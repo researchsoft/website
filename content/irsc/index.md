@@ -42,7 +42,7 @@ sections:
 
     <div class="col-md-4 logo-container">
     <a href="<https://www.researchsoft.org/irsc/>">
-        <img src="images/<IRSC Banner.png>" alt="<IRSC logo>" class="logo-image">
+        <img src="irsc/<IRSC Banner.png>" alt="<IRSC logo>" class="logo-image">
     </a>
 </div>
 
