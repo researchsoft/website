@@ -21,3 +21,17 @@ sections:
           text_color_light: false      
       spacing:
         padding: ["4rem", "2rem"]     
+
+  - block: markdown
+    content:
+      title:
+      text:   |
+
+        <div class="d-flex justify-content-center">
+         <div class="col-md-8 text-start">
+               
+International Research Software Conference (IRSC)
+ 
+
+         </div>
+        </div>  
