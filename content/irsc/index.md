@@ -1,5 +1,5 @@
 ---
-title: IRSC
+title: "IRSC"
 date: 2025-09-03
 type: landing
 
