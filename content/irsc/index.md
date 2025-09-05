@@ -25,28 +25,21 @@ sections:
 
 
 
-  - block: markdown
+    - block: markdown
     content:
       title: 
-      text:   |
-
+      text: |
         <div class="d-flex justify-content-center">
-         <div class="col-md-8 text-start">
-
-        International Research Software Conference
- 
-
-        
-         </div>
+          <div class="col-md-8 text-start">
+            International Research Software Conference
+          </div>
         </div>
 
-<div class="col-md-4 logo-container">
-    <a href="<https://www.researchsoft.org/irsc/>">
-        <img src="images/IRSC Banner.png" alt="IRSC logo" 
-        class="logo-image">
-    </a>
-</div>
-
+        <div class="col-md-4 logo-container">
+          <a href="https://www.researchsoft.org/irsc/">
+            <img src="images/IRSC Banner.png" alt="IRSC logo" class="logo-image">
+          </a>
+        </div>
     design:
       background:
         color: "#ffffff"
