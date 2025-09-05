@@ -40,7 +40,7 @@ sections:
 
         ---
 
-        ## About the Conference
+        ## About IRSC
 
         Research software is increasingly recognised as critical to research outcomes. Yet research software, and the people who develop and maintain it, operate with tremendously unstable resources and funding. This instability negatively impacts innovation by slowing research and creating unstable career pathways.  
 
@@ -58,7 +58,7 @@ sections:
 
         ---
 
-        ## Who Should Attend
+        ## Who should attend
 
         Leaders and change-makers of organisations, initiatives, and communities committed to supporting research software, and those who develop it, as fundamental and vital to research.  
 
@@ -78,7 +78,7 @@ sections:
 
         ---
 
-        ## What to Expect
+        ## What to expect
 
         The event format will combine multiple elements:
 
@@ -88,7 +88,7 @@ sections:
 
         ---
 
-        ## Goals & Objectives
+        ## Goals & objectives
 
         The event supports three levels of engagement in line with the [ReSA Strategic Plan 2025–2028](https://doi.org/10.5281/zenodo.15444952):
 
