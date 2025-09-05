@@ -5,7 +5,7 @@ type: landing
 
 sections:
   - block: markdown
-    content:
+      content:
       title: 
       text:   |
         International Research Software Conference (IRSC)
