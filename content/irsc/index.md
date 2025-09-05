@@ -34,7 +34,7 @@ sections:
 
         Save the date and join a global gathering of leaders and change-makers working to advance global shifts toward strategic coordination, long-term sustainability, and high-level collaboration across the research software community.
 
-        Join the IRSC mailing list for updates  
+        [Join the IRSC mailing list](https://preview.mailerlite.io/forms/778129/164453536097109381/share) for updates  
 
         Connect on ReSA’s Slack: [#irsc](https://researchsoft.slack.com/archives/C09D8QX9E2H)
 
