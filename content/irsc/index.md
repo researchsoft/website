@@ -30,7 +30,7 @@ sections:
         <div class="d-flex justify-content-center">
           <div class="col-md-8 text-start">
 
-        **7–8 September 2026 | UK & online, co-located with RSECon26**
+        **7–8 September 2026 | Sheffield, UK & online, co-located with RSECon26**
 
         Save the date and join a global gathering of leaders and change-makers working to advance global shifts toward strategic coordination, long-term sustainability, and high-level collaboration across the research software community.
 
