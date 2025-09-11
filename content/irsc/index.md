@@ -102,7 +102,11 @@ sections:
         - Engage key stakeholders to improve collaboration and coordination  
         - Advance strategic thinking and alignment  
         - Address shared challenges across contexts  
-        - Enable exchange of best practices  
+        - Enable exchange of best practices
+
+        In 2024, ReSA engaged with key stakeholders in order to identify and recommend one or more community-supported routes for convening the first-ever international research software conference. This [report](https://doi.org/10.5281/zenodo.14736835) summarises the findings of the scoping activity.
+
+        ReSA has been supported to undertake this work as part of Alfred P. Sloan Foundation grant 2024-22426, [Research Software Alliance: Catalyzing community-led collaborations](https://doi.org/10.5281/zenodo.10927375)
 
         </div>
         </div>
