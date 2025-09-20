@@ -14,3 +14,6 @@ header:
   caption: 'Please view our [past events](/events/resa-events-past).' 
   image: ''
 ---
+
+<div style="text-align: center; margin-top: 100px;">
+</div>
