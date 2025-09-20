@@ -171,42 +171,41 @@
   status = 301
 
 [[redirects]]
-  from = "/events/events/2021-12"
+  from = "/events/2021-12"
   to = "/events/events-past/2021-12>"
   status = 301 
 
 [[redirects]]
-  from = "/events/events/2022-04"
+  from = "/events/2022-04"
   to = "/events/events-past/2022-04>"
   status = 301 
 
 [[redirects]]
-  from = "/events/events/2022-05"
+  from = "/events/2022-05"
   to = "/events/events-past/2022-05>"
   status = 301
 
 [[redirects]]
-  from = "/events/events/2022-06"
+  from = "/events/2022-06"
   to = "/events/events-past/2022-06>"
   status = 301
 
 [[redirects]]
-  from = "/events/events/2024-01"
+  from = "/events/2024-01"
   to = "/events/events-past/2024-01>"
   status = 301
 
 [[redirects]]
-  from = "/events/events/2024-10"
+  from = "/events/2024-10"
   to = "/events/events-past/2024-10>"
   status = 301
 
 [[redirects]]
-  from = "/events/events/2025-02"
+  from = "/events/2025-02"
   to = "/events/events-past/2025-02>"
   status = 301
 
 [[redirects]]
-  from = "/events/events/2025-03"
+  from = "/events/2025-03"
   to = "/events/events-past/2025-03>"
   status = 301
-  
