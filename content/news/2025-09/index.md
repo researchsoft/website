@@ -1,7 +1,7 @@
 ---
 title: "ReSA Newsletter: September 2025"
 subtitle: ""
-date:
+date: 2025-09-24
 authors:
  - ""
 
