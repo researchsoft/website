@@ -437,46 +437,7 @@ sections:
       spacing:
         padding: ["3rem", "1rem"]  
 
-  - block: markdown
-    content:
-      title: Partners
-      text: |
-        <div class="d-flex justify-content-center">
-         <div class="col-md-8 text-start">        
-        <br>
-
-        <style>
-          .logo-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 150px; /* Adjust as needed */
-          }
-
-          .logo-image {
-            width: 180px !important;
-            height: 180px !important;
-            object-fit: contain;
-          }
-        </style>
-
-          <div class="row justify-content-center mt-5">
-            <div class="col-md-4 logo-container">
-              <a href="https://www.rd-alliance.org/" target="_blank" title="RDA">
-                <img src="/about/images/RDA_Logotype_Low.png" alt="RDA logo" class="logo-image">
-              </a>
-            </div>
-          </div>
-         </div>
-        </div>  
-
-    design:
-      background:
-        color: "#ffffff"
-        text_color_light: false
-      spacing:
-        padding: ["3rem", "1rem"]           
-        
+ 
   - block: markdown
     content:
       title: Past Sponsors
