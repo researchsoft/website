@@ -330,13 +330,13 @@ sections:
                 <img src="images/Stradini_logo_ENG_vert-RGB.jpg" alt="RSU logo" class="logo-image">
               </a>
             </div>
+            </div>
+          <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://www.schmidtsciences.org/">
                 <img src="images/schmidtsciences_primary_color.png" alt="Schmidt Sciences logo" class="logo-image">
               </a>
             </div>
-            </div>
-          <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://www.simonsfoundation.org/">
                 <img src="images/Simons-Foundation.jpg" alt="Simons Foundation" class="logo-image">
@@ -347,13 +347,13 @@ sections:
                 <img src="images/ssi_logo_with_name-small2.png" alt="Software Sustainability Institute" class="logo-image">
               </a>
             </div>
+          </div>
+          <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://www.ukri.org/">
                 <img src="images/UKRI_logo.png" alt="UKRI logo" class="logo-image">
               </a>
             </div>
-          </div>
-          <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://us-rse.org/">
                 <img src="images/USRSE_logo.png" alt="US-RSE logo" class="logo-image">
@@ -364,22 +364,22 @@ sections:
                 <img src="images/Volkswagen.jpg" alt="Volkswagen Foundation logo" class="logo-image">
               </a>
             </div>
+          </div>
+          <div class="row justify-content-center">
             <div class="col-md-4 logo-container">
               <a href="https://wellcome.org/">
                 <img src="images/Wellcome_logo_Black.jpg" alt="Wellcome logo" class="logo-image">
               </a>
             </div>
+          </div>
         </div>
-         </div>
-        </div>          
-            
+
     design:
       background:
         color: "#f98c01"
         text_color_light: false  
       spacing:
         padding: ["3rem", "1rem"]              
-
 
   - block: markdown
     content:

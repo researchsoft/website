@@ -29,6 +29,10 @@
   to = "/about"
   status = 301
 [[redirects]]
+  from = "about-resa/"
+  to = "/about"
+  status = 301  
+[[redirects]]
   from = "/governance"
   to = "/about/governance"
   status = 301
