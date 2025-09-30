@@ -15,7 +15,7 @@ draft: false
 
 This month, we have a call for participation to an important survey, a link to great recognition of the role of software in research from the UK government and news on the Chan Zuckerberg Initiative for Open Source Software Projects.
 
-If you have any interesting news that you think the ReSA community might like to know, please [contact ReSA](/contact).
+If you have any interesting news that you think the ReSA community might like to know, please [contact ReSA](/about/contact).
 
 ### Call for Participation
 

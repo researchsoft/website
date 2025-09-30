@@ -29,13 +29,13 @@ projects:
 community (e.g., preservation, RSEs, citation, productivity, sustainability)? This
 understanding could be usefully written up into an article to educate the research
 community about the importance of software, and/or used to identify if there are
-representatives from each of these areas involved in ReSA. Please [contact ReSA](/contact) if you’re interested in collaborating on this.
-* Evidence for the importance of research software. There’s the start of a list on [the ReSA website](http://www.researchsoft.org/resources/).
-How can we add to this and make this information more widely utilised? Please [contact ReSA](/contact) if you’re interested in collaborating on this.
+representatives from each of these areas involved in ReSA. Please [contact ReSA](/about/contact) if you’re interested in collaborating on this.
+* Evidence for the importance of research software. There’s the start of a list on [the ReSA website](/resource/).
+How can we add to this and make this information more widely utilised? Please [contact ReSA](/about/contact) if you’re interested in collaborating on this.
 * Current opportunities for funding research software. A list of funding opportunities is
 an example of a resource that ReSA can collectively build to help its constituent
 members. How can we ensure this is presented in a useful way? How can we work
-together to keep this up to date? Please [contact ReSA](/contact) if you’re interested in
+together to keep this up to date? Please [contact ReSA](/about/contact) if you’re interested in
 collaborating on this.
 
 The Steering Committee also hopes to have some good news on a small amount of funding

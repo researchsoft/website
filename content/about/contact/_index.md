@@ -50,13 +50,13 @@ sections:
 
         ## You can become involved by:
 
-        - Joining [task forces](https://www.researchsoft.org/taskforces) focused on specific activities  
-        - Receiving updates through our regular [newsletter](https://www.researchsoft.org/news)  
-        - Encouraging your organisation to become an [Organisational Member](https://www.researchsoft.org/about/membership), [support a task force](https://www.researchsoft.org/taskforces/tf-support), or             make a [donation](https://www.researchsoft.org/taskforces/tf-support)  
-        - Helping to raise awareness of the importance of software in research through use of [ReSA resources](https://www.researchsoft.org/resource/resa-resources)  
-        - Connecting with other community members through our [LinkedIn](https://www.linkedin.com/company/research-software-alliance/) or at our [events](https://www.researchsoft.org/events/resa-events)  
+        - Joining [task forces](/taskforces) focused on specific activities  
+        - Receiving updates through our regular [newsletter](/news)  
+        - Encouraging your organisation to become an [Organisational Member](https://www.researchsoft.org/about/membership), [support a task force](/taskforces/tf-support), or             make a [donation](/taskforces/tf-support)  
+        - Helping to raise awareness of the importance of software in research through use of [ReSA resources](/resource/resa-resources)  
+        - Connecting with other community members through our [LinkedIn](https://www.linkedin.com/company/research-software-alliance/) or at our [events](/events/resa-events)  
         - Joining the [ReSA Slack](https://researchsoft.slack.com/join/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w#/shared-invite/email) for decision-makers and key influencers to share what’s                  happening in the community  
-        - Contributing [resources](https://www.researchsoft.org/resource/resa-resources) and [guidelines](https://www.researchsoft.org/resource/guidelines); ideas for [task forces](https://www.researchsoft.org/taskforces), [events](https://www.researchsoft.org/events/resa-events), and [news](https://www.researchsoft.org/news); or if you have other ideas for ReSA then [let us know](mailto:info@researchsoft.org)  
+        - Contributing [resources](/resource/resa-resources) and [guidelines](/resource/guidelines); ideas for [task forces](/taskforces), [events](/events/resa-events), and [news](/news); or if you have other ideas for ReSA then [let us know](mailto:info@researchsoft.org)  
 
        
          </div>

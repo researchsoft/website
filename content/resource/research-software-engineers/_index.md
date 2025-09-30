@@ -43,7 +43,7 @@ sections:
         - [Research institutional policies to support research software](/resource/software-policies/) \- add your organisation’s policy to it [via this form](https://docs.google.com/forms/d/e/1FAIpQLSenXMgY6c5IDpjvSxfXOWfMwvK8CNrWNFwqZNRgqqRYyyqVJg/viewform) or through a comment in the [google sheet](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0).
         - ReSA [task forces](/taskforces/)  
         - ReSA [Zenodo community](https://zenodo.org/communities/resa/?page=1&size=20)
-        - ReSA [resources](/resources/resa-resources/#), [guidelines](/resource/guidelines/), [events](/events/events-current/), and [blog](/blog/)
+        - ReSA [resources](/resource/resa-resources/), [guidelines](/resource/guidelines/), [events](/events/events-current/), and [blog](/blog/)
         - ReSA [LinkedIn](https://www.linkedin.com/company/research-software-alliance/), [Mastodon](https://fosstodon.org/@researchsoft), and [Slack](https://join.slack.com/t/researchsoft/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w)
 
         ## International RSE associations:

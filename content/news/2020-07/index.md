@@ -63,6 +63,6 @@ Check out the **US Research Software Engineer Association** (US-RSE) [July newsl
 * [Exchanging Best Practices with other RSEs](http://us-rse.org/2020-07-14-newsletter/#xpert)
 * [CZI call for Essential Open Source Software for Science proposals](http://us-rse.org/2020-07-14-newsletter/#czi)
 
-*If you’d like to suggest items for inclusion in ReSA News then please [contact us](/contact). If you would to engage with the ReSA community, then join the [ReSA Google group](https://groups.google.com/forum/#!forum/research-software-alliance) to receive email updates. To subscribe send a blank email to [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)*
+*If you’d like to suggest items for inclusion in ReSA News then please [contact us](/about/contact). If you would to engage with the ReSA community, then join the [ReSA Google group](https://groups.google.com/forum/#!forum/research-software-alliance) to receive email updates. To subscribe send a blank email to [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)*
 
 *ReSA’s vision is that research software be recognised and valued as a fundamental and vital component of research worldwide. The ReSA mission is to bring research software communities together to collaborate on the advancement of research software.*

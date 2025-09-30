@@ -41,4 +41,4 @@ If you collaborate or consult with data scientists (or wish you could) then plea
 
 Chan Zuckerberg Initiative is inviting applications in support of open source software projects that are essential to biomedical research through their [Essential Open Source Software for Science program](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/). The goal of the program is to support software maintenance, growth, development, and community engagement for these critical tools.
 
-If you’d like to suggest items for inclusion in ReSA News then please [contact us](/contact).
+If you’d like to suggest items for inclusion in ReSA News then please [contact us](/about/contact).

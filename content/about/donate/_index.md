@@ -36,7 +36,7 @@ sections:
         [task forces](/taskforces/) on specific issues
         impacting the global research software ecosystem.
         - Facilitate
-        [networking opportunities](/../forums/funders-forum/)
+        [networking opportunities](/forums/funders-forum/)
         for [stakeholders](/about/stakeholders/) to exchange information and collaborate on an international level.
         - Create a range of [outputs](/resource/resa-resources/) that
         provide useful references to support recognition and valuing of research

@@ -111,7 +111,7 @@ sections:
         * [Organisational Members](/about/membership/)
         * Project grants
         * Founding Members
-        * [Task force support](../taskforces/tf-support/) 
+        * [Task force support](/taskforces/tf-support/) 
         * [Donations](/about/donate/)
 
         ReSA’s operations are supported through a combination of financial and in-kind contributions from Founding Members, Organisational Members, and project grants. These resources primarily sustain a part-time Director and a part-time Program Manager, who lead the ReSA community and facilitate its activities.

@@ -77,6 +77,6 @@ between software and data elements/framework implementations, and instead emphas
 integrated CI services, quantitative metrics with targets for delivery and usage of these services,
 and community creation."
 
-*If you’d like to suggest items for inclusion in ReSA News then please [contact us](/contact). If you would to engage with the ReSA community, then join the [ReSA Google group](https://groups.google.com/forum/#!forum/research-software-alliance) to receive email updates. To subscribe send a blank email to [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)*
+*If you’d like to suggest items for inclusion in ReSA News then please [contact us](/about/contact). If you would to engage with the ReSA community, then join the [ReSA Google group](https://groups.google.com/forum/#!forum/research-software-alliance) to receive email updates. To subscribe send a blank email to [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)*
 
 *ReSA’s vision is that research software be recognised and valued as a fundamental and vital component of research worldwide. The ReSA mission is to bring research software communities together to collaborate on the advancement of research software.*

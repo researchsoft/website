@@ -54,7 +54,7 @@ There are many ways to get involved with ReSA. In line with its mission, ReSA of
 * Receiving updates through our regular [newsletter](/news/)
 * Helping to raise awareness of the importance of software in research through use of [ReSA resources](/resource/resa-resources/)
 * Connecting with other community members at our [events](/events/events-current/)
-* [Contributing](/../../about/contact/) ideas for task forces, events, newsletter items
+* [Contributing](/about/contact/) ideas for task forces, events, newsletter items
 
 ### Important links
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)

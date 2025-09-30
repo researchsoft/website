@@ -43,5 +43,5 @@ We look forward to hearing your input to ensure the final plan meets community n
 ### Useful links
   * [Draft Strategic Plan overview](https://docs.google.com/document/d/1XAioZINde902hlujD9hIaiIK5Eagx7w5XP9f8Q7P0KU/edit?tab=t.0#heading=h.lbr59vck876)
   * [Draft Strategic Plan](https://docs.google.com/document/d/1-nyor44kBo5v6lb92ajjzJmYFJ-TXLcafyUz9luQMVk/edit?tab=t.0#heading=h.iiwcx8uz2jje)
-  * [ReSA’s Code of Conduct](.../.../about/code-of-conduct/)
+  * [ReSA’s Code of Conduct](/about/code-of-conduct/)
   * [Subscribe to ReSA newsletter](/news/)

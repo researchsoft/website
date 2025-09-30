@@ -47,7 +47,7 @@ The [Netherlands eScience Center](https://mailchi.mp/esciencecenter/pressrelease
 
 The physics community have been organising [a website to facilitate discussion](https://science-responds.org/), provide resources and document activities in which non-standard resources (e.g. like particle physics expertise) are being deployed to support new and creative efforts in the face of the COVID-19 pandemic and its effects.
 
-If you’d like to suggest items for inclusion in ReSA News then please [contact us](/contact).
+If you’d like to suggest items for inclusion in ReSA News then please [contact us](/about/contact).
 
 Stay safe,
 

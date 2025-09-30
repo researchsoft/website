@@ -32,5 +32,5 @@ The three committees are:
 3) Champions programs: Committee’s Google [folder](https://drive.google.com/drive/u/0/folders/1PGAP96f-Fj8Sw4gr_47soZffSTq5bJAp)
 
 ### Useful links
-  * [ReSA’s Code of Conduct](.../.../about/code-of-conduct/)
+  * [ReSA’s Code of Conduct](/about/code-of-conduct/)
   * [Subscribe to ReSA newsletter](/news/)
