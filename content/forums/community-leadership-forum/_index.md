@@ -56,23 +56,6 @@ sections:
         
         CLF representatives serve three-year terms, with an annual time commitment of approximately 5–10 hours. This includes attending 1–2 online meetings each year, as well as participating in asynchronous discussions. Members are expected to act as liaisons between the CLF and their stakeholder groups, bringing forward relevant perspectives, priorities, and insights to support inclusive leadership in the research software community.
 
-        **How to apply**
-
-        There are two paths to join:
-
-        **1. Via stakeholder forums**
-
-        Eligible forum participants will receive an invitation from ReSA to nominate themselves, followed by an internal voting process.
-
-        **2. Via open nomination - [apply here](https://forms.gle/wHnn4vDQiPatHY6M6)**
-
-        Individuals from stakeholder groups not yet represented can self-nominate by completing this [Google form](https://forms.gle/wHnn4vDQiPatHY6M6). 
-
-        The ReSA Steering Committee will review all submissions, and the selected representatives will be announced in October.
-
-
-        **Deadline for submissions: 5 September 2025**
-
         For further information, please refer to the [CLF Nomination Process](https://docs.google.com/document/d/1jXKFrS1s0_dJiLv0uryaTDzUa453w98jnH0DuWWf3dU/edit?usp=drive_link) or the [Terms of Reference](https://docs.google.com/document/d/15uOY6fQbvE0dfEzZkADaDwMtIGqbXcS3PHVzCvSStbE/edit?usp=drive_link) or email info@researchsoft.org.
         
          </div>
