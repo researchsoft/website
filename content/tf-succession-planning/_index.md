@@ -57,6 +57,14 @@ sections:
         October 2025:
         - Kick-off meeting: Monday October 20th
 
+        ### Obligations asked of members
+
+        - Show up to at least one call.
+        - Calls are only once a month for one hour, and only planned for one year.
+        - Help with async work where possible.
+        - Talk about the work with colleagues!
+        - That's it.
+
         ### Resources
 
         - [Google Group](https://groups.google.com/g/succession-planning-tf)
