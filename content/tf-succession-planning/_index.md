@@ -47,7 +47,9 @@ sections:
         #### Join the Task Force
 
         To join the task force or learn more:
-        - Look at the *[agenda and notes](https://docs.google.com/document/d/1c151T8p9vnMLeiSNE3ZdC2oj0xV526cSNZlg8ARG9ws/edit?tab=t.0#heading=h.xuo6y245prns)* for the next meeting.
+
+        - Add your name to the *[agenda and notes](https://docs.google.com/document/d/1c151T8p9vnMLeiSNE3ZdC2oj0xV526cSNZlg8ARG9ws/edit?tab=t.0#heading=h.xuo6y245prns)* for the next meeting.
+        - Add any resources to the *[agenda and notes](https://docs.google.com/document/d/1c151T8p9vnMLeiSNE3ZdC2oj0xV526cSNZlg8ARG9ws/edit?tab=t.0#heading=h.xuo6y245prns)* that might be useful.
         - Ask to join the *[Google Group](https://groups.google.com/g/succession-planning-tf)*.
         - Join the next meeting calls
         - Contact [richard.littauer@gmail.com](mailto:richard.littauer@gmail.com) for more information
