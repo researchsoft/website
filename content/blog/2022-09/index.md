@@ -5,7 +5,8 @@ date: 2022-09-28
 authors:
   - ""
 
-categories:
+categories: 
+  - Blog
   - Task force
 
 summary: "Read more..."
@@ -140,3 +141,4 @@ This work is supported by the Alfred P. Sloan Foundation, grant no G-2021-17001.
   * [ReSA newsletters](/news/)
   * [ReSA resources](/resource/resa-resources/)
   * [Contact us](/about/contact/)
+  

@@ -4,7 +4,8 @@ date: 2021-12-09
 authors:
   - ""
 
-categories:
+categories: 
+  - Blog
   - Recommendations
 summary: "Read more..."
 draft: false

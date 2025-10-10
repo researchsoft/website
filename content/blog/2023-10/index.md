@@ -4,7 +4,8 @@ subtitle: ""
 date: 2023-10-24
 authors:
   - ""
-categories:
+categories: 
+  - Blog
 
 summary: "Read more..."
 draft: false

@@ -5,7 +5,8 @@ date: 2024-01-09
 authors:
   - ""
 
-categories:
+categories: 
+  - Blog
 
 summary: "Read more..."
 draft: false

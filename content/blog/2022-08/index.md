@@ -4,7 +4,8 @@ subtitle: ""
 date: 2022-08-15
 authors:
   - ""
-categories:
+categories: 
+  - Blog
   - Task force
 
 summary: "Read more..."

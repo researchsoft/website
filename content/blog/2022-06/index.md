@@ -3,7 +3,8 @@ title: "FAIR Principles for Research Software Released"
 date: 2022-06-21
 authors:
   - ""
-categories:
+categories: 
+  - Blog
   - Press release
 
 summary: "Read more..."
