@@ -4,8 +4,7 @@ date: 2022-02-24
 authors:
   - ""
 
-categories: 
-  - Blog
+categories:
 
 summary: "Read more..."
 draft: false
