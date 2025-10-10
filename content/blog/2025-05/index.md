@@ -5,8 +5,7 @@ date: '2025-05-30'
 authors:
   - ""
 
-categories: 
-  - Blog
+categories:
 
 summary: "Read more..."
 draft: false
