@@ -7,7 +7,7 @@ authors:
   - ""
 
 categories:
- - Blog
+
 summary: "Read more..."
 draft: false
 ---
