@@ -3,8 +3,7 @@ title: "Evidence for the importance of research software"
 date: 2020-06-08
 authors:
   - ""
-categories: 
-  - Blog
+categories:
   - Task force
 summary: "Read more..."
 draft: false

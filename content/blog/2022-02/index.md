@@ -3,8 +3,7 @@ title: "Meet our Founding Members!"
 date: 2022-02-17
 authors:
   - ""
-categories: 
-  - Blog
+categories:
   - Press release
 
 summary: "Read more..."

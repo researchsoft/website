@@ -2,11 +2,11 @@
 title: "Elevating research software: A new era in international policy"
 subtitle: ""
 date: '2025-07-22'
+lastmod: 2025-07-22
 authors:
   - ""
 
-categories: 
-  - Blog
+categories:
 
 summary: "Read more..."
 draft: false

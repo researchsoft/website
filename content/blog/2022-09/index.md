@@ -5,8 +5,7 @@ date: 2022-09-28
 authors:
   - ""
 
-categories: 
-  - Blog
+categories:
   - Task force
 
 summary: "Read more..."

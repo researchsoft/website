@@ -3,8 +3,7 @@ title: "The Research Software Alliance (ReSA) and the community landscape"
 date: 2020-03-11
 authors:
   - ""
-categories: 
-  - Blog
+categories:
   - Task force
 summary: "Read more..."
 draft: false

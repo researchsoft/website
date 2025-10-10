@@ -5,8 +5,7 @@ date: 2024-09-19
 authors:
   - ""
 
-categories: 
-  - Blog
+categories:
   - Task force
 
 summary: "Read more..."

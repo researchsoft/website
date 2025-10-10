@@ -60,3 +60,4 @@ Drafting of the Declaration will now continue; if you would like to be kept up t
   * [ReSA newsletters](/news)
   * [ReSA resources](/resa-resources)
   * [Contact us](/contact)
+  

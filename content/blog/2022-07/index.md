@@ -4,8 +4,7 @@ subtitle: "A hybrid DEI-focused workshop"
 date: 2022-07-12
 authors:
   - ""
-categories: 
-  - Blog
+categories:
   - Press release
 
 summary: "Read more..."

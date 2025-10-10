@@ -5,8 +5,7 @@ date: 2022-10-21
 authors:
   - ""
 
-categories: 
-  - Blog
+categories:
 
 summary: "Read more..."
 draft: false
