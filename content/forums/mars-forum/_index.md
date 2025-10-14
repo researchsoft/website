@@ -31,7 +31,7 @@ sections:
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
           
-        The Metascience and Research Software (MaRS) Forum is a collaboration of metascience groups, communities, and organisations committed to supporting research software, and those who develop it, as fundamental and vital to research. Research software metascience aims to understand implications of research software on the research ecosystem, particularly on the research process, and could include:
+        The Metascience and Research Software (MaRS) Forum is a collaboration of metascience groups, communities, and organisations committed to supporting research software, and those who develop it, as fundamental and vital to research. The forum is co-chaired by ReSA, the [Software Sustainability Institute (SSI)](https://www.software.ac.uk/), and [International RSE Research (IRSER)](https://irser.github.io/). Research software metascience aims to understand implications of research software on the research ecosystem, particularly on the research process, and could include:
         
         - The impact of research software policy or funding on the research ecosystem (e.g.,  representation, carbon budgets)
         - The impact of research software and associated factors (e.g., training, careers) on the research ecosystem 
