@@ -18,7 +18,10 @@ image:
 draft: false  
 
 ---
+![](IRSC-Primary-Logo.png)
+
 **International Research Software Conference (IRSC)**
+
 7–8 September 2026 | Sheffield, UK & online (co-located with RSECon26)
 
 Join a global gathering of leaders and change-makers advancing strategic coordination, sustainability, and collaboration across the research software community.
