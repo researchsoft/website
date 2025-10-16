@@ -218,3 +218,8 @@
   from = "/events/2025-04"
   to = "/events/events-current/2025-04"
   status = 301
+
+[[redirects]]
+  from = "/events/events-current/2025-04-15"
+  to = "/events/events-past/2025-04-15"
+  status = 301
