@@ -29,23 +29,7 @@ ReSA is excited to announce the launch of four new forums designed to foster glo
 
 These forums provide a formal mechanism for members to share practices and consider how to individually and collectively address common challenges to achieve the significant cultural change needed across the research sector globally. 
 
-Meetings will occur at least annually or biannually, and each meeting will occur twice, 12 hours apart, to maximise attendance by participants in different time zones. The inaugural meetings are scheduled as follows:
-
-**RSP Forum**
-- 21:00 UTC 12 June - [see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Policy+Forum&iso=20250612T21&p1=1440&ah=1)
-- 16:30 UTC 3 July - [see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Policy+Forum&iso=20250703T1630&p1=1440&ah=1) 
-
-**STaRS Forum**
-- 21:00 UTC 18 June - [see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Skills+and+Training+for+Research+Software+Forum&iso=20250618T21&p1=1440&ah=1) 
-- 08:00 UTC 19 June - [see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Skills+and+Training+for+Research+Software+Forum&iso=20250619T08&p1=1440&ah=1)
-
-**PubSoft Forum**
-- 21:00 UTC 19 June - [see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Publishing+Research+Software+Forum&iso=20250619T21&p1=1440&ah=1)
-- 14:30 UTC 3 July - [see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Publishing+Research+Software+Forum&iso=20250703T1430&p1=1440&ah=1) 
-
-**MaRS Forum**
-- 21:00 UTC 23 June - [see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Metascience+and+Research+Software+Forum+&iso=20250623T21&p1=1440&ah=1)
-- 15:30 UTC 3 July - [see in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Metascience+and+Research+Software+Forum+&iso=20250703T1530&p1=1440&ah=1) 
+Meetings are held every few months, with each session offered twice—12 hours apart—to accommodate participants across time zones.
 
 **Get involved**
 
