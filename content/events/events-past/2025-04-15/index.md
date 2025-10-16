@@ -7,7 +7,7 @@ authors:
 
 categories: 
   - Event
-  - Ongoing
+  - Past
 
 summary: "Read more..."
 draft: false  
