@@ -7,7 +7,7 @@ authors:
 
 categories: 
   - Event
-  - Onging
+  - Past
 
 summary: "Read more..."
 
