@@ -428,19 +428,9 @@ sections:
                   </a>
             </div>
           </div>
-          <div class="col-md-4 logo-container">
-            <a href="https://www.berkeley.edu/" target="_blank" title="UC Berkeley">
-              <img src="images/UCBerkeley_wordmark_blue.png" alt="UC Berkeley logo" class="logo-image">
-            </a>
-          </div>
-          <div class="col-md-4 logo-container">
-            <a href="https://carpentries.org" target="_blank" title="The Carpentries">
-              <img src="images/Carpentries.png" alt="The Carpentries" class="logo-image">
-            </a>
-          </div>
-          </div>
          </div>
-        </div>              
+        </div>     
+
     design:
       background:
         color: "#ffffff"
