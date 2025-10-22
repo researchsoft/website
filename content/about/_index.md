@@ -383,7 +383,7 @@ sections:
 
   - block: markdown
     content:
-      title: Sponsors
+      title: Past and Present Supporters
       text: |
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">        
@@ -425,8 +425,17 @@ sections:
             <div class="col-md-4 logo-container">
               <a href="https://www.illinois.edu/" target="_blank" title="University of Illinois">
                 <img src="/about/images/illinois-logo-internal-collaboration.png" alt="University of Illinois logo" class="logo-image">
-              </a>
-            </div>
+            <div class="row justify-content-center mt-5">
+          <div class="col-md-4 logo-container">
+            <a href="https://www.berkeley.edu/" target="_blank" title="UC Berkeley">
+              <img src="images/UCBerkeley_wordmark_blue.png" alt="UC Berkeley logo" class="logo-image">
+            </a>
+          </div>
+          <div class="col-md-4 logo-container">
+            <a href="https://carpentries.org" target="_blank" title="The Carpentries">
+              <img src="images/Carpentries.png" alt="The Carpentries" class="logo-image">
+            </a>
+          </div>
           </div>
          </div>
         </div>              
