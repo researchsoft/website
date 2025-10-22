@@ -425,7 +425,9 @@ sections:
             <div class="col-md-4 logo-container">
               <a href="https://www.illinois.edu/" target="_blank" title="University of Illinois">
                 <img src="/about/images/illinois-logo-internal-collaboration.png" alt="University of Illinois logo" class="logo-image">
-            <div class="row justify-content-center mt-5">
+                  </a>
+            </div>
+          </div>
           <div class="col-md-4 logo-container">
             <a href="https://www.berkeley.edu/" target="_blank" title="UC Berkeley">
               <img src="images/UCBerkeley_wordmark_blue.png" alt="UC Berkeley logo" class="logo-image">
