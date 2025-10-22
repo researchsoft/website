@@ -376,7 +376,7 @@ sections:
 
     design:
       background:
-        color: "#f98c01"
+        color: "#ffffff"
         text_color_light: false  
       spacing:
         padding: ["3rem", "1rem"]              
