@@ -1,0 +1,36 @@
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px; /* Adjust as needed */
+}
+
+.logo-image {
+  width: 180px !important;
+  height: 180px !important;
+  object-fit: contain;
+}
+
+.no-logo-text {
+  font-size: 1.5rem;
+}
+
+.header-text {
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.center-align {
+  text-align:center
+}
