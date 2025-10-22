@@ -274,7 +274,7 @@ sections:
             </div>
             <div class="col-md-4 logo-container">
               <a href="https://www.kavlifoundation.org/">
-                <img src="images/The_Kavli_Foundation_Logo_White_Red.png" alt="Kavli logo" class="logo-image">
+                <img src="images/The_Kavli_Foundation_Logo_Blue_Red.png" alt="Kavli logo" class="logo-image">
               </a>
             </div>   
            <div class="col-md-4 logo-container">
