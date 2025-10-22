@@ -426,43 +426,7 @@ sections:
               <a href="https://www.illinois.edu/" target="_blank" title="University of Illinois">
                 <img src="/about/images/illinois-logo-internal-collaboration.png" alt="University of Illinois logo" class="logo-image">
                   </a>
-            </div>
-          </div>
-         </div>
-        </div>     
-
-    design:
-      background:
-        color: "#ffffff"
-        text_color_light: false      
-      spacing:
-        padding: ["3rem", "1rem"]  
-
- 
-  - block: markdown
-    content:
-      title:
-      text: |
-        <div class="d-flex justify-content-center">
-         <div class="col-md-8 text-start">        
-        <br>
-
-        <style>
-          .logo-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 150px; /* Adjust as needed */
-          }
-
-          .logo-image {
-            width: 180px !important;
-            height: 180px !important;
-            object-fit: contain;
-          }
-        </style>
-
-        <div class="row justify-content-center mt-5">
+            </div>   
           <div class="col-md-4 logo-container">
             <a href="https://www.berkeley.edu/" target="_blank" title="UC Berkeley">
               <img src="images/UCBerkeley_wordmark_blue.png" alt="UC Berkeley logo" class="logo-image">
@@ -473,14 +437,13 @@ sections:
               <img src="images/Carpentries.png" alt="The Carpentries" class="logo-image">
             </a>
           </div>
+        <div class="row justify-content-center mt-5">
           <div class="col-md-4 logo-container">
             <a href="https://www.fordfoundation.org/" target="_blank" title="Ford Foundation">
               <div style="font-size: 20px; font-weight: bold;">Ford Foundation</div>
             </a>
           </div>
         </div>
-
-        <div class="row justify-content-center mt-5">
           <div class="col-md-4 logo-container">
             <a href="https://www.moore.org/" target="_blank" title="Moore Foundation">
               <img src="images/moore-logo-color-small.png" alt="Moore Foundation logo" class="logo-image">
@@ -491,14 +454,13 @@ sections:
               <img src="images/rdc-logo.png" alt="RDC DRC logo" class="logo-image">
             </a>
           </div>
+        <div class="row justify-content-center mt-5">
           <div class="col-md-4 logo-container">
             <a href="https://www.stanford.edu/" target="_blank" title="Stanford University">
               <img src="images/stanford-university-stacked.png" alt="Stanford logo" class="logo-image">
             </a>
           </div>
         </div>
-
-        <div class="row justify-content-center mt-5">
           <div class="col-md-4 logo-container">
             <a href="https://wellcome.org/" target="_blank" title="Wellcome Trust">
               <img src="images/Wellcome-logo.png" alt="Wellcome Trust logo" class="logo-image">
