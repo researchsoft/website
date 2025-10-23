@@ -9,7 +9,7 @@ sections:
       title: 
       text:   |
         ReSA Organisational Membership
-        {style="color: white; font-size: 2rem; text-align: center; "}
+        {class="header-text"}
     design:
       background:
         image:
@@ -180,21 +180,6 @@ sections:
          <div class="col-md-8 text-start">
         <br>
 
-        <style>
-          .logo-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 150px; /* Adjust as needed */
-          }
-
-          .logo-image {
-            width: 180px !important;
-            height: 180px !important;
-            object-fit: contain;
-          }
-        </style>
-
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-4 logo-container">
@@ -256,10 +241,10 @@ sections:
               </a>
             </div>
             <div class="col-md-4 logo-container">
-              <a href="https://www.nasa.gov" style="font-size: 1.5rem;">NASA</a>
+              <a href="https://www.nasa.gov" class="no-logo-text">NASA</a>
             </div>
             <div class="col-md-4 logo-container">
-              <a href="https://www.nih.gov" style="font-size: 1.5rem;">National Institutes of Health</a>
+              <a href="https://www.nih.gov" class="no-logo-text">National Institutes of Health</a>
             </div>
           </div>
 

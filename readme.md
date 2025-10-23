@@ -69,6 +69,10 @@ the Edit button to make your changes. If you do not have permissions for
 the repository directly, you will need to submit a pull request for an
 administrator to adopt the changes.
 
+### Editing CSS
+
+In order to add SASS or CSS rules, add them into `assets/scss/custom.scss`. This is compiled into wowchemy.css in the `head`.
+
 ## Extra information
 
 Due to limitations in the version of Hugo that Netlify runs,
