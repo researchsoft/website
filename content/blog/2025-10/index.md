@@ -1,5 +1,5 @@
 ---
-title: "Towards Coordinated International Policy Approaches to support Research Software: Highlights from the OECD Workshop"
+title: "Towards coordinated international policy approaches to support research software: Highlights from the OECD workshop"
 subtitle: ""
 date: '2025-10-24'
 authors:
@@ -11,12 +11,10 @@ summary: "Read more..."
 draft: false
 ---
 
+![My Image](OECD-workshop.png)
+
 By Michelle Barker
 
-
-October 2025
-
-**Towards Coordinated International Policy Approaches to support Research Software: Highlights from the OECD Workshop**
 
 On 8 September 2025, the OECD hosted a landmark hybrid event titled [Access to Research Software: Opportunities and Challenges](https://www.oecd.org/en/events/2025/09/access-to-research-software-opportunities-and-challenges.html) in Paris. This workshop marked the launch of a new initiative under the Committee for Scientific and Technological Policy (CSTP) and builds on a strong legacy of OECD work on open science. This includes the 2006 Recommendation on Access to Research Data from Public Funding as well as its [**2021 update**](https://www.google.com/url?q=https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0347&sa=D&source=docs&ust=1761322456151022&usg=AOvVaw11w9g1_zNYeHNNzmCh5beB)**,** which was extended to include research software.
 
@@ -56,12 +54,9 @@ While industry increasingly relies on and contributes to open research software,
 
 **Next steps**
 
+![My Image](EVERSE-OECD.jpg)
+
 This workshop both enabled the discussion of ongoing work, and will launch new activities. The CSTP will now proceed to map policy gaps, develop case studies, and publish a comprehensive policy paper in 2026. The aim is to ensure that research software receives the same strategic attention as data and publications in open science frameworks.
 
 Aligned conversations will also continue in the ReSA-convened [Research Software Policy Forum](https://www.researchsoft.org/forums/rsp-forum/), a collaboration of national, regional and international policymakers committed to supporting research software, and those who develop it, as fundamental and vital to research. The [Forum](https://www.researchsoft.org/forums/rsp-forum/) is also curating [information](https://www.researchsoft.org/resource/software-policies/) on national, regional, and international policies that support the development, recognition, and sustainability of research software. These resources are intended to guide governments and agencies in shaping or updating their policy frameworks. This includes [national policies](https://www.researchsoft.org/national-policies/) around research software (or open source software) that govern the creation, maintenance, acquisition, use, distribution and management of software within their environment, as well as to recognise such work. To join the Forum or add to the policy listing, please contact [info@researchsoft.org](mailto:info@researchsoft.org).
 
-
-
-### Important links
- * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
- * [ReSA newsletters](/news)
