@@ -14,7 +14,7 @@ sections:
           <img src="uploads/resa-logo-inverted.svg" width="45%">
         </p>
 
-          Our vision: Research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide
+          SOYLENT GREEN IS PEOPLE: Research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide
           {style="color: white; font-size: 2rem; text-align: center;"} 
         
         <div style="text-align: center; margin-top: 20px;">
