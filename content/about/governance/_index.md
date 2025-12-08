@@ -118,7 +118,7 @@ sections:
        <div class="d-flex justify-content-center">
         <div class="col-md-8 text-start">
 
-        **Anne Fouilloux, Chief Technology Officer, LifeWatch ERIC, Norway (2023-2025)
+        **Anne Fouilloux**, Chief Technology Officer, LifeWatch ERIC, Norway (2023-2025)
         
         **Yo Yehudi**, Co-founder, Open Life Science (OLS), UK (2023-2025)
 
