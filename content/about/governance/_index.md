@@ -28,13 +28,12 @@ sections:
 
           <div class="col-md-4" style="margin: 0 auto; text-align: center;">
             <div style="display: flex; justify-content: center;">
-              <img src="anne.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+              <img src="Colette.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
             </div>  
-            <h2 align="center"><b>Anne Fouilloux</b></h2>
-            <p align="center"><b>Senior Research Engineer at Simula Research Laboratory</b></p>
-            <p align="center"> <i> Lives in Norway </i> </p>
-            <p align="center">Anne is an Open Science and FAIR Software and Data Advocate. She is working at Simula Research Laboratory (Oslo, Norway) and is  leading the Nordic Infrastructure Collaboration on Earth System Tools (NICEST) at the Nordic e-infrastructure Collaboration (NeIC). She never works alone, always in collaboration with community driven initiatives and open source communities such as Pangeo, The Environmental Data Science Book, The Turing Way and the Galaxy Project.
-            She is developing training materials and teaching basic-to-advanced research computing skills to students, researchers, Research Software Engineers from all disciplines to advance FAIRness of Software management and development practices so that research groups can collaboratively develop, review, discuss, test, share and reuse their codes.</p>
+            <h2 align="center"><b>Colette Bos</b></h2>
+            <p align="center"><b>Programme Director, Netherlands eScience Center</b></p>
+            <p align="center"> <i> Lives in the Netherlands </i> </p>
+            <p align="center">Colette Bos is the programme director of the Netherlands eScience Center. Her main responsibility is the call strategy and responsibility for the project portfolio. For this, she works closely with the Programme Managers. She also contributes to the general management of the eScience Center in the directors’ team and to external relations of the Netherlands eScience Center. Colette obtained her PhD at Utrecht University, with research on how scientists connect their work to large societal goals in science policy. After that, she moved to the Dutch Research Council (NWO), where she worked as a coordinator on the development of the Dutch National Research Agenda and as management board member in the European Joint Programming Initiative Urban Europe. This was followed by two years as board secretary at the Mathematics department of Utrecht University, where she contributed to strategy and policy development and implementation of the department and where she managed operational matters.</p>
           </div>
 
           <div class="col-md-4" style="margin: 0 auto; text-align: center;">
@@ -111,30 +110,6 @@ sections:
         padding: ["3rem", "1rem"]   
 
 
-  - block: markdown
-    content:
-      title: Chairs of ReSA Subcommittees
-      subtitle: ''
-      text: |
-          <div class="row">
-            <div class="col-md-4" style="margin: 0 auto; text-align: center;">
-             <div style="display: flex; justify-content: center;">
-              <img src="Colette.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
-              </div> 
-              <h2 align="center"><b>Colette Bos</b></h2>
-              <p align="center"><b>Programme Director, Netherlands eScience Centre</b></p>
-              <p align="center"> <i> Lives In the Netherlands </i> </p>
-              <p align="center"><b> Subcomittee: ADORE.software governance </b></p>              
-              <p align="center">Colette Bos is the programme director of the Netherlands eScience Center. Her main responsibility is the call strategy and responsibility for the project portfolio. For this, she works closely with the Programme Managers. She also contributes to the general management of the eScience Center in the directors’ team and to external relations of the Netherlands eScience Center. Colette obtained her PhD at Utrecht University, with research on how scientists connect their work to large societal goals in science policy. After that, she moved to the Dutch Research Council (NWO), where she worked as a coordinator on the development of the Dutch National Research Agenda and as management board member in the European Joint Programming Initiative Urban Europe. This was followed by two years as board secretary at the Mathematics department of Utrecht University, where she contributed to strategy and policy development and implementation of the department and where she managed operational matters.
-              Learn more about <a href="https://adore.software/">ADORE.software </a>.</p>
-            </div>
-
-          </div>
-    design:
-      spacing:
-        padding: ["3rem", "1rem"]  
- 
-
 
   - block: markdown
     content:
@@ -142,6 +117,8 @@ sections:
       text:   |
        <div class="d-flex justify-content-center">
         <div class="col-md-8 text-start">
+
+        **Anne Fouilloux, Chief Technology Officer, LifeWatch ERIC, Norway (2023-2025)
         
         **Yo Yehudi**, Co-founder, Open Life Science (OLS), UK (2023-2025)
 
