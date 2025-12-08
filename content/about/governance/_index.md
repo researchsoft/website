@@ -35,9 +35,6 @@ sections:
             <p align="center"> <i> Lives in Kenya </i> </p>
             <p align="center">Caxton Murira is a Product Specialist and team lead for the <a href="https://scienceforafrica.foundation/clinical-research-and-trials-community">Clinical Research and Trials Community (CRTC) programme</a> at the <a href="https://scienceforafrica.foundation/">Science for Africa Foundation</a>. He is passionate about data and has delivered successful projects in a myriad of sectors such as health, governance, climate change for INGOs, government and public institutions. Caxton has an MSc in project management and a BSc in computer science. Prior to joining SFA Foundation, he worked at the African Academy of Sciences and other not for profit outfits in similar roles. Caxton is keen to promote open research initiatives, open data, and research software, with the goal of achieving fair access to healthcare and creating sustainable innovative solutions that address Africa's most pressing challenges.</p>
           </div>
-        </div>
-        </div>
-        </div>  
 
           <div class="col-md-4" style="margin: 0 auto; text-align: center;">
             <div style="display: flex; justify-content: center;">
@@ -48,6 +45,9 @@ sections:
             <p align="center"> <i> Lives in the Netherlands </i> </p>
             <p align="center">Colette Bos is the programme director of the Netherlands eScience Center. Her main responsibility is the call strategy and responsibility for the project portfolio. For this, she works closely with the Programme Managers. She also contributes to the general management of the eScience Center in the directors’ team and to external relations of the Netherlands eScience Center. Colette obtained her PhD at Utrecht University, with research on how scientists connect their work to large societal goals in science policy. After that, she moved to the Dutch Research Council (NWO), where she worked as a coordinator on the development of the Dutch National Research Agenda and as management board member in the European Joint Programming Initiative Urban Europe. This was followed by two years as board secretary at the Mathematics department of Utrecht University, where she contributed to strategy and policy development and implementation of the department and where she managed operational matters.</p>
           </div>
+            </div>
+        </div>
+        </div> 
 
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
