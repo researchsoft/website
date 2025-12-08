@@ -28,16 +28,6 @@ sections:
 
           <div class="col-md-4" style="margin: 0 auto; text-align: center;">
             <div style="display: flex; justify-content: center;">
-              <img src="Colette.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
-            </div>  
-            <h2 align="center"><b>Colette Bos</b></h2>
-            <p align="center"><b>Programme Director, Netherlands eScience Center</b></p>
-            <p align="center"> <i> Lives in the Netherlands </i> </p>
-            <p align="center">Colette Bos is the programme director of the Netherlands eScience Center. Her main responsibility is the call strategy and responsibility for the project portfolio. For this, she works closely with the Programme Managers. She also contributes to the general management of the eScience Center in the directors’ team and to external relations of the Netherlands eScience Center. Colette obtained her PhD at Utrecht University, with research on how scientists connect their work to large societal goals in science policy. After that, she moved to the Dutch Research Council (NWO), where she worked as a coordinator on the development of the Dutch National Research Agenda and as management board member in the European Joint Programming Initiative Urban Europe. This was followed by two years as board secretary at the Mathematics department of Utrecht University, where she contributed to strategy and policy development and implementation of the department and where she managed operational matters.</p>
-          </div>
-
-          <div class="col-md-4" style="margin: 0 auto; text-align: center;">
-            <div style="display: flex; justify-content: center;">
               <img src="caxton.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
             </div> 
             <h2 align="center"><b>Caxton Murira</b></h2>
@@ -48,6 +38,16 @@ sections:
         </div>
         </div>
         </div>  
+
+          <div class="col-md-4" style="margin: 0 auto; text-align: center;">
+            <div style="display: flex; justify-content: center;">
+              <img src="Colette.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+            </div>  
+            <h2 align="center"><b>Colette Bos</b></h2>
+            <p align="center"><b>Programme Director, Netherlands eScience Center</b></p>
+            <p align="center"> <i> Lives in the Netherlands </i> </p>
+            <p align="center">Colette Bos is the programme director of the Netherlands eScience Center. Her main responsibility is the call strategy and responsibility for the project portfolio. For this, she works closely with the Programme Managers. She also contributes to the general management of the eScience Center in the directors’ team and to external relations of the Netherlands eScience Center. Colette obtained her PhD at Utrecht University, with research on how scientists connect their work to large societal goals in science policy. After that, she moved to the Dutch Research Council (NWO), where she worked as a coordinator on the development of the Dutch National Research Agenda and as management board member in the European Joint Programming Initiative Urban Europe. This was followed by two years as board secretary at the Mathematics department of Utrecht University, where she contributed to strategy and policy development and implementation of the department and where she managed operational matters.</p>
+          </div>
 
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
