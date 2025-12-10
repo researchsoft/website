@@ -4,7 +4,7 @@ date: 2025-06-03
 type: landing
 
 sections:
-  - block: 
+  - block: markdown
     content:
       title: |
         Our Team
@@ -87,7 +87,6 @@ sections:
                 <p>
                 <a href="https://www.linkedin.com/company/code-for-society" target="_blank" style="margin: 0 10px;">
                 <i class="fab fa-linkedin"></i>
-                </a>  
                 </a>      
                 <a href="https://www.codeforsociety.org/" target="_blank" style="margin: 0 10px;">
                 <i class="fa fa-globe"></i>
