@@ -58,10 +58,7 @@ sections:
               <p align="center"><b>Program Manager</b></p>
               <p align="center"> <i> Lives in Canada </i> </p>
               <!-- Social media icons section -->
-                <p>
-                <a href="https://www.linkedin.com/in/kim-hartley-456808232/" target="_blank" style="margin: 0 10px;">
-                <i class="fab fa-linkedin"></i>
-                </a>                
+                <p>            
                 <a href="https://github.com/Kim-hartley" target="_blank" style="margin: 0 10px;">
                 <i class="fab fa-github"></i>
                 </a>
