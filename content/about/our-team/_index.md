@@ -4,7 +4,7 @@ date: 2025-06-03
 type: landing
 
 sections:
-  - block: markdown
+  - block: 
     content:
       title: |
         Our Team
@@ -50,7 +50,6 @@ sections:
               She serves on advisory boards including for the <a href = "https://everse.software/">European Virtual Institute for Research Software Excellence (EVERSE)</a> and the <a href = "https://rd-alliance.org/about-rda/our-leadership/rda-organisational-advisory-board.html">Research Data Alliance Organisational Advisory Board</a>. As a <a href = "https://www.linkedin.com/in/michelledbarker/">consultant in the field of open science</a> her roles have included chairing the OECD expert group on <a href = "https://www.oecd-ilibrary.org/science-and-technology/building-digital-workforce-capacity-and-skills-for-data-intensive-science_e08aa3bb-en">digital skills for the research sector</a> and co-editing the European Open Science Cloud report, <a href = "https://op.europa.eu/en/publication-detail/-/publication/af7f7807-6ce1-11eb-aeb5-01aa75ed71a1">Digital Skills for FAIR and Open Science</a>.
               Michelle is a former Director of the <a href = "https://ardc.edu.au/">Australian Research Data Commons</a>, where she led the strategic planning for the Australian government’s $180 million, five-year investment in ARDC, and the <a href = "https://nectar.org.au/labs/">national research software infrastructure investment program</a>. <a href = "mailto:michelle@researchsoft.org">Email Michelle Barker</a>.</p>
             </div>
-            
             <div class="col-md-4" style="margin: 0 auto; text-align: center;">
               <div style="display: flex; justify-content: center;">
                 <img src="kim_sq.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
@@ -76,7 +75,6 @@ sections:
               scholarly, and creative activities.
               <a href = "mailto:kim@researchsoft.org">Email Kim Hartley</a>.</p>
             </div>
-
             <div class="col-md-4" style="margin: 0 auto; text-align: center;">
               <div style="display: flex; justify-content: center;">
                 <img src="CSS_square.png" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
