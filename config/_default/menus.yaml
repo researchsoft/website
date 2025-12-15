@@ -140,7 +140,7 @@ main:
   - name: '<span style="font-size: 1.2rem;">IRSC</span>'
     url: irsc
     weight: 71
-  - parent: '<span style="font-size: 1.2rem;">IRSC </span>'
+  - parent: '<span style="font-size: 1.2rem;">IRSC</span>'
     name: '<span style="font-size: 1rem;">Program Committee</span>'
     url: irsc/program-committee 
     weight: 72
