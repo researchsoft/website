@@ -1,7 +1,6 @@
 ---
 title: "IRSC Program Committee"
 type: landing
-url: /irsc/program-committee/
 date: 2025-12-10
 draft: false
 
