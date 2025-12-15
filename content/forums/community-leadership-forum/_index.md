@@ -57,6 +57,30 @@ sections:
         CLF representatives serve three-year terms, with an annual time commitment of approximately 5–10 hours. This includes attending 1–2 online meetings each year, as well as participating in asynchronous discussions. Members are expected to act as liaisons between the CLF and their stakeholder groups, bringing forward relevant perspectives, priorities, and insights to support inclusive leadership in the research software community.
 
         For further information, please refer to the [CLF Nomination Process](https://docs.google.com/document/d/1jXKFrS1s0_dJiLv0uryaTDzUa453w98jnH0DuWWf3dU/edit?usp=drive_link) or the [Terms of Reference](https://docs.google.com/document/d/15uOY6fQbvE0dfEzZkADaDwMtIGqbXcS3PHVzCvSStbE/edit?usp=drive_link) or email info@researchsoft.org.
+
+        **Current members**
+        - Bhavesh Patel, FAIR Data Innovations Hub 
+        - Caroline Jay, Software Sustainability Institute 
+        - Chris Erdmann, SciLifeLab
+        - Claire Wyatt, Forschungszentrum Jülich 
+        - Erika Pastrana, Springer Nature 
+        - Florian Goth, University of Würzburg/teachingRSE project 
+        - Florian Mannseicher, de-RSE 
+        - Fotis Psomopoulos, EVERSE 
+        - Kazuhiro Hayashi, NISTEP 
+        - Malvika Sharan, St Jude’s/OLS 
+        - Nicolas Palopoli, MetaDocencia 
+        - Rebecca Ringuette, NASA 
+        - Rena Bakhshi, Netherlands eScience Center 
+        - Richard Littauer, CURIOSS, SustainOSS 
+        - Sara Villa, Turing Way/OLS 
+        - Samantha Ahern, Carpentries 
+        - Sean Goggins, CHAOSS
+        - Seun Olufemi, Bioinformatics Outreach Nigeria
+        - Simon Hettrick, Software Sustainability Institute
+        - Todd Gamblin, High Performance Software Foundation
+        - Weronika Filinger, EPCC, University of Edinburgh 
+
         
          </div>
         </div>  
