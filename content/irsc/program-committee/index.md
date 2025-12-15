@@ -1,15 +1,14 @@
 ---
-title: "IRSC Program Committee"
+title: ""
+date: 2025-09-03
 type: landing
-date: 2025-12-10
-draft: false
 
 sections:
   - block: markdown
     content:
       title: ""
       text: |
-        International Research Software Conference (IRSC) Program Committee
+        IRSC Program Committee 
         {style="color: white; font-size: 2rem; text-align: center; "}
     design:
       background:
@@ -28,8 +27,10 @@ sections:
     content:
       title: ""
       text: |
-        **IRSC Program Committee members:**
+        <div class="d-flex justify-content-center">
+          <div class="col-md-8 text-start">
 
+        IRSC 2026 Program Committee members:
         - Alejandra Gonzalez Beltran, United Kingdom Atomic Energy Authority
         - Alexander Nolte, Eindhoven University of Technology
         - Anna-Lena Lamprecht, University of Potsdam
@@ -48,9 +49,8 @@ sections:
         - Stephan Janosch, Max Planck Institute of Molecular Cell Biology and Genetics
         - Su Nee Goh, Nanyang Technological University, Singapore
 
-        IRSC 2026 will bring together global leaders and change-makers working to advance strategic coordination, long-term sustainability, and high-level collaboration across the research software community. Aimed at those who support and develop research software, including RSE associations, research infrastructures, universities, funders, policymakers, publishers, infrastructure organisations, skills & training initiatives, national/regional RSE associations, and related initiatives, the program will feature community challenge–driven sessions, invited talks and panels, and an open call for sessions supporting mutual learning. 
-
-        [Join the IRSC mailing list](https://preview.mailerlite.io/forms/778129/164453536097109381/share) for updates on the inaugural event, or connect on ReSA’s Slack: [#irsc](https://researchsoft.slack.com/archives/C09D8QX9E2H).
+        </div>
+        </div>
     design:
       background:
         color: "#ffffff"
