@@ -146,7 +146,7 @@ main:
     weight: 10
   - parent: '<span style="font-size: 1.2rem;">IRSC</span>'
     name: '<span style="font-size: 1rem;">Program Committee</span>'
-    url: irsc/program-committee 
+    url: irsc/program-committee/
     weight: 72
     
   - name: "<i class='fab fa-github fa-2x'></i>"
