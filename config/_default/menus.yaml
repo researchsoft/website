@@ -122,6 +122,10 @@ main:
     name: '<span style="font-size: 1rem;">Research Software Engineers (RSEs)</span>'
     url: resource/research-software-engineers
     weight: 60
+  - parent: '<span style="font-size: 1.2rem;">Resources</span>'
+    name: '<span style="font-size: 1rem;">Collaborate with ReSA</span>'
+    url: resource/collaborate
+    weight: 70
 
   - name: '<span style="font-size: 1.2rem;">News</span>'
     url: news
