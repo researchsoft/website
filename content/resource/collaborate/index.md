@@ -31,12 +31,12 @@ sections:
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
           
-        ## Position papers
+        ### Position papers
 
         The Research Software Alliance (ReSA) invites funders and partner organisations to co-author position papers, blog posts, and other publications that strengthen the visibility and understanding of key issues in research software. These collaborations provide the global research community with critical baseline data, insight into emerging challenges, and documentation of progress on strategic initiatives.
         
         
-        ### By funding and co-developing these publications, your organisation will:
+        ## By funding and co-developing these publications, your organisation will:
         
         
         
@@ -45,13 +45,13 @@ sections:
         * **Extend your impact and visibility** through strategic dissemination to our networks and partners worldwide
         
         
-        ### What you can co-create: 
+        ## What you can co-create: 
         
         
         
         * **Position papers** that provide evidence, frame key challenges, and articulate strategic recommendations on issues 
         * **Blog articles and commentary** that connect policy, practice, and research communities
-        * **Other publications **that support alignment across national and international initiatives
+        * **Other publications** that support alignment across national and international initiatives
         
 
         ### Example collaboration: 
@@ -63,7 +63,7 @@ sections:
         * Over **2,000 views** and **500 downloads** on Zenodo
         * Featured in [ReSA’s newsletter](https://www.researchsoft.org/news/) (550+ subscribers)
         * Shared with ReSA’s [LinkedIn](https://www.linkedin.com/company/research-software-alliance/)** **audience (800+ followers) and other social media ([Mastodon](https://fosstodon.org/@researchsoft), [Bluesky](https://bsky.app/profile/researchsoftware.bsky.social), [Slack](https://join.slack.com/t/researchsoft/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w))
-        * **Cross-posted by partners **(e.g., Software Sustainability Institute, Netherlands eScience Center, EVERSE, US-RSE), extending reach internationally 
+        * **Cross-posted by partners** (e.g., Software Sustainability Institute, Netherlands eScience Center, EVERSE, US-RSE), extending reach internationally 
         
         This paper demonstrated Canada’s leadership in aligning AI strategy with research software policy—and helped shape the global conversation.
         
