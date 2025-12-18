@@ -90,6 +90,10 @@ main:
     name: '<span style="font-size: 1rem;">International Council of RSE Associations</span>'
     url: https://researchsoftware.org/council.html
     weight: 39
+  - parent: '<span style="font-size: 1.2rem;">Forums</span>'
+    name: '<span style="font-size: 1rem;">Forum Support</span>'
+    url: forums/forum-support
+    weight: 40
 
   - name: '<span style="font-size: 1.2rem;">Resources</span>'
     weight: 40
