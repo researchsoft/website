@@ -31,12 +31,12 @@ sections:
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
           
-        ### Position papers
+        ## Position papers
 
         The Research Software Alliance (ReSA) invites funders and partner organisations to co-author position papers, blog posts, and other publications that strengthen the visibility and understanding of key issues in research software. These collaborations provide the global research community with critical baseline data, insight into emerging challenges, and documentation of progress on strategic initiatives.
         
         
-        ## By funding and co-developing these publications, your organisation will:
+        ### By funding and co-developing these publications, your organisation will:
         
         
         
@@ -45,7 +45,7 @@ sections:
         * **Extend your impact and visibility** through strategic dissemination to our networks and partners worldwide
         
         
-        ## What you can co-create: 
+        ### What you can co-create: 
         
         
         
