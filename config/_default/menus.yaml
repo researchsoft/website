@@ -91,7 +91,7 @@ main:
     url: https://researchsoftware.org/council.html
     weight: 39
   - parent: '<span style="font-size: 1.2rem;">Forums</span>'
-    name: '<span style="font-size: 1rem;">Forum Support</span>'
+    name: '<span style="font-size: 1rem;">Support a Forum</span>'
     url: forums/forum-support
     weight: 40
 
