@@ -20,7 +20,7 @@ sections:
           parallax: false
           position: bottom
           size: cover
-          text_color_light: false
+          text_color_light: true
       spacing:
         padding: ["4rem", "2rem"]
 
