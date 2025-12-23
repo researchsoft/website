@@ -9,7 +9,6 @@ sections:
       title:
       text:   |
         Research Software Engineering in the Age of Generative AI: Building a Community Vision
-    
         {style="color: white; font-size: 2rem; text-align: center; "}
     design:
       background:
@@ -20,7 +19,7 @@ sections:
           parallax: false
           position: bottom
           size: cover
-          text_color_light: true
+          text_color_light: false
       spacing:
         padding: ["4rem", "2rem"]
 
