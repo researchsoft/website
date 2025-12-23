@@ -141,6 +141,10 @@ main:
     name: '<span style="font-size: 1rem;">ReSA Community Calls</span>'
     url: events/community-calls
     weight: 62
+  - parent: '<span style="font-size: 1.2rem;">Events</span>'
+    name: '<span style="font-size: 1rem;">RSEng & GenAI workshop</span>'
+    url: events/rse-ai-workshop 
+    weight: 63
   - name: '<span style="font-size: 1.2rem;">Blog</span>'
     url: blog
     weight: 70
