@@ -31,7 +31,7 @@ sections:
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
 
-        Research Software Engineering in the Age of Generative AI: Building a Community Vision is a 2.5-day workshop that will bring together ~30 leaders in research software and AI to agree on a shared vision and co-develop a roadmap for how research software will be produced in the age of Generative AI – independent of today’s specific roles or job titles. 
+        **Research Software Engineering in the Age of Generative AI: Building a Community Vision** is a 2.5-day workshop that will bring together ~30 leaders in research software and AI to agree on a shared vision and co-develop a roadmap for how research software will be produced in the age of Generative AI – independent of today’s specific roles or job titles. A small number of funders will also be present as observers.
 
         Through lightning talks, deep critique of a draft vision, and multiple rounds of focused working groups, participants will:
 
