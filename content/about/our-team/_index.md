@@ -47,7 +47,7 @@ sections:
                 </a>
                 </p>
               <p align="center">Michelle co-founded ReSA in 2019 and brings extensive expertise in open science, research software, skills and infrastructure. As a sociologist, Michelle is passionate about building collaborative partnerships to achieve system change.
-              As a <a href = "https://www.linkedin.com/in/michelledbarker/">consultant in the field of open science</a> she brings expertise in leading international projects for the advancement of open research investments including FAIR Principles, research software; research infrastructure; open science skills, training, reward structures and career paths; and community engagement.
+              As a <a href = "https://www.linkedin.com/in/michelledbarker/">consultant in the field of open science</a> she brings expertise in leading international projects for the advancement of open research investments including in <a href = "https://doi.org/10.1038/s41597-022-01710-x">FAIR</a>, research software; research infrastructure; open science skills, training, reward structures and career paths; and community engagement.
               Michelle is a former Director of the <a href = "https://ardc.edu.au/">Australian Research Data Commons</a>, where she led the strategic planning for the Australian government’s $180 million, five-year investment in ARDC, and the <a href = "https://nectar.org.au/labs/">national research software infrastructure investment program</a>. <a href = "mailto:michelle@researchsoft.org">Email Michelle Barker</a>.</p>
             </div>
             <div class="col-md-4" style="margin: 0 auto; text-align: center;">
