@@ -49,7 +49,7 @@ sections:
 
         For questions about the workshop, please contact ReSA: [info@researchsoft.org](mailto:info@researchsoft.org) 
 
-        ReSA has been supported to undertake this work as part of [Schmidt Sciences](https://www.schmidtsciences.org/) grant G-25-69965, *Research Software Engineering in the Age of Generative AI: Building a Community Vision*. 
+        ReSA has been supported to undertake this work as part of [Schmidt Sciences](https://www.schmidtsciences.org/) grant G-25-69965, *Research Software Engineering in the Age of Generative AI: Building a Community Vision*. The Software Sustainability Institute, led by the University of Edinburgh, is supporting the workshop as local organiser.
      
          </div>
         </div>
