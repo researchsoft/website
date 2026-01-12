@@ -7,6 +7,7 @@ authors:
 
 summary: ""
 draft: false
+external_link: "https://preview.mailerlite.io/emails/webview/778129/147396779058399059"
 ---
 
 This month’s news includes:

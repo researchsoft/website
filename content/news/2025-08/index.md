@@ -7,6 +7,7 @@ authors:
 
 summary: ""
 draft: false
+external_link: "https://preview.mailerlite.io/preview/778129/emails/163816392535049853"
 ---
 
 This month's news includes:
@@ -20,4 +21,4 @@ This month's news includes:
   
   
   
-**[Read the August newsletter](<https://preview.mailerlite.io/preview/778129/emails/163816392535049853>)**
+**[Read the August newsletter](https://preview.mailerlite.io/preview/778129/emails/163816392535049853)**
