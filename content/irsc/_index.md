@@ -8,7 +8,7 @@ sections:
     content:
       title: ""
       text: |
-        International Research Software Conference (IRSC)
+        <span class="irsc-title">International Research Software Conference (IRSC)</span>
         {style="color: white; font-size: 2rem; text-align: center; "}
     design:
       background:

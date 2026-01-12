@@ -34,3 +34,10 @@
 .center-align {
   text-align:center
 }
+
+// Hide IRSC title on mobile devices (but preserve space)
+@media (max-width: 768px) {
+  .irsc-title {
+    visibility: hidden;
+  }
+}
