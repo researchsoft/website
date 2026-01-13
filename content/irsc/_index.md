@@ -36,7 +36,7 @@ sections:
 
         [Join the IRSC mailing list](https://preview.mailerlite.io/forms/778129/164453536097109381/share) for updates  
 
-        Connect on ReSA’s Slack: [#irsc](https://researchsoft.slack.com/archives/C09D8QX9E2H)
+        Join ReSA’s [Slack](https://join.slack.com/t/researchsoft/shared_invite/zt-2jrfi0182-_E_yD0_X8oKoB03zCz2lZA) and connect on the #irsc channel
 
         ---
 
