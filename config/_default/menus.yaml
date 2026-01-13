@@ -168,7 +168,7 @@ main:
     url: mailto:info@researchsoft.org
     weight: 90
   - name: "<i class='fab fa-slack fa-2x'></i>"
-    url: https://researchsoft.slack.com/
+    url: https://join.slack.com/t/researchsoft/shared_invite/zt-2jrfi0182-_E_yD0_X8oKoB03zCz2lZA
     weight: 100
   - name: "<i class='fab fa-linkedin fa-2x'></i>"
     url: https://www.linkedin.com/company/research-software-alliance/
