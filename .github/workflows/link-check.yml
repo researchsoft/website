@@ -17,6 +17,11 @@ jobs:
         with:
           submodules: recursive
 
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
@@ -29,10 +34,11 @@ jobs:
       - name: Check links with Lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          # Check all HTML files in the public directory
-          args: '--verbose --no-progress --exclude-mail --accept 200,201,202,203,204,206,300,301,302,303,304,307,308,429,999 --timeout 30 --max-retries 3 --exclude "linkedin.com" --exclude "twitter.com" --exclude "x.com" "public/**/*.html"'
+          # Check external links only, exclude your own domain and problematic sites
+          args: '--no-progress --exclude-all-private --scheme http --scheme https --accept 200,201,202,203,204,206,300,301,302,303,304,307,308,429,999 --timeout 30 --max-retries 3 --exclude "linkedin.com" --exclude "twitter.com" --exclude "x.com" --exclude "researchsoft.org" --format markdown --output lychee-report.md "public/**/*.html" --base-url https://researchsoft.org'
           # Only fail on errors, not warnings
           fail: true
+          format: markdown
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
