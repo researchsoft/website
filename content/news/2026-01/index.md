@@ -1,7 +1,7 @@
 ---
 title: "ReSA Newsletter: January 2026"
 subtitle: ""
-date: 2025-11-26
+date: 2026-01-22
 authors:
  - ""
 
