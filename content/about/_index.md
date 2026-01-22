@@ -239,7 +239,7 @@ sections:
           <div class="row justify-content-center mt-5">
             <div class="col-md-4 logo-container">
               <a href="https://alliancecan.ca/">
-                <img src="images/Alliance.png" alt="Digital Research Alliance of Canada" class="logo-image">
+                <img src="images/drac-english.svg" alt="Digital Research Alliance of Canada" class="logo-image">
               </a>
             </div>
             <div class="col-md-4 logo-container">
