@@ -21,6 +21,7 @@ This month's news includes:
 * Opportunities to get involved with community initiatives
 * Resources
 * Community events, including deRSE26 - Conference for Research Software Engineering in Germany
+* This is a test!
 
 
 
