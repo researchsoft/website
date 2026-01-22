@@ -61,7 +61,7 @@ request reviews where required.
 
 The only files that should be edited as a matter of course are in
 [content](https://github.com/researchsoft/website/tree/master/content).
-Images generally go into [static/images](https://github.com/researchsoft/website/tree/master/static/images).
+Images generally go into [static](https://github.com/researchsoft/website/tree/master/static).
 
 When editing existing content, it is possible to use the GitHub text editor
 interface to make changes. When viewing the file you would like to edit, click
@@ -75,8 +75,9 @@ In order to add SASS or CSS rules, add them into `assets/scss/custom.scss`. This
 
 ## Extra information
 
+**Warning:** The below information is out of date and may not be correct. Anything in `resources/` is not committed to the repo; any changes in style can be made in `assets/scss/custom.scss`.
+
 Due to limitations in the version of Hugo that Netlify runs,
 changing the _style_ of the website will require pulling this entire
 repo to a computer and building the site with hugo-extended. The resulting
-files generated in
-[resources/_gen/assets/scss/styles](https://github.com/researchsoft/website/tree/master/resources/_gen/assets/scss/styles>) then need to be committed back to the repository.
+files generated in `resources/_gen/assets` then need to be committed back to the repository.
