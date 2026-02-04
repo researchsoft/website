@@ -62,7 +62,8 @@ sections:
         - Bhavesh Patel, FAIR Data Innovations Hub 
         - Caroline Jay, Software Sustainability Institute 
         - Chris Erdmann, SciLifeLab
-        - Claire Wyatt, Forschungszentrum Jülich 
+        - Claire Wyatt, Forschungszentrum Jülich
+        - Colette Bos, Netherlands eScience Center  
         - Erika Pastrana, Springer Nature 
         - Florian Goth, University of Würzburg/teachingRSE project 
         - Florian Mannseicher, de-RSE 
@@ -71,7 +72,6 @@ sections:
         - Malvika Sharan, St Jude’s/OLS 
         - Nicolas Palopoli, MetaDocencia 
         - Rebecca Ringuette, NASA 
-        - Rena Bakhshi, Netherlands eScience Center 
         - Richard Littauer, CURIOSS, SustainOSS 
         - Sara Villa, Turing Way/OLS 
         - Samantha Ahern, Carpentries 
