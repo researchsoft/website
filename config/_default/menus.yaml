@@ -160,6 +160,11 @@ main:
     name: '<span style="font-size: 1rem;">Program Committee</span>'
     url: irsc/program-committee
     weight: 73
+  - parent: '<span style="font-size: 1.2rem;">IRSC</span>'
+    name: '<span style="font-size: 1rem;">Sponsorship</span>'
+    url: irsc/sponsorship
+    weight: 74
+    
     
   - name: "<i class='fab fa-github fa-2x'></i>"
     url: https://github.com/researchsoft/website
