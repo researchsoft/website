@@ -13,7 +13,7 @@ sections:
     design:
       background:
         image:
-          filename: main-hero.png
+          filename: irsc-banner.png
           filters:
             brightness: 1
           parallax: false
