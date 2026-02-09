@@ -31,9 +31,8 @@ sections:
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
 
-        <h2>IRSC26 Sponsorship</h2>
 
-        # Event Overview
+        ## Event Overview
 
         **Event Name:** [International Research Software Conference (IRSC) 2026](https://www.researchsoft.org/irsc/) 
 
@@ -47,7 +46,7 @@ sections:
 
         IRSC26 is co-located with [RSECon26](https://rsecon26.society-rse.org/) (9-11 September), which also offers separate [sponsorship opportunities](https://rsecon26.society-rse.org/sponsorship/sponsorship-overview). Sponsors may choose to support either event or both, depending on their goals and audience.  
 
-        # About the International Research Software Conference (IRSC26)
+        ## About the International Research Software Conference (IRSC26)
 
         IRSC26 is a global gathering of **leaders and decision makers** working to advance global shifts and high-level collaboration across the research software community.
 
@@ -59,7 +58,7 @@ sections:
         * **Community connection**: Showcase stakeholder stories, collaboration highlights, and best practices to connect with peers and unite efforts  
         * **Strategic impact**: Influence funding, policy, and research priorities; and showcase leadership within the research software community and broader movements, including open science, FAIR, research assessment reform, and open source.
         
-        # Why Sponsor IRSC26
+        ## Why Sponsor IRSC26
         
         Sponsoring IRSC26 provides a valuable opportunity to engage with the global leaders and decision-makers working to shape the future of research software. Sponsors will gain meaningful exposure to an influential community that is aligning policy, funding, infrastructure, and practice across borders and sectors. By supporting IRSC26, your organisation will engage directly in high-level conversations that influence research software sustainability, standards, interoperability, and innovation, while demonstrating leadership within the global research software ecosystem. By sponsoring IRSC26, your organisation will:
 
@@ -69,13 +68,13 @@ sections:
         * Strengthen community ties and visibility to enable strategic collaborations with key decision-makers and influencers in the field   
         * Form connections that can lead to policy influence.
         
-        # Who You’ll Meet at IRSC26
+        ## Who You’ll Meet at IRSC26
         
         **IRSC26 attendees will include leaders and change-makers of organisations, initiatives, and communities committed to supporting research software, and those who develop it.** These include research organisations and research-supporting infrastructures; funders and policy makers, publishers, training and skills providers; national/international Research Software Engineers associations; university consortia, and related communities for open source software, open science and metascience. Many of these are already engaged in the various ReSA Forums.
         
-        The event agenda encourages collaboration through a combination of talks, birds of a feather session, lightning talks, and plenary discussions. With an estimated attendance of around 125-150 people in person, you can expect sessions to be sized for maximum participation and engagement.  
+        The event [agenda](https://docs.google.com/document/d/1T01d_KNCp3QiWXbCgU2uZMQG4sOFqsb1u1r5FiCQP-M/edit?usp=drive_link) encourages collaboration through a combination of talks, birds of a feather session, lightning talks, and plenary discussions. With an estimated attendance of around 125-150 people in person, you can expect sessions to be sized for maximum participation and engagement.  
         
-        # Sponsorship Packages and Benefits
+        ## Sponsorship Packages and Benefits
         
         Supporting IRSC provides valuable benefits including: a speaking opportunity at the event, prominent logo placements, complimentary tickets, and highlighting in social media. Below are suggested packages. There is also an option for interested partners wishing to focus their sponsorship by creating a bespoke package.
         
@@ -91,11 +90,11 @@ sections:
 
         \*\* ReSA’s newsletter reaches 600 individuals across the breadth of research software community stakeholders.
         
-        # Bundle your sponsorship with ReSA Organisational Membership
+        ## Bundle your sponsorship with ReSA Organisational Membership
         
         Join as a ReSA [Organisational Membership](https://www.researchsoft.org/about/membership/) at the same time and also receive a discount (for relevant packages only). Demonstrate your commitment to international collaboration and innovation for research (including [AI-driven research](https://doi.org/10.5281/zenodo.13350748)) by supporting ReSA’s work to bring the research software community together to collaborate on the advancement of the research software ecosystem. By joining us, you will join your peers in enabling outcomes that will achieve both your goals and those of the international community.
         
-        # About the Research Software Alliance (ReSA), the host of IRSC26
+        ## About the Research Software Alliance (ReSA), the host of IRSC26
         
         As host of IRSC26, the [Research Software Alliance](https://www.researchsoft.org/about/) (ReSA) convenes a global community of [stakeholder groups](https://www.researchsoft.org/about/stakeholders/) across the international research software community to collaborate to achieve common goals. ReSA’s community encompasses many relevant research software organisations, initiatives, and communities that have a national or regional focus, disciplinary focus, or thematic focus.
         
