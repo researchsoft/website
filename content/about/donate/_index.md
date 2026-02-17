@@ -1,5 +1,5 @@
 ---
-title:
+title: "Donate"
 date: 2025-04-23
 type: landing
 

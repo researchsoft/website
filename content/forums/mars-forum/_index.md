@@ -1,5 +1,5 @@
 ---
-title:
+title: "Metascience and Research Software (MaRS) Forum"
 date: 2025-05-15
 type: landing
 

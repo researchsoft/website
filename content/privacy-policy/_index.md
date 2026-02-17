@@ -1,5 +1,5 @@
 ---
-title:
+title: "Privacy Policy"
 date: 2023-03-28
 type: landing
 

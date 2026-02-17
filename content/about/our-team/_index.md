@@ -1,5 +1,5 @@
 ---
-title: 
+title: "Our Team"
 date: 2025-06-03
 type: landing
 

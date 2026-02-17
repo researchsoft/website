@@ -1,6 +1,5 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
+title: "Code of Conduct"
 date: 2022-10-24
 type: landing
 
@@ -9,8 +8,7 @@ sections:
     content:
       title:
       text:   |
-
-          Code of Conduct
+          ReSA Code of Conduct
           {style="color: white; font-size: 2rem; text-align: center;"} 
 
     design:
@@ -28,7 +26,7 @@ sections:
 
   - block: markdown
     content:
-      title: ReSA Code of Conduct
+      title: 
       text:   |
 
         <div class="d-flex justify-content-center">

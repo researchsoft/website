@@ -1,5 +1,5 @@
 ---
-title:
+title: "Collaborate with ReSA"
 date: 2025-12-15
 type: landing
 
