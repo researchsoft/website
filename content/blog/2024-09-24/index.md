@@ -3,7 +3,13 @@ title: "RSE Worldwide: Opportunities to Strengthen the Global RSE Community"
 subtitle: ""
 date: 2024-09-25
 authors:
-  - ""
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Sandra Gesing
+  - name: Rowland Mosbergen
+  - name: Uwe Schmitt
+  - name: Carlos Martinez-Ortiz
+    orcid: https://orcid.org/0000-0001-5565-7577
 
 categories:
 

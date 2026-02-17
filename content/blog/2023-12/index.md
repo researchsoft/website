@@ -3,7 +3,7 @@ title: "Navigating the Unseen: Unveiling the Scope of African Research Software 
 subtitle: ""
 date: 2023-12-06
 authors:
-  - ""
+  - Anelda Van der Walt
 
 categories:
 

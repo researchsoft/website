@@ -3,7 +3,11 @@ title: "Funder community focuses on crucial role of research software"
 subtitle: ""
 date: 2024-06-20
 authors:
-  - ""
+  - name: Kim Hartley
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Daniel S. Katz
+    orcid: https://orcid.org/0000-0001-5934-7525
 
 categories:
 

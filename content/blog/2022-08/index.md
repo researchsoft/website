@@ -3,7 +3,22 @@ title: "FAIR for Research Software (FAIR4RS): A summary"
 subtitle: ""
 date: 2022-08-15
 authors:
-  - ""
+  - name: Daniel S. Katz
+    orcid: https://orcid.org/0000-0001-5934-7525
+  - name: Tom Honeyman
+  - name: Paula Andrea Martinez
+    orcid: https://orcid.org/0000-0002-8990-1985
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Leyla Jael Castro
+  - name: Neil Chue Hong
+    orcid: https://orcid.org/0000-0002-8876-7606
+  - name: Morane Gruenpeter
+  - name: Jennifer Harrow
+  - name: Anna-Lena Lamprecht
+  - name: Carlos Martinez-Ortiz
+    orcid: https://orcid.org/0000-0001-5565-7577
+  - name: Fotis Psomopoulos
 categories:
   - Task force
 

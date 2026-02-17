@@ -2,7 +2,18 @@
 title: "The Research Software Alliance (ReSA) and the community landscape"
 date: 2020-03-11
 authors:
-  - ""
+  - name: Daniel S. Katz
+    orcid: https://orcid.org/0000-0001-5934-7525
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Paula Andrea Martinez
+    orcid: https://orcid.org/0000-0002-8990-1985
+  - name: Hartwig Anzt
+    orcid: https://orcid.org/0000-0003-2177-952X
+  - name: Alejandra Gonzalez-Beltran
+    orcid: https://orcid.org/0000-0003-3499-8262
+  - name: Tom Bakker
+    orcid: https://orcid.org/0000-0002-6465-5589
 categories:
   - Task force
 summary: "Read more..."

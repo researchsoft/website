@@ -2,7 +2,16 @@
 title: "Research software is essential for research data, so how should governments respond?"
 date: 2021-12-09
 authors:
-  - ""
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Neil Chue Hong
+    orcid: https://orcid.org/0000-0002-8876-7606
+  - name: Daniel S. Katz
+    orcid: https://orcid.org/0000-0001-5934-7525
+  - name: Mark Leggott
+  - name: Andrew Treloar
+  - name: Joris van Eijnatten
+  - name: Selina Aragon
 
 categories:
   - Recommendations

@@ -3,7 +3,15 @@ title: "Resources for supporting policy change in research institutions in pract
 subtitle: ""
 date: 2024-06-10
 authors:
-  - ""
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Domhnall Carlin
+  - name: Jeremy Cohen
+  - name: Eric A. Jensen
+  - name: Catherine M. Jones
+  - name: Carlos Martinez Ortiz
+    orcid: https://orcid.org/0000-0001-5565-7577
+  - name: Dan Rudmann
 
 categories:
 
