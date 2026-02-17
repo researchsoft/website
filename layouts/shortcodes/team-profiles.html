@@ -1,0 +1,43 @@
+{{ $team := .Page.Params.team_members }}
+<div class="d-flex justify-content-center">
+  <div class="col-lg-10 text-start">
+    <div class="row">
+      {{ range $team }}
+      <div class="col-sm-12 col-md-6 col-xl-4 team-profile">
+        <div style="display: flex; justify-content: center;">
+          <img src="{{ .image }}" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+        </div>
+        <h2 align="center"><b>{{ .name }}</b></h2>
+        <p align="center"><b>{{ .title }}</b></p>
+        {{ if .location }}
+        <p align="center"><i>Lives in {{ .location }}</i></p>
+        {{ end }}
+        <!-- Social media icons section -->
+        {{ if .social }}
+        <p align="center">
+          {{ range .social }}
+          <a href="{{ .url }}" target="_blank" style="margin: 0 10px;">
+            <i class="{{ .icon }}"></i>
+          </a>
+          {{ end }}
+        </p>
+        {{ end }}
+        <p{{ if not .bio_html }} align="center"{{ end }}>
+          {{ if .bio_html }}
+            {{ .bio_html | safeHTML }}
+          {{ else }}
+            {{ .bio }}
+          {{ end }}
+        </p>
+        {{ if .email }}
+        <p align="center">
+          <a href="mailto:{{ .email }}" class="btn btn-primary">
+            <i class="fas fa-envelope"></i> Email {{ .email_label | default .name }}
+          </a>
+        </p>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
