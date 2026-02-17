@@ -1,0 +1,103 @@
+{{- /* Generate RSS 2.0 feed */}}
+{{- $authorName := "" }}
+{{- with site.Params.author }}
+  {{- if reflect.IsMap . }}
+    {{- with .name }}
+      {{- $authorName = . }}
+    {{- end }}
+  {{- else }}
+    {{- $authorName  = . }}
+  {{- end }}
+{{- else }}
+  {{- with site.Author.name }}
+    {{- $authorName = . }}
+    {{- warnf "The author key in site configuration is deprecated. Use params.author.name instead." }}
+  {{- end }}
+{{- end }}
+
+{{- $pctx := . }}
+{{- if .IsHome }}{{ $pctx = .Site }}{{ end }}
+{{- $pages := slice }}
+{{- if or $.IsHome $.IsSection }}
+  {{- $pages = $pctx.RegularPages }}
+{{- else }}
+  {{- $pages = $pctx.Pages }}
+{{- end }}
+{{- $pages = where $pages "Draft" "ne" true }}
+{{- $pages = where $pages ".Params.private" "ne" true }}
+{{- $pages = where $pages "Type" "ne" "landing" }}
+{{- $limit := site.Config.Services.RSS.Limit }}
+{{- if ge $limit 1 }}
+  {{- $pages = $pages | first $limit }}
+{{- end }}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>Recent content {{ if ne .Title .Site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ .Site.Title }}</description>
+    <generator>Hugo {{ site.Hugo.Version }}</generator>
+    <language>{{ site.Language.LanguageCode }}</language>
+    {{- with site.Copyright }}
+    <copyright>{{ . }}</copyright>
+    {{- end }}
+    {{- with $authorName }}
+    <managingEditor>{{ . }}</managingEditor>
+    <webMaster>{{ . }}</webMaster>
+    {{- end }}
+    <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+    {{ with .OutputFormats.Get "RSS" }}
+    <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
+    {{ end }}
+    {{- range $pages }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      {{- $hasAuthors := false }}
+      {{- with .Params.authors }}
+        {{- range $index, $author := . }}
+          {{- if reflect.IsMap $author }}
+            {{- /* Author is an object with name and orcid fields */}}
+            {{- with $author.name }}
+              {{- if ne . "" }}
+                {{- $hasAuthors = true }}
+      <dc:creator>{{ . }}{{ with $author.orcid }} ({{ . }}){{ end }}</dc:creator>
+              {{- end }}
+            {{- end }}
+          {{- else }}
+            {{- /* Author is a simple string */}}
+            {{- if ne $author "" }}
+              {{- $hasAuthors = true }}
+      <dc:creator>{{ $author }}</dc:creator>
+            {{- end }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
+      {{- if not $hasAuthors }}
+        {{- with $authorName }}
+      <dc:creator>{{ . }}</dc:creator>
+        {{- else }}
+      <dc:creator>Research Software Alliance</dc:creator>
+        {{- end }}
+      {{- end }}
+      <guid>{{ .Permalink }}</guid>
+      {{- $desc := "" }}
+      {{- if .Params.summary }}
+        {{- $desc = .Params.summary }}
+      {{- else if .Params.abstract }}
+        {{- $desc = .Params.abstract }}
+      {{- else }}
+        {{- $desc = .Summary }}
+      {{- end }}
+      <description>{{ $desc | plainify | htmlUnescape }}</description>
+      {{- with .Params.categories }}
+        {{- range . }}
+      <category>{{ . }}</category>
+        {{- end }}
+      {{- end }}
+    </item>
+    {{- end }}
+  </channel>
+</rss>
+

@@ -1,0 +1,125 @@
+{{- /* Deprecate site.Author.name in favor of site.Params.author.name */}}
+{{- $authorName := "" }}
+{{- with site.Params.author }}
+  {{- if reflect.IsMap . }}
+    {{- with .name }}
+      {{- $authorName = . }}
+    {{- end }}
+  {{- else }}
+    {{- $authorName  = . }}
+  {{- end }}
+{{- else }}
+  {{- with site.Author.name }}
+    {{- $authorName = . }}
+    {{- warnf "The author key in site configuration is deprecated. Use params.author.name instead." }}
+  {{- end }}
+{{- end }}
+
+{{- $pctx := . }}
+{{- if .IsHome }}{{ $pctx = .Site }}{{ end }}
+{{- $pages := slice }}
+{{- if or $.IsHome $.IsSection }}
+  {{- $pages = $pctx.RegularPages }}
+{{- else }}
+  {{- $pages = $pctx.Pages }}
+{{- end }}
+{{- $pages = where $pages "Draft" "ne" true }}
+{{- $pages = where $pages ".Params.private" "ne" true }}
+{{- $pages = where $pages "Type" "ne" "landing" }}
+{{- $limit := site.Config.Services.RSS.Limit }}
+{{- if ge $limit 1 }}
+  {{- $pages = $pages | first $limit }}
+{{- end }}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ site.Language.LanguageCode }}">
+  <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+  <link href="{{ .Permalink }}" rel="alternate" type="text/html"/>
+  <subtitle>Recent content {{ if ne .Title .Site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ .Site.Title }}</subtitle>
+  <generator uri="https://gohugo.io">Hugo {{ site.Hugo.Version }}</generator>  
+  <updated>{{ now.Format "2006-01-02T15:04:05-07:00" }}</updated>
+  {{- with $authorName }}
+  <author>
+    <name>{{ . }}</name>
+    <uri>{{ site.BaseURL }}</uri>
+  </author>
+  {{- end }}
+  <id>{{ .Permalink }}</id>
+  {{ with .OutputFormats.Get "Atom" }}
+  {{ printf `<link rel="self" type="application/atom+xml" href="%s" hreflang="%s"/>` .Permalink site.Language.LanguageCode | safeHTML }}
+  {{ end }}
+  {{- range $pages }}
+  <entry>
+    <title type="text">{{ .Title }}</title>
+    <link rel="alternate" type="text/html" href="{{ .Permalink }}"/>
+    <published>{{ .Date.Format "2006-01-02T15:04:05-07:00" }}</published>
+    <updated>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}</updated>
+    {{- $postParams := .Params }}
+    {{- $hasAuthors := false }}
+    {{- with .Params.authors }}
+      {{- $orcids := $postParams.orcids }}
+      {{- range $index, $author := . }}
+        {{- if reflect.IsMap $author }}
+          {{- /* Author is an object with name and orcid fields */}}
+          {{- with $author.name }}
+            {{- if ne . "" }}
+              {{- $hasAuthors = true }}
+    <author>
+      <name>{{ . }}</name>
+              {{- with $author.orcid }}
+      <uri>{{ . }}</uri>
+              {{- end }}
+    </author>
+            {{- end }}
+          {{- end }}
+        {{- else }}
+          {{- /* Author is a simple string, check parallel orcids array */}}
+          {{- if ne $author "" }}
+            {{- $hasAuthors = true }}
+    <author>
+      <name>{{ $author }}</name>
+            {{- if $orcids }}
+              {{- $orcid := index $orcids $index }}
+              {{- with $orcid }}
+      <uri>{{ . }}</uri>
+              {{- end }}
+            {{- end }}
+    </author>
+          {{- end }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+    {{- if not $hasAuthors }}
+      {{- with $authorName }}
+    <author>
+      <name>{{ . }}</name>
+    </author>
+      {{- else }}
+    <author>
+      <name>Research Software Alliance</name>
+    </author>
+      {{- end }}
+    {{- end }}
+    <id>{{ .Permalink }}</id>
+    {{- with .Params.categories }}
+      {{- range . }}
+    <category term="{{ . }}"/>
+      {{- end }}
+    {{- end }}
+    {{- with .Params.tags }}
+      {{- range . }}
+    <category term="{{ . }}"/>
+      {{- end }}
+    {{- end }}
+    {{- $summaryText := "" }}
+    {{- with .Description }}
+      {{- $summaryText = . }}
+    {{- else }}
+      {{- $summaryText = $.Summary }}
+    {{- end }}
+    <summary type="html">{{ printf "<![CDATA[%s]]>" $summaryText | safeHTML }}</summary>
+    {{- if .Content }}
+    <content type="html">{{ printf "<![CDATA[%s]]>" .Content | safeHTML }}</content>
+    {{- end }}
+  </entry>
+  {{- end }}
+</feed>
