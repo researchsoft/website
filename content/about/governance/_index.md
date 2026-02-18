@@ -1,12 +1,27 @@
 ---
-title: 
+title: "Governance"
 date: 2025-06-03
 type: landing
 
 sections:
-  - block: 
+  - block: markdown
     content:
-      title:
+      title: 
+      text:   |
+        Governance
+        {class="header-text"}
+    design:
+      background:
+        image:
+          filename: main-hero.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: bottom
+          size: cover
+          text_color_light: false  
+      spacing:
+        padding: ["4rem", "2rem"]              
 
   - block: markdown
     content:

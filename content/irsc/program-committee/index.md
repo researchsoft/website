@@ -1,5 +1,5 @@
 ---
-title:
+title: "IRSC Program Committee"
 date: 2025-12-15
 type: landing
 

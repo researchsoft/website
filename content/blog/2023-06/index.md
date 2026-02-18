@@ -3,7 +3,12 @@ title: "How Can Open Source Program Offices (OSPOs) Support Research Software?"
 subtitle: ""
 date: 2023-06-01
 authors:
-  - ""
+  - name: Kim Hartley
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Mark Leggott
+  - name: Daniel S. Katz
+    orcid: https://orcid.org/0000-0001-5934-7525
 
 categories:
 

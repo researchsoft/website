@@ -80,3 +80,77 @@ changing the _style_ of the website will require pulling this entire
 repo to a computer and building the site with hugo-extended. The resulting
 files generated in
 [resources/_gen/assets/scss/styles](https://github.com/researchsoft/website/tree/master/resources/_gen/assets/scss/styles>) then need to be committed back to the repository.
+
+## Adding ORCID Support to Blog Post Authors
+
+The Atom feed supports ORCID identifiers for authors. ORCIDs are rendered as `<uri>` elements in the feed, which is the standard for Rogue Scholar and other scholarly aggregators.
+
+### Two Formats Supported
+
+#### Format 1: Simple Strings (No ORCIDs)
+
+```yaml
+authors:
+  - Michelle Barker
+  - Daniel S. Katz
+```
+
+**Renders as:**
+```xml
+<author>
+  <name>Michelle Barker</name>
+</author>
+<author>
+  <name>Daniel S. Katz</name>
+</author>
+```
+
+#### Format 2: Objects with ORCIDs (Recommended for Scholarly Feeds)
+
+```yaml
+authors:
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Daniel S. Katz
+    orcid: https://orcid.org/0000-0001-5934-7525
+  - name: Kim Hartley
+    # No ORCID - still works
+```
+
+**Renders as:**
+```xml
+<author>
+  <name>Michelle Barker</name>
+  <uri>https://orcid.org/0000-0002-3623-172X</uri>
+</author>
+<author>
+  <name>Daniel S. Katz</name>
+  <uri>https://orcid.org/0000-0001-5934-7525</uri>
+</author>
+<author>
+  <name>Kim Hartley</name>
+</author>
+```
+
+### ORCID Lookup
+
+To find ORCIDs for authors:
+1. Visit https://orcid.org/
+2. Search for the author's name
+3. Copy the full ORCID URL (e.g., `https://orcid.org/0000-0001-2345-6789`)
+
+### Migration Path
+
+You can update posts gradually:
+1. Keep existing posts with simple string authors
+2. Add ORCID data to new posts using the object format
+3. Gradually update older posts as needed
+
+The template supports both formats simultaneously.
+
+### Testing
+
+After updating a post with ORCIDs:
+1. Rebuild: `hugo`
+2. Check feed: `grep -A10 "PostTitle" public/index.xml | grep -E "<author>|<name>|<uri>"`
+3. Validate at: https://validator.w3.org/feed/

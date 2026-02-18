@@ -3,7 +3,16 @@ title: "Research software is critical to the future of AI-driven research"
 subtitle: ""
 date: 2024-08-22
 authors:
-  - ""
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Kim Hartley
+  - name: Daniel S. Katz
+    orcid: https://orcid.org/0000-0001-5934-7525
+  - name: Richard Littauer
+    orcid: https://orcid.org/0000-0001-5428-7535
+  - name: Qian Zhang
+  - name: Shurui Zhou
+  - name: Jyoti Bhogal
 
 categories:
 

@@ -34,8 +34,17 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, Atom, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
+mediaTypes:
+  application/atom+xml:
+    suffixes: ["xml"]
+outputFormats:
+  Atom:
+    mediaType: application/atom+xml
+    baseName: feed
+    isPlainText: false
+    rel: alternate
 imaging:
   resampleFilter: lanczos
   quality: 75

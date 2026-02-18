@@ -3,7 +3,10 @@ title: "Encouraging entry, retention, diversity and inclusion in research softwa
 subtitle: ""
 date: 2022-09-28
 authors:
-  - ""
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Daniel S. Katz
+    orcid: https://orcid.org/0000-0001-5934-7525
 
 categories:
   - Task force

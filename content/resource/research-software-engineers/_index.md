@@ -1,5 +1,5 @@
 ---
-title:
+title: "Research Software Engineers (RSEs)"
 date: 2025-07-09
 type: landing
 

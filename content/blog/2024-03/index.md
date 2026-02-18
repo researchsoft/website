@@ -3,7 +3,17 @@ title: "The FAIR for Research Software Principles after two years: an adoption u
 subtitle: ""
 date: 2024-03-20
 authors:
-  - ""
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Leyla Jael Castro
+  - name: Bernadette Fritzsch
+  - name: Daniel S. Katz
+    orcid: https://orcid.org/0000-0001-5934-7525
+  - name: Carlos Martinez-Ortiz
+    orcid: https://orcid.org/0000-0001-5565-7577
+  - name: Anna Niehues
+  - name: Alexander Struck
+  - name: Qian Zhang
 
 categories:
 

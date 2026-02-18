@@ -1,12 +1,12 @@
 ---
-title:
+title: "Research Software Engineering in the Age of Generative AI: Building a Community Vision"
 date: 2025-12-15
 type: landing
 
 sections:
   - block: markdown
     content:
-      title:
+      title: 
       text:   |
         Research Software Engineering in the Age of Generative AI: Building a Community Vision
         {style="color: white; font-size: 2rem; text-align: center; "}

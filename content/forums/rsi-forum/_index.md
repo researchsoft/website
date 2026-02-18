@@ -1,5 +1,5 @@
 ---
-title:
+title: "Research Software Infrastructure (RSI) Forum"
 date: 2025-05-22
 type: landing
 

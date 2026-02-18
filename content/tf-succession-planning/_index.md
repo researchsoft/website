@@ -1,5 +1,5 @@
 ---
-title:
+title: "Succession Planning for Research Software Task Force"
 date: 2025-05-22
 type: landing
 

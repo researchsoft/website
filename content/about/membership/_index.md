@@ -1,5 +1,5 @@
 ---
-title:
+title: "ReSA Organisational Membership"
 date: 2025-04-23
 type: landing
 

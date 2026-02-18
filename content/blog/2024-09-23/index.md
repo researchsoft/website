@@ -3,7 +3,9 @@ title: "Directions for Research Software Engineering Research"
 subtitle: ""
 date: 2024-09-19
 authors:
-  - ""
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Wilhelm Hasselbring
 
 categories:
   - Task force

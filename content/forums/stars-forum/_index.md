@@ -1,5 +1,5 @@
 ---
-title:
+title: "Skills and Training for Research Software (STaRS) Forum"
 date: 2025-05-15
 type: landing
 

@@ -2,7 +2,12 @@
 title: "Evidence for the importance of research software"
 date: 2020-06-08
 authors:
-  - ""
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Daniel S. Katz
+    orcid: https://orcid.org/0000-0001-5934-7525
+  - name: Alejandra Gonzalez-Beltran
+    orcid: https://orcid.org/0000-0003-3499-8262
 categories:
   - Task force
 summary: "Read more..."

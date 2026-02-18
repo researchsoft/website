@@ -3,7 +3,23 @@ title: "Global gathering of research software funders sets the agenda for suppor
 subtitle: ""
 date: 2022-11-24
 authors:
-  - ""
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Valentina Azzarà
+  - name: Tom Bakker
+    orcid: https://orcid.org/0000-0002-6465-5589
+  - name: Lieke de Boer
+  - name: Neil Chue Hong
+    orcid: https://orcid.org/0000-0002-8876-7606
+  - name: Maria Cruz
+  - name: Niels Drost
+  - name: Joris van Eijnatten
+  - name: Maaike de Jong
+  - name: Daniel S. Katz
+    orcid: https://orcid.org/0000-0001-5934-7525
+  - name: Carlos Martinez-Ortiz
+    orcid: https://orcid.org/0000-0001-5565-7577
+  - name: Veronica Pang
 
 categories:
 

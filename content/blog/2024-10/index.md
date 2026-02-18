@@ -3,7 +3,13 @@ title: "International Research Software Funders Workshop 2024 – Building a Sus
 subtitle: ""
 date: 2024-10-16
 authors:
-  - ""
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Chris Erdmann
+  - name: Eric Jensen
+  - name: Kim Hartley
+  - name: Anna Henriksson
+  - name: Suné Joubert
 
 categories:
 

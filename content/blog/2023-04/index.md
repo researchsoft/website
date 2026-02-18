@@ -3,7 +3,8 @@ title: "Can National Research and Education Networks be a focal point for Resear
 subtitle: ""
 date: 2023-04-17
 authors:
-  - ""
+  - name: Saranjeet Kaur Bhogal
+    orcid: https://orcid.org/0000-0002-7038-1457
 
 categories:
 

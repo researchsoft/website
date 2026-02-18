@@ -1,5 +1,5 @@
 ---
-title:
+title: "Publishing Research Software (PubSoft) Forum"
 date: 2025-05-15
 type: landing
 

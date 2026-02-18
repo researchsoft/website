@@ -3,7 +3,8 @@ title: "Expanding the mapping of the global research software community"
 subtitle: ""
 date: 2022-10-21
 authors:
-  - ""
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
 
 categories:
 

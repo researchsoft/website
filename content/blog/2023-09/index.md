@@ -3,7 +3,9 @@ title: "Elevating Research Software: Developing a Roadmap"
 subtitle: ""
 date: 2023-09-04
 authors:
-  - ""
+  - name: Eric Allen Jensen
+  - name: Daniel S. Katz
+    orcid: https://orcid.org/0000-0001-5934-7525
 
 categories:
 

@@ -1,5 +1,5 @@
 ---
-title:
+title: "Vive la différence – research software engineers"
 date: 2021-10-25
 type: landing
 
