@@ -3,7 +3,8 @@ title: "Towards coordinated international policy approaches to support research 
 subtitle: ""
 date: '2025-10-24'
 authors:
- - ""
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
 
 categories:
 

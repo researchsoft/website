@@ -2,7 +2,8 @@
 title: "FAIR Principles for Research Software Released"
 date: 2022-06-21
 authors:
-  - ""
+  - name: FAIR4RS Working Group Steering Committee
+
 categories:
   - Press release
 

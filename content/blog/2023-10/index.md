@@ -3,7 +3,10 @@ title: "Investing in People: Anticipating the Future of Research Software"
 subtitle: ""
 date: 2023-10-24
 authors:
-  - ""
+  - name: Kim Hartley
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+
 categories:
 
 summary: "Read more..."
