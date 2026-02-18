@@ -40,4 +40,18 @@
   .irsc-title {
     visibility: hidden;
   }
+  
+  // Left-align team bio paragraphs on mobile
+  .team-profile > p:not([align="center"]) {
+    text-align: left !important;
+  }
+}
+
+.team-profile {
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 40px;
+  .btn-primary {
+    color: white !important;
+  }
 }
