@@ -3,7 +3,9 @@ title: "Strengthening global collaboration: ReSA welcomes the Research Data Alli
 subtitle: ""
 date: '2025-05-30'
 authors:
-  - ""
+  - name: Kim Hartley
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
 
 categories:
 
