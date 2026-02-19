@@ -120,55 +120,32 @@ Some of the challenges in funding research software reflect the general issues f
 This work was supported by the Alfred P. Sloan Foundation, grant G-2021-17001.   
 
 # References
-Anzt, Hartwig, Felix Bach, Stephan Druskat, Frank Löffler, Axel Loewe, Bernhard Y. Renard, Gunnar Seemann, et al. 2021. &quot;An Environment for Sustainable Research Software in Germany and beyond: Current State, Open Challenges, and Call for Action.&quot; 295. https://doi.org/10.12688/f1000research.23224.2.
 
-Asmi, Ari, Lorna Ryan, Emmanuel Salmon, Christine Kubiak, Serena Battaglia, Miriam Förster, Julie Dupré, et al. 2019. &quot;International Research Infrastructure Landscape 2019.&quot; https://doi.org/10.5281/ZENODO.3539254.
-
-Barker, Michelle, Silvia Delgado Olabarriaga, Nancy Wilkins-Diehr, Sandra Gesing, Daniel S. Katz, Shayan Shahand, Scott Henwood, et al. 2019. &quot;The Global Impact of Science Gateways, Virtual Research Environments and Virtual Laboratories.&quot; Future Generation Computer Systems 95 (June): 240–48. https://doi.org/10.1016/j.future.2018.12.026.
-
-BBC News. 2014. &quot;Tech Giants Spend Millions to Stop Another Heartbleed,&quot; April 25, 2014, sec. Technology. https://www.bbc.com/news/technology-27155946.
-
-Bello, Michael, and Fernanda Galindo-Rueda. 2020. &quot;Charting the Digital Transformation of Science: Findings from the 2018 OECD International Survey of Scientific Authors (ISSA2).&quot; OECD Science, Technology and Industry Working Papers 2020/03. http://www.oecd.org/digital/charting-the-digital-transformation-of-science-1b06c47c-en.htm.
-
-Dunks, Richard. 2021a. &quot;Exploring Costs &amp; Characteristics of Open Infrastructure Providers.&quot; Invest in Open Infrastructure. November 1, 2021. https://investinopen.org/blog/costs-characteristics-oi-providers/.
-
-———. 2021b. &quot;Funding Open Infrastructure: Key Terms and Concepts in Our Analysis.&quot; Invest in Open Infrastructure. November 5, 2021. https://investinopen.org/blog/funding-open-infrastructure-key-terms-and-concepts-in-our-analysis/.
-
-Eghbal, Nadia. 2016. &quot;Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure.&quot; Ford Foundation. 2016. https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/.
-
-ESFRI. 2018. &quot;Roadmap 2018: Strategy Report on Research Infrastructures.&quot; http://roadmap2018.esfri.eu/.
-
-Ficarra, Victoria, Mattia Fosci, Andrea Chiarelli, Bianca Kramer, and Vanessa Proudman. 2020. &quot;Scoping the Open Science Infrastructure Landscape in Europe.&quot; Zenodo. https://doi.org/10.5281/ZENODO.4159838.
-
-GOSH. 2021a. &quot;Funding Open Hardware: Institutional Support.&quot; 2021. https://drive.google.com/file/d/1H6YtXsojx9oFmSVblAiq7J87TI7xlM1V/view.
-
-———. 2021b. &quot;Funding Open Hardware: Outputs and Impacts.&quot; 2021. https://drive.google.com/file/d/1QWEJ1hSZ4dwrgZKRhgyp3HTAvZ4i0YFa/view?usp=sharing&amp;usp=embed\facebook.
-
-Gruenpeter, Morane, Katz, Daniel S., Lamprecht, Anna-Lena, Honeyman, Tom, Garijo, Daniel, Struck, Alexander, Niehues, Anna, et al. 2021. &quot;Defining Research Software: A Controversial Discussion.&quot; Zenodo. https://doi.org/10.5281/ZENODO.5504016.
-
-Hinsen, Konrad. 2019. &quot;Dealing With Software Collapse.&quot; Computing in Science & Engineering 21 (3): 104–8. https://doi.org/10/gf2dh9.
-
-Huerta, Melissa. 2021. &quot;Building a Toolkit for Funders to Grow Their Digital Infrastructure Portfolio.&quot; 2021. https://simplysecure.org/blog/building-a-toolkit-for-funders-to-grow-their-digital-infrastructure-portfolio/.
-
-Katerbow, Matthias, and Georg Feulner. 2018. &quot;Recommendations On The Development, Use And Provision Of Research Software,&quot; March. https://doi.org/10.5281/ZENODO.1172988.
-
-Katz, Daniel S. 2021. &quot;Towards Sustainable Research Software.&quot; December 1. https://doi.org/10.5281/zenodo.5748175.
-
-Katz, Daniel S., Stephan Druskat, Robert Haines, Caroline Jay, and Alexander Struck. 2019. &quot;The State of Sustainable Research Software: Results from the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1).&quot; Journal of Open Research Software 7 (April): 11. https://doi.org/10.5334/jors.242.
-
-Knowles, Rebecca, Bilal A. Mateen, and Yo Yehudi. 2021. &quot;We Need to Talk about the Lack of Investment in Digital Research Infrastructure.&quot; Nature Computational Science 1 (3): 169–71. https://doi.org/10.1038/s43588-021-00048-5.
-
-Mons, Barend. 2020. &quot;Invest 5% of Research Funds in Ensuring Data Are Reusable.&quot; Nature 578 (7796): 491–491. https://doi.org/10.1038/d41586-020-00505-7.
-
-Nangia, Udit, and Daniel S. Katz. 2017. &quot;Understanding Software in Research: Initial Results from Examining Nature and a Call for Collaboration.&quot; In 2017 IEEE 13th International Conference on E-Science (e-Science), 486–87. https://doi.org/10/ggfkvb.
-
-Saarinen, Juha. 2021. &quot;Log4j&#39;s Project Sponsorship Skyrockets after Critical Bug Exploitation.&quot; ITnews. 2021. https://www.itnews.com.au/news/log4js-project-sponsorship-skyrockets-after-critical-bug-exploitation-573914.
-
-Sufi, Shoaib, Carlos Martinez Ortiz, Cees Hof, Patrick Aerts, Adriaan Klinkenberg, Anna-Lena Lambrecht, Barbara Sierman, et al. 2020. &quot;Report on the Workshop on Sustainable Software Sustainability 2019 (WOSSS19).&quot; Zenodo. https://doi.org/10.5281/ZENODO.3922155.
-
-Technology Association of Grantmakers. 2021. &quot;A Responsibility to Rebuild: Investing in Digital Infrastructure for Civil Society.&quot; https://cdn.ymaws.com/www.tagtech.org/resource/resmgr/digital_infrastructure/digital_infrastructure-repor.pdf.
-
-UKRI. 2020. &quot;The UK&#39;s Research and Innovation Infrastructure: Landscape Analysis.&quot; https://www.ukri.org/wp-content/uploads/2020/10/UKRI-201020-LandscapeAnalysis-FINAL.pdf.
+- Anzt, Hartwig, Felix Bach, Stephan Druskat, Frank Löffler, Axel Loewe, Bernhard Y. Renard, Gunnar Seemann, et al. 2021. &quot;An Environment for Sustainable Research Software in Germany and beyond: Current State, Open Challenges, and Call for Action.&quot; 295. https://doi.org/10.12688/f1000research.23224.2.
+- Asmi, Ari, Lorna Ryan, Emmanuel Salmon, Christine Kubiak, Serena Battaglia, Miriam Förster, Julie Dupré, et al. 2019. &quot;International Research Infrastructure Landscape 2019.&quot; https://doi.org/10.5281/ZENODO.3539254.
+- Barker, Michelle, Silvia Delgado Olabarriaga, Nancy Wilkins-Diehr, Sandra Gesing, Daniel S. Katz, Shayan Shahand, Scott Henwood, et al. 2019. &quot;The Global Impact of Science Gateways, Virtual Research Environments and Virtual Laboratories.&quot; Future Generation Computer Systems 95 (June): 240–48. https://doi.org/10.1016/j.future.2018.12.026.
+- BBC News. 2014. &quot;Tech Giants Spend Millions to Stop Another Heartbleed,&quot; April 25, 2014, sec. Technology. https://www.bbc.com/news/technology-27155946.
+- Bello, Michael, and Fernanda Galindo-Rueda. 2020. &quot;Charting the Digital Transformation of Science: Findings from the 2018 OECD International Survey of Scientific Authors (ISSA2).&quot; OECD Science, Technology and Industry Working Papers 2020/03. http://www.oecd.org/digital/charting-the-digital-transformation-of-science-1b06c47c-en.htm.
+- Dunks, Richard. 2021a. &quot;Exploring Costs &amp; Characteristics of Open Infrastructure Providers.&quot; Invest in Open Infrastructure. November 1, 2021. https://investinopen.org/blog/costs-characteristics-oi-providers/.
+- ———. 2021b. &quot;Funding Open Infrastructure: Key Terms and Concepts in Our Analysis.&quot; Invest in Open Infrastructure. November 5, 2021. https://investinopen.org/blog/funding-open-infrastructure-key-terms-and-concepts-in-our-analysis/.
+- Eghbal, Nadia. 2016. &quot;Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure.&quot; Ford Foundation. 2016. https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/.
+- ESFRI. 2018. &quot;Roadmap 2018: Strategy Report on Research Infrastructures.&quot; http://roadmap2018.esfri.eu/.
+- Ficarra, Victoria, Mattia Fosci, Andrea Chiarelli, Bianca Kramer, and Vanessa Proudman. 2020. &quot;Scoping the Open Science Infrastructure Landscape in Europe.&quot; Zenodo. https://doi.org/10.5281/ZENODO.4159838.
+- GOSH. 2021a. &quot;Funding Open Hardware: Institutional Support.&quot; 2021. https://drive.google.com/file/d/1H6YtXsojx9oFmSVblAiq7J87TI7xlM1V/view.
+- ———. 2021b. &quot;Funding Open Hardware: Outputs and Impacts.&quot; 2021. https://drive.google.com/file/d/1QWEJ1hSZ4dwrgZKRhgyp3HTAvZ4i0YFa/view?usp=sharing&amp;usp=embed\facebook.
+- Gruenpeter, Morane, Katz, Daniel S., Lamprecht, Anna-Lena, Honeyman, Tom, Garijo, Daniel, Struck, Alexander, Niehues, Anna, et al. 2021. &quot;Defining Research Software: A Controversial Discussion.&quot; Zenodo. https://doi.org/10.5281/ZENODO.5504016.
+- Hinsen, Konrad. 2019. &quot;Dealing With Software Collapse.&quot; Computing in Science & Engineering 21 (3): 104–8. https://doi.org/10/gf2dh9.
+- Huerta, Melissa. 2021. &quot;Building a Toolkit for Funders to Grow Their Digital Infrastructure Portfolio.&quot; 2021. https://simplysecure.org/blog/building-a-toolkit-for-funders-to-grow-their-digital-infrastructure-portfolio/.
+- Katerbow, Matthias, and Georg Feulner. 2018. &quot;Recommendations On The Development, Use And Provision Of Research Software,&quot; March. https://doi.org/10.5281/ZENODO.1172988.
+- Katz, Daniel S. 2021. &quot;Towards Sustainable Research Software.&quot; December 1. https://doi.org/10.5281/zenodo.5748175.
+- Katz, Daniel S., Stephan Druskat, Robert Haines, Caroline Jay, and Alexander Struck. 2019. &quot;The State of Sustainable Research Software: Results from the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1).&quot; Journal of Open Research Software 7 (April): 11. https://doi.org/10.5334/jors.242.
+- Knowles, Rebecca, Bilal A. Mateen, and Yo Yehudi. 2021. &quot;We Need to Talk about the Lack of Investment in Digital Research Infrastructure.&quot; Nature Computational Science 1 (3): 169–71. https://doi.org/10.1038/s43588-021-00048-5.
+- Mons, Barend. 2020. &quot;Invest 5% of Research Funds in Ensuring Data Are Reusable.&quot; Nature 578 (7796): 491–491. https://doi.org/10.1038/d41586-020-00505-7.
+- Nangia, Udit, and Daniel S. Katz. 2017. &quot;Understanding Software in Research: Initial Results from Examining Nature and a Call for Collaboration.&quot; In 2017 IEEE 13th International Conference on E-Science (e-Science), 486–87. https://doi.org/10/ggfkvb.
+- Saarinen, Juha. 2021. &quot;Log4j&#39;s Project Sponsorship Skyrockets after Critical Bug Exploitation.&quot; ITnews. 2021. https://www.itnews.com.au/news/log4js-project-sponsorship-skyrockets-after-critical-bug-exploitation-573914.
+- Sufi, Shoaib, Carlos Martinez Ortiz, Cees Hof, Patrick Aerts, Adriaan Klinkenberg, Anna-Lena Lambrecht, Barbara Sierman, et al. 2020. &quot;Report on the Workshop on Sustainable Software Sustainability 2019 (WOSSS19).&quot; Zenodo. https://doi.org/10.5281/ZENODO.3922155.
+- Technology Association of Grantmakers. 2021. &quot;A Responsibility to Rebuild: Investing in Digital Infrastructure for Civil Society.&quot; https://cdn.ymaws.com/www.tagtech.org/resource/resmgr/digital_infrastructure/digital_infrastructure-repor.pdf.
+- UKRI. 2020. &quot;The UK&#39;s Research and Innovation Infrastructure: Landscape Analysis.&quot; https://www.ukri.org/wp-content/uploads/2020/10/UKRI-201020-LandscapeAnalysis-FINAL.pdf.
 
 ----
 [1](#sdfootnote1anc) Invest in Open Infrastructure are utilising this approach for their analysis of open infrastructure providers (Dunks 2021a).

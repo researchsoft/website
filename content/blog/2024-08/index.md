@@ -119,87 +119,48 @@ Other ways to help ensure that the focus on technological infrastructure to supp
 - For funders, joining the [Research Software Funders Forum](/forums/funders-forum/), a global collaboration of funding organisations committed to supporting research software, and those who develop and maintain it, as fundamental and vital to research.
 
 ### References
-Barker, Michelle, Elena Breitmoser, Philippa Broadbent, Neil Chue Hong, Simon Hettrick, Ioanna Lampaki, Anthony Quinn, and Rebecca Taylor. 2024. ‘Software and Skills for Research Computing in the UK’. Zenodo. https://doi.org/10.5281/ZENODO.10473186.
 
-Barker, Michelle, and Markus Buchhorn. 2022. ‘Research Software Capability in Australia’. Zenodo. https://doi.org/10.5281/ZENODO.6335998.
-
-Barker, Michelle, Neil P. Chue Hong, Daniel S. Katz, Anna-Lena Lamprecht, Carlos Martinez-Ortiz, Fotis Psomopoulos, Jennifer Harrow, et al. 2022. ‘Introducing the FAIR Principles for Research Software’. Scientific Data 9 (1): 622. https://doi.org/10.1038/s41597-022-01710-x.
-
-Barker, Michelle, and Daniel S Katz. 2022a. ‘Encouraging Entry, Retention, Diversity and Inclusion in Research Software Careers’. https://doi.org/10.5281/ZENODO.7117842.
-
-Barker, Michelle, and Daniel S. Katz. 2022b. ‘Overview of Research Software Funding Landscape’, February. https://doi.org/10.5281/ZENODO.6102487.
-
-Barker, Michelle, Daniel S. Katz, and Alejandra Gonzalez-Beltran. 2020. ‘Evidence for the Importance of Research Software’. Zenodo. https://doi.org/10.5281/ZENODO.3884311.
-
-Buchanan, Bill. 2021. ‘Log4j: The Worst Vulnerability In Nearly A Decade?’ Medium (blog). 2021. https://medium.com/asecuritysite-when-bob-met-alice/log4j-the-worst-vulnerability-in-nearly-a-decade-e0cc80cbb49a.
-
-Caballar, Rina Diane. 2024. ‘AI Copilots Are Changing How Coding Is Taught - IEEE Spectrum’. 2 May 2024. https://spectrum.ieee.org/ai-coding.
-
-CANARIE. 2024. ‘Funded Research Software Platforms’. 2024. https://www.canarie.ca/software/platforms/.
-
-Digital Research Alliance of Canada. 2024. ‘Research Software Directory’. 2024. https://research-software-directory.org/organisations/digital-research-alliance-of-canada?tab=software&order=is_featured.
-
-Digital Research Alliance of Canada, National Research Software Strategy Working Group. 2023. ‘National Research Software Strategy 2023’. Zenodo. https://doi.org/10.5281/ZENODO.10214741.
-
-Dursi, Jonathan. 2024. ‘We Need To Talk About AI’. Research Computing Teams 183 (June). https://newsletter.researchcomputingteams.org/archive/rct-183-we-need-to-talk-about-ai-plus-upfront/.
-
-Engler, Alex. 2021. ‘How Open-Source Software Shapes AI Policy’. Brookings. 10 August 2021. https://www.brookings.edu/articles/how-open-source-software-shapes-ai-policy/.
-
-Goodin, Dan. 2024. ‘The XZ Backdoor: Everything You Need to Know’. Wired. 2 April 2024. https://www.wired.com/story/xz-backdoor-everything-you-need-to-know/.
-
-Gruenpeter, Morane, Daniel S. Katz, Anna-Lena Lamprecht, Tom Honeyman, Daniel Garijo, Alexander Struck, Anna Niehues, et al. 2021. ‘Defining Research Software: A Controversial Discussion’. Zenodo. https://doi.org/10.5281/ZENODO.5504016.
-
-Hettrick, Simon, Radovan Bast, Steve Crouch, Claire Bradley, Philippe, Botzki, Alex, Carver, Jeffrey, et al. 2022. ‘International RSE Survey 2022’. https://softwaresaved.github.io/international-survey-2022/. https://doi.org/10.5281/ZENODO.6884882.
-
-Hocquet, Alexandre, Frédéric Wieber, Gabriele Gramelsberger, Konrad Hinsen, Markus Diesmann, Fernando Pasquini Santos, Catharina Landström, et al. 2024. ‘Software in Science Is Ubiquitous yet Overlooked’. Nature Computational Science, July. https://doi.org/10.1038/s43588-024-00651-2.
-
-Hosseini, Mohammad, Horbach, Serge P.J.M., Holmes, Kristi L., Ross-Hellauer, Tony. 2024. ‘Open Science at the Generative AI Turn: An Exploratory Analysis of Challenges and Opportunities.’ https://doi.org/10.31235/osf.io/zns7g 
-
-ISED. 2022. ‘Pan-Canadian Artificial Intelligence Strategy’. Home page; Innovation, Science and Economic Development Canada. 20 July 2022. https://ised-isde.canada.ca/site/ai-strategy/en/pan-canadian-artificial-intelligence-strategy.
-
-Lazauskas, Tomas, Jennifer Ding, Neil Brown, Reda Nausedaite, Felix Dijkstal, Aaron Vinnik, Bruno Raabe, et al. 2022. ‘Review of Digital Research Infrastructure Requirements for AI’. https://doi.org/10.13140/RG.2.2.29376.00009.
-
-Martineau, Kim. 2021. ‘What Is Generative AI?’ IBM Research. 9 February 2021. https://research.ibm.com/blog/what-is-generative-AI.
-
-Nahar, Nadia, Haoran Zhang, Grace Lewis, Shurui Zhou, and Christian Kästner. Forthcoming. ‘The Product Beyond the Model - An Empirical Study of Repositories of Open-Source ML Products’. In . https://www.cs.cmu.edu/~ckaestne/publications.html.
-
-National Security Agency. 2024. ‘Recommendations for Software Bill of Materials (SBOM) Management’. https://media.defense.gov/2023/Dec/14/2003359097/-1/-1/0/CSI-SCRM-SBOM-MANAGEMENT.PDF.
-
-Nieuwpoort, Rob van, Katz, Daniel S. 2024, Defining the roles of research software (Version 2). https://doi.org/10.54900/xdh2x-kj281
-
-Nordling, Linda. 2023. ‘How ChatGPT Is Transforming the Postdoc Experience’. Nature 622 (7983): 655–57. https://doi.org/10.1038/d41586-023-03235-8.
-
-NSF. 2024. ‘National Artificial Intelligence Research Resource Pilot’. 2024. https://new.nsf.gov/focus-areas/artificial-intelligence/nairr.
-
-ODSS. 2024. ‘Toward an Ethical Framework for AI in Biomedical and Behavioral Research’. 2024. https://www.scgcorp.com/ethicalframework2024/Agenda.
-
-OECD. 2023. Artificial Intelligence in Science: Challenges, Opportunities and the Future of Research. OECD. https://doi.org/10.1787/a8d820bd-en.
-
-Parsons, Mark, Alastair Basden, Richard Bower, Neil P. Chue Hong, Davide Constanzo, Shaun Witt, Luigi Del Debbio, et al. 2021. ‘ExCALIBUR Research Software Engineer Knowledge Integration Landscape Review’. Zenodo. https://doi.org/10.5281/ZENODO.4986062.
-
-ReSA. 2023. ‘Amsterdam Declaration on Funding Research Software Sustainability’, August. https://doi.org/10.5281/ZENODO.8325436.
-
-———. 2024a. ‘Research Software Funders Forum’. 2024. https://researchsoft.org/funders-forum/.
-
-———. 2024b. ‘Research Software Funding Opportunities’. 2024. https://researchsoft.org/funding-opportunities/.
-
-Robins-Early, Nick. 2024. ‘What Is CrowdStrike, and How Did It Cause a Global Windows Outage?’ The Guardian, 19 July 2024. https://www.theguardian.com/technology/article/2024/jul/19/what-is-crowdstrike-microsoft-windows-outage.
-
-SCAWG. 2022. ‘Recommendations to Improve the Resilience of Canada’s Digital Supply Chain’. https://ised-isde.canada.ca/site/spectrum-management-telecommunications/sites/default/files/attachments/2022/CFDIR-June2022-recommendations.pdf.
-
-Strasser, Carly, Kate Hertweck, Josh Greenberg, Dario Taraborelli, and Elizabeth Vu. 2022. ‘10 Simple Rules for Funding Scientific Open Source Software’, June. https://doi.org/10.5281/ZENODO.6611500.
-
-Trueman, Charlotte. 2024. ‘UK Government Shelves £1.3bn of Tech and AI Projects; Scraps Plans for First Exascale Supercomputer in Edinburgh’. 2 August 2024. https://www.datacenterdynamics.com/en/news/uk-government-shelves-13bn-of-tech-and-ai-projects-scraps-plans-for-first-exascale-supercomputer-in-edinburgh/.
-
-UKRI. 2023. ‘£300 Million to Launch First Phase of New AI Research Resource’. 1 November 2023. https://www.ukri.org/news/300-million-to-launch-first-phase-of-new-ai-research-resource/.
-
-———. 2024a. ‘New Funding to Support Research Technical Professionals’. 18 March 2024. https://www.ukri.org/news/new-funding-to-support-research-technical-professionals/.
-
-———. 2024b. ‘UKRI Digital Research Technical Professional Skills NetworkPlus’. 22 April 2024. https://www.ukri.org/opportunity/ukri-digital-research-technical-professional-skills-networkplus/.
-
-US-RSE Association and IEEE Computer Society. 2023. ‘Research Software Engineers: Creating a Career Path—and a Career’. Zenodo. https://doi.org/10.5281/ZENODO.10073232.
-
-Van Tuyl, Steve (Ed.). 2023. ‘Hiring, Managing, and Retaining Data Scientists and Research Software Engineers in Academia: A Career Guidebook from ADSA and US-RSE’. Zenodo. https://doi.org/10.5281/ZENODO.8274378.
+- Barker, Michelle, Elena Breitmoser, Philippa Broadbent, Neil Chue Hong, Simon Hettrick, Ioanna Lampaki, Anthony Quinn, and Rebecca Taylor. 2024. ‘Software and Skills for Research Computing in the UK’. Zenodo. https://doi.org/10.5281/ZENODO.10473186.
+- Barker, Michelle, and Markus Buchhorn. 2022. ‘Research Software Capability in Australia’. Zenodo. https://doi.org/10.5281/ZENODO.6335998.
+- Barker, Michelle, Neil P. Chue Hong, Daniel S. Katz, Anna-Lena Lamprecht, Carlos Martinez-Ortiz, Fotis Psomopoulos, Jennifer Harrow, et al. 2022. ‘Introducing the FAIR Principles for Research Software’. Scientific Data 9 (1): 622. https://doi.org/10.1038/s41597-022-01710-x.
+- Barker, Michelle, and Daniel S Katz. 2022a. ‘Encouraging Entry, Retention, Diversity and Inclusion in Research Software Careers’. https://doi.org/10.5281/ZENODO.7117842.
+- Barker, Michelle, and Daniel S. Katz. 2022b. ‘Overview of Research Software Funding Landscape’, February. https://doi.org/10.5281/ZENODO.6102487.
+- Barker, Michelle, Daniel S. Katz, and Alejandra Gonzalez-Beltran. 2020. ‘Evidence for the Importance of Research Software’. Zenodo. https://doi.org/10.5281/ZENODO.3884311.
+- Buchanan, Bill. 2021. ‘Log4j: The Worst Vulnerability In Nearly A Decade?’ Medium (blog). 2021. https://medium.com/asecuritysite-when-bob-met-alice/log4j-the-worst-vulnerability-in-nearly-a-decade-e0cc80cbb49a.
+- Caballar, Rina Diane. 2024. ‘AI Copilots Are Changing How Coding Is Taught - IEEE Spectrum’. 2 May 2024. https://spectrum.ieee.org/ai-coding.
+- CANARIE. 2024. ‘Funded Research Software Platforms’. 2024. https://www.canarie.ca/software/platforms/.
+- Digital Research Alliance of Canada. 2024. ‘Research Software Directory’. 2024. https://research-software-directory.org/organisations/digital-research-alliance-of-canada?tab=software&order=is_featured.
+- Digital Research Alliance of Canada, National Research Software Strategy Working Group. 2023. ‘National Research Software Strategy 2023’. Zenodo. https://doi.org/10.5281/ZENODO.10214741.
+- Dursi, Jonathan. 2024. ‘We Need To Talk About AI’. Research Computing Teams 183 (June). https://newsletter.researchcomputingteams.org/archive/rct-183-we-need-to-talk-about-ai-plus-upfront/.
+- Engler, Alex. 2021. ‘How Open-Source Software Shapes AI Policy’. Brookings. 10 August 2021. https://www.brookings.edu/articles/how-open-source-software-shapes-ai-policy/.
+- Goodin, Dan. 2024. ‘The XZ Backdoor: Everything You Need to Know’. Wired. 2 April 2024. https://www.wired.com/story/xz-backdoor-everything-you-need-to-know/.
+- Gruenpeter, Morane, Daniel S. Katz, Anna-Lena Lamprecht, Tom Honeyman, Daniel Garijo, Alexander Struck, Anna Niehues, et al. 2021. ‘Defining Research Software: A Controversial Discussion’. Zenodo. https://doi.org/10.5281/ZENODO.5504016.
+- Hettrick, Simon, Radovan Bast, Steve Crouch, Claire Bradley, Philippe, Botzki, Alex, Carver, Jeffrey, et al. 2022. ‘International RSE Survey 2022’. https://softwaresaved.github.io/international-survey-2022/. https://doi.org/10.5281/ZENODO.6884882.
+- Hocquet, Alexandre, Frédéric Wieber, Gabriele Gramelsberger, Konrad Hinsen, Markus Diesmann, Fernando Pasquini Santos, Catharina Landström, et al. 2024. ‘Software in Science Is Ubiquitous yet Overlooked’. Nature Computational Science, July. https://doi.org/10.1038/s43588-024-00651-2.
+- Hosseini, Mohammad, Horbach, Serge P.J.M., Holmes, Kristi L., Ross-Hellauer, Tony. 2024. ‘Open Science at the Generative AI Turn: An Exploratory Analysis of Challenges and Opportunities.’ https://doi.org/10.31235/osf.io/zns7g 
+- ISED. 2022. ‘Pan-Canadian Artificial Intelligence Strategy’. Home page; Innovation, Science and Economic Development Canada. 20 July 2022. https://ised-isde.canada.ca/site/ai-strategy/en/pan-canadian-artificial-intelligence-strategy.
+- Lazauskas, Tomas, Jennifer Ding, Neil Brown, Reda Nausedaite, Felix Dijkstal, Aaron Vinnik, Bruno Raabe, et al. 2022. ‘Review of Digital Research Infrastructure Requirements for AI’. https://doi.org/10.13140/RG.2.2.29376.00009.
+- Martineau, Kim. 2021. ‘What Is Generative AI?’ IBM Research. 9 February 2021. https://research.ibm.com/blog/what-is-generative-AI.
+- Nahar, Nadia, Haoran Zhang, Grace Lewis, Shurui Zhou, and Christian Kästner. Forthcoming. ‘The Product Beyond the Model - An Empirical Study of Repositories of Open-Source ML Products’. In . https://www.cs.cmu.edu/~ckaestne/publications.html.
+- National Security Agency. 2024. ‘Recommendations for Software Bill of Materials (SBOM) Management’. https://media.defense.gov/2023/Dec/14/2003359097/-1/-1/0/CSI-SCRM-SBOM-MANAGEMENT.PDF.
+- Nieuwpoort, Rob van, Katz, Daniel S. 2024, Defining the roles of research software (Version 2). https://doi.org/10.54900/xdh2x-kj281
+- Nordling, Linda. 2023. ‘How ChatGPT Is Transforming the Postdoc Experience’. Nature 622 (7983): 655–57. https://doi.org/10.1038/d41586-023-03235-8.
+- NSF. 2024. ‘National Artificial Intelligence Research Resource Pilot’. 2024. https://new.nsf.gov/focus-areas/artificial-intelligence/nairr.
+- ODSS. 2024. ‘Toward an Ethical Framework for AI in Biomedical and Behavioral Research’. 2024. https://www.scgcorp.com/ethicalframework2024/Agenda.
+- OECD. 2023. Artificial Intelligence in Science: Challenges, Opportunities and the Future of Research. OECD. https://doi.org/10.1787/a8d820bd-en.
+- Parsons, Mark, Alastair Basden, Richard Bower, Neil P. Chue Hong, Davide Constanzo, Shaun Witt, Luigi Del Debbio, et al. 2021. ‘ExCALIBUR Research Software Engineer Knowledge Integration Landscape Review’. Zenodo. https://doi.org/10.5281/ZENODO.4986062.
+- ReSA. 2023. ‘Amsterdam Declaration on Funding Research Software Sustainability’, August. https://doi.org/10.5281/ZENODO.8325436.
+- ———. 2024a. ‘Research Software Funders Forum’. 2024. https://researchsoft.org/funders-forum/.
+- ———. 2024b. ‘Research Software Funding Opportunities’. 2024. https://researchsoft.org/funding-opportunities/.
+- Robins-Early, Nick. 2024. ‘What Is CrowdStrike, and How Did It Cause a Global Windows Outage?’ The Guardian, 19 July 2024. https://www.theguardian.com/technology/article/2024/jul/19/what-is-crowdstrike-microsoft-windows-outage.
+- SCAWG. 2022. ‘Recommendations to Improve the Resilience of Canada’s Digital Supply Chain’. https://ised-isde.canada.ca/site/spectrum-management-telecommunications/sites/default/files/attachments/2022/CFDIR-June2022-recommendations.pdf.
+- Strasser, Carly, Kate Hertweck, Josh Greenberg, Dario Taraborelli, and Elizabeth Vu. 2022. ‘10 Simple Rules for Funding Scientific Open Source Software’, June. https://doi.org/10.5281/ZENODO.6611500.
+- Trueman, Charlotte. 2024. ‘UK Government Shelves £1.3bn of Tech and AI Projects; Scraps Plans for First Exascale Supercomputer in Edinburgh’. 2 August 2024. https://www.datacenterdynamics.com/en/news/uk-government-shelves-13bn-of-tech-and-ai-projects-scraps-plans-for-first-exascale-supercomputer-in-edinburgh/.
+- UKRI. 2023. ‘£300 Million to Launch First Phase of New AI Research Resource’. 1 November 2023. https://www.ukri.org/news/300-million-to-launch-first-phase-of-new-ai-research-resource/.
+- ———. 2024a. ‘New Funding to Support Research Technical Professionals’. 18 March 2024. https://www.ukri.org/news/new-funding-to-support-research-technical-professionals/.
+- ———. 2024b. ‘UKRI Digital Research Technical Professional Skills NetworkPlus’. 22 April 2024. https://www.ukri.org/opportunity/ukri-digital-research-technical-professional-skills-networkplus/.
+- US-RSE Association and IEEE Computer Society. 2023. ‘Research Software Engineers: Creating a Career Path—and a Career’. Zenodo. https://doi.org/10.5281/ZENODO.10073232.
+- Van Tuyl, Steve (Ed.). 2023. ‘Hiring, Managing, and Retaining Data Scientists and Research Software Engineers in Academia: A Career Guidebook from ADSA and US-RSE’. Zenodo. https://doi.org/10.5281/ZENODO.8274378.
 
 ### Important links
   * [DOI: https://doi.org/10.5281/zenodo.13350747](https://doi.org/10.5281/zenodo.13350747)
