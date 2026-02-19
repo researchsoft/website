@@ -176,7 +176,7 @@ sections:
             </div>
             <div class="col-md-4 logo-container">
               <a href="https://www.software.ac.uk/">
-                <img src="images/ssi_logo_with_name-small2.png" alt="SSI logo" class="logo-image">
+                <img src="images/SSI_PRIMARY-LOGO.png" alt="SSI logo" class="logo-image">
               </a>
             </div>
           </div>
@@ -315,7 +315,7 @@ sections:
             </div>
             <div class="col-md-4 logo-container">
               <a href="https://www.software.ac.uk/">
-                <img src="images/ssi_logo_with_name-small2.png" alt="Software Sustainability Institute" class="logo-image">
+                <img src="images/SSI_PRIMARY-LOGO.png" alt="Software Sustainability Institute" class="logo-image">
               </a>
             </div>
           </div>
