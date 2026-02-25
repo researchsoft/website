@@ -39,6 +39,26 @@ sections:
         Join ReSA’s [Slack](https://join.slack.com/t/researchsoft/shared_invite/zt-2jrfi0182-_E_yD0_X8oKoB03zCz2lZA) and connect on the #irsc channel
 
         ---
+ 
+        <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin: 2rem 0;">
+
+        <a href="/irsc/about/" class="btn btn-outline-primary btn-lg" style="width:100%;">About IRSC</a>
+
+        <a href="/irsc/call-for-proposals/" class="btn btn-primary btn-lg" style="width:100%;">Open Call for Proposals</a>
+
+        <a href="/irsc/registration/" class="btn btn-outline-primary btn-lg" style="width:100%;">Registration</a>
+
+        <a href="/irsc/agenda/" class="btn btn-outline-primary btn-lg" style="width:100%;">Agenda</a>
+
+        <a href="/irsc/venue-travel/" class="btn btn-outline-primary btn-lg" style="width:100%;">Venue & Travel</a>
+
+        <a href="/irsc/sponsorship/" class="btn btn-outline-primary btn-lg" style="width:100%;">Sponsorship</a>
+
+        <a href="/irsc/program-committee/" class="btn btn-outline-primary btn-lg" style="width:100%;">Program Committee</a>
+
+        </div>
+
+        ---
 
         ## About IRSC
 
