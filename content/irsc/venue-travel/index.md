@@ -36,8 +36,7 @@ sections:
 
         This venue information has been adapted from the [Research Software Engineering Conference (RSECon26)](https://rsecon26.society-rse.org/). We sincerely thank the RSECon organisers for sharing their resources.
 
-        **7–8 September 2026 | Sheffield, UK & online**  
-        Co-located with [RSECon26](https://rsecon26.society-rse.org/)
+        **7–8 September 2026 | Sheffield, UK & online, co-located with [RSECon26](https://rsecon26.society-rse.org/)**  
 
         IRSC26 will take place at [**The Wave**](https://sheffield.ac.uk/social-sciences/facilities/wave), University of Sheffield, located on the University of Sheffield campus just outside the city centre.
         
