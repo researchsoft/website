@@ -32,17 +32,19 @@ sections:
          <div class="col-md-8 text-start">
 
 
+        ***This venue information has been adapted from the [Research Software Engineering Conference (RSECon26)](https://rsecon26.society-rse.org/). We sincerely thank the RSECon organisers for sharing their resources.***
+    
         # Venue & Travel 
 
         7–8 September 2026 | Sheffield, UK & online, co-located with [RSECon26](https://rsecon26.society-rse.org/)
 
         IRSC26 will take place at [**The Wave**](https://sheffield.ac.uk/social-sciences/facilities/wave)**, University of Sheffield**, located on the University of Sheffield campus just outside the city centre. 
         
-        # Getting to Sheffield
+        ## Getting to Sheffield
         
         Sheffield is well connected to major UK cities by rail and coach. Most attendees will stay in hotels in or near the city centre, within a short walk of the train station or bus interchange. 
         
-        ## By train
+        ### By train
         
         From London (\~2h), Manchester (53m), and Leeds (45m).
         
@@ -50,7 +52,7 @@ sections:
         
         If you prefer not to walk to your hotel, a taxi rank is located to the left as you exit the station concourse (from the platforms).
         
-        ## By bus
+        ### By bus
         
         Sheffield is served by two major coach operators, with services arriving at:
         
@@ -59,7 +61,7 @@ sections:
         
         Taxi ranks near Sheffield Interchange are located on Pond Hill and Flat Street.
         
-        ## By plane
+        ### By plane
         
         The closest airports to Sheffield are [Manchester](https://www.manchesterairport.co.uk/) and [Birmingham](https://www.birminghamairport.co.uk/). Both are accessible to Sheffield via train.
         
@@ -72,13 +74,13 @@ sections:
         
         London Heathrow, Gatwick, and Luton airports are all connected to Sheffield by [National Express](http://www.nationalexpress.com/home.aspx) coach services. Alternatively, you can take the train to Sheffield, with a change in central London.
         
-        ## By car
+        ### By car
         
         If arriving by car, we recommend you organise parking via your hotel.
         
         Check out Visit Sheffield's [guide to getting to Sheffield](https://www.welcometosheffield.co.uk/visit/getting-to-sheffield/) for more information.
         
-        # Getting to The Wave (from city centre)
+        ## Getting to The Wave (from city centre)
         
         The conference will take place at [The Wave](https://sheffield.ac.uk/social-sciences/facilities/wave), which is located at the western end of the University of Sheffield’s campus around 30 minutes (uphill) walk from the city centre.
         
@@ -92,11 +94,11 @@ sections:
         
         There are several ways to reach The Wave from the city centre, where most hotels are located.
         
-        ## By bus
+        ### By bus
         
         The 51, 52, and 52a bus routes all drop off directly in front of the Wave ([view on Google Maps](https://maps.app.goo.gl/q6gv8g1NWH2LcWSh8)) and run through the centre of the city. All three routes run along West Street, including a stop at the Cathedral, and the 51 also services stops on the south end of the city centre near the bus interchange.
         
-        ## By tram
+        ### By tram
         
         The tram does not run directly to The Wave.
         
@@ -104,11 +106,11 @@ sections:
         
         Trams run every 15 minutes.
         
-        ## By taxi or rideshare
+        ### By taxi or rideshare
         
         A taxi from the city centre takes approximately 10 minutes, depending on traffic. Taxis can be booked through your hotel or via local taxi and rideshare apps.
         
-        ## By car
+        ### By car
         
         The postcode for the venue is **S10 2AH** on the University of Sheffield campus.
         
@@ -117,7 +119,7 @@ sections:
         
         For more details, see information on [visitor parking at the University of Sheffield.](https://sheffield.ac.uk/visitors/maps-travel/car#cp-%20vistors)
         
-        # Accessibility
+        ## Accessibility
         
         The Wave is fully wheelchair accessible, with:
         
@@ -132,19 +134,19 @@ sections:
         
         Detailed accessibility information can be found on the [AccessAble website](https://www.accessable.co.uk/university-of-sheffield/access-guides/the-wave-building).
         
-        # Accommodation
+        ## Accommodation
         
         The conference has arranged access to discounted accommodation via our partner [Visit Sheffield](https://www.welcometosheffield.co.uk/contact-us/marketing-sheffield/). These rooms can be booked using the [conference booking portal](https://book.passkey.com/event/51150767/owner/9279439/home). If you have any issues with your accommodation, please reach out to the contact information listed on the booking portal.
         
         For more information, see [Staying in Sheffield](https://www.welcometosheffield.co.uk/visit/accommodation/) on the Visit Sheffield website.
         
-        # UK entry requirements 
+        ## UK entry requirements 
         
         You may require a visa or electronic travel authorisation (ETA) to enter the UK. Please [check your entry requirements](https://www.gov.uk/check-uk-visa) in advance.
         
         You can also [check to see when your ETA expires](https://www.gov.uk/check-eta).
         
-        # Local information & additional Resources
+        ## Local information & additional Resources
         
         [Visit Sheffield](https://www.welcometosheffield.co.uk/visit/things-to-do/) has information about local attractions, food and drink, and more.
         
