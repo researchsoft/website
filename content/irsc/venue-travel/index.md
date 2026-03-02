@@ -149,9 +149,6 @@ sections:
         ## Local information & additional Resources
         
         [Visit Sheffield](https://www.welcometosheffield.co.uk/visit/things-to-do/) has information about local attractions, food and drink, and more.
-        
-        ***This venue information has been adapted from the [Research Software Engineering Conference (RSECon26)](https://rsecon26.society-rse.org/). We sincerely thank the RSECon organisers for sharing their resources.***
-        
 
          </div>
         </div>
