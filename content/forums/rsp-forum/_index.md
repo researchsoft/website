@@ -55,6 +55,51 @@ sections:
         - Funding and/or research organisation consortia (e.g., Science Europe, LA Referencia)
 
         Members can suggest other organisations that support research software policy to join, or potential participants can contact [ReSA](mailto:info@researchsoft.org) for information on joining.
+
+        ### Organisations that have engaged in the RSP Forum:
+         - Alfred P. Sloan Foundation  
+        - AMED (Japan Agency for Medical Research and Development)  
+        - Australian Research Data Commons (ARDC)   
+        - CEDIA (Ecuadorian Corporation for the Development of Research and the Academy)  
+        - Chan Zuckerberg Initiative/BioHub  
+        - CURIOSS (Community for University and Research Institution OSPOs)  
+        - Data Observatory \- Chile  
+        - Department of Energy (DOE)  
+        - DFG (German Research Foundation)   
+        - Digital Research Alliance of Canada  
+        - EVERSE  
+        - French Committee for Open Science  
+        - FWF (Austrian Science Fund)   
+        - G7 Open Science Working Group (OSWG)  
+        - JAXA (Japan Aerospace Exploration Agency)  
+        - JST (Japan Science and Technology Agency)   
+        - Kavli Foundation   
+        - LA Referencia  
+        - Lero  
+        - Microsoft  
+        - National Technical University (Costa Rica)  
+        - National Institutes of Health (NIH)  
+        - National Institute of Science and Technology Policy (NISTEP)  
+        - Netherlands eScience Center  
+        - NWO (Dutch Research Council)   
+        - OECD  
+        - Open Research Funders Group (ORFG)  
+        - Open Science NL  
+        - Open Source Endowment  
+        - REANNZ  
+        - Royal Holloway, University of London  
+        - Schmidt Sciences  
+        - Science and Technology Policy Institute (STEPI)  
+        - Science Europe  
+        - SciLifeLab  
+        - Software Sustainability Institute  
+        - Social Sciences and Humanities Research Council (SSHRC)  
+        - Swedish Research Council  
+        - UK Research & Innovation (UKRI)  
+        - University of Costa Rica  
+        - University of Manchester  
+        - ZonMw          
+
      
          </div>
         </div>  
