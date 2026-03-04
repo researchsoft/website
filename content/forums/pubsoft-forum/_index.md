@@ -56,6 +56,21 @@ sections:
 
         Members can suggest other organisations that support research software publishing to join, or potential participants can contact [ReSA](mailto:info@researchsoft.org) for information on joining.
 
+        Publishers that have engaged in the PubSoft Forum
+        - American Astronomical Society (AAS) 
+        - Association for Computing Machinery (ACM) 
+        - American Geophysical Union (AGU) 
+        - Cambridge University Press 
+        - CHORUS
+        - Elsevier 
+        - EMBL-EBI 
+        - Gigascience Press
+        - Oxford University Press (OUP) 
+        - PLOS 
+        - Science | AAAS 
+        - Springer Nature 
+        - Taylor & Francis 
+
           </div>
         </div>  
 
