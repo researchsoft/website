@@ -54,6 +54,43 @@ sections:
         - Broader international initiatives for a range of digital skills (e.g., The Carpentries, SKILLS4EOSC, CODATA-RDA School of Research Data Science, Turing Way)
 
         Members can suggest other organisations that support research software skills and training to join, or potential participants can contact [ReSA](mailto:info@researchsoft.org) for information on joining.
+  
+        ### Organisations that have engaged in the STaRS Forum
+
+        - Aalto University  
+        - Argonne National Lab  
+        - CHAOSS  
+        - CodeRefinery  
+        - CSC - IT Center for Science  
+        - de-RSE  
+        - Digital Research Academy  
+        - Digital Science  
+        - EVERSE  
+        - German Computer Society  
+        - Humboldt-Universitaet zu Berlin  
+        - Imperial College London  
+        - INTERSECT  
+        - MIT  
+        - MetaDocencia  
+        - Microsoft  
+        - Netherlands eScience Center  
+        - Newcastle University  
+        - OLS  
+        - Open Source Software Sustainability Lab  
+        - Princeton University  
+        - rOpenSci  
+        - Royal Holloway, University of London  
+        - Society of Research Software Engineering (SocRSE)  
+        - The Carpentries  
+        - TU Delft  
+        - University College London (UCL)  
+        - University of Alabama  
+        - University of Edinburgh  
+        - University of Illinois  
+        - University of Potsdam  
+        - University of Würzburg  
+        - URSSI  
+        - US-RSE
 
          </div>
         </div>          
