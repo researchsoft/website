@@ -57,6 +57,26 @@ sections:
 
         Members can suggest other organisations that support research software metascience to join, or potential participants can contact [ReSA](mailto:info@researchsoft.org) for information on joining.
 
+        ### Organisations/initiatives that have engaged in the MaRS Forum
+
+        - German Aerospace Center / University of Cologne  
+        - Innovation Growth Lab, Nesta  
+        - Kiel University (Germany)  
+        - Netherlands eScience Center
+        - ParaTools    
+        - Potsdam University  
+        - RoRI   
+        - Royal Holloway, University of London  
+        - Saint John’s University
+        - Software Sustainability Institute  
+        - UK Research & Innovation (UKRI)  
+        - University College London (UCL)  
+        - University of Duisburg-Essen  
+        - University of Manchester  
+        - University of Southampton  
+        - Wellcome Trust
+
+
          </div>
         </div>  
 
