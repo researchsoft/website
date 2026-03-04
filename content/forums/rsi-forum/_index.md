@@ -54,6 +54,42 @@ sections:
 
         Members can invite other organisations that provide infrastructure to research software to join at their own discretion, or potential participants can contact [ReSA](mailto:info@researchsoft.org) for information on joining.
 
+        ### Organisations / initiatives that have engaged in the RSI Forum
+
+        - American Geophysical Union (AGU)   
+        - CERTH  
+        - CERN  
+        - CFF, HERMES  
+        - Crossref  
+        - DataCite  
+        - Dataverse  
+        - Digital Research Alliance of Canada  
+        - Digital Science  
+        - EVERSE  
+        - Figshare  
+        - GitHub  
+        - GitLab  
+        - Invest in Open (IOI)  
+        - Journal of Open Research Software (JORS)  
+        - Journal of Open Source Software (JOSS)  
+        - NASA  
+        - NISO  
+        - NumFOCUS  
+        - Open Source Endowment  
+        - OpenAIRE  
+        - ORCID  
+        - Schmidt Sciences  
+        - SciCodes  
+        - SciLifeLab  
+        - Software Heritage  
+        - Software Preservation Network  
+        - Software Sustainability Institute (SSI)  
+        - Universidad Politécnica de Madrid  
+        - University of Edinburgh  
+        - University of Illinois \- National Center for Supercomputing Applications (NCSA)  
+        - Zenodo
+
+
          </div>
         </div>  
 
