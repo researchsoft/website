@@ -2,6 +2,7 @@
 title: "2024 International Research Software Funders Workshop"
 subtitle: "Towards a monitoring framework to benchmark the ADORE.software recommendations and improve the sustainability of research software"
 date: "2024-01-23"
+
 authors:
   - ""
 

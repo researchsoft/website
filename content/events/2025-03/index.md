@@ -7,6 +7,7 @@ authors:
 
 categories: 
   - Event
+  - Past
 
 summary: "Read more..."
 image:

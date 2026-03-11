@@ -2,6 +2,7 @@
 title: "New ReSA forums advance global research software efforts"
 subtitle: ""
 date: "2025-05-16"
+status: current
 authors:
   - ""
 

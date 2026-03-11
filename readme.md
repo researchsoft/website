@@ -73,6 +73,77 @@ administrator to adopt the changes.
 
 In order to add SASS or CSS rules, add them into `assets/scss/custom.scss`. This is compiled into wowchemy.css in the `head`.
 
+### Events
+
+Events are managed using a simple `status` field. Events marked as `current` appear on the main Events page, while all others appear on Past Events.
+
+#### Creating a New Event
+
+**Via GitHub Web Interface:**
+
+1. Go to [`content/events/`](https://github.com/researchsoft/website/tree/main/content/events) in the repository
+2. Click **Add file** → **Create new file**
+3. Name your file: `YYYY-MM-event-name/index.md` (e.g., `2026-09-conference/index.md`)
+   - The folder name should include the date and be descriptive
+   - Always end with `/index.md`
+
+4. Copy this template into the file:
+   ```yaml
+   ---
+   title: "Your Event Title"
+   subtitle: ""
+   date: "2026-09-15"
+   status: current
+   authors:
+     - ""
+   categories: 
+     - Event
+     - Ongoing
+   summary: "Brief one-line description that appears on the events list."
+   image:
+     preview_only: true
+     filename: "event-logo.png"
+   draft: false
+   ---
+   
+   Full event description goes here. Include all details, links, and information about the event.
+   ```
+
+5. **Customize the frontmatter** (the section between `---`):
+   - `title`: Your event name
+   - `date`: Event date in `YYYY-MM-DD` format
+   - `status: current` means it appears on the main Events page
+   - `summary`: One sentence that shows up in the list view
+   - `image.filename`: Optional - name of logo/image file (see below)
+
+6. If you have an event logo or image:
+   - After creating the index.md, go back to your event folder
+   - Click **Add file** → **Upload files**
+   - Upload your image (PNG, JPG recommended)
+   - Make sure the filename matches what you put in `image.filename`
+
+7. Commit your changes with a message like "Add [Event Name] event"
+
+#### Moving an Event from Current to Past
+
+When an event has concluded:
+
+1. Navigate to the event's `index.md` file in GitHub (e.g., `content/events/2026-09-conference/index.md`)
+2. Click the pencil icon (Edit this file)
+3. Find the line that says `status: current`
+4. Change it to `status: past` OR delete the entire line
+5. Optionally, change the category from `Ongoing` to `Past`
+6. Scroll down and commit: "Move [Event Name] to past events"
+
+The event will now appear on the Past Events page instead of the main Events page. **No files need to be moved** - events stay in the same folder.
+
+#### Quick Reference
+
+- **Current events**: Have `status: current` in frontmatter → show on `/events/`
+- **Past events**: Have `status: past` or no status field → show on `/past-events/`
+- **Event images**: Optional, placed in same folder as index.md, displayed on the right side of event cards
+- **All events** live in `content/events/` regardless of status
+
 ## Extra information
 
 Due to limitations in the version of Hugo that Netlify runs,
