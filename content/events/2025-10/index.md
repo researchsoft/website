@@ -3,6 +3,7 @@ title: "International Research Software Conference"
 subtitle: ""
 date: "2025-10-15"
 status: current
+type: event
 authors:
   - ""
 

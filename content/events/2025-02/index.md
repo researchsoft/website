@@ -2,6 +2,7 @@
 title: "Towards an international research software conference: Join our committees!"
 subtitle: ""
 date: "2025-02-11"
+type: event
 
 authors:
   - ""

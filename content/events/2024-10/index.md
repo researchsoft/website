@@ -2,6 +2,7 @@
 title: "Towards an International Research Software Conference: Join our Community Consultation"
 subtitle: ""
 date: "2024-10-15"
+type: event
 authors:
   - ""
 

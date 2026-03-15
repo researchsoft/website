@@ -2,6 +2,7 @@
 title: "Strategic Plan 2025-28 - Public Feedback Sessions"
 subtitle: ""
 date: "2025-03-18"
+type: event
 authors:
   - ""
 

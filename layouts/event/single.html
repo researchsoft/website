@@ -1,0 +1,41 @@
+{{ define "main" }}
+<article class="article">
+
+  <div class="article-container pt-3">
+    <h1 class="article-title">{{ .Title }}</h1>
+
+    {{ with .Params.subtitle }}
+    <p class="page-subtitle">{{ . }}</p>
+    {{ end }}
+
+    <div class="article-metadata">
+      {{ if .Params.authors }}
+      <div>
+        {{ partial "page_metadata_authors" . }}
+      </div>
+      {{ end }}
+
+      <span class="article-date">
+        {{ .Date | time.Format ":date_medium" }}
+      </span>
+
+      {{ if .Params.categories }}
+      <span class="middot-divider"></span>
+      <span class="article-categories">
+        <i class="fas fa-folder mr-1"></i>
+        {{- range $index, $value := .Params.categories -}}
+          {{- if gt $index 0 }}, {{ end -}}
+          <a href="{{ "category" | relLangURL }}/{{ . | urlize | lower }}/">{{ . }}</a>
+        {{- end -}}
+      </span>
+      {{ end }}
+    </div>
+
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+
+  </div>
+
+</article>
+{{ end }}

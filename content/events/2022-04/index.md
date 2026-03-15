@@ -2,6 +2,7 @@
 title: "Vive la différence - research software engineers"
 subtitle: "Lorentz workshop"
 date: "2021-10-25"
+type: event
 authors:
   - ""
 

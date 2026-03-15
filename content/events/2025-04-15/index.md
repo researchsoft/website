@@ -2,6 +2,7 @@
 title: "Towards an International Research Software Conference"
 subtitle: ""
 date: "2025-04-15"
+type: event
 authors:
   - ""
 

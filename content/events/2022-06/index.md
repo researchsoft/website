@@ -2,6 +2,7 @@
 title: "ReSA  Community Leaders Forum"
 subtitle: "Bringing together the research software community"
 date: "2024-10-11"
+type: event
 authors:
   - ""
 

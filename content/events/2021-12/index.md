@@ -2,6 +2,7 @@
 title: "People Roadmap Webinar"
 subtitle: "Report update"
 date: "2021-11-01"
+type: event
 
 authors:
   - ""

@@ -40,11 +40,6 @@
                   {{ with .Params.subtitle }}
                   <p class="article-subtitle">{{ . }}</p>
                   {{ end }}
-                  <div class="article-metadata">
-                    <span class="article-date">
-                      {{ .Date.Format "January 2, 2006" }}
-                    </span>
-                  </div>
                   {{ with .Params.summary }}
                   <div class="article-style">
                     {{ . | markdownify | emojify }}
