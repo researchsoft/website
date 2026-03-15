@@ -2,6 +2,7 @@
 title: "DiveRSE"
 subtitle: "Supporting EDI within the RSE community"
 date: "2024-10-10"
+type: event
 authors:
   - ""
 

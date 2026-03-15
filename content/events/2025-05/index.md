@@ -2,6 +2,8 @@
 title: "New ReSA forums advance global research software efforts"
 subtitle: ""
 date: "2025-05-16"
+type: event
+status: current
 authors:
   - ""
 
@@ -13,10 +15,9 @@ summary: "Read more..."
 
 image:
   preview_only: true
-  filename: "Global_meeting.jpg"  # This is the image file placed in static/media/
+  filename: "Global_meeting.jpg"
 
 draft: false  
-
 ---
 
 ![](Global_meeting.jpg)

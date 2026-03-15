@@ -1,0 +1,69 @@
+{{ define "main" }}
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+      {{ with .Title }}
+      <h1>{{ . }}</h1>
+      {{ end }}
+      
+      {{ with .Params.header.caption }}
+      <p class="page-subtitle">{{ . | markdownify }}</p>
+      {{ end }}
+      
+      {{ .Content }}
+      
+      {{/* Display past/completed events */}}
+      {{/* Users set status: current for active events, status: past for completed ones */}}
+      
+      {{ $eventsSection := .Site.GetPage "/events" }}
+      {{ $allEventPages := $eventsSection.Pages }}
+      
+      {{/* Filter to only regular pages (exclude sections) without status: current */}}
+      {{ $regularPages := where $allEventPages "Kind" "page" }}
+      {{ $events := where $regularPages "Params.status" "ne" "current" }}
+      {{ $events = $events | first 100 }}
+      
+      {{ if gt (len $events) 0 }}
+        <div class="row isotope projects-container">
+          {{ range sort $events ".Date" "desc" }}
+            {{/* Skip _index pages */}}
+            {{ if ne .Kind "section" }}
+            <div class="col-12 col-lg-12 mb-4 isotope-item">
+              <div class="card">
+                <div class="d-flex flex-row">
+                  {{/* Main content on the left */}}
+                  <div class="card-text p-4 flex-grow-1">
+                  <h4 class="article-title mb-2">
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                  </h4>
+                  {{ with .Params.subtitle }}
+                  <p class="article-subtitle">{{ . }}</p>
+                  {{ end }}
+                  {{ with .Params.summary }}
+                  <div class="article-style">
+                    {{ . | markdownify | emojify }}
+                  </div>
+                  {{ end }}
+                  </div>
+                  {{/* Display event image on the right if available */}}
+                  {{ $image := .Resources.GetMatch (.Params.image.filename | default "featured.*") }}
+                  {{ if $image }}
+                  <div class="card-image align-self-center" style="flex-shrink: 0; max-width: 200px; margin-left: 20px;">
+                    <a href="{{ .RelPermalink }}">
+                      <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}" class="img-fluid" loading="lazy">
+                    </a>
+                  </div>
+                  {{ end }}
+                </div>
+              </div>
+            </div>
+            {{ end }}
+          {{ end }}
+        </div>
+      {{ else }}
+        <p><em>No past events found.</em></p>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}

@@ -3,6 +3,10 @@ title: "Research Software Engineering in the Age of Generative AI: Building a Co
 date: 2025-12-15
 type: landing
 
+categories:
+  - Event
+  - Past
+
 sections:
   - block: markdown
     content:

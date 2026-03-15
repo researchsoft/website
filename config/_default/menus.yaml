@@ -131,12 +131,15 @@ main:
     url: news
     weight: 50
   - name: '<span style="font-size: 1.2rem;">Events</span>'
-    url: events
     weight: 60
   - parent: '<span style="font-size: 1.2rem;">Events</span>'
     name: '<span style="font-size: 1rem;">Current Events</span>'
-    url: events/events-current
-    weight: 61    
+    url: events
+    weight: 60
+  - parent: '<span style="font-size: 1.2rem;">Events</span>'
+    name: '<span style="font-size: 1rem;">Past Events</span>'
+    url: past-events
+    weight: 61
   - parent: '<span style="font-size: 1.2rem;">Events</span>'
     name: '<span style="font-size: 1rem;">ReSA Community Calls</span>'
     url: events/community-calls
