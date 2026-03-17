@@ -31,8 +31,6 @@ sections:
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
 
-        # IRSC26 Call for Proposals: Talks, Lightning Talks, and Birds of a Feather (BoF) sessions
-
         ## Event overview
 
         The [International Research Software Conference (IRSC) 2026](https://www.researchsoft.org/irsc/) is a global gathering of leaders and decision makers working to advance global shifts toward strategic coordination, long-term sustainability, and high-level collaboration across the research software community. 
@@ -41,15 +39,15 @@ sections:
         **Location:** University of Sheffield, UK, with remote participation. For more information, please visit the IRSC [Venue & Travel page](https://www.researchsoft.org/irsc/venue-travel/).   
         **Co-located with** [RSECon26](https://rsecon26.society-rse.org/) (9-11 September 2026\)  
         **Convenor:** [Research Software Alliance (ReSA)](https://www.researchsoft.org/)  
-        **(draft) timetable:** [https://tinyurl.com/IRSC-agenda](https://tinyurl.com/IRSC-agenda) 
+        **(draft) agenda:** [https://tinyurl.com/IRSC-agenda](https://tinyurl.com/IRSC-agenda) 
 
         ## Call for proposals: Talks, Lightning Talks & Birds of a Feather Sessions (BoFs)
 
         We invite the international research software community to propose:
 
-        * Birds of a Feather (BoF) sessions (60-90 minutes)   
-        * Talks (15 minutes, including Q\&A)  
-        * Lightning talks (3 minutes)
+        * [**Birds of a Feather (BoF) sessions**](https://docs.google.com/forms/d/e/1FAIpQLSffBIZ7yP76s_BlgJRo0ncaBWFm_Q5QPYo5Dh4ogZH9OY6xjQ/viewform?usp=header) (60-90 minutes)   
+        * [**Talks**](https://forms.gle/kjV6EbqT1GmTa9LAA) (15 minutes, including Q&A)  
+        * [**Lightning talks**](https://forms.gle/TnNyvGknjzZjQWTM9) (3 minutes)
 
         This includes proposals from ReSA [task forces](https://www.researchsoft.org/taskforces/), forums ([funders](https://www.researchsoft.org/forums/funders-forum/), [infrastructure](https://www.researchsoft.org/forums/rsi-forum/), [policy](https://www.researchsoft.org/forums/rsp-forum/), [publishing](https://www.researchsoft.org/forums/pubsoft-forum/), [metascience](https://www.researchsoft.org/forums/mars-forum/), [skills and training](https://www.researchsoft.org/forums/stars-forum/), [community leadership](https://www.researchsoft.org/forums/community-leadership-forum/), and the [International Council of RSE Associations](https://researchsoftware.org/council.html)) and forum working groups.
 
