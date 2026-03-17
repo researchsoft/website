@@ -48,6 +48,8 @@ sections:
 
         <a href="/irsc/venue-travel/" class="btn btn-outline-primary btn-lg" style="width:100%;">Venue & Travel</a>
 
+        <a href="/irsc/proposals/" class="btn btn-outline-primary btn-lg" style="width:100%;">Call for Proposals</a>
+
         <a href="/irsc/sponsorship/" class="btn btn-outline-primary btn-lg" style="width:100%;">Sponsorship</a>
 
         <a href="/irsc/program-committee/" class="btn btn-outline-primary btn-lg" style="width:100%;">Program Committee</a>
