@@ -41,7 +41,7 @@ sections:
         **Convenor:** [Research Software Alliance (ReSA)](https://www.researchsoft.org/)  
         **(draft) agenda:** [https://tinyurl.com/IRSC-agenda](https://tinyurl.com/IRSC-agenda) 
 
-        ## Call for proposals: Talks, Lightning Talks & Birds of a Feather Sessions (BoFs)
+        ## Call for proposals: BoFs, Talks & Lightning Talks 
 
         We invite the international research software community to propose:
 
