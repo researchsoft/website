@@ -40,18 +40,14 @@ jobs:
 
       - name: Check links
         run: |
-          # Run htmltest and filter output to show only actual errors
+          # Run htmltest and filter output to show only errors (exclude success messages)
           if htmltest > htmltest-output.txt 2>&1; then
             echo "✅ All links validated successfully!"
           else
             echo "❌ Link validation failed"
             echo ""
-            # Filter out non-error status messages, show only actual problems
-            grep -E "(✘|ERROR|FAILED|Status: [4-9][0-9]{2}|not found|does not exist|timeout)" htmltest-output.txt || \
-            grep -v -E "(hitting ---|OK ---|Partial Content ---|from cache ---|fresh ---|DOCTYPE|testDocument)" htmltest-output.txt | \
-            grep -v "^$" || \
-            echo "No specific errors found in output, showing summary:"
-            tail -20 htmltest-output.txt
+            # Show everything EXCEPT success/progress messages
+            grep -v -E "(hitting ---|^  OK ---|^  Partial Content ---|^  from cache ---|^  fresh ---|^  DOCTYPE|^testDocument|^[[:space:]]*$)" htmltest-output.txt || cat htmltest-output.txt
             exit 1
           fi
 

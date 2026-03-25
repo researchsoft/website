@@ -69,13 +69,9 @@ if $HTMLTEST_CMD > "$TEMP_OUTPUT" 2>&1; then
     rm -f "$TEMP_OUTPUT"
     exit 0
 else
-    # Show only actual error lines (skip status messages like OK, Partial Content, etc.)
+    # Show everything EXCEPT success/progress messages
     echo ""
-    grep -E "(✘|ERROR|FAILED|Status: [4-9][0-9]{2}|not found|does not exist|timeout)" "$TEMP_OUTPUT" || \
-    grep -v -E "(hitting ---|OK ---|Partial Content ---|from cache ---|fresh ---|DOCTYPE|testDocument)" "$TEMP_OUTPUT" | \
-    grep -v "^$" || \
-    echo "No specific errors found, showing last 20 lines:"
-    tail -20 "$TEMP_OUTPUT"
+    grep -v -E "(hitting ---|^  OK ---|^  Partial Content ---|^  from cache ---|^  fresh ---|^  DOCTYPE|^testDocument|^[[:space:]]*$)" "$TEMP_OUTPUT" || cat "$TEMP_OUTPUT"
     rm -f "$TEMP_OUTPUT"
     echo ""
     echo "❌ Link validation failed - see errors above"
