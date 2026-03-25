@@ -234,18 +234,19 @@ This website has **automated link checking** that runs in the background. You do
 
 **What happens automatically:**
 
-1. **When you create a Pull Request** - GitHub Actions automatically checks all links in your changes
-2. **When changes are merged** - Links are checked again on the main branch
-3. **Weekly checks** - Every Monday, all links are re-checked to catch sites that go offline
-4. **During deployment** - Netlify validates links before publishing the site
+1. **When you create a Pull Request** - GitHub Actions automatically checks all links in the built site and reports results
+2. **Weekly checks** - Every Monday, all links are re-checked to catch sites that go offline
+3. **Site builds always succeed** - Broken links are reported but never prevent deployment
 
-If a link is broken, you'll see a red ❌ on your Pull Request with details about which links failed. You can then fix the broken links before merging.
+If a link is broken, you'll see a red ❌ on your Pull Request with details about which links failed. The PR can still be merged - link checks are informational to help maintain quality, not gatekeepers.
 
 **You'll be notified if:**
 - A link returns a 404 (page not found)
 - A website is unreachable
 - An internal link points to a non-existent page
 - An image is missing
+
+These notifications help maintain site quality but won't prevent your content from being published.
 
 ### Fixing Broken Links (GitHub Web Interface)
 
@@ -296,26 +297,33 @@ Then request it be added to the ignore list:
 
 #### Step 3: Wait for Re-check
 
-After you commit the fix, GitHub Actions will automatically re-run the link check. If all links pass, you'll see a green ✅ and can merge your Pull Request.
+After you commit the fix, GitHub Actions will automatically re-run the link check. If all links pass, you'll see a green ✅.
+
+**Note:** You can merge your Pull Request even if link checks fail - they are informational only and won't prevent deployment. However, it's best practice to fix broken links to maintain site quality.
 
 ### Common Link Issues and Solutions
 
+Link checks are **informational only** - they help maintain quality but won't prevent deployment. Here are common issues and recommended fixes:
+
 **Common issues and fixes:**
 - **404 errors**: Update the URL or remove the link
-- **Timeout errors**: The website might be temporarily down - try again later
+- **Timeout errors**: The website might be temporarily down - try again later or ignore if persistent
 - **LinkedIn/Twitter blocks**: These are automatically ignored (social media blocks automated checkers)
 - **403 Forbidden**: Site blocks bots - request it be added to ignore list (see above)
 - **Internal links failing**: Check the path is correct and the target page exists
+- **Old link rot**: If links in old content break, they can be fixed gradually - they won't block new content
 
-The link checker runs automatically via [GitHub Actions](.github/workflows/check-links.yml) - you can see the results in the "Actions" tab of the repository.
+The link checker runs automatically via [GitHub Actions](.github/workflows/check-links.yml) - you can see the results in the "Actions" tab of the repository and in PR checks.
 
 ### Link Checking Technical Details
 
 This repository uses **htmltest** - a fast, Go-based HTML testing tool that validates links in static sites:
 
 - **Comprehensive Checking**: Validates both internal and external links, images, scripts, and other resources
-- **Automatic Checks**: Links are checked on every push to `master`/`main`, pull requests, and weekly via GitHub Actions
-- **Build-time Checks**: Netlify runs link checks during deployment — builds will fail if broken links are detected
+- **Automatic Checks**: Links are checked on every pull request and weekly via GitHub Actions
+- **Non-Blocking**: Link checks are **informational only** and will not prevent site deployment
+
+**Important:** Netlify builds are configured to **never fail** due to broken links. This prevents old link rot from blocking new content deployment. Link checking is performed in GitHub Actions where it provides visibility into issues without blocking the build.
 
 #### About htmltest
 
@@ -346,6 +354,11 @@ hugo --gc --minify --buildFuture
 **Note:** `check-links.sh` validates links in the built site and assumes the `public/` directory exists. Build the site first with Hugo.
 
 The first time you run `./check-links.sh`, it will automatically download and install htmltest if it's not already available.
+
+**Deployment Workflow:**
+- **Netlify** builds the site without running link checks, ensuring deployments are never blocked by broken links
+- **GitHub Actions** runs link checks on PRs and weekly, providing visibility into link health
+- **Local testing** allows developers to check links before pushing changes
 
 #### Configuration
 

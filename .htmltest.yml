@@ -4,7 +4,7 @@
 DirectoryPath: "public"
 CheckDoctype: true
 CheckExternal: true
-CheckFavicon: true
+CheckFavicon: false  # Site uses PNG favicons in <link rel="icon">, not favicon.ico
 CheckImages: true
 CheckInternal: true
 CheckLinks: true
@@ -38,6 +38,10 @@ IgnoreHTTPStatusCodes:
 
 # Ignore internal hash links (anchors) that may not exist yet
 IgnoreInternalEmptyHash: true
+
+# Ignore trailing slash warnings for directory-based URLs
+# Hugo generates /about which works fine on Netlify even though it serves /about/index.html
+IgnoreDirectoryMissingTrailingSlash: true
 
 # Allow missing alt text (warning only)
 IgnoreAltMissing: false
