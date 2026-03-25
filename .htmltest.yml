@@ -1,0 +1,55 @@
+# htmltest configuration
+# Documentation: https://github.com/wjdp/htmltest
+
+DirectoryPath: "public"
+CheckDoctype: true
+CheckExternal: true
+CheckFavicon: true
+CheckImages: true
+CheckInternal: true
+CheckLinks: true
+CheckMailto: true
+CheckMeta: true
+CheckScripts: true
+
+# External link checking
+ExternalTimeout: 30
+HTTPHeaders:
+  User-Agent: "Mozilla/5.0 (compatible; htmltest/0.17.0; +https://github.com/wjdp/htmltest)"
+
+# Caching to speed up repeated runs
+CacheExpires: "6h"
+
+# Ignore patterns
+IgnoreURLs:
+  # Social media sites that block automated requests
+  - "linkedin.com"
+  - "twitter.com"
+  - "x.com"
+  # Common patterns that may cause issues
+  - "fonts.googleapis.com"
+  - "fonts.gstatic.com"
+
+# Ignore specific status codes
+IgnoreHTTPStatusCodes:
+  - 403  # Forbidden (some sites block automated requests)
+  - 429  # Too many requests
+  - 999  # LinkedIn uses this to block bots
+
+# Ignore internal hash links (anchors) that may not exist yet
+IgnoreInternalEmptyHash: true
+
+# Allow missing alt text (warning only)
+IgnoreAltMissing: false
+
+# Ignore specific files or patterns
+IgnoreDirs:
+  - "node_modules"
+  - ".git"
+
+# Logging
+LogLevel: 1  # 0 = silent, 1 = errors, 2 = warnings, 3 = info
+
+# Testing options
+TestFilesConcurrently: true
+CheckInternalHash: true

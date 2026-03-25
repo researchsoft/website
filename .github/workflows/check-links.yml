@@ -1,0 +1,46 @@
+name: Check Links
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  pull_request:
+    branches:
+      - master
+      - main
+  schedule:
+    # Run weekly on Monday at 9am UTC to catch links that go dead over time
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+
+jobs:
+  link-check:
+    name: Check Links with htmltest
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.147.0'
+          extended: false
+
+      - name: Build site
+        run: hugo --gc --minify --buildFuture
+
+      - name: Check links
+        uses: wjdp/htmltest-action@master
+        with:
+          config: .htmltest.yml
+
+      - name: Archive htmltest results
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: htmltest-report
+          path: tmp/.htmltest/
+          retention-days: 7
