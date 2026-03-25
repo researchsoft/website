@@ -380,3 +380,24 @@ The pattern matches any URL containing that text, so:
 - Patterns are case-insensitive
 
 Hugo also validates internal references at build time with `refLinksErrorLevel: ERROR` in [config/_default/hugo.yaml](config/_default/hugo.yaml).
+
+#### Testing the Link Checker
+
+The link checker has an automated test suite to verify it's working correctly. See [tests/README.md](tests/README.md) for full details.
+
+**Note:** The `tests/` directory is excluded from Hugo builds via `ignoreFiles` in [config/_default/hugo.yaml](config/_default/hugo.yaml), so test files won't appear in the generated site.
+
+**Quick Test:**
+
+```bash
+cd tests
+./run-tests.sh
+```
+
+This runs a comprehensive test suite that validates:
+- ✅ Valid links pass correctly
+- ❌ Broken links are detected
+- 🔇 Ignored URLs (LinkedIn, Twitter) are skipped
+- 🔗 Internal/external links, images, CSS, and scripts work correctly
+
+The test suite includes sample HTML files with known good and bad links, and verifies that htmltest correctly identifies all issues. All tests should pass if the link checker is configured correctly.
