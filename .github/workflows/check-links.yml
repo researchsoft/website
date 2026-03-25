@@ -32,10 +32,23 @@ jobs:
       - name: Build site
         run: hugo --gc --minify --buildFuture
 
+      - name: Install htmltest
+        run: |
+          curl -fsSL https://github.com/wjdp/htmltest/releases/download/v0.17.0/htmltest_0.17.0_linux_amd64.tar.gz | tar -xz
+          chmod +x htmltest
+          sudo mv htmltest /usr/local/bin/
+
       - name: Check links
-        uses: wjdp/htmltest-action@master
-        with:
-          config: .htmltest.yml
+        run: |
+          # Run htmltest and filter output to show only errors
+          if htmltest > htmltest-output.txt 2>&1; then
+            echo "✅ All links validated successfully!"
+          else
+            echo "❌ Link validation failed"
+            echo ""
+            grep -v "hitting ---" htmltest-output.txt || cat htmltest-output.txt
+            exit 1
+          fi
 
       - name: Archive htmltest results
         if: failure()
