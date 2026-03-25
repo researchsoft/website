@@ -60,12 +60,19 @@ else
     fi
 fi
 
-# Run htmltest
-if $HTMLTEST_CMD; then
+# Run htmltest and filter output to show only errors
+# Redirect stdout to a temp file, keep stderr for errors
+TEMP_OUTPUT=$(mktemp)
+if $HTMLTEST_CMD > "$TEMP_OUTPUT" 2>&1; then
     echo ""
     echo "✅ All links validated successfully!"
+    rm -f "$TEMP_OUTPUT"
     exit 0
 else
+    # Show only error lines (skip "hitting" progress messages)
+    echo ""
+    grep -v "hitting ---" "$TEMP_OUTPUT" || cat "$TEMP_OUTPUT"
+    rm -f "$TEMP_OUTPUT"
     echo ""
     echo "❌ Link validation failed - see errors above"
     exit 1
