@@ -52,9 +52,6 @@ IgnoreDirs:
   - "node_modules"
   - ".git"
 
-# Logging
-LogLevel: 1  # 0 = silent, 1 = errors, 2 = warnings, 3 = info
-
 # Testing options
 TestFilesConcurrently: true
 CheckInternalHash: true
