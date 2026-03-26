@@ -40,13 +40,26 @@ jobs:
 
       - name: Check links
         run: |
-          # Run htmltest and filter output to reduce noise
+          # Run htmltest and filter output in real-time to reduce noise
+          # Add patterns to ignore below (one per line for easy editing)
           set +e
-          htmltest 2>&1 | tee /tmp/htmltest-output.txt
+          htmltest 2>&1 | grep -v \
+            -e '^[0-9]+: ' \
+            -e '^htmltest started' \
+            -e '^running in concurrent' \
+            -e 'from cache' \
+            -e 'Partial Content' \
+            -e 'OK ---' \
+            -e 'DOCTYPE' \
+            -e 'fresh ---' \
+            -e 'hitting ---' \
+            -e 'Non-OK status 403' \
+            -e 'Non-OK status: 403' \
+            -e '--> <nil>' \
+            -e 'testDocument' \
+            -e 'mailto:?subject=' \
+            || true
           HTMLTEST_EXIT=${PIPESTATUS[0]}
-          
-          # Show errors and summary, filter only the most verbose progress indicators
-          grep -v -E '^[0-9]+: |^htmltest started|^running in concurrent' /tmp/htmltest-output.txt || cat /tmp/htmltest-output.txt
           set -e
           
           if [ $HTMLTEST_EXIT -eq 0 ]; then
