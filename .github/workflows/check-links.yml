@@ -32,45 +32,8 @@ jobs:
       - name: Build site
         run: hugo --gc --minify --buildFuture
 
-      - name: Install htmltest
-        run: |
-          curl -fsSL https://github.com/wjdp/htmltest/releases/download/v0.17.0/htmltest_0.17.0_linux_amd64.tar.gz | tar -xz
-          chmod +x htmltest
-          sudo mv htmltest /usr/local/bin/
-
       - name: Check links
-        run: |
-          # Run htmltest and filter output in real-time to reduce noise
-          # Add patterns to ignore below (one per line for easy editing)
-          set +e
-          htmltest 2>&1 | grep -v \
-            -e '^[0-9]+: ' \
-            -e '^htmltest started' \
-            -e '^running in concurrent' \
-            -e 'from cache' \
-            -e 'Partial Content' \
-            -e 'OK ---' \
-            -e 'DOCTYPE' \
-            -e 'fresh ---' \
-            -e 'hitting ---' \
-            -e 'Non-OK status 403' \
-            -e 'Non-OK status: 403' \
-            -e '--> <nil>' \
-            -e 'testDocument' \
-            -e 'mailto:?subject=' \
-            || true
-          HTMLTEST_EXIT=${PIPESTATUS[0]}
-          set -e
-          
-          if [ $HTMLTEST_EXIT -eq 0 ]; then
-            echo ""
-            echo "✅ All links validated successfully!"
-            exit 0
-          else
-            echo ""
-            echo "❌ Link validation failed - see errors above"
-            exit 1
-          fi
+        run: ./check-links.sh
 
       - name: Archive htmltest results
         if: failure()
