@@ -60,19 +60,19 @@ else
     fi
 fi
 
-# Run htmltest and filter output to show only errors
-# Redirect stdout to a temp file, keep stderr for errors
-TEMP_OUTPUT=$(mktemp)
-if $HTMLTEST_CMD > "$TEMP_OUTPUT" 2>&1; then
+# Run htmltest and filter output to only show errors
+# Even with LogLevel 0, htmltest outputs progress lines like "hitting ---" and cache status
+if $HTMLTEST_CMD 2>&1 | grep -v -E '(^hitting |^  from cache|^  fresh|^  OK |^  Partial Content|DOCTYPE|^testDocument|^[[:space:]]*$|^===)'; then
+    EXIT_CODE=0
+else
+    EXIT_CODE=1
+fi
+
+if [ $EXIT_CODE -eq 0 ]; then
     echo ""
     echo "✅ All links validated successfully!"
-    rm -f "$TEMP_OUTPUT"
     exit 0
 else
-    # Show everything EXCEPT success/progress messages
-    echo ""
-    grep -v -E "(hitting ---|^  OK ---|^  Partial Content ---|^  from cache ---|^  fresh ---|^  DOCTYPE|^testDocument|^[[:space:]]*$)" "$TEMP_OUTPUT" || cat "$TEMP_OUTPUT"
-    rm -f "$TEMP_OUTPUT"
     echo ""
     echo "❌ Link validation failed - see errors above"
     exit 1

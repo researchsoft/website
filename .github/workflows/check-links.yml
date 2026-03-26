@@ -40,14 +40,20 @@ jobs:
 
       - name: Check links
         run: |
-          # Run htmltest and filter output to show only errors (exclude success messages)
-          if htmltest > htmltest-output.txt 2>&1; then
-            echo "✅ All links validated successfully!"
-          else
-            echo "❌ Link validation failed"
+          # Run htmltest and filter output to only show errors
+          # Even with LogLevel 0, htmltest outputs progress/cache lines
+          set +e
+          htmltest 2>&1 | grep -v -E '(^hitting |^  from cache|^  fresh|^  OK |^  Partial Content|DOCTYPE|^testDocument|^[[:space:]]*$|^===)' | tee filtered-output.txt
+          HTMLTEST_EXIT=${PIPESTATUS[0]}
+          set -e
+          
+          if [ $HTMLTEST_EXIT -eq 0 ]; then
             echo ""
-            # Show everything EXCEPT success/progress messages
-            grep -v -E "(hitting ---|^  OK ---|^  Partial Content ---|^  from cache ---|^  fresh ---|^  DOCTYPE|^testDocument|^[[:space:]]*$)" htmltest-output.txt || cat htmltest-output.txt
+            echo "✅ All links validated successfully!"
+            exit 0
+          else
+            echo ""
+            echo "❌ Link validation failed - see errors above"
             exit 1
           fi
 
