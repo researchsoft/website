@@ -100,6 +100,7 @@ $HTMLTEST_CMD $CONFIG_FLAG 2>&1 | grep -v \
   -e '--> <nil>' \
   -e 'testDocument' \
   -e 'mailto:?subject=' \
+  -e 'errors in .* documents' \
   || true
 HTMLTEST_EXIT=${PIPESTATUS[0]}
 set -e
