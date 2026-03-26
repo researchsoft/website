@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Link Checker Test - Main Page</title>
+</head>
+<body>
+    <h1>Link Checker Test Suite</h1>
+    
+    <h2>Valid Internal Links</h2>
+    <ul>
+        <li><a href="valid-page.html">Valid internal link</a></li>
+        <li><a href="valid-page.html#section">Valid internal link with anchor</a></li>
+        <li><a href="#local-anchor">Local anchor on this page</a></li>
+        <li><a href="./subdir/nested-page.html">Link to nested page</a></li>
+    </ul>
+    
+    <h2>Broken Internal Links (Should Fail)</h2>
+    <ul>
+        <li><a href="nonexistent-page.html">Broken internal link</a></li>
+        <li><a href="valid-page.html#bad-anchor">Valid page but broken anchor</a></li>
+        <li><a href="./subdir/missing-file.html">Missing nested page</a></li>
+    </ul>
+    
+    <h2>Valid External Links</h2>
+    <ul>
+        <li><a href="https://www.researchsoft.org">ReSA website</a></li>
+        <li><a href="https://github.com/researchsoft">ReSA GitHub</a></li>
+        <li><a href="https://www.w3.org/html/">W3C HTML specification</a></li>
+    </ul>
+    
+    <h2>Broken External Links (Should Fail)</h2>
+    <ul>
+        <li><a href="https://this-domain-does-not-exist-12345.com">Nonexistent domain</a></li>
+        <li><a href="https://httpstat.us/404">Returns 404</a></li>
+        <li><a href="https://httpstat.us/500">Returns 500</a></li>
+    </ul>
+    
+    <h2>Ignored External Links (Should Pass)</h2>
+    <ul>
+        <li><a href="https://www.linkedin.com/company/research-software-alliance">LinkedIn (ignored)</a></li>
+        <li><a href="https://twitter.com/researchsoft">Twitter (ignored)</a></li>
+        <li><a href="https://x.com/researchsoft">X/Twitter (ignored)</a></li>
+        <li><a href="https://fonts.googleapis.com/css">Google Fonts (ignored)</a></li>
+    </ul>
+    
+    <h2>Image Tests</h2>
+    <img src="valid-image.png" alt="Valid image">
+    <img src="missing-image.png" alt="Missing image (should fail)">
+    <img src="valid-image.png"><!-- Missing alt text warning -->
+    
+    <h2>Script and Stylesheet Tests</h2>
+    <link rel="stylesheet" href="valid-style.css">
+    <link rel="stylesheet" href="missing-style.css"><!-- Should fail -->
+    <script src="valid-script.js"></script>
+    <script src="missing-script.js"></script><!-- Should fail -->
+    
+    <h2>Mailto Links</h2>
+    <a href="mailto:info@researchsoft.org">Valid mailto</a>
+    
+    <h2>Special Cases</h2>
+    <ul>
+        <li><a href="">Empty href (should fail)</a></li>
+        <li><a href="javascript:void(0)">JavaScript href (should be ignored)</a></li>
+        <li><a href="#" id="local-anchor">Hash-only link</a></li>
+    </ul>
+    
+    <h2>Anchor Target</h2>
+    <div id="local-anchor">
+        <p>This is the target for the local anchor link above.</p>
+    </div>
+</body>
+</html>

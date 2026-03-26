@@ -1,0 +1,49 @@
+# htmltest configuration for test suite
+# This is a test-specific configuration that validates the link checker works correctly
+
+DirectoryPath: "."  # Test against test/html directory
+CheckDoctype: true
+CheckExternal: true
+CheckFavicon: false  # Not testing favicon in our test suite
+CheckImages: true
+CheckInternal: true
+CheckLinks: true
+CheckMailto: true
+CheckMeta: false  # Not critical for tests
+CheckScripts: true
+
+# External link checking
+ExternalTimeout: 30
+HTTPHeaders:
+  User-Agent: "Mozilla/5.0 (compatible; htmltest/0.17.0; +https://github.com/wjdp/htmltest)"
+
+# No caching for tests - we want fresh results
+CacheExpires: "0s"
+
+# Ignore patterns - same as production
+IgnoreURLs:
+  # Social media sites that block automated requests
+  - "linkedin.com"
+  - "twitter.com"
+  - "x.com"
+  # Common patterns that may cause issues
+  - "fonts.googleapis.com"
+  - "fonts.gstatic.com"
+
+# Ignore specific status codes
+IgnoreHTTPStatusCodes:
+  - 403  # Forbidden (some sites block automated requests)
+  - 429  # Too many requests
+  - 999  # LinkedIn uses this to block bots
+
+# Allow hash-only links for testing
+IgnoreInternalEmptyHash: true
+
+# Check alt text
+IgnoreAltMissing: false
+
+# Logging - verbose for testing
+LogLevel: 2  # 0=error, 1=warn, 2=info, 3=debug
+
+# Output
+OutputDir: "/tmp/htmltest"

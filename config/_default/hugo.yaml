@@ -26,7 +26,11 @@ pagination:
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$, ^tests/]
+
+# Link checking and validation
+refLinksErrorLevel: ERROR
+refLinksNotFoundURL: /404.html
 permalinks:
   authors: '/author/:slug/'
   tags: '/tag/:slug/'

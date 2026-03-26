@@ -1,0 +1,57 @@
+# htmltest configuration
+# Documentation: https://github.com/wjdp/htmltest
+
+DirectoryPath: "public"
+LogLevel: 0  # 0=errors only, 1=errors+warnings, 2=info (default), 3=debug
+CheckDoctype: true
+CheckExternal: true
+CheckFavicon: false  # Site uses PNG favicons in <link rel="icon">, not favicon.ico
+CheckImages: true
+CheckInternal: true
+CheckLinks: true
+CheckMailto: true
+CheckMeta: true
+CheckScripts: true
+
+# External link checking
+ExternalTimeout: 30
+HTTPHeaders:
+  User-Agent: "Mozilla/5.0 (compatible; htmltest/0.17.0; +https://github.com/wjdp/htmltest)"
+
+# Caching to speed up repeated runs
+CacheExpires: "6h"
+
+# Ignore patterns
+IgnoreURLs:
+  # Social media sites that block automated requests
+  - "linkedin.com"
+  - "twitter.com"
+  - "x.com"
+  # Common patterns that may cause issues
+  - "fonts.googleapis.com"
+  - "fonts.gstatic.com"
+
+# Ignore specific status codes
+IgnoreHTTPStatusCodes:
+  - 403  # Forbidden (some sites block automated requests)
+  - 429  # Too many requests
+  - 999  # LinkedIn uses this to block bots
+
+# Ignore internal hash links (anchors) that may not exist yet
+IgnoreInternalEmptyHash: true
+
+# Ignore trailing slash warnings for directory-based URLs
+# Hugo generates /about which works fine on Netlify even though it serves /about/index.html
+IgnoreDirectoryMissingTrailingSlash: true
+
+# Allow missing alt text (warning only)
+IgnoreAltMissing: false
+
+# Ignore specific files or patterns
+IgnoreDirs:
+  - "node_modules"
+  - ".git"
+
+# Testing options
+TestFilesConcurrently: false
+CheckInternalHash: true
