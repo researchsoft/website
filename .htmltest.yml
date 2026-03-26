@@ -53,5 +53,5 @@ IgnoreDirs:
   - ".git"
 
 # Testing options
-TestFilesConcurrently: true
+TestFilesConcurrently: false
 CheckInternalHash: true

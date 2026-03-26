@@ -2,8 +2,16 @@
 # Check links in the built site using htmltest
 # NOTE: This assumes the site is already built in public/
 # Build the site first: hugo --gc --minify --buildFuture
+#
+# Usage:
+#   ./check-links.sh              # Check entire site
+#   ./check-links.sh public/blog  # Check only blog pages
+#   ./check-links.sh public/about # Check only about pages
 
 set -e
+
+# Determine which directory to check
+TEST_DIR="${1:-public}"
 
 # Check if site is built
 if [ ! -d "public" ]; then
@@ -12,7 +20,12 @@ if [ ! -d "public" ]; then
     exit 1
 fi
 
-echo "🔍 Checking links with htmltest..."
+if [ ! -d "$TEST_DIR" ]; then
+    echo "❌ Error: Directory $TEST_DIR not found"
+    exit 1
+fi
+
+echo "🔍 Checking links with htmltest in: $TEST_DIR"
 echo ""
 
 # Check if htmltest is installed
@@ -60,15 +73,40 @@ else
     fi
 fi
 
-# Run htmltest and filter output to only show errors
-# Even with LogLevel 0, htmltest outputs progress lines like "hitting ---" and cache status
-if $HTMLTEST_CMD 2>&1 | grep -v -E '(^hitting |^  from cache|^  fresh|^  OK |^  Partial Content|DOCTYPE|^testDocument|^[[:space:]]*$|^===)'; then
-    EXIT_CODE=0
+# Create temporary config if testing a subdirectory
+if [ "$TEST_DIR" != "public" ]; then
+    TEMP_CONFIG=$(mktemp)
+    sed "s|DirectoryPath: \"public\"|DirectoryPath: \"$TEST_DIR\"|" .htmltest.yml > "$TEMP_CONFIG"
+    CONFIG_FLAG="--conf $TEMP_CONFIG"
 else
-    EXIT_CODE=1
+    CONFIG_FLAG=""
 fi
 
-if [ $EXIT_CODE -eq 0 ]; then
+# Run htmltest and filter output in real-time to reduce noise
+# Add patterns to ignore below (one per line for easy editing)
+set +e
+$HTMLTEST_CMD $CONFIG_FLAG 2>&1 | grep -v \
+  -e '^[0-9]+: ' \
+  -e '^htmltest started' \
+  -e '^running in concurrent' \
+  -e 'from cache' \
+  -e 'Partial Content' \
+  -e 'OK ---' \
+  -e 'DOCTYPE' \
+  -e 'fresh ---' \
+  -e 'hitting ---' \
+  -e 'Non-OK status 403' \
+  -e 'Non-OK status: 403' \
+  -e '--> <nil>' \
+  -e 'testDocument' \
+  -e 'mailto:?subject=' \
+  || true
+HTMLTEST_EXIT=${PIPESTATUS[0]}
+set -e
+
+[ -n "$TEMP_CONFIG" ] && rm -f "$TEMP_CONFIG"
+
+if [ $HTMLTEST_EXIT -eq 0 ]; then
     echo ""
     echo "✅ All links validated successfully!"
     exit 0
