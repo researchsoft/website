@@ -80,13 +80,9 @@ Webinar recordings are available on the [webinar website](https://recursos.laref
 
 *RDA has been supported to undertake this work as part of the 5th funding cycle of [SCOSS](https://www.rd-alliance.org/scoss-funding-for-the-rda/) (The Global Sustainability Coalition for Open Science Services).*
 
-
-{{% callout note %}}
-This post is **citable** and **FAIR** thanks to the [Rogue Scholar](https://rogue-scholar.org/).  
-[Browse ReSA posts](https://rogue-scholar.org/communities/researchsoft/records?q=&l=list&p=1&s=10&sort=newest) on the Rogue Scholar.
-{{% /callout %}}
-
-
 _Image credit:_ _Chris Montgomery, [Unsplash](https://unsplash.com/photos/macbook-pro-displaying-group-of-people-smgTvepind4)_
 
-
+<div class="border rounded p-3">
+  This post is **citable** and **FAIR** thanks to the [Rogue Scholar](https://rogue-scholar.org/).
+  [Browse ReSA posts](https://rogue-scholar.org/communities/researchsoft/records?q=&l=list&p=1&s=10&sort=newest) on the Rogue Scholar.
+</div>
