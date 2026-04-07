@@ -82,6 +82,12 @@ Webinar recordings are available on the [webinar website](https://recursos.laref
 
 _Image credit:_ _Chris Montgomery, [Unsplash](https://unsplash.com/photos/macbook-pro-displaying-group-of-people-smgTvepind4)_
 
-<div class="border rounded p-5">
-  This post is citable and FAIR thanks to the [Rogue Scholar](https://rogue-scholar.org/). [Browse ReSA posts](https://rogue-scholar.org/communities/researchsoft/records?q=&l=list&p=1&s=10&sort=newest) on the Rogue Scholar. 
+<div class="border rounded p-3">
+  <strong>
+    This post is citable and FAIR thanks to 
+    <a href="https://rogue-scholar.org/">Rogue Scholar</a>.
+    <a href="https://rogue-scholar.org/communities/researchsoft/records?q=&l=list&p=1&s=10&sort=newest">
+      Browse ReSA posts
+    </a> on the Rogue Scholar.
+  </strong>
 </div>
