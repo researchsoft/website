@@ -55,7 +55,47 @@ sections:
 
         The workshop participants also developed an informal [list of resources](https://docs.google.com/document/d/1hBz9pRYwDJLwWMzBgkcrYLe7Ug3aaigHdXjRJ5JhrrE/edit?tab=t.0) relevant to these topics, both before and during the workshop.
 
-        The 37 workshop participants were selected to represent a cross-section of early adopters and supporters of innovative AI tooling in research organisations. This representation was not exhausted, and this was acknowledged and explored during the workshop. ReSA was supported to undertake this work as part of [Schmidt Sciences](https://www.schmidtsciences.org/) grant G-25-69965, with local support from the Software Sustainability Institute. 
+        The 37 workshop participants were selected to represent a cross-section of early adopters and supporters of innovative AI tooling in research organisations. This representation was not exhausted, and this was acknowledged and explored during the workshop. ReSA was supported to undertake this work as part of [Schmidt Sciences](https://www.schmidtsciences.org/) grant G-25-69965, with local support from the Software Sustainability Institute.
+
+        **Participants**
+        Samantha Ahern – UCL / SocRSE / The Carpentries
+        Michelle Barker – Research Software Alliance
+        Neil Chue Hong – University of Edinburgh / Software Sustainability Institute
+        Ian Cosden – Princeton University
+        Tina Dang – Schmidt Sciences
+        Ryan Daniels – Accelerate Programme for Scientific Discovery
+        Stephan Druskat – German Aerospace Center (DLR)
+        Anshu Dubey – Argonne National Laboratory
+        Yael Elmatad – Open Athena
+        Cunliang Geng – Netherlands eScience Center
+        Sandra Gesing – US Research Software Engineer Association
+        Josh Greenberg – Alfred P. Sloan Foundation
+        Robert Haines – The University of Manchester
+        Kim Hartley – Research Software Alliance
+        James Hetherington – UCL, ARC
+        Toby Hodges – The Carpentries
+        James Howison – University of Texas at Austin
+        Daniel S. Katz – University of Illinois Urbana-Champaign
+        Kamilla Kopec-Harding – University of Birmingham
+        Richard Littauer – CURIOSS
+        Christina Maimone – Northwestern University
+        Vani Mandava – University of Washington, Scientific Software Engineering Center (SSEC)
+        Rohan Marwaha – National Center for Supercomputing Applications (NCSA)
+        Elle O’Brien – University of Michigan
+        Adrian Price-Whelan – Simons Foundation
+        Karthik Ram – UC Berkeley
+        Joseph Shingleton – University of Glasgow
+        Arfon Smith – Schmidt Sciences
+        Sue Smith – Independent
+        Nathan TeBlunthuis – University of Texas at Austin
+        Anelda Van der Walt – Talarify
+        Steve Van Tuyl – Alliance for Data Science and AI
+        Ben van Werkhoven – Leiden University
+        Kirstie Whitaker – Berkeley Institute for Data Science
+        Greg Wilson – Independent
+        Sherry Wu – Carnegie Mellon University
+        Yo Yehudi – OLS
+
 
         To stay up to date on the more detailed workshop outputs still to come, subscribe to the [ReSA newsletter](https://www.researchsoft.org/news/). 
      
