@@ -176,7 +176,7 @@ sections:
             </div>
             <div class="col-md-4 logo-container">
               <a href="https://www.software.ac.uk/">
-                <img src="images/SSI_PRIMARY-LOGO.png" alt="SSI logo" class="logo-image">
+                <img src="membership/images/SSI_PRIMARY-LOGO.svg" alt="SSI logo" class="logo-image">
               </a>
             </div>
           </div>
