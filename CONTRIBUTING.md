@@ -297,7 +297,7 @@ When ReSA gains a new organizational member, follow these steps to add their log
 
 #### Step 1: Prepare the Logo Image
 
-* **File format**: PNG or JPG (PNG preferred for logos with transparency)
+* **File format**: SVG, PNG or JPG (SVG preferred overall, PNG preferred over JPG for logos with transparency)
 * **Naming convention**: Use a descriptive name (e.g., `ASAP_FullColor.png`, `Sloan-logo.png`)
 * **Size**: Logos should be reasonably sized (typically under 500KB). The website will automatically resize them to fit the grid.
 
