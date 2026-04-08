@@ -15,7 +15,7 @@ draft: false
 
 By Kim Hartley, Connie Clare, Federico Cetrangolo, Johan Espinoza Rojas, Michelle Barker
 
-\[This blog past has been cross-posted by the Research Data Alliance and LA Referencia\]
+\[This blog past has been cross-posted by the [Research Data Alliance](https://www.rd-alliance.org/news/advancing-open-science-in-latin-america/) and LA Referencia\]
 
 
 **Advancing Open Science in Latin America: Highlights from the ReSA, RDA, and LA Referencia webinar series on research software and research data**
