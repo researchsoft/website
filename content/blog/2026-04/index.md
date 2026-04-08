@@ -78,7 +78,7 @@ Webinar recordings are available on the [webinar website](https://recursos.laref
 
 *ReSA has been supported to undertake this work as part of Alfred P. Sloan Foundation grant 2024-22426, [Research Software Alliance: Catalyzing community-led collaborations](https://zenodo.org/records/10927376).*
 
-*RDA has been supported to undertake this work as part of the 5th funding cycle of [SCOSS](https://www.rd-alliance.org/scoss-funding-for-the-rda/) (The Global Sustainability Coalition for Open Science Services).*
+*RDA has been supported to undertake this work as part of the 5th funding cycle of [SCOSS](https://www.rd-alliance.org/our-funders/scoss-funding/) (The Global Sustainability Coalition for Open Science Services).*
 
 _Image credit:_ _Chris Montgomery, [Unsplash](https://unsplash.com/photos/macbook-pro-displaying-group-of-people-smgTvepind4)_
 
