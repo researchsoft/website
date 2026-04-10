@@ -55,7 +55,7 @@ sections:
 
         The workshop participants also developed an informal [list of resources](https://docs.google.com/document/d/1hBz9pRYwDJLwWMzBgkcrYLe7Ug3aaigHdXjRJ5JhrrE/edit?tab=t.0) relevant to these topics, both before and during the workshop.
 
-        The 37 workshop participants were selected to represent a cross-section of early adopters and supporters of innovative AI tooling in research organisations. This representation was not exhausted, and this was acknowledged and explored during the workshop. ReSA was supported to undertake this work as part of [Schmidt Sciences](https://www.schmidtsciences.org/) grant G-25-69965, with local support from the Software Sustainability Institute.
+        The 37 workshop participants were selected to represent a cross-section of early adopters and supporters of innovative AI tooling in research organisations. This representation was not exhaustive, and this was acknowledged and explored during the workshop. ReSA was supported to undertake this work as part of [Schmidt Sciences](https://www.schmidtsciences.org/) grant G-25-69965, with local support from the Software Sustainability Institute.
 
         **Participants**
 
