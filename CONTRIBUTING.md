@@ -276,3 +276,103 @@ Step x: How to add caption?
 Step (x+1): How to change size of the image?
 
 Step (x+2): How to add alt text?
+
+## Adding Organizational Member Logos
+
+### What are Hugo Shortcodes?
+
+Shortcodes are reusable snippets of code in Hugo (the static site generator that powers this website) that allow you to embed complex HTML structures into your Markdown content. Think of them as custom templates that can be called from content pages.
+
+For example, instead of copying the same HTML code for displaying organizational member logos on multiple pages, we use a shortcode called `org-members` that can be invoked simply by writing:
+
+```markdown
+{{< org-members >}}
+```
+
+This shortcode automatically renders all organizational member logos in a consistent grid layout. The shortcode files are stored in the `layouts/shortcodes/` directory.
+
+### Adding a New Organizational Member Logo
+
+When ReSA gains a new organizational member, follow these steps to add their logo to the website:
+
+#### Step 1: Prepare the Logo Image
+
+* **File format**: SVG, PNG or JPG (SVG preferred overall, PNG preferred over JPG for logos with transparency)
+* **Naming convention**: Use a descriptive name (e.g., `ASAP_FullColor.png`, `Sloan-logo.png`)
+* **Size**: Logos should be reasonably sized (typically under 500KB). The website will automatically resize them to fit the grid.
+
+#### Step 2: Upload the Logo
+
+Upload the logo file to:
+```
+content/about/membership/images/
+```
+
+**Via GitHub:**
+1. Navigate to [`content/about/membership/images/`](https://github.com/researchsoft/website/tree/main/content/about/membership/images)
+2. Click **Add file** → **Upload files**
+3. Drag and drop your logo or click to select it
+4. Commit the file with a descriptive message (e.g., "Add ASAP organizational member logo")
+
+**Via Command Line:**
+```zsh
+# Copy your logo to the correct directory
+cp /path/to/your-logo.png content/about/membership/images/
+
+# Add and commit
+git add content/about/membership/images/your-logo.png
+git commit -m ":art: Add [Organization Name] member logo"
+git push
+```
+
+#### Step 3: Update the Shortcode
+
+Edit the file `layouts/shortcodes/org-members.html` to add the new organization to the grid.
+
+The shortcode file contains a responsive grid layout with rows of 3 logos each. Find an appropriate location to add your new member (typically at the end, or in alphabetical order within their membership tier).
+
+**Add a new logo block:**
+
+```html
+<div class="col-md-4 logo-container">
+<a href="https://organization-website.org/">
+    <img src="/about/membership/images/your-logo.png" alt="Organization Name" class="logo-image">
+</a>
+</div>
+```
+
+**For organizations without a logo** (text-only display):
+
+```html
+<div class="col-md-4 logo-container">
+<a href="https://organization-website.org/" class="no-logo-text">Organization Name</a>
+</div>
+```
+
+**Important Notes:**
+* Each row contains 3 logo containers (`col-md-4`)
+* When you add a 4th logo, start a new row:
+  ```html
+  <div class="row justify-content-center mt-5">
+      <!-- new logos here -->
+  </div>
+  ```
+* The `mt-5` class adds vertical spacing between rows
+* The image path must be absolute from the site root: `/about/membership/images/filename.png`
+
+#### Step 4: Test Your Changes
+
+If testing locally:
+```zsh
+hugo server
+```
+
+Then visit `http://localhost:1313/about/membership/` to see how the logo appears in the grid.
+
+### Where the Organizational Members List Appears
+
+The `{{< org-members >}}` shortcode is used in:
+* [`content/about/membership/_index.md`](content/about/membership/_index.md) - Main membership page
+* [`content/about/_index.md`](content/about/_index.md) - About page
+
+Updating the shortcode automatically updates the logo display on all these pages.
