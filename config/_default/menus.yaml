@@ -156,6 +156,10 @@ main:
     url: irsc
     weight: 71
   - parent: '<span style="font-size: 1.2rem;">IRSC</span>'
+    name: '<span style="font-size: 1rem;">Home</span>'
+    url: irsc
+    weight: 72
+  - parent: '<span style="font-size: 1.2rem;">IRSC</span>'
     name: '<span style="font-size: 1rem;">About IRSC</span>'
     url: irsc/about
     weight: 72
