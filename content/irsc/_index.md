@@ -56,6 +56,37 @@ sections:
 
         </div>
 
+        ## IRSC26 Sponsors
+
+        We gratefully acknowledge the support of our sponsors and partners.
+
+        ### Bronze Sponsors
+
+        <div style="text-align: center;">
+
+        <a href="https://www.esciencecenter.nl/">
+        <img src="content/about/membership/images/nesc.png " height="60" style="margin: 15px;">
+        </a>
+
+        <a href="https://www.nwo.nl/en">
+        <img src="content/about/membership/images/NWO-logo.jpeg" height="60" style="margin: 15px;">
+        </a>
+
+        </div>
+
+        ### Partners
+
+        <div style="text-align: center;">
+
+        <a href="https://www.software.ac.uk/">
+        <img src="content/about/membership/images/SSI_PRIMARY-LOGO.svg" height="50" style="margin: 15px;">
+        </a>
+
+        </div>
+
+
+        *Interested in sponsoring IRSC? Learn more about IRSC26 [sponsorship opportunities](https://www.researchsoft.org/irsc/sponsorship/) or [Contact ReSA](mailto:info@researchsoft.org).*
+
         ---
 
         </div>
