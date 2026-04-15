@@ -64,7 +64,7 @@ sections:
 
         <div class="d-flex justify-content-start">
         <div class="col-md-8 text-start">
-         <div class="row justify-content-start mt-5">
+         <div class="row justify-content-start mt-2">
         <div class="col-md-4 logo-container">
         <a href="https://www.esciencecenter.nl/" target="_blank" title="Netherlands eScience Center">
           <img src="/about/images/nesc.png" alt="Netherlands eScience Center logo" class="logo-image">
@@ -83,7 +83,7 @@ sections:
 
         <div class="d-flex justify-content-start">
         <div class="col-md-8 text-start">
-        <div class="row justify-content-start mt-4">
+        <div class="row justify-content-start mt-2">
          <div class="col-md-4 logo-container">
         <a href="https://www.software.ac.uk/" target="_blank" title="Software Sustainability Institute">
           <img src="/about/images/SSI_PRIMARY-LOGO.png" alt="Software Sustainability Institute logo" class="logo-image">
