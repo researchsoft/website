@@ -1,6 +1,5 @@
 ---
-title: "Improvements to Software Citation Infrastructure: Coming Soon to Your Software DOI** 
-"
+title: "Improvements to Software Citation Infrastructure: Coming Soon to Your Software DOI"
 subtitle: ""
 date: '2026-04-16'
 authors:
@@ -14,8 +13,6 @@ draft: false
 
 By Rebecca Ringuette, Maria Gould, Daniel Garijo, Jonathan Starr, Alex Ioannidis
 
-**Improvements to Software Citation Infrastructure:**   
-**Coming Soon to Your Software DOI** 
 
 In 2025 a group of stakeholders involved in research software infrastructure were successful in improving support for software citation. The “Making Software Citation Easy and Useful” working group was formed under the [Research Software Infrastructure (RSI) Forum](https://www.researchsoft.org/forums/rsi-forum/), a collaboration of infrastructure organisations committed to supporting research software, and those who develop it, as fundamental and vital to research. 
 
