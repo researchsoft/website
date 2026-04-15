@@ -56,25 +56,23 @@ sections:
 
         </div>
 
-         - block: markdown
-        content:
-        title: IRSC26 Sponsors
-        text: |
+        ## IRSC26 Sponsors
+
         We gratefully acknowledge the support of our sponsors and partners.
 
         ### Bronze Sponsors
 
-        <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-start">
         <div class="col-md-8 text-start">
-        <div class="row justify-content-center mt-5">
+         <div class="row justify-content-start mt-5">
         <div class="col-md-4 logo-container">
         <a href="https://www.esciencecenter.nl/" target="_blank" title="Netherlands eScience Center">
-        <img src="/about/images/nesc.png" alt="Netherlands eScience Center logo" class="logo-image">
+          <img src="/about/images/nesc.png" alt="Netherlands eScience Center logo" class="logo-image">
         </a>
         </div>
         <div class="col-md-4 logo-container">
         <a href="https://www.nwo.nl/en" target="_blank" title="NWO (Dutch Research Council)">
-        <img src="/about/images/NWO-logo.jpeg" alt="NWO logo" class="logo-image">
+          <img src="/about/images/NWO-logo.jpeg" alt="NWO logo" class="logo-image">
         </a>
         </div>
         </div>
@@ -83,18 +81,17 @@ sections:
 
         ### Partners
 
-        <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-start">
         <div class="col-md-8 text-start">
-        <div class="row justify-content-center mt-4">
-        <div class="col-md-4 logo-container">
+        <div class="row justify-content-start mt-4">
+         <div class="col-md-4 logo-container">
         <a href="https://www.software.ac.uk/" target="_blank" title="Software Sustainability Institute">
-        <img src="/about/images/SSI_PRIMARY-LOGO.svg" alt="Software Sustainability Institute logo" class="logo-image">
+          <img src="/about/images/SSI_PRIMARY-LOGO.svg" alt="Software Sustainability Institute logo" class="logo-image">
         </a>
         </div>
         </div>
         </div>
         </div>
-
 
         *Interested in sponsoring IRSC? Learn more about IRSC26 [sponsorship opportunities](https://www.researchsoft.org/irsc/sponsorship/) or [contact ReSA](mailto:info@researchsoft.org).*
 
