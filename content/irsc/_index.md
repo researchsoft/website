@@ -65,11 +65,11 @@ sections:
         <div style="text-align: center;">
 
         <a href="https://www.esciencecenter.nl/">
-        <img src="content/about/membership/images/nesc.png " height="60" style="margin: 15px;">
+        <img src="/content/about/membership/images/nesc.png" height="60" style="margin: 15px;">
         </a>
 
         <a href="https://www.nwo.nl/en">
-        <img src="content/about/membership/images/NWO-logo.jpeg" height="60" style="margin: 15px;">
+        <img src="/content/about/membership/images/NWO-logo.jpeg" height="60" style="margin: 15px;">
         </a>
 
         </div>
@@ -79,7 +79,7 @@ sections:
         <div style="text-align: center;">
 
         <a href="https://www.software.ac.uk/">
-        <img src="content/about/membership/images/SSI_PRIMARY-LOGO.svg" height="50" style="margin: 15px;">
+        <img src="/content/about/membership/images/SSI_PRIMARY-LOGO.svg" height="50" style="margin: 15px;">
         </a>
 
         </div>
