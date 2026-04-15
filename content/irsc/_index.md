@@ -56,32 +56,43 @@ sections:
 
         </div>
 
-        ## IRSC26 Sponsors
-
+         - block: markdown
+        content:
+        title: IRSC26 Sponsors
+        text: |
         We gratefully acknowledge the support of our sponsors and partners.
 
         ### Bronze Sponsors
 
-        <div style="text-align: center;">
-
-        <a href="https://www.esciencecenter.nl/">
-        <img src="/content/about/membership/images/nesc.png" height="60" style="margin: 15px;" alt="Netherlands eScience Center">
+        <div class="d-flex justify-content-center">
+        <div class="col-md-8 text-start">
+        <div class="row justify-content-center mt-5">
+        <div class="col-md-4 logo-container">
+        <a href="https://www.esciencecenter.nl/" target="_blank" title="Netherlands eScience Center">
+        <img src="/about/images/nesc.png" alt="Netherlands eScience Center logo" class="logo-image">
         </a>
-
-        <a href="https://www.nwo.nl/en">
-        <img src="/content/about/membership/images/NWO-logo.jpeg" height="60" style="margin: 15px;" alt="NWO">
+        </div>
+        <div class="col-md-4 logo-container">
+        <a href="https://www.nwo.nl/en" target="_blank" title="NWO (Dutch Research Council)">
+        <img src="/about/images/NWO-logo.jpeg" alt="NWO logo" class="logo-image">
         </a>
-
+        </div>
+        </div>
+        </div>
         </div>
 
         ### Partners
 
-        <div style="text-align: center;">
-
-        <a href="https://www.software.ac.uk/">
-        <img src="/content/about/membership/images/SSI_PRIMARY-LOGO.svg" height="50" style="margin: 15px;" alt="Software Sustainability Institute">
+        <div class="d-flex justify-content-center">
+        <div class="col-md-8 text-start">
+        <div class="row justify-content-center mt-4">
+        <div class="col-md-4 logo-container">
+        <a href="https://www.software.ac.uk/" target="_blank" title="Software Sustainability Institute">
+        <img src="/about/images/SSI_PRIMARY-LOGO.svg" alt="Software Sustainability Institute logo" class="logo-image">
         </a>
-
+        </div>
+        </div>
+        </div>
         </div>
 
 
