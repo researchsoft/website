@@ -58,7 +58,7 @@ sections:
 
         ## IRSC26 Sponsors
 
-        We gratefully acknowledge the support of our sponsors and partners.
+        We gratefully acknowledge the support of our founding sponsors and partners.
 
         ### Bronze Sponsors
 
