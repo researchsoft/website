@@ -44,6 +44,8 @@ sections:
 
         <a href="/irsc/about/" class="btn btn-outline-primary btn-lg" style="width:100%;">About IRSC</a>
 
+        <a href="[/irsc/venue-travel/" class="btn btn-outline-primary btn-lg](https://www.eventbrite.com/e/international-research-software-conference-irsc-tickets-1984767208148?aff=oddtdtcreator)" style="width:100%;">Register</a>
+
         <a href="https://docs.google.com/document/d/1T01d_KNCp3QiWXbCgU2uZMQG4sOFqsb1u1r5FiCQP-M/edit?tab=t.0" class="btn btn-outline-primary btn-lg" style="width:100%;">Agenda</a>
 
         <a href="/irsc/venue-travel/" class="btn btn-outline-primary btn-lg" style="width:100%;">Venue & Travel</a>
