@@ -56,6 +56,45 @@ sections:
 
         </div>
 
+        ## IRSC26 Sponsors
+
+        We gratefully acknowledge the support of our founding sponsors and partners.
+
+        ### Bronze Sponsors
+
+        <div class="d-flex justify-content-start">
+        <div class="col-md-8 text-start">
+         <div class="row justify-content-start mt-2">
+        <div class="col-md-4 logo-container">
+        <a href="https://www.esciencecenter.nl/" target="_blank" title="Netherlands eScience Center">
+          <img src="/about/images/nesc.png" alt="Netherlands eScience Center logo" class="logo-image">
+        </a>
+        </div>
+        <div class="col-md-4 logo-container">
+        <a href="https://www.nwo.nl/en" target="_blank" title="NWO (Dutch Research Council)">
+          <img src="/about/images/NWO-logo.jpeg" alt="NWO logo" class="logo-image">
+        </a>
+        </div>
+        </div>
+        </div>
+        </div>
+
+        ### Partners
+
+        <div class="d-flex justify-content-start">
+        <div class="col-md-8 text-start">
+        <div class="row justify-content-start mt-2">
+         <div class="col-md-4 logo-container">
+        <a href="https://www.software.ac.uk/" target="_blank" title="Software Sustainability Institute">
+          <img src="/about/images/SSI_PRIMARY-LOGO.png" alt="Software Sustainability Institute logo" class="logo-image">
+        </a>
+        </div>
+        </div>
+        </div>
+        </div>
+
+        *Interested in sponsoring IRSC? Learn more about IRSC26 [sponsorship opportunities](https://www.researchsoft.org/irsc/sponsorship/) or [contact ReSA](mailto:info@researchsoft.org).*
+
         ---
 
         </div>
