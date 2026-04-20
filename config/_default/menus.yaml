@@ -159,30 +159,34 @@ main:
     name: '<span style="font-size: 1rem;">Home</span>'
     url: irsc
     weight: 72
+ - parent: '<span style="font-size: 1.2rem;">IRSC</span>'
+    name: '<span style="font-size: 1rem;">Register</span>'
+    url: https://www.eventbrite.com/e/international-research-software-conference-irsc-tickets-1984767208148?aff=oddtdtcreator
+    weight: 73
   - parent: '<span style="font-size: 1.2rem;">IRSC</span>'
     name: '<span style="font-size: 1rem;">About IRSC</span>'
     url: irsc/about
-    weight: 73
+    weight: 74
   - parent: '<span style="font-size: 1.2rem;">IRSC</span>'
     name: '<span style="font-size: 1rem;">Agenda</span>'
     url: https://docs.google.com/document/d/1T01d_KNCp3QiWXbCgU2uZMQG4sOFqsb1u1r5FiCQP-M/edit?tab=t.0
-    weight: 74
+    weight: 75
   - parent: '<span style="font-size: 1.2rem;">IRSC</span>'
     name: '<span style="font-size: 1rem;">Venue & Travel</span>'
     url: irsc/venue-travel
-    weight: 75
+    weight: 76
   - parent: '<span style="font-size: 1.2rem;">IRSC</span>'
     name: '<span style="font-size: 1rem;">Call for Proposals</span>'
     url: irsc/proposals
-    weight: 76
+    weight: 77
   - parent: '<span style="font-size: 1.2rem;">IRSC</span>'
     name: '<span style="font-size: 1rem;">Program Committee</span>'
     url: irsc/program-committee
-    weight: 77
+    weight: 78
   - parent: '<span style="font-size: 1.2rem;">IRSC</span>'
     name: '<span style="font-size: 1rem;">Sponsorship</span>'
     url: irsc/sponsorship
-    weight: 78
+    weight: 79
     
   - name: "<i class='fab fa-github fa-2x'></i>"
     url: https://github.com/researchsoft/website
