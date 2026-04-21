@@ -44,7 +44,7 @@ The group then identified a set of gaps in existing infrastructure[^2]. Represen
 
 ---
 
-* ***Project:*** New relation types will be incorporated into an upcoming version of the DataCite metadata schema to support indicating reference publications for software (and other resource types), and to support interlinking between datasets and the software that produced them, making accurate citation of software by datasets possible. In several other cases, major changes are required to increase support for improved credit attribution, which will not be a quick process.  
+* ***Project:*** New relation types will be explored for an upcoming version of the DataCite metadata schema to support indicating reference publications for software (and other resource types), and to support interlinking between datasets and the software that produced them, making accurate citation of software by datasets possible. In several other cases, major changes are required to increase support for improved credit attribution, which will not be a quick process.  
   ***Expected Impact**:* Connecting software to the proper reference publication in a machine-actionable manner will increase the accuracy of software citations to include both the version of the software and the reference publication. Connecting software to datasets allows accurate citation of software by the datasets it produces. Improving the flexibility of DataCite to support contributor types relevant to software enables those who contributed to the software receive more accurate credit when the software is cited.
 
 ---
