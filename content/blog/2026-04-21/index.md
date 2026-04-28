@@ -3,7 +3,16 @@ title: "Improvements to Software Citation Infrastructure: Coming Soon to Your So
 subtitle: ""
 date: '2026-04-21'
 authors:
-  - name: Rebecca Ringuette, Maria Gould, Daniel Garijo, Jonathan Starr, Alex Ioannidis
+  - name: Rebecca Ringuette
+    orcid: https://orcid.org/0000-0003-0875-2023
+  - name: Daniel Garijo
+    orcid: https://orcid.org/0000-0003-0454-7145
+  - name: Jonathan Starr
+    orcid: https://orcid.org/0009-0007-1887-5410
+  - name: Maria Gould
+    orcid: https://orcid.org/0000-0002-2916-3423
+  - name: Alex Ioannidis
+    orcid: https://orcid.org/0000-0002-5082-6404
 
 categories:
 
