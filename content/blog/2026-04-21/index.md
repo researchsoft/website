@@ -23,7 +23,7 @@ draft: false
 
 By [Rebecca Ringuette](https://orcid.org/0000-0003-0875-2023) (1,2), [Daniel Garijo](https://orcid.org/0000-0003-0454-7145) (3), [Jonathan Starr](https://orcid.org/0009-0007-1887-5410) (4), [Maria Gould](https://orcid.org/0000-0002-2916-3423) (5), [Alex Ioannidis](https://orcid.org/0000-0002-5082-6404) (6).
 
-1 [Heliophysics Data and Model Consortium](https://ror.org/04xbq1n92_)<br>
+1 [Heliophysics Data and Model Consortium](https://ror.org/04xbq1n92)<br>
 2 [University of Maryland, Baltimore County](https://ror.org/02qskvh78)<br>
 3 [Universidad Politécnica de Madrid](https://ror.org/03n6nwv02), on behalf of [CodeMeta](https://codemeta.github.io/)<br>
 4 [NumFocus](https://ror.org/004eyxv41)<br>
