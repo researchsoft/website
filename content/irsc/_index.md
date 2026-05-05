@@ -62,6 +62,20 @@ sections:
 
         We gratefully acknowledge the support of our founding sponsors and partners.
 
+        ### Silver Sponsors
+
+        <div class="d-flex justify-content-start">
+        <div class="col-md-8 text-start">
+         <div class="row justify-content-start mt-2">
+        <div class="col-md-4 logo-container">
+        <a href="https://www.schmidtsciences.org/" target="_blank" title="Schmidt Sciences">
+          <img src="/about/images/schmidtsciences_primary_color.png" alt="Schmidt Sciences logo" class="logo-image">
+        </a>
+        </div>
+        </div>
+        </div>
+        </div>
+
         ### Bronze Sponsors
 
         <div class="d-flex justify-content-start">
