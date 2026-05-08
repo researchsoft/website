@@ -70,7 +70,7 @@ sections:
         - Hugo Gruson*, data.org, <https://orcid.org/0000-0002-4094-1476>
         - Neil Chue Hong*, University of Edinburgh / Software Sustainability Institute, <https://orcid.org/0000-0002-8876-7606> 
         - Saranjeet Kaur Bhogal*, Research Software Alliance, <https://orcid.org/0000-0002-7038-1457>
-        - Stephan Druskat* (chair), German Aerospace Center (DLR), <https://orcid.org/0000-0003-4925-7248>, [stephan.druskat@dlr.de](mailto:stephan.druskat@dlr.de)
+        - Stephan Druskat* (chair), German Aerospace Center (DLR), <https://orcid.org/0000-0003-4925-7248>, [stephan.druskat@sigsoft.org](mailto:stephan.druskat@sigsoft.org)
 
         ### Joining the Task Force
 
