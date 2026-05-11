@@ -91,6 +91,11 @@ sections:
           <img src="/about/images/NWO-logo.jpeg" alt="NWO logo" class="logo-image">
         </a>
         </div>
+        <div class="col-md-4 logo-container">
+        <a href="https://society-rse.org/">
+        <img src="/irsc/SocRSE.png" alt="Society of Research Software Engineering" class="SocRSE logo">
+        </a>
+        </div>
         </div>
         </div>
         </div>
