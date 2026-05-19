@@ -59,6 +59,7 @@ sections:
 
         - Aalto University  
         - Argonne National Lab  
+        - Center for Open-Source Research Software Stewardship and Advancement (CORSA)
         - CHAOSS  
         - CodeRefinery  
         - CSC - IT Center for Science  
@@ -86,7 +87,6 @@ sections:
         - University College London (UCL)  
         - University of Alabama  
         - University of Edinburgh  
-        - University of Illinois  
         - University of Potsdam  
         - University of Würzburg  
         - URSSI  
