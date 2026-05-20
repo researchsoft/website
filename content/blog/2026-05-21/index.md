@@ -18,6 +18,7 @@ categories:
 summary: "Read more..."
 draft: false
 ---
+![My Image](IRSC26-Banner.png)
 
 By [Kim Hartley](https://orcid.org/0000-0002-4345-9044), [Michelle Barker](https://orcid.org/0000-0002-3623-172X), [Selina Aragon](https://orcid.org/0000-0001-9938-0522), [Neil Chue Hong](https://orcid.org/0000-0002-8876-7606)
 
@@ -34,10 +35,8 @@ Through its [Collaborations Workshop](https://www.software.ac.uk/collaborations-
 <blockquote>
   <p>
   “IRSC is an important and timely opportunity to bring the international research software community together around a shared agenda: recognising research software as essential research infrastructure, supporting the people who develop and maintain it, and strengthening the policies and practices that enable it to thrive. SSI is delighted to partner with ReSA in helping to shape and deliver this inaugural conference.”
+     - Neil Chue Hong, Director, Software Sustainability Institute
      </p>
-  <footer> 
-    - Neil Chue Hong, Director, Software Sustainability Institute
-      </footer>
 </blockquote>
 
 This partnership reflects that shared commitment. Neil Chue Hong also serves on the [ReSA Steering Committee](https://www.researchsoft.org/about/governance/) and chairs its financial subcommittee, further strengthening ties between the organisations. In addition, [Kyro Hartzenberg](https://www.software.ac.uk/our-people/kyro-hartzenberg), SSI Event Manager, is providing in-kind support for IRSC26, contributing valuable expertise to the delivery of the conference.
