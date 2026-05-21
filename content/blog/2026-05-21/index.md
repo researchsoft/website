@@ -35,7 +35,8 @@ Through its [Collaborations Workshop](https://www.software.ac.uk/collaborations-
 <blockquote>
   <p>
   “IRSC is an important and timely opportunity to bring the international research software community together around a shared agenda: recognising research software as essential research infrastructure, supporting the people who develop and maintain it, and strengthening the policies and practices that enable it to thrive. SSI is delighted to partner with ReSA in helping to shape and deliver this inaugural conference.”
-     - Neil Chue Hong, Director, Software Sustainability Institute
+     <br>
+    — Neil Chue Hong, Director, Software Sustainability Institute
      </p>
 </blockquote>
 
