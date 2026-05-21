@@ -20,7 +20,7 @@ draft: false
 ---
 ![My Image](IRSC26-Banner.png)
 
-[DOI: 10.59350/t6g1y-m1470](https://doi.org/10.59350/zsf8t-42j72)
+[DOI: 10.59350/zsf8t-42j72](https://doi.org/10.59350/zsf8t-42j72)
 
 _This blog post has been cross-posted by the [Software Sustainability Institute](https://www.software.ac.uk/blog/resa-and-ssi-partner-inaugural-international-research-software-conference-irsc)_
 
