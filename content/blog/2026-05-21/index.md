@@ -20,6 +20,11 @@ draft: false
 ---
 ![My Image](IRSC26-Banner.png)
 
+[DOI: 10.59350/t6g1y-m1470](https://doi.org/10.59350/zsf8t-42j72)
+
+This blog past has been cross-posted by the [Software Sustainability Institute](https://www.software.ac.uk/blog/resa-and-ssi-partner-inaugural-international-research-software-conference-irsc)
+
+
 By [Kim Hartley](https://orcid.org/0000-0002-4345-9044), [Michelle Barker](https://orcid.org/0000-0002-3623-172X), [Selina Aragon](https://orcid.org/0000-0001-9938-0522), [Neil Chue Hong](https://orcid.org/0000-0002-8876-7606)
 
 Building on a longstanding collaboration, ReSA is delighted to partner with the [Software Sustainability Institute (SSI)](https://www.software.ac.uk/) for the first [International Research Software Conference (IRSC)](https://www.researchsoft.org/irsc/).
