@@ -1,7 +1,7 @@
 ---
 title: "ReSA and SSI partner on the inaugural International Research Software Conference (IRSC)"
 subtitle: ""
-date: '2026-05-20'
+date: '2026-05-21'
 authors:
   - name: Kim Hartley 
     orcid: https://orcid.org/0000-0002-4345-9044
