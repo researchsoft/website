@@ -28,8 +28,6 @@ draft: false
 
 Authors: [Stephan Druskat](https://orcid.org/0000-0003-4925-7248), [Michelle Barker](https://orcid.org/0000-0002-3623-172X), [Ian Cosden](https://orcid.org/0000-0003-3780-9172), [Cunliang Geng](https://orcid.org/0000-0002-1409-8358), [Robert Haines](https://orcid.org/0000-0002-9538-7919), [Daniel S. Katz](https://orcid.org/0000-0001-5934-7525), [Joseph Shingleton](https://orcid.org/0000-0002-1628-3231), [Ben van Werkhoven](https://orcid.org/0000-0002-7508-3272)  
 
-28 May 2026  
-
 [10.5281/zenodo.20320178](https://doi.org/10.5281/zenodo.20320178)
 
   > *Research software and its creators have long played a critical role in the advancement of research worldwide. This role is changing in the age of “generative AI” (GenAI), but both the software and the people remain of key importance. Understanding these changes is essential in enabling Research Software Engineers (RSEs) to continue contributing the same high value to the research process and its outputs.*
