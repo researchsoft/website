@@ -111,9 +111,9 @@ MB and DSK were supported to undertake this work as part of Schmidt Sciences gra
 \[14\]	L. Nordling, ‘How ChatGPT is transforming the postdoc experience’, *Nature*, vol. 622, no. 7983, pp. 655–657, Oct. 2023, doi: 10.1038/d41586-023-03235-8.   
 \[15\]	G. O’Brien, ‘How Scientists Use Large Language Models to Program’, in *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems*, Yokohama Japan: ACM, Apr. 2025, pp. 1–16. doi: 10.1145/3706598.3713668.   
 \[16\]	M. Barker *et al.*, ‘Software and skills for research computing in the UK’, Zenodo, Jan. 2024\. doi: 10.5281/ZENODO.10473186.   
-\[17\]	D. Kempf *et al.*, ‘Establishing central Research Software Engineering units in German research institutions’, 2025, \[Online\]. Available: https://de-rse.org/2023\_paper-RSE-groups/paper.pdf   
+\[17\]	D. Kempf *et al.*, ‘Establishing central Research Software Engineering units in German research institutions’, 2025, \[Online\]. Available: [https://derse.org/2023\_paper-RSE-groups/paper.pdf ](https://de-rse.org/2023_paper-RSE-groups/paper.pdf)  
 \[18\]	LCRDM, ‘Professionalizing the role of Research Software Engineers in the Netherlands’, Zenodo, Mar. 2025\. doi: 10.5281/ZENODO.15019998.   
-\[19\]	ADSA and US-RSE, ‘Position Statement on Generative AI in the RSE Workplace’. Accessed: Apr. 28, 2026\. \[Online\]. Available: https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/blob/main/RSE-AI-Final\_Statement.md   
+\[19\]	ADSA and US-RSE, ‘Position Statement on Generative AI in the RSE Workplace’. Accessed: Apr. 28, 2026\. \[Online\]. Available: [https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/blob/main/RSE-AI-Final\_Statement.md  ](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/blob/main/RSE-AI-Final_Statement.md) 
 \[20\]	S. Gesing, ‘RSEs 2035: Surviving or Thriving in the Age of AI’, in *2025 IEEE International Conference on eScience (eScience)*, Chicago, IL, USA: IEEE, Sep. 2025, pp. 381–382. doi: 10.1109/eScience65000.2025.00081.   
 \[21\]	P. Leather, D. Silver, and S. Frezza, ‘Software engineering role archetypes’, presented at the IEEE SWEBOK Summit 2026, Apr. 2026\. \[Online\]. Available: https://conf.researchr.org/details/icse-2026/swebok-2026/5/Talk-Software-engineering-role-archetypes-mapping-knowledge-skills-and-competenci 
 
