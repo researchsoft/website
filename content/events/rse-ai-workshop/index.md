@@ -55,9 +55,16 @@ sections:
 
         The workshop participants also developed an informal [list of resources](https://docs.google.com/document/d/1hBz9pRYwDJLwWMzBgkcrYLe7Ug3aaigHdXjRJ5JhrrE/edit?tab=t.0) relevant to these topics, both before and during the workshop.
 
-        The 37 workshop participants were selected to represent a cross-section of early adopters and supporters of innovative AI tooling in research organisations. This representation was not exhaustive, and this was acknowledged and explored during the workshop. ReSA was supported to undertake this work as part of [Schmidt Sciences](https://www.schmidtsciences.org/) grant G-25-69965, with local support from the Software Sustainability Institute.
+        **Workshop outputs**
+
+        - **Research Software Engineering in the Age of Generative AI: Building a Community Vision report**: [https://doi.org/10.5281/zenodo.20320884](https://doi.org/10.5281/zenodo.20320884)  
+        - **Research Software in an Age of AI-Assisted Development: Reflections from Edinburgh:** [https://doi.org/10.5281/zenodo.20321134](https://doi.org/10.5281/zenodo.20321134)  
+        - **Research Software Engineers in the Age of GenAI: Same Value, Changing Practice:** [https://doi.org/10.5281/zenodo.20320178](https://doi.org/10.5281/zenodo.20320178)  
+            - ReSA blog: [https://www.researchsoft.org/blog/2026-05-28/](https://www.researchsoft.org/blog/2026-05-28/)
 
         **Participants**
+
+        The 37 workshop participants were selected to represent a cross-section of early adopters and supporters of innovative AI tooling in research organisations. This representation was not exhaustive, and this was acknowledged and explored during the workshop. 
 
         - Samantha Ahern – UCL / SocRSE / The Carpentries
         - Michelle Barker – Research Software Alliance
@@ -97,8 +104,9 @@ sections:
         - Sherry Wu – Carnegie Mellon University
         - Yo Yehudi – OLS
 
+        ReSA was supported to undertake this work as part of [Schmidt Sciences](https://www.schmidtsciences.org/) grant G-25-69965, with local support from the Software Sustainability Institute.
 
-        To stay up to date on the more detailed workshop outputs still to come, subscribe to the [ReSA newsletter](https://www.researchsoft.org/news/). 
+        To stay up to date on future outputs and related activities, subscribe to the [ReSA newsletter](https://www.researchsoft.org/news/). 
      
          </div>
         </div>
