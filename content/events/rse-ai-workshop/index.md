@@ -64,7 +64,7 @@ sections:
 
         **Participants**
 
-        The 37 workshop participants were selected to represent a cross-section of early adopters and supporters of innovative AI tooling in research organisations. This representation was not exhaustive, and this was acknowledged and explored during the workshop. ReSA was supported to undertake this work as part of [Schmidt Sciences](https://www.schmidtsciences.org/) grant G-25-69965, with local support from the Software Sustainability Institute.
+        The 37 workshop participants were selected to represent a cross-section of early adopters and supporters of innovative AI tooling in research organisations. This representation was not exhaustive, and this was acknowledged and explored during the workshop. 
 
         - Samantha Ahern – UCL / SocRSE / The Carpentries
         - Michelle Barker – Research Software Alliance
@@ -104,6 +104,7 @@ sections:
         - Sherry Wu – Carnegie Mellon University
         - Yo Yehudi – OLS
 
+        ReSA was supported to undertake this work as part of [Schmidt Sciences](https://www.schmidtsciences.org/) grant G-25-69965, with local support from the Software Sustainability Institute.
 
         To stay up to date on future outputs and related activities, subscribe to the [ReSA newsletter](https://www.researchsoft.org/news/). 
      
