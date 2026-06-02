@@ -209,71 +209,112 @@ sections:
         <div class="d-flex justify-content-center">
         <div class="col-md-8 text-start">
         <br>
+        <div class="d-flex justify-content-center">
+        <div class="col-md-8 text-start">
+  
         <div class="row justify-content-center mt-5">
-            <div class="col-md-4 logo-container">
-                <a href="https://chanzuckerberg.com/" target="_blank" title="Chan Zuckerberg Initiative">
-                    <img src="/about/images/CZI_Logo.jpg" alt="Chan Zuckerberg Initiative" class="logo-image">
-                </a>
-            </div>
-            <div class="col-md-4 logo-container">
-                <a href="https://sloan.org/" target="_blank" title="Sloan Foundation">
-                    <img src="/about/images/Sloan-logo.png" alt="Sloan logo" class="logo-image">
-                </a>
-            </div>
-            <div class="col-md-4 logo-container">
-                <a href="https://stfc.ukri.org/" target="_blank" title="STFC">
-                    <img src="/about/images/STFC+logo.png" alt="STFC logo" class="logo-image">
-                </a>
-            </div>
+        <div class="col-md-4 logo-container">
+        <a href="https://sloan.org/" target="_blank" title="Sloan Foundation">
+          <img src="/about/images/Sloan-logo.png" alt="Sloan logo" class="logo-image">
+        </a>
         </div>
+
+        <div class="col-md-4 logo-container">
+        <a href="https://ardc.edu.au/" target="_blank" title="ARDC">
+          <img src="/about/membership/images/ARDC_logo_RGB.png" alt="ARDC logo" class="logo-image">
+        </a>
+        </div>
+
+        <div class="col-md-4 logo-container">
+        <a href="https://astera.org/" target="_blank" title="Astera">
+          <img src="/about/membership/images/AsteraLogo.png" alt="Astera logo" class="logo-image">
+        </a>
+        </div>
+        </div>
+
         <div class="row justify-content-center mt-5">
-            <div class="col-md-4 logo-container">
-                <a href="https://www.illinois.edu/" target="_blank" title="University of Illinois">
-                    <img src="/about/images/illinois-logo-internal-collaboration.png" alt="University of Illinois logo" class="logo-image">
-                </a>
-            </div>
-            <div class="col-md-4 logo-container">
-                <a href="https://www.berkeley.edu/" target="_blank" title="UC Berkeley">
-                    <img src="images/UCBerkeley_wordmark_blue.png" alt="UC Berkeley logo" class="logo-image">
-                </a>
-            </div>
-            <div class="col-md-4 logo-container">
-                <a href="https://carpentries.org" target="_blank" title="The Carpentries">
-                    <img src="images/Carpentries.png" alt="The Carpentries" class="logo-image">
-                </a>
-            </div>
+        <div class="col-md-4 logo-container">
+          <a href="https://www.berkeley.edu/" target="_blank" title="UC Berkeley">
+          <img src="images/UCBerkeley_wordmark_blue.png" alt="UC Berkeley logo" class="logo-image">
+        </a>
         </div>
+
+        <div class="col-md-4 logo-container">
+        <a href="https://carpentries.org" target="_blank" title="The Carpentries">
+          <img src="images/Carpentries.png" alt="The Carpentries logo" class="logo-image">
+        </a>
+        </div>
+
+        <div class="col-md-4 logo-container">
+        <a href="https://chanzuckerberg.com/" target="_blank" title="Chan Zuckerberg Initiative">
+          <img src="/about/images/CZI_Logo.jpg" alt="CZI logo" class="logo-image">
+        </a>
+        </div>
+        </div>
+  
         <div class="row justify-content-center mt-5">
-            <div class="col-md-4 logo-container">
-                <a href="https://www.fordfoundation.org/" target="_blank" title="Ford Foundation" class="no-logo-text">
-                    Ford Foundation
-                </a>
-            </div>
-            <div class="col-md-4 logo-container">
-                <a href="https://www.moore.org/" target="_blank" title="Moore Foundation">
-                    <img src="images/moore-logo-color-small.png" alt="Moore Foundation logo" class="logo-image">
-                </a>
-            </div>
-            <div class="col-md-4 logo-container">
-                <a href="https://www.rdc-drc.ca/" target="_blank" title="RDC DRC">
-                    <img src="images/rdc-logo.png" alt="RDC DRC logo" class="logo-image">
-                </a>
-            </div>
+        <div class="col-md-4 logo-container">
+        <a href="https://www.fordfoundation.org/" target="_blank" title="Ford Foundation" class="no-logo-text">
+          Ford Foundation
+        </a>
         </div>
+
+        <div class="col-md-4 logo-container">
+        <a href="https://www.illinois.edu/" target="_blank" title="University of Illinois">
+          <img src="/about/images/illinois-logo-internal-collaboration.png" alt="University of Illinois logo" class="logo-image">
+        </a>
+        </div>
+
+        <div class="col-md-4 logo-container">
+        <a href="https://www.moore.org/" target="_blank" title="Moore Foundation">
+          <img src="images/moore-logo-color-small.png" alt="Moore Foundation logo" class="logo-image">
+        </a>
+        </div>
+        </div>
+
         <div class="row justify-content-center mt-5">
-          <div class="col-md-4 logo-container">
-              <a href="https://www.stanford.edu/" target="_blank" title="Stanford University">
-                  <img src="images/stanford-university-stacked.png" alt="Stanford logo" class="logo-image">
-              </a>
-          </div>
-          <div class="col-md-4 logo-container">
-              <a href="https://wellcome.org/" target="_blank" title="Wellcome Trust">
-                  <img src="images/Wellcome-logo.png" alt="Wellcome Trust logo" class="logo-image">
-              </a>
-          </div>
+        <div class="col-md-4 logo-container">
+        <a href="https://www.nasa.gov/" target="_blank" title="NASA" class="no-logo-text">
+          NASA
+        </a>
+        </div>
+
+        <div class="col-md-4 logo-container">
+        <a href="https://www.nesi.org.nz/" target="_blank" title="NeSI">
+          <img src="/about/membership/images/NeSI.png" alt="NeSI logo" class="logo-image">
+        </a>
+        </div>
+
+        <div class="col-md-4 logo-container">
+        <a href="https://www.rdc-drc.ca/" target="_blank" title="RDC DRC">
+          <img src="images/rdc-logo.png" alt="RDC DRC logo" class="logo-image">
+        </a>
         </div>
         </div>
-        </div>  
+
+        <div class="row justify-content-center mt-5">
+        <div class="col-md-4 logo-container">
+          <a href="https://www.stanford.edu/" target="_blank" title="Stanford University">
+          <img src="images/stanford-university-stacked.png" alt="Stanford logo" class="logo-image">
+        </a>
+        </div>
+
+        <div class="col-md-4 logo-container">
+        <a href="https://stfc.ukri.org/" target="_blank" title="STFC">
+          <img src="/about/images/STFC+logo.png" alt="STFC logo" class="logo-image">
+        </a>
+        </div>
+
+        <div class="col-md-4 logo-container">
+        <a href="https://wellcome.org" target="_blank" title="Wellcome Trust">
+          <img src="images/Wellcome-logo.png" alt="Wellcome logo" class="logo-image">
+        </a>
+        </div>
+        </div>
+
+        </div>
+        </div>
+             
     design:
       background:
         color: "#ffffff"
