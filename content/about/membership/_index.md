@@ -69,7 +69,7 @@ sections:
         
 
         <div class="row">
-          <img src="images/ReSAOrganisationalMember.jpg">
+          <img src="images/ReSAOrganisationalMember.jpg" alt="ReSA Organisational Member logo">
         </div>
          </div>
         </div>  
