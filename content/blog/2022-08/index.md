@@ -148,6 +148,6 @@ We look forward to seeing the results of these steps, which we think will lead t
   * [FAIR4RS Principles v1.0 on Zenodo](https://doi.org/10.15497/RDA00068)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
+  * [ReSA resources](/resource/resa-resources)
+  * [Contact us](/about/contact)
   

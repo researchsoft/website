@@ -67,4 +67,4 @@ _Image by pch.vector on_ [_Freepik_](https://www.freepik.com/free-vector/tiny-bu
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
   * [RDA newsletters](https://www.rd-alliance.org/news-stories/newsletters/)
-  * [Contact us](/contact)
+  * [Contact us](/about/contact)

@@ -72,5 +72,5 @@ _This blog post has benefitted from the suggestions and feedback by [Michelle Ba
   * [Event website APAN55](https://apan55.apan.net/)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
+  * [ReSA resources](/resource/resa-resources)
+  * [Contact us](/about/contact)

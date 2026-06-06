@@ -37,7 +37,7 @@ Research software is increasingly valued in the research ecosystem, and internat
 
 In 2022, the ReSA Founding Members will provide a combination of funding and in-kind support totalling USD$365,000. This will support a multitude of community projects, including:
 
-* [Vive la différence - research software engineers](/events/events-past/2022-04/), a [Lorentz Center](https://www.lorentzcenter.nl/about-us.html) hybrid workshop in April 2022 to consider diversity, equity, and inclusion could be framed at the heart of research software engineering.
+* [Vive la différence - research software engineers](/events/2022-04/), a [Lorentz Center](https://www.lorentzcenter.nl/about-us.html) hybrid workshop in April 2022 to consider diversity, equity, and inclusion could be framed at the heart of research software engineering.
 * Establishment of the [Research Software Funders Forum](/forums/funders-forum/) to provide a formal mechanism for funders to share practices and consider how to address common challenges to achieve the significant cultural change needed across the research sector globally. Thirty funders from all over the world are participating in this initiative.
 * Expansion of the mapping of the research software community landscape to expand the [2020 analysis](https://doi.org/10.5281/zenodo.3699949) to include more geographic regions. Twelve experts from around the globe will provide information on the research software initiatives, events and funding opportunities in their own geographic regions.
 
