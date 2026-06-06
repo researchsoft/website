@@ -30,6 +30,14 @@ IgnoreURLs:
   # Common patterns that may cause issues
   - "fonts.googleapis.com"
   - "fonts.gstatic.com"
+  # Sites that work in browsers but fail under htmltest (bot blocks,
+  # TLS handshake quirks, slow responses, content negotiation, transient 5xx)
+  - "unsplash.com"           # returns 401 to automated clients
+  - "metadocencia.org"       # slow, exceeds ExternalTimeout
+  - "blog.esciencecenter.nl" # TLS handshake failure under htmltest
+  - "alliancecan.ca"         # 429 rate limiting
+  - "w3id.org"               # 406 content negotiation
+  - "apan55.apan.net"        # transient 500
 
 # Ignore specific status codes
 IgnoreHTTPStatusCodes:
