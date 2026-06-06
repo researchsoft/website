@@ -41,7 +41,7 @@ sections:
         - Create a range of [outputs](/resource/resa-resources/) that
         provide useful references to support recognition and valuing of research
         software as a key component of research.
-        - Co-convene [events](/events/events-current/) with international
+        - Co-convene [events](/events/) with international
         collaborators.
         - Share [best practices](/resource/guidelines/) for the
         recognition of research software and the people who develop and maintain it.

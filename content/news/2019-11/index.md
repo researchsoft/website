@@ -23,7 +23,7 @@ The mission of the [Research Software Alliance](/) (ReSA) is to bring research s
 
 ReSA is inviting members of the [ReSA google group](https://groups.google.com/g/research-software-alliance) to participate in the pilot phase of this work, by adding details of research software organisations, initiatives, programs, projects, grants, communities of practice, networks, journals, conferences, etc. to this survey. Please provide responses to the survey by Friday 6 December 2019.
 
-After the pilot phase, the survey will be more broadly shared within the research software sector. ReSA plans to use this understanding to write an article to educate the research community about the importance of software, and/or to find areas to involve additional representatives in ReSA. Information submitted to this survey will be publicly available. Respondent’s details are anonymous unless respondents choose to provide their own email address. If you have any questions then please [contact Matthias Liffers](matthias.liffers@ardc.edu.au).
+After the pilot phase, the survey will be more broadly shared within the research software sector. ReSA plans to use this understanding to write an article to educate the research community about the importance of software, and/or to find areas to involve additional representatives in ReSA. Information submitted to this survey will be publicly available. Respondent’s details are anonymous unless respondents choose to provide their own email address. If you have any questions then please [contact Matthias Liffers](mailto:matthias.liffers@ardc.edu.au).
 
 ### UKRI strategy recognises the critical role of software in Research
 
