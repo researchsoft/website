@@ -96,6 +96,10 @@ sections:
         <img src="/irsc/SocRSE.png" alt="Society of Research Software Engineering" class="SocRSE logo">
         </a>
         </div>
+            <div class="row justify-content-center mt-5">
+                    <div class="col-md-4 logo-container">
+                <a href="https://www.nih.gov" class="no-logo-text">U.S. National Institutes of Health (NIH)</a>
+                </div>
         </div>
         </div>
         </div>
