@@ -110,11 +110,11 @@ sections:
           <img src="/about/images/SSI_PRIMARY-LOGO.png" alt="Software Sustainability Institute logo" class="logo-image">
         </a>
         </div>
-           <div class="col-md-4 logo-container">
-              <a href="https://www.ncsa.illinois.edu/">
-                <img src="images/NCSA.png" alt="NCSA logo" class="logo-image">
-              </a>
-            </div>
+        <div class="col-md-4 logo-container">
+                <a href="https://www.ncsa.illinois.edu">
+                    <img src="/about/membership/images/NCSA.png" alt="NCSA" class="logo-image">
+                </a>
+                </div>
         </div>
         </div>
         </div>
