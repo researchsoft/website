@@ -84,7 +84,7 @@ sections:
 
         <div class="col-md-4 logo-container">
         <a href="https://www.nih.gov" class="no-logo-text">
-        U.S. National Institutes of Health
+        National Institutes of Health
         </a>
         </div>
 
