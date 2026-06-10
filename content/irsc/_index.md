@@ -82,6 +82,8 @@ sections:
 
         </div>
 
+        ---
+
         ## IRSC26 Sponsors
 
         We gratefully acknowledge the support of our founding sponsors and partners.
