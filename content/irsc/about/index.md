@@ -32,7 +32,7 @@ sections:
 
         **7–8 September 2026 | Sheffield, UK & online, co-located with [RSECon26](https://rsecon26.society-rse.org/)**
 
-        Save the date and join a global gathering of leaders and change-makers working to advance global shifts toward strategic coordination, long-term sustainability, and high-level collaboration across the research software community.
+        [Registration](https://www.eventbrite.com/e/international-research-software-conference-irsc-tickets-1984767208148?%20%20aff=oddtdtcreator) is now open for IRSC26. Join a global gathering of leaders and change-makers working to advance global shifts toward strategic coordination, long-term sustainability, and high-level collaboration across the research software community.
 
         [Join the IRSC mailing list](https://preview.mailerlite.io/forms/778129/164453536097109381/share) for updates  
 
