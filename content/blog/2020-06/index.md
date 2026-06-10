@@ -112,7 +112,7 @@ We encourage readers to submit additional resources to the ReSA resources list, 
   * URSSI [blog post](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
+  * [ReSA resources](/resource/resa-resources)
+  * [Contact us](/about/contact)
 
 _Want to discuss this post with us? Send us an email via [contact us](/about/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._

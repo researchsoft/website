@@ -11,7 +11,7 @@ sections:
       title:
       text:   |
         <p align=center>
-          <img src="uploads/resa-logo-inverted.svg" width="45%">
+          <img src="uploads/resa-logo-inverted.svg" width="45%" alt="Research Software Alliance (ReSA) logo">
         </p>
 
           Our vision: Research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide
@@ -64,9 +64,9 @@ sections:
           - Receiving updates through our regular [newsletter](news)
           - Encouraging your organisation to become an [Organisational Member](about/membership), support a [task force](taskforces/tf-support), or make a [donation](about/donate)
           - Helping to raise awareness of the importance of software in research through use of [ReSA resources](resource/resa-resources)
-          - Connecting with other community members through our [Linked In](https://www.linkedin.com/company/research-software-alliance/) or at our [events](events/resa-events) 
+          - Connecting with other community members through our [Linked In](https://www.linkedin.com/company/research-software-alliance/) or at our [events](events) 
           - Joining the ReSA [Slack](https://researchsoft.slack.com/join/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w#/shared-invite/email) for decision-makers and key influencers to share what's happening in the community
-          - [Contributing](about/contact) [resources](resource/resa-resources) and [guidelines](resource/guidelines); ideas for [task forces](taskforces), [events](events/resa-events) and [news](news); or if you have other ideas for ReSA then [let us know](about/contact). 
+          - [Contributing](about/contact) [resources](resource/resa-resources) and [guidelines](resource/guidelines); ideas for [task forces](taskforces), [events](events) and [news](news); or if you have other ideas for ReSA then [let us know](about/contact). 
 
           We look forward to welcoming you! 
          </div>
@@ -84,17 +84,17 @@ sections:
          <div class="col-md-8 text-start">
           <div class="row">
             <div class="col-md-4">
-              <img src="uploads/theme-people.png">
+              <img src="uploads/theme-people.png" alt="People">
               <h2 align="center">People</h2>
               <p align="center">Enhance social infrastructure for individuals and communities to improve software practices</p>
             </div>  
             <div class="col-md-4">
-              <img src="uploads/theme-infrastructure.png">
+              <img src="uploads/theme-infrastructure.png" alt="Infrastructure">
               <h2 align="center">Infrastructure</h2>
               <p align="center">Identify and promote needed infrastructure</p>
             </div>
             <div class="col-md-4">
-              <img src="uploads/theme-policies.jpg">
+              <img src="uploads/theme-policies.jpg" alt="Policy">
               <h2 align="center">Policy</h2>
               <p align="center">Encourage and support software recognition</p>
             </div>

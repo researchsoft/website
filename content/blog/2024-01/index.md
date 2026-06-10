@@ -25,6 +25,6 @@ Citation: Hartley, Kim & Barker, Michelle (2024). Research Software Alliance Com
 ### Important links
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
+  * [ReSA resources](/resource/resa-resources)
+  * [Contact us](/about/contact)
   

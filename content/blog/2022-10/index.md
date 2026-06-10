@@ -74,5 +74,5 @@ This work was supported by the Wellcome Trust grant [222436/Z/21/Z].
   * Martinez, Paula Andrea. (2022). Research Software Funders Global South [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.7179867](https://doi.org/10.5281/zenodo.7179867)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
+  * [ReSA resources](/resource/resa-resources)
+  * [Contact us](/about/contact)

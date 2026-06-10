@@ -27,6 +27,6 @@ Citation: Hartley, Kim & Barker, Michelle (2023). Research Software Alliance - 2
   * [Event website](https://future-of-research-software.org)
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
+  * [ReSA resources](/resource/resa-resources)
+  * [Contact us](/about/contact)
   * [Download the report](https://doi.org/10.5281/zenodo.7683174)

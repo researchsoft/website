@@ -46,7 +46,7 @@ One regional initiative that plays a role in providing a local community of prac
 
 Talarify is looking forward to continuing working closely with ReSA, RSSE Africa, and various other global and local partners to amplify the voice of African RSSEs and create local awareness of existing resources, opportunities, communities, and more!
 
-## <a name="_yoypd7mpba0n"></a>African Research Projects and Organisations with RSSE components
+## African Research Projects and Organisations with RSSE components
 
 This list highlights some initiatives with significant RSSE components to help craft a better understanding of the tremendous role of RSSEs in Africa. This is by no means an exhaustive list. It excludes numerous outstanding and hugely impactful research initiatives across many countries (most notably those in Francophone, Arabophone, and Lusophone regions) and a wide variety of disciplines.
 

@@ -54,9 +54,9 @@ sections:
         - Receiving updates through our regular [newsletter](/news)  
         - Encouraging your organisation to become an [Organisational Member](https://www.researchsoft.org/about/membership), [support a task force](/taskforces/tf-support), or             make a [donation](/taskforces/tf-support)  
         - Helping to raise awareness of the importance of software in research through use of [ReSA resources](/resource/resa-resources)  
-        - Connecting with other community members through our [LinkedIn](https://www.linkedin.com/company/research-software-alliance/) or at our [events](/events/resa-events)  
+        - Connecting with other community members through our [LinkedIn](https://www.linkedin.com/company/research-software-alliance/) or at our [events](/events/)  
         - Joining the [ReSA Slack](https://researchsoft.slack.com/join/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w#/shared-invite/email) for decision-makers and key influencers to share what’s                  happening in the community  
-        - Contributing [resources](/resource/resa-resources) and [guidelines](/resource/guidelines); ideas for [task forces](/taskforces), [events](/events/resa-events), and [news](/news); or if you have other ideas for ReSA then [let us know](mailto:info@researchsoft.org)  
+        - Contributing [resources](/resource/resa-resources) and [guidelines](/resource/guidelines); ideas for [task forces](/taskforces), [events](/events/), and [news](/news); or if you have other ideas for ReSA then [let us know](mailto:info@researchsoft.org)  
 
        
          </div>

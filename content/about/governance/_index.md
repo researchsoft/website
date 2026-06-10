@@ -33,7 +33,7 @@ sections:
         <div class="row">
           <div class="col-md-4" style="margin: 0 auto; text-align: center;">
             <div style="display: flex; justify-content: center;">
-              <img src="dan.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+              <img src="dan.jpg" alt="Daniel S. Katz" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
             </div>
             <h2 align="center"><b>Chair: Daniel S. Katz</b></h2>
             <p align="center"><b>Chief Scientist, National Center for Supercomputing Applications (NCSA), University of Illinois</b></p>
@@ -43,7 +43,7 @@ sections:
 
           <div class="col-md-4" style="margin: 0 auto; text-align: center;">
             <div style="display: flex; justify-content: center;">
-              <img src="caxton.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+              <img src="caxton.jpg" alt="Caxton Murira" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
             </div> 
             <h2 align="center"><b>Caxton Murira</b></h2>
             <p align="center"><b>Product Specialist, Team Lead, Clinical Research and Trials Community (CRTC) programme at the Science for Africa Foundation</b></p>
@@ -53,7 +53,7 @@ sections:
 
           <div class="col-md-4" style="margin: 0 auto; text-align: center;">
             <div style="display: flex; justify-content: center;">
-              <img src="Colette.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+              <img src="Colette.jpg" alt="Colette Bos" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
             </div>  
             <h2 align="center"><b>Colette Bos</b></h2>
             <p align="center"><b>Programme Director, Netherlands eScience Center</b></p>
@@ -69,7 +69,7 @@ sections:
         <div class="row">
           <div class="col-md-4" style="margin: 0 auto; text-align: center;">
             <div style="display: flex; justify-content: center;">
-              <img src="juan.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+              <img src="juan.jpg" alt="Juan Bicarregui" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
             </div>             
             <h2 align="center"><b>Juan Bicarregui</b></h2>
             <p align="center"><b>Head of the Data Division, Science and Technology Facilities Council (STFC)</b></p>
@@ -79,7 +79,7 @@ sections:
 
           <div class="col-md-4" style="margin: 0 auto; text-align: center;">
             <div style="display: flex; justify-content: center;">
-              <img src="neil.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+              <img src="neil.jpg" alt="Neil Chue Hong" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
             </div> 
             <h2 align="center"><b>Neil Chue Hong</b></h2>
             <p align="center"><b>Director, Software Sustainability Institute, University of Edinburgh</b></p>
@@ -89,7 +89,7 @@ sections:
 
           <div class="col-md-4" style="margin: 0 auto; text-align: center;">            
             <div style="display: flex; justify-content: center;">
-              <img src="nico.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+              <img src="nico.jpg" alt="Nicolás Palopoli" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
             </div> 
             <h2 align="center"><b>Nicolás Palopoli</b></h2>
             <p align="center"><b>Adjunct Researcher, National Research Council in Argentina (CONICET)</b></p>
@@ -105,7 +105,7 @@ sections:
         <div class="row">
           <div class="col-md-4" style="margin: 0 auto; text-align: center;">
             <div style="display: flex; justify-content: center;">
-             <img src="shurui.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+             <img src="shurui.jpg" alt="Shurui Zhou" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
             </div> 
             <h2 align="center"><b>Shurui Zhou</b></h2>
             <p align="center"><b>Assistant Professor, The University of Toronto</b></p>

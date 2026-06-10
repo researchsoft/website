@@ -29,7 +29,7 @@ Image courtesy of icon king1 from [freeicons.io](https://freeicons.io/finances-a
 
 # Methodology
 
-There are multiple ways in which analysis of research software funding could be undertaken, such as by type of funder<sup>1</sup>, by country<sup>2</sup>, research discipline<sup>3</sup>, type of output<sup>4</sup>, etc. Life cycle stages were chosen here as analyses have repeatedly identified challenges in obtaining funding for the life cycle stage focused on maintaining research software (Knowles, Mateen, and Yehudi 2021; Sufi et al. 2020), yet there is little international data to support this.
+There are multiple ways in which analysis of research software funding could be undertaken, such as by type of funder[^1], by country[^2], research discipline[^3], type of output[^4], etc. Life cycle stages were chosen here as analyses have repeatedly identified challenges in obtaining funding for the life cycle stage focused on maintaining research software (Knowles, Mateen, and Yehudi 2021; Sufi et al. 2020), yet there is little international data to support this.
 
 The following key terms are defined as follows:
 
@@ -148,13 +148,13 @@ This work was supported by the Alfred P. Sloan Foundation, grant G-2021-17001.â€
 - UKRI. 2020. &quot;The UK&#39;s Research and Innovation Infrastructure: Landscape Analysis.&quot; https://www.ukri.org/wp-content/uploads/2020/10/UKRI-201020-LandscapeAnalysis-FINAL.pdf.
 
 ----
-[1](#sdfootnote1anc) Invest in Open Infrastructure are utilising this approach for their analysis of open infrastructure providers (Dunks 2021a).
+[^1]: Invest in Open Infrastructure are utilising this approach for their analysis of open infrastructure providers (Dunks 2021a).
 
-[2](#sdfootnote2anc) This approach is commonly used for analysing investment in research infrastructures (e.g., Barker et al. 2019; Ficarra et al. 2020).
+[^2]: This approach is commonly used for analysing investment in research infrastructures (e.g., Barker et al. 2019; Ficarra et al. 2020).
 
-[3](#sdfootnote3anc) This framework is often applied to examinations of research infrastructure funding (.e.g, Asmi et al. 2019).
+[^3]: This framework is often applied to examinations of research infrastructure funding (.e.g, Asmi et al. 2019).
 
-[4](#sdfootnote4anc) Open hardware funding can be classified as supporting outputs in four categories: community-related outputs, documentation, hardware and usage or adoption (GOSH 2021b).
+[^4]: Open hardware funding can be classified as supporting outputs in four categories: community-related outputs, documentation, hardware and usage or adoption (GOSH 2021b).
 
 ----
 
@@ -169,7 +169,7 @@ This work was supported by the Alfred P. Sloan Foundation, grant G-2021-17001.â€
 
   * [Sign up for the ReSA mailing list](https://landing.mailerlite.com/webforms/landing/i5e1h2)
   * [ReSA newsletters](/news)
-  * [ReSA resources](/resa-resources)
-  * [Contact us](/contact)
+  * [ReSA resources](/resource/resa-resources)
+  * [Contact us](/about/contact)
 
 _Want to discuss this post with us? Send us an email via [contact us](/about/contact/) or a message via [Twitter @researchsoft](https://twitter.com/researchsoft)._
