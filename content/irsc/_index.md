@@ -30,9 +30,33 @@ sections:
         <div class="d-flex justify-content-center">
           <div class="col-md-8 text-start">
 
-        **7–8 September 2026 | Sheffield, UK & online, co-located with [RSECon26](https://rsecon26.society-rse.org/)**
+        <div class="border border-primary rounded p-4 my-4 bg-light">
+        <strong>
+        Registration for the International Research Software Conference (IRSC) is now open via <a href="https://www.eventbrite.com/e/international-research-software-conference-irsc-tickets-1984767208148?  aff=oddtdtcreator">Eventbrite</a>!
+        </strong>
+        <p class="mb-0 mt-2">
+        <strong>7–8 September 2026</strong> | Sheffield, UK (with remote participation available), co-located with <a href="https://rsecon26.society-rse.org/">RSECon26</a>
+        </p>
+        </div>
 
-        Save the date and join a global gathering of leaders and change-makers working to advance global shifts toward strategic coordination, long-term sustainability, and high-level collaboration across the research software community.
+        **Research software is essential to research, but sustaining it requires global coordination. IRSC brings together leaders and decision-makers to shape the future of research software.**
+
+        Research software underpins modern research, yet the software and the people who develop and maintain it often lack sustainable funding, recognition, and support. As research becomes increasingly global, addressing these challenges requires coordination.
+
+        The research software community is entering a new phase – one focused on aligning global policies and funding, sustaining essential infrastructure, recognising and equipping its diverse workforce, responsibly integrating AI, improving how software impact is measured, and ensuring interoperability through open, standards-based infrastructure.
+
+        IRSC brings together leaders and decision-makers from organisations, initiatives, and communities shaping the future of research software, including national and international RSE associations, infrastructure providers, funders, policymakers, publishers, university consortia and research organisations, and open science and open source communities worldwide.
+
+        Together, they support this shift toward strategic coordination, long-term sustainability, and collaboration across borders by fostering:
+
+        ***Global cohesion***  
+        Highlight cross-border, cross-sector, and cross-discipline collaboration to build new bridges across the global research software landscape
+
+        ***Community connection***  
+        Showcase stakeholder stories, collaboration highlights, and best practices to connect with peers and unite efforts
+
+        ***Strategic impact***  
+        Influence funding, policy, and research priorities; and showcase leadership within the research software community and broader movements (e.g. open science, FAIR, research assessment reform, open source)  
 
         [Join the IRSC mailing list](https://preview.mailerlite.io/forms/778129/164453536097109381/share) for updates  
 
