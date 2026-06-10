@@ -93,13 +93,16 @@ sections:
         </div>
         <div class="col-md-4 logo-container">
         <a href="https://society-rse.org/">
-        <img src="/irsc/SocRSE.png" alt="Society of Research Software Engineering" class="SocRSE logo">
+        <img src="/irsc/SocRSE.png" alt="Society of Research Software Engineering logo" class="logo-image"">
         </a>
         </div>
-            <div class="row justify-content-center mt-5">
-                    <div class="col-md-4 logo-container">
-                <a href="https://www.nih.gov" class="no-logo-text">U.S. National Institutes of Health (NIH)</a>
-                </div>
+       
+        <div class="row justify-content-start mt-5">
+        <div class="col-md-4">
+        <a href="https://www.nih.gov" target="_blank" class="no-logo-text">
+          U.S. National Institutes of Health (NIH)
+        </a>
+        </div>
         </div>
         </div>
         </div>
