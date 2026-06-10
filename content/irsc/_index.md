@@ -30,9 +30,14 @@ sections:
         <div class="d-flex justify-content-center">
           <div class="col-md-8 text-start">
 
-        Registration for the International Research Software Conference (IRSC) is now open via [Eventbrite](https://www.eventbrite.com/e/international-research-software-conference-irsc-tickets-1984767208148?aff=oddtdtcreator)\! 
-
-        7–8 September 2026 | Sheffield, UK (with remote participation available), co-located with [RSECon26](https://rsecon26.society-rse.org/)
+        <div class="border border-primary rounded p-4 my-4 bg-light">
+        <strong>
+        Registration for the International Research Software Conference (IRSC) is now open via <a href="https://www.eventbrite.com/e/international-research-software-conference-irsc-tickets-1984767208148?  aff=oddtdtcreator">Eventbrite</a>!
+        </strong>
+        <p class="mb-0 mt-2">
+        <strong>7–8 September 2026</strong> | Sheffield, UK (with remote participation available), co-located with <a href="https://rsecon26.society-rse.org/">RSECon26</a>
+        </p>
+        </div>
 
         **Research software is essential to research, but sustaining it requires global coordination. IRSC brings together leaders and decision-makers to shape the future of research software.**
 
