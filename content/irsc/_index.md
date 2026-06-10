@@ -80,25 +80,39 @@ sections:
 
         <div class="d-flex justify-content-start">
         <div class="col-md-8 text-start">
-         <div class="row justify-content-start mt-2">
+        <div class="row justify-content-start mt-2">
+
+        <div class="col-md-4 logo-container">
+        <a href="https://www.nih.gov" class="no-logo-text">
+        National Institutes of Health
+        </a>
+        </div>
+
         <div class="col-md-4 logo-container">
         <a href="https://www.esciencecenter.nl/" target="_blank" title="Netherlands eScience Center">
           <img src="/about/images/nesc.png" alt="Netherlands eScience Center logo" class="logo-image">
         </a>
         </div>
+
         <div class="col-md-4 logo-container">
         <a href="https://www.nwo.nl/en" target="_blank" title="NWO (Dutch Research Council)">
           <img src="/about/images/NWO-logo.jpeg" alt="NWO logo" class="logo-image">
         </a>
         </div>
-        <div class="col-md-4 logo-container">
-        <a href="https://society-rse.org/">
-        <img src="/irsc/SocRSE.png" alt="Society of Research Software Engineering" class="SocRSE logo">
+
+        <div class="col-md-4 logo-container mt-4">
+          <a href="https://society-rse.org/">
+          <img src="/irsc/SocRSE.png"
+               alt="Society of Research Software Engineering"
+               class="logo-image">
         </a>
         </div>
+
         </div>
         </div>
         </div>
+
+
 
         ### Partners
 
