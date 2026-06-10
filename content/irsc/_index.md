@@ -30,7 +30,7 @@ sections:
         <div class="d-flex justify-content-center">
           <div class="col-md-8 text-start">
 
-        <div class="border border-primary rounded p-4 my-4 bg-light">
+        <div class="border border-primary rounded p-4 mt-0 mb-4 bg-light">
         <strong>
         Registration for the International Research Software Conference (IRSC) is now open via <a href="https://www.eventbrite.com/e/international-research-software-conference-irsc-tickets-1984767208148?  aff=oddtdtcreator">Eventbrite</a>!
         </strong>
