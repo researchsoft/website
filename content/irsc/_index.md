@@ -93,7 +93,7 @@ sections:
         </div>
         <div class="col-md-4 logo-container">
         <a href="https://society-rse.org/">
-        <img src="/irsc/SocRSE.png" alt="Society of Research Software Engineering logo" class="logo-image"">
+        <img src="/irsc/SocRSE.png" alt="Society of Research Software Engineering logo" class="logo-image">
         </a>
         </div>
        
