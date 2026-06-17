@@ -73,14 +73,51 @@ else
     fi
 fi
 
-# Create temporary config if testing a subdirectory
+# Build a temporary config so we can point at a subdirectory (if requested)
+# and dynamically skip stale content (see below).
+TEMP_CONFIG=$(mktemp)
 if [ "$TEST_DIR" != "public" ]; then
-    TEMP_CONFIG=$(mktemp)
     sed "s|DirectoryPath: \"public\"|DirectoryPath: \"$TEST_DIR\"|" .htmltest.yml > "$TEMP_CONFIG"
-    CONFIG_FLAG="--conf $TEMP_CONFIG"
 else
-    CONFIG_FLAG=""
+    cp .htmltest.yml "$TEMP_CONFIG"
 fi
+CONFIG_FLAG="--conf $TEMP_CONFIG"
+
+# Skip blog posts and event pages more than two years old. htmltest has no
+# date awareness, so we work out the cutoff here and add each stale page's
+# output directory to IgnoreDirs. The age comes from the page's front-matter
+# `date` (authoritative — folder names don't always match it); the ignore
+# pattern uses the folder name, which is the published URL slug.
+OLD_PAGES=$(mktemp)
+# Cutoff = two years ago today. ISO dates sort lexicographically, so we can
+# compare as strings and avoid GNU/BSD `date` arithmetic differences.
+CUTOFF="$(( $(date +%Y) - 2 ))-$(date +%m-%d)"
+for section in blog events; do
+    [ -d "content/$section" ] || continue
+    for dir in content/"$section"/*/; do
+        [ -f "${dir}index.md" ] || continue
+        slug=$(basename "$dir")
+        raw=$(grep -m1 -E '^date:' "${dir}index.md" \
+            | sed -E 's/^date:[[:space:]]*"?([0-9-]+)"?.*/\1/')
+        [ -n "$raw" ] || continue
+        # Normalise partial dates (YYYY or YYYY-MM) to a full ISO date.
+        case "$raw" in
+            [0-9][0-9][0-9][0-9])             date="$raw-01-01" ;;
+            [0-9][0-9][0-9][0-9]-[0-9][0-9])  date="$raw-01" ;;
+            *)                                date="$raw" ;;
+        esac
+        if [[ "$date" < "$CUTOFF" ]]; then
+            printf '  - "(^|/)%s/%s(/|$)"\n' "$section" "$slug" >> "$OLD_PAGES"
+        fi
+    done
+done
+# Insert the generated patterns immediately after the IgnoreDirs: key so they
+# land inside that list regardless of where it sits in the config.
+awk -v f="$OLD_PAGES" '
+    { print }
+    /^IgnoreDirs:/ { while ((getline line < f) > 0) print line; close(f) }
+' "$TEMP_CONFIG" > "$TEMP_CONFIG.new" && mv "$TEMP_CONFIG.new" "$TEMP_CONFIG"
+rm -f "$OLD_PAGES"
 
 # Run htmltest and filter output in real-time to reduce noise
 # Add patterns to ignore below (one per line for easy editing)
@@ -105,7 +142,7 @@ $HTMLTEST_CMD $CONFIG_FLAG 2>&1 | grep -v \
 HTMLTEST_EXIT=${PIPESTATUS[0]}
 set -e
 
-[ -n "$TEMP_CONFIG" ] && rm -f "$TEMP_CONFIG"
+rm -f "$TEMP_CONFIG"
 
 if [ $HTMLTEST_EXIT -eq 0 ]; then
     echo ""
