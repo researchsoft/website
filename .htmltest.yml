@@ -41,6 +41,7 @@ IgnoreURLs:
 
 # Ignore specific status codes
 IgnoreHTTPStatusCodes:
+  - 202  # Accepted (some sites return this for automated requests)
   - 403  # Forbidden (some sites block automated requests)
   - 429  # Too many requests
   - 999  # LinkedIn uses this to block bots
