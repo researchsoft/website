@@ -27,41 +27,40 @@ sections:
     content:
       title: ""
       text: |
-        <div class="d-flex justify-content-center">
-          <div class="col-md-8 text-start">
-
+        <div class="container">
+        <div class="row justify-content-center">
+        <div class="col-md-10">
 
         ## Keynote speakers
-     
+
         <div class="row">
+        <div class="col-md-6">
 
-        <div>
+        ![Riva Quiroga](/irsc/riva-quiroga.jpg)
 
-        ![Riva Quiroga]()
-
-        ## Riva Quiroga
+        ### Riva Quiroga
 
         Research Software Engineer, educator, and open science advocate.
 
         </div>
-
-        <div>
+        <div class="col-md-6">
 
         ![Stefano Zacchiroli](/irsc/SZ-image.jpg)
 
-        ## Stefano Zacchiroli
+        ### Stefano Zacchiroli
 
         Polytechnic Institute of Paris & Software Heritage
-    
+
+        </div>
+        </div>
+
         ## IRSC schedule
 
-        The full IRSC schedule is available [ADD]  and will be updated as programme details are confirmed.
-      
+        The full IRSC schedule is available [here](ADD-GOOGLE-DOC-LINK-HERE) and will be updated as programme details are confirmed.
 
         </div>
-
         </div>
-   
+        </div>
 
         ---
 
