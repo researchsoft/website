@@ -8,10 +8,10 @@ sections:
     content:
       title: ""
       text: |
-        <span class="irsc-title">IRSC26 Schedule</span>
+        <span class="irsc-title">IRSC Schedule</span>
         {style="color: white; font-size: 2rem; text-align: center; "}
-        design:
-        background:
+    design:
+      background:
         image:
           filename: irsc-banner.png
           filters:
@@ -20,16 +20,8 @@ sections:
           position: bottom
           size: cover
         text_color_light: false
-          spacing:
-          padding: ["4rem", "2rem"]
-
-        - block: markdown
-        content:
-        title: ""
-        text: |
-        <a href="https://docs.google.com/document/d/1Y2veNrNu32I4vOJlWBoTYZqtlppnpaFmYdn2HvGrtw4/edit?tab=t.0" style="display:block; padding:1rem; border:1px solid #ddd; border-radius:8px; text-decoration:none; text-align:center;">
-          View the IRSC conference schedule
-        </a>
+      spacing:
+        padding: ["4rem", "2rem"]
 
   - block: markdown
     content:
