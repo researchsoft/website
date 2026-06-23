@@ -48,11 +48,11 @@ sections:
 
         This new event recognises that the international research software community is moving towards aligning global policies and funding, sustaining essential infrastructure, recognizing and equipping its diverse workforce, responsibly integrating AI, improving how software impact is measured, and ensuring interoperability through open, standards-based infrastructure.  
 
-        This event aims to support the evolution of this shift toward strategic coordination, long-term sustainability, and collaboration across boundaries.
+        This event aims to support the evolution of this shift in a rapidly changing technological landscape toward strategic coordination, long-term sustainability, and collaboration across boundaries.
 
         The conference will foster:
 
-        - **Global cohesion**: Highlight cross-border, cross-sector, and cross-discipline collaboration to build new bridges across the global research software landscape  
+        - **Global cohesion**: Highlight cross-border, cross-sector, and cross-discipline collaboration to build new bridges across the global research software landscape, and to respond to AI opportunities and challenges
         - **Community connection**: Showcase stakeholder stories, collaboration highlights, and best practices to connect with peers and unite efforts  
         - **Strategic impact**: Influence funding, policy, and research priorities; and showcase leadership within the research software community and broader movements (e.g. open science, FAIR, research assessment reform, open source)  
 
@@ -107,7 +107,7 @@ sections:
         ## Acknowledgements 
         In 2024, ReSA engaged with key stakeholders in order to identify and recommend one or more community-supported routes for convening the first-ever international research software conference. This [report](https://doi.org/10.5281/zenodo.14736835) summarises the findings of the scoping activity.
 
-        ReSA has been supported to undertake this work as part of Alfred P. Sloan Foundation grant 2024-22426, [Research Software Alliance: Catalyzing community-led collaborations](https://doi.org/10.5281/zenodo.10927375)
+        ReSA was supported to undertake the scoping for this conference as part of Alfred P. Sloan Foundation grant 2024-22426, [Research Software Alliance: Catalyzing community-led collaborations](https://doi.org/10.5281/zenodo.10927375)
 
         </div>
         </div>
