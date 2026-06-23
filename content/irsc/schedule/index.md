@@ -35,9 +35,6 @@ sections:
         <strong>
         IRSC26 <a href="https://docs.google.com/document/d/1Y2veNrNu32I4vOJlWBoTYZqtlppnpaFmYdn2HvGrtw4/edit?tab=t.0</a>!
         </strong>
-        <p class="mb-0 mt-2">
-        <strong>7–8 September 2026</strong> | Sheffield, UK (with remote participation available), co-located with <a href="https://rsecon26.society-rse.org/">RSECon26</a>
-        </p>
         </div>
 
         ## Keynote speakers
