@@ -50,7 +50,7 @@ sections:
         Together, they support this shift in a rapidly changing technological landscape toward strategic coordination, long-term sustainability, and collaboration across borders by fostering:
 
         ***Global cohesion***  
-        Highlight cross-border, cross-sector, and cross-discipline collaboration to build new bridges across the global research software landscape to respond to AI opportunities and challenges
+        Highlight cross-border, cross-sector, and cross-discipline collaboration to build new bridges across the global research software landscape, and to respond to AI opportunities and challenges
 
         ***Community connection***  
         Showcase stakeholder stories, collaboration highlights, and best practices to connect with peers and unite efforts
