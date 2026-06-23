@@ -31,6 +31,15 @@ sections:
         <div class="row justify-content-center">
         <div class="col-md-10">
 
+        <div class="border border-primary rounded p-4 mt-0 mb-4 bg-light">
+        <strong>
+        IRSC26 <a href="https://docs.google.com/document/d/1Y2veNrNu32I4vOJlWBoTYZqtlppnpaFmYdn2HvGrtw4/edit?tab=t.0</a>!
+        </strong>
+        <p class="mb-0 mt-2">
+        <strong>7–8 September 2026</strong> | Sheffield, UK (with remote participation available), co-located with <a href="https://rsecon26.society-rse.org/">RSECon26</a>
+        </p>
+        </div>
+
         ## Keynote speakers
 
         <div class="row">
@@ -59,7 +68,10 @@ sections:
 
         ## IRSC schedule
 
-        The full IRSC schedule is available [here](ADD-GOOGLE-DOC-LINK-HERE) and will be updated as programme details are confirmed.
+        Research software is essential to research, but sustaining it requires global coordination. The [International Research Software Conference (IRSC)](https://www.researchsoft.org/irsc/) brings together leaders and decision-makers to shape the future of research software in the age of generative AI.
+
+        IRSC26 is a global gathering of the research software community featuring keynote talks by Riva Quiroga and Stefano Zacchiroli. The [programme](https://docs.google.com/document/d/1Y2veNrNu32I4vOJlWBoTYZqtlppnpaFmYdn2HvGrtw4/edit?tab=t.0) includes contributions from more than 50 organisations, 10 Birds of a Feather (BoF) sessions, more than 20 talks, more than 10 lightning talks, and plenary discussions and community reflections focused on the challenges and opportunities facing research software worldwide.
+
 
         </div>
         </div>
