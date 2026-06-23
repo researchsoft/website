@@ -32,7 +32,7 @@ sections:
 
         **7–8 September 2026 | Sheffield, UK & online, co-located with [RSECon26](https://rsecon26.society-rse.org/)**
 
-        [Registration](https://www.eventbrite.com/e/international-research-software-conference-irsc-tickets-1984767208148?%20%20aff=oddtdtcreator) is now open for IRSC26. Join a global gathering of leaders and change-makers working to advance global shifts toward strategic coordination, long-term sustainability, and high-level collaboration across the research software community.
+        [Registration](https://www.eventbrite.com/e/international-research-software-conference-irsc-tickets-1984767208148?%20%20aff=oddtdtcreator) is now open for IRSC26. Join a global gathering of leaders and change-makers working to advance global shifts toward strategic coordination, long-term sustainability, and high-level collaboration across the research software community in the age of generative AI.
 
         [Join the IRSC mailing list](https://preview.mailerlite.io/forms/778129/164453536097109381/share) for updates  
 
@@ -44,9 +44,9 @@ sections:
 
         Research software is increasingly recognised as critical to research outcomes. Yet research software, and the people who develop and maintain it, operate with tremendously unstable resources and funding. This instability negatively impacts innovation by slowing research and creating unstable career pathways.  
 
-        There is an urgent need for international cooperation that supports research software to solidify next-generation research and innovation.
+        There is an urgent need for international cooperation that supports research software to solidify next-generation research and innovation, particularly in navigating the AI transition.
 
-        This new event recognises that the international research software community is moving towards aligning global policies and funding, sustaining essential infrastructure, recognizing and equipping its diverse workforce, responsibly integrating AI, improving how software impact is measured, and ensuring interoperability through open, standards-based infrastructure.  
+        This new event recognises that the international research software community is moving towards aligning global policies and funding, responsibly integrating AI, sustaining essential infrastructure, recognizing and equipping its diverse workforce, improving how software impact is measured, and ensuring interoperability through open, standards-based infrastructure.  
 
         This event aims to support the evolution of this shift in a rapidly changing technological landscape toward strategic coordination, long-term sustainability, and collaboration across boundaries.
 
