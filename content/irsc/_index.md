@@ -39,24 +39,24 @@ sections:
         </p>
         </div>
 
-        **Research software is essential to research, but sustaining it requires global coordination. IRSC brings together leaders and decision-makers to shape the future of research software.**
+        **Research software is essential to research, but sustaining it requires global coordination. IRSC brings together leaders and decision-makers to shape the future of research software in the age of generative AI.**
 
-        Research software underpins modern research, yet the software and the people who develop and maintain it often lack sustainable funding, recognition, and support. As research becomes increasingly global, addressing these challenges requires coordination.
+        Research software underpins modern research, yet the software and the people who develop and maintain it often lack sustainable funding, recognition, and support. As research becomes increasingly global and AI-enabled, addressing these challenges requires coordination.
 
-        The research software community is entering a new phase – one focused on aligning global policies and funding, sustaining essential infrastructure, recognising and equipping its diverse workforce, responsibly integrating AI, improving how software impact is measured, and ensuring interoperability through open, standards-based infrastructure.
+        The research software community is entering a new phase – one focused on aligning global policies and funding, responsibly integrating AI, sustaining essential infrastructure, recognising and equipping its diverse workforce, improving how software impact is measured, and ensuring interoperability through open, standards-based infrastructure.
 
         IRSC brings together leaders and decision-makers from organisations, initiatives, and communities shaping the future of research software, including national and international RSE associations, infrastructure providers, funders, policymakers, publishers, university consortia and research organisations, and open science and open source communities worldwide.
 
-        Together, they support this shift toward strategic coordination, long-term sustainability, and collaboration across borders by fostering:
+        Together, they support this shift in a rapidly changing technological landscape toward strategic coordination, long-term sustainability, and collaboration across borders by fostering:
 
         ***Global cohesion***  
-        Highlight cross-border, cross-sector, and cross-discipline collaboration to build new bridges across the global research software landscape
+        Highlight cross-border, cross-sector, and cross-discipline collaboration to build new bridges across the global research software landscape to respond to AI opportunities and challenges
 
         ***Community connection***  
         Showcase stakeholder stories, collaboration highlights, and best practices to connect with peers and unite efforts
 
         ***Strategic impact***  
-        Influence funding, policy, and research priorities; and showcase leadership within the research software community and broader movements (e.g. open science, FAIR, research assessment reform, open source)  
+        Influence funding, policy, and research priorities; and showcase leadership within the research software community and broader movements (e.g. GenAI, open science, FAIR, research assessment reform, open source)  
 
         [Join the IRSC mailing list](https://preview.mailerlite.io/forms/778129/164453536097109381/share) for updates  
 
