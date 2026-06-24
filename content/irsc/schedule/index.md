@@ -31,6 +31,20 @@ sections:
         <div class="row justify-content-center">
         <div class="col-md-10">
 
+          <div class="border border-primary rounded p-4 mt-0 mb-4 bg-light">
+          <strong>The IRSC26 program is now available.</strong>
+
+          <p class="mb-0 mt-2">
+            Explore the full conference schedule, keynotes, Birds of a Feather sessions, talks, lightning talks, and more!
+          </p>
+
+          <p class="mb-0 mt-2">
+            <a href="https://docs.google.com/document/d/1Y2veNrNu32I4vOJlWBoTYZqtlppnpaFmYdn2HvGrtw4/edit?tab=t.0" target="_blank">
+              <strong>View the Full Program →</strong>
+            </a>
+          </p>
+        </div>
+
         ## Keynote speakers
 
         <div class="row">
