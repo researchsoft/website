@@ -40,7 +40,7 @@ sections:
 
           <p class="mb-0 mt-2">
             <a href="https://docs.google.com/document/d/1Y2veNrNu32I4vOJlWBoTYZqtlppnpaFmYdn2HvGrtw4/edit?tab=t.0" target="_blank">
-              <strong>View the Full Program →</strong>
+              <strong>View the detailed program →</strong>
             </a>
           </p>
         </div>
