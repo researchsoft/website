@@ -36,7 +36,7 @@ sections:
         <div class="row">
         <div class="col-md-6">
 
-          <img src="/static/uploads/riva-quiroga.png" alt="Riva Quiroga" style="max-width:250px;">
+          <img src="/uploads/riva-quiroga.png" alt="Riva Quiroga" style="max-width:250px;">
 
         ### Riva Quiroga
 
