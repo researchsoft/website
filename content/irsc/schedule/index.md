@@ -36,7 +36,7 @@ sections:
         <div class="row">
         <div class="col-md-6">
 
-        ![Riva Quiroga](/irsc/riva-quiroga.jpg)
+          <img src="/irsc/riva-quiroga.png" alt="Riva Quiroga" style="max-width:250px;">
 
         ### Riva Quiroga
 
