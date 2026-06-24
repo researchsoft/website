@@ -40,7 +40,9 @@ sections:
 
         ### Riva Quiroga
 
-        Research Software Engineer, educator, and open science advocate.
+        *OLS*
+
+        Riva Quiroga is a Research Fellow at OLS, working on understanding the organizational infrastructure needed for the long-term sustainability of open initiatives. She is the co-founder of RSE Chile, a Software Sustainability Institute Fellow, co-chair of Research Software Latinoamérica, and part of the RLadies+ Global Leadership Team. A serial volunteer, she is actively involved in initiatives around research software, open science, open source, and community building.
 
         </div>
         <div class="col-md-6">
@@ -57,11 +59,13 @@ sections:
         </div>
         </div>
 
-        ## IRSC schedule
+        ## Program
 
         Research software is essential to research, but sustaining it requires global coordination. The [International Research Software Conference (IRSC)](https://www.researchsoft.org/irsc/) brings together leaders and decision-makers to shape the future of research software in the age of generative AI.
 
-        IRSC26 is a global gathering of the research software community featuring keynote talks by Riva Quiroga and Stefano Zacchiroli. The [programme](https://docs.google.com/document/d/1Y2veNrNu32I4vOJlWBoTYZqtlppnpaFmYdn2HvGrtw4/edit?tab=t.0) includes contributions from more than 50 organisations, 10 Birds of a Feather (BoF) sessions, more than 20 talks, more than 10 lightning talks, and plenary discussions and community reflections focused on the challenges and opportunities facing research software worldwide.
+         **View the detailed program [here](https://docs.google.com/document/d/1Y2veNrNu32I4vOJlWBoTYZqtlppnpaFmYdn2HvGrtw4/edit?tab=t.0)**
+
+        IRSC26 is a global gathering of the research software community featuring keynote talks by Riva Quiroga and Stefano Zacchiroli. The [program](https://docs.google.com/document/d/1Y2veNrNu32I4vOJlWBoTYZqtlppnpaFmYdn2HvGrtw4/edit?tab=t.0) includes contributions from more than 50 organisations, 10 Birds of a Feather (BoF) sessions, more than 20 talks, more than 10 lightning talks, and plenary discussions and community reflections focused on the challenges and opportunities facing research software worldwide.  
 
 
         </div>
