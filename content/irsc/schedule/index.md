@@ -73,23 +73,14 @@ sections:
         </div>
         </div>
 
-        ## Program
 
-        Research software is essential to research, but sustaining it requires global coordination. The [International Research Software Conference (IRSC)](https://www.researchsoft.org/irsc/) brings together leaders and decision-makers to shape the future of research software in the age of generative AI.
 
-         **View the detailed program [here](https://docs.google.com/document/d/1Y2veNrNu32I4vOJlWBoTYZqtlppnpaFmYdn2HvGrtw4/edit?tab=t.0)**
-
-        IRSC26 is a global gathering of the research software community featuring keynote talks by Riva Quiroga and Stefano Zacchiroli. The [program](https://docs.google.com/document/d/1Y2veNrNu32I4vOJlWBoTYZqtlppnpaFmYdn2HvGrtw4/edit?tab=t.0) includes contributions from more than 50 organisations, 10 Birds of a Feather (BoF) sessions, more than 20 talks, more than 10 lightning talks, and plenary discussions and community reflections focused on the challenges and opportunities facing research software worldwide.  
 
 
         </div>
         </div>
         </div>
 
-        ---
-
-        </div>
-        </div>
     design:
       background:
         color: "#ffffff"
