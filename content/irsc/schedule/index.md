@@ -36,7 +36,7 @@ sections:
         <div class="row">
         <div class="col-md-6">
 
-          <img src="/uploads/riva-quiroga.png" alt="Riva Quiroga" style="max-width:250px;">
+          <img src="/uploads/riva-quiroga.png" alt="Riva Quiroga" style="height:250px;">
 
         ### Riva Quiroga
 
@@ -47,7 +47,7 @@ sections:
         </div>
         <div class="col-md-6">
 
-        <img src="/irsc/SZ-image.jpg" alt="Stefano Zacchiroli" style="max-width:250px;">
+        <img src="/irsc/SZ-image.jpg" alt="Stefano Zacchiroli" style="height:250px;">
 
         ### Stefano Zacchiroli
 
