@@ -8,7 +8,7 @@ sections:
     content:
       title: ""
       text: |
-        <span class="irsc-title">IRSC Schedule</span>
+        <span class="irsc-title">IRSC Program</span>
         {style="color: white; font-size: 2rem; text-align: center; "}
     design:
       background:
