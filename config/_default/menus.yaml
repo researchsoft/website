@@ -168,8 +168,8 @@ main:
     url: https://www.eventbrite.com/e/international-research-software-conference-irsc-tickets-1984767208148?aff=oddtdtcreator
     weight: 74
   - parent: '<span style="font-size: 1.2rem;">IRSC</span>'
-    name: '<span style="font-size: 1rem;">Agenda</span>'
-    url: https://docs.google.com/document/d/1T01d_KNCp3QiWXbCgU2uZMQG4sOFqsb1u1r5FiCQP-M/edit?tab=t.0
+    name: '<span style="font-size: 1rem;">Program</span>'
+    url: irsc/program
     weight: 75
   - parent: '<span style="font-size: 1.2rem;">IRSC</span>'
     name: '<span style="font-size: 1rem;">Venue & Travel</span>'
