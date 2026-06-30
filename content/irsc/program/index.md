@@ -73,6 +73,14 @@ sections:
         </div>
         </div>
 
+        ---
+         ![My Image](/uploads/irsc-sponsors.png)
+
+        <br>
+
+        ---
+
+        <br>
 
 
 
