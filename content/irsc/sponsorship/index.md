@@ -33,6 +33,8 @@ sections:
 
          ![My Image](/uploads/irsc-sponsors.png)
 
+        ---
+
         ## Event Overview
 
         **Event Name:** [International Research Software Conference (IRSC) 2026](https://www.researchsoft.org/irsc/) 
