@@ -106,6 +106,8 @@ sections:
 
         ---
 
+        ## Sponsorship 
+
         We gratefully acknowledge the support of our founding sponsors and partners.
 
         ![IRSC sponsors](/uploads/irsc-sponsors.png)
