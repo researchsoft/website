@@ -31,6 +31,13 @@ sections:
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">
 
+         ![My Image](/uploads/irsc-sponsors.png)
+
+        <br>
+
+        ---
+
+        <br>
 
         ## Event Overview
 
@@ -38,7 +45,7 @@ sections:
 
         **Date:** Monday 7 September \- Tuesday 8 September 2026 
 
-        **Location:** Sheffield, UK
+        **Location:** Sheffield, UK (with remote participation available) 
 
         **Expected Attendance:** \~200 attendees, including 125-150 in-person; 25-50 virtual 
   
