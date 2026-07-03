@@ -34,6 +34,8 @@ sections:
 
         [Registration](https://www.eventbrite.com/e/international-research-software-conference-irsc-tickets-1984767208148?%20%20aff=oddtdtcreator) is now open for IRSC26. Join a global gathering of leaders and change-makers working to advance global shifts toward strategic coordination, long-term sustainability, and high-level collaboration across the research software community in the age of generative AI.
 
+        [View the IRSC26 Program](https://www.researchsoft.org/irsc/program/)
+
         [Join the IRSC mailing list](https://preview.mailerlite.io/forms/778129/164453536097109381/share) for updates  
 
         Join ReSA’s [Slack](https://join.slack.com/t/researchsoft/shared_invite/zt-2jrfi0182-_E_yD0_X8oKoB03zCz2lZA) and connect on the #irsc channel
