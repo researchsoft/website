@@ -37,6 +37,9 @@ sections:
         <p class="mb-0 mt-2">
         <strong>7–8 September 2026</strong> | Sheffield, UK (with remote participation available), co-located with <a href="https://rsecon26.society-rse.org/">RSECon26</a>
         </p>
+        <p class="mb-0">
+        <a href="/irsc/program/"><strong>View the IRSC26 Program</strong></a>
+        </p>
         </div>
 
         **Research software is essential to research, but sustaining it requires global coordination. IRSC brings together leaders and decision-makers to shape the future of research software in the age of generative AI.**
