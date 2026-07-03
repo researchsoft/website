@@ -21,7 +21,7 @@ draft: false
 
 Authors: [Carlos Martinez-Ortiz](https://orcid.org/0000-0001-5565-7577), [Marta Teperek](https://orcid.org/0000-0001-8520-5598), [Lieke de Boer](https://orcid.org/0000-0003-3381-2040), [Burcu Beygu](https://orcid.org/0000-0001-8542-1506) 
 
-![My Image](/uploads/adore.png)
+![My Image](adore.png)
 
 _13 April 2026 · Netherlands eScience Center, Amsterdam_
 
