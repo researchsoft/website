@@ -1,7 +1,7 @@
 ---
 title: "Dutch ADORE.software signatories meet to share progress on research software"
 subtitle: ""
-date: '2026-07-06'
+date: '2026-07-07'
 authors:
   - name: Carlos Martinez-Ortiz
     orcid: https://orcid.org/0000-0001-5565-7577
