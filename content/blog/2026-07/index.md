@@ -23,7 +23,7 @@ Authors: [Carlos Martinez-Ortiz](https://orcid.org/0000-0001-5565-7577), [Marta 
 
 ![My Image](adore.png)
 
-_13 April 2026 · Netherlands eScience Center, Amsterdam_
+_13 April 2026 · Netherlands eScience Center, Amsterdam (Photo by Netherlands eScience Center, CCBY)_
 
 A few years have passed since the [Amsterdam Declaration on Funding Research Software Sustainability (ADORE.software)](https://adore.software/) was first signed, and Dutch signatories gathered at the Netherlands eScience Center to take stock of what has been achieved — and what work remains ahead. Representatives from NWO, ZonMw, the University of Groningen's Centre for Information Technology (CIT-RUG), and the Netherlands eScience Center (NLeSC) came together to exchange updates and explore opportunities for future collaboration.
 
