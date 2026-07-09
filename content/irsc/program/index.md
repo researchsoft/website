@@ -54,7 +54,7 @@ sections:
 
         ### Riva Quiroga
 
-        *OLS*
+        *RSE Chile*
 
         Riva Quiroga is a Research Fellow at OLS, working on understanding the organizational infrastructure needed for the long-term sustainability of open initiatives. She is the co-founder of RSE Chile, a Software Sustainability Institute Fellow, co-chair of Research Software Latinoamérica, and part of the RLadies+ Global Leadership Team. A serial volunteer, she is actively involved in initiatives around research software, open science, open source, and community building.
 
