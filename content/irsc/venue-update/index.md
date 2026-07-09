@@ -1,5 +1,5 @@
 ---
-title: "IRSC26 venue update"
+title: "IRSC26 Venue Update"
 date: 2026-07-09
 type: landing
 
@@ -8,7 +8,7 @@ sections:
     content:
       title:
       text:   |
-        IRSC26 venue update
+        IRSC26 Venue Update
         {style="color: white; font-size: 2rem; text-align: center; "}
     design:
       background:
