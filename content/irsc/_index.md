@@ -36,6 +36,7 @@ sections:
         </strong>
         <p class="mb-0 mt-2">
         <strong>7–8 September 2026</strong> | Sheffield, UK (with remote participation available), co-located with <a href="https://rsecon26.society-rse.org/">RSECon26</a>
+    
         <strong>Venue update:</strong> Read our <a href="/irsc/venue-update/">IRSC 2026 venue update</a>
         </p>
         <br>
