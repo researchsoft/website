@@ -45,7 +45,6 @@ sections:
         - Moana Minami Sato, Japan Science and Technology Agency (JST)
         - Ockmer Oosthuizen, Digital Research Alliance of Canada
         - René Caspart, Karlsruhe Institute of Technology (KIT)
-        - Richard Littauer, CURIOSS & SustainOSS
         - Riva Quiroga, OLS, RSE Chile
         - Romain Thomas, University of Sheffield & SocRSE
         - Sandra Gesing, US-RSE
