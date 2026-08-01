@@ -37,7 +37,7 @@ sections:
 
         The **Research Software Engineering in the Age of Generative AI: Building a Community Vision** workshop, held 25-27 March in Edinburgh, UK, worked towards developing a roadmap for how research software will be produced in the age of Generative AI – independent of today’s specific roles or job titles. 
 
-        The workshop built on the [Alliance for Data Science](https://alliance4datascience.ai/) and AI (ADSA) and [United States Research Software Engineering Association](https://us-rse.org/) (US-RSE)-led [Position Statement on Generative AI in the RSE Workplace](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement) on how GenAI is impacting RSEs, and the vision RSEs have for their profession in this new technological landscape.
+        The workshop built on the [Alliance for Data Science and AI](https://alliance4datascience.ai/) (ADSA) and [United States Research Software Engineering Association](https://us-rse.org/) (US-RSE)-led [Position Statement on Generative AI in the RSE Workplace](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement) on how GenAI is impacting RSEs, and the vision RSEs have for their profession in this new technological landscape.
 
         Through lightning talks, deep critique of a draft vision, and multiple rounds of focused working groups, participants explored future practices, identified opportunities and risks, and identified a range of high-impact pilots to advance safe, reproducible, and effective use of AI in research software and workflows. The areas focused on by working groups included:
 
