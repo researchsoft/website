@@ -46,7 +46,7 @@ sections:
         - Ockmer Oosthuizen, Digital Research Alliance of Canada
         - René Caspart, Karlsruhe Institute of Technology (KIT)
         - Riva Quiroga, OLS, RSE Chile
-        - Romain Thomas, University of Sheffield & SocRSE
+        - Romain Thomas, University of Sheffield
         - Sandra Gesing, US-RSE
         - Shurui Zhou, University of Toronto
         - Stephan Janosch, Max Planck Institute of Molecular Cell Biology and Genetics
