@@ -60,9 +60,9 @@ sections:
         
         
         
-        * Over **2,000 views** and **500 downloads** on Zenodo
-        * Featured in [ReSA’s newsletter](https://www.researchsoft.org/news/) (550+ subscribers)
-        * Shared with ReSA’s [LinkedIn](https://www.linkedin.com/company/research-software-alliance/) audience (900+ followers) and other social media ([Mastodon](https://fosstodon.org/@researchsoft), [Bluesky](https://bsky.app/profile/researchsoftware.bsky.social), [Slack](https://join.slack.com/t/researchsoft/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w))
+        * **3,000 views** and **900 downloads** on Zenodo
+        * Featured in [ReSA’s newsletter](https://www.researchsoft.org/news/) (650+ subscribers)
+        * Shared with ReSA’s [LinkedIn](https://www.linkedin.com/company/research-software-alliance/) audience (1,000+ followers) and other social media ([Mastodon](https://fosstodon.org/@researchsoft), [Bluesky](https://bsky.app/profile/researchsoftware.bsky.social), [Slack](https://join.slack.com/t/researchsoft/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w))
         * **Cross-posted by partners** (e.g., Software Sustainability Institute, Netherlands eScience Center, EVERSE, US-RSE), extending reach internationally 
         
         This paper demonstrated Canada’s leadership in aligning AI strategy with research software policy—and helped shape the global conversation.
