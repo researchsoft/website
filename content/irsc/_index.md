@@ -97,6 +97,20 @@ sections:
 
         We gratefully acknowledge the support of our founding sponsors and partners.
 
+        ### Gold Sponsors
+
+        <div class="d-flex justify-content-start">
+        <div class="col-md-8 text-start">
+         <div class="row justify-content-start mt-2">
+        <div class="col-md-4 logo-container">
+        <a href="https://aws.amazon.com/" target="_blank" title="AWS">
+          <img src="/uploads/aws-logo.png" alt="AWS logo" class="logo-image">
+        </a>
+        </div>
+        </div>
+        </div>
+        </div>
+
         ### Silver Sponsors
 
         <div class="d-flex justify-content-start">
