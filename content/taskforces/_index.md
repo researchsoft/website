@@ -48,10 +48,6 @@ sections:
 
         If you are interested in joining this task force and making a major impact on FAIR practices in your field then contact [bPatel@calmi2.org](mailto:bPatel@calmi2.org).
 
-        ### [Policies in Research Organisations for Research Software (PRO4RS)](https://www.rd-alliance.org/groups/rda-resa-policies-research-organisations-research-software-pro4rs/forum/)
-
-        Are you interested in research institution policies that support research software and the people who develop and maintain it? Join the joint [Policies in Research Organisations for Research Software (PRO4RS) Working Group](https://www.rd-alliance.org/groups/rda-resa-policies-research-organisations-research-software-pro4rs/forum/) with the Research Data Alliance to help build our collection of **[institutional policies](/resource/software-policies/)** and consider how to better share these with interested stakeholders. This combined working group builds on the ReSA task force to collect institutional policies for further dissemination as examples and encouragement to increase the value of research software assets worldwide. You can add your organisation's policy to the [public list](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0).
-
         ### [Research Software Authorship and Contribution](../tf-authorship-contribution/)
 
         Developing research software is a dynamic, agile and collaborative effort, involving a spectrum of contributions that may or may not qualify contributors for authorship of the software. Different types of contributions to software have been suggested across a number of projects, but there is a lack of community support for any one of these taxonomies or vocabularies. Furthermore, we currently lack community guidelines and criteria for software authorship.
@@ -63,6 +59,10 @@ sections:
         This task force aims to provide a best practices guide for responsibly wrapping up research code when individuals leave their institutions, addressing a common challenge faced across the international research software community. By gathering community feedback and creating an easy-to-use checklist, the group seeks to support sustainable transitions and long-term preservation of software projects. Outputs will include a GitHub repository or Jupyter Notebook and markdown-based checklists, all shared under a CC-BY 4.0 license. To join the task force or learn more, contact: richard.littauer@gmail.com 
 
         ## Completed task forces
+
+        ### [Policies in Research Organisations for Research Software (PRO4RS)](https://www.rd-alliance.org/groups/rda-resa-policies-research-organisations-research-software-pro4rs/forum/)
+
+        Are you interested in research institution policies that support research software and the people who develop and maintain it? Join the joint [Policies in Research Organisations for Research Software (PRO4RS) Working Group](https://www.rd-alliance.org/groups/rda-resa-policies-research-organisations-research-software-pro4rs/forum/) with the Research Data Alliance to help build our collection of **[institutional policies](/resource/software-policies/)** and consider how to better share these with interested stakeholders. This combined working group builds on the ReSA task force to collect institutional policies for further dissemination as examples and encouragement to increase the value of research software assets worldwide. You can add your organisation's policy to the [public list](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0).
 
         **Code Availability**
 
