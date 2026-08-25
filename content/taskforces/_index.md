@@ -60,7 +60,7 @@ sections:
 
         ## Completed task forces
 
-        ### [Policies in Research Organisations for Research Software (PRO4RS)](https://www.rd-alliance.org/groups/rda-resa-policies-research-organisations-research-software-pro4rs/forum/)
+        ***[Policies in Research Organisations for Research Software (PRO4RS)](https://www.rd-alliance.org/groups/rda-resa-policies-research-organisations-research-software-pro4rs/forum/)***
 
         Are you interested in research institution policies that support research software and the people who develop and maintain it? Join the joint [Policies in Research Organisations for Research Software (PRO4RS) Working Group](https://www.rd-alliance.org/groups/rda-resa-policies-research-organisations-research-software-pro4rs/forum/) with the Research Data Alliance to help build our collection of **[institutional policies](/resource/software-policies/)** and consider how to better share these with interested stakeholders. This combined working group builds on the ReSA task force to collect institutional policies for further dissemination as examples and encouragement to increase the value of research software assets worldwide. You can add your organisation's policy to the [public list](https://docs.google.com/spreadsheets/d/1YgXG1eSrby8e5wzqYOiOZW6KmJtR-wdBTrjr1_aMtF4/edit#gid=0).
 
