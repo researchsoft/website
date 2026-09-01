@@ -169,8 +169,8 @@ sections:
         <div class="col-md-8 text-start">
         <div class="row justify-content-start mt-2">
          <div class="col-md-4 logo-container">
-        <a href="https://www.software.ac.uk/" target="_blank" title="Software Sustainability Institute">
-          <img src="/about/images/SSI_PRIMARY-LOGO.png" alt="Software Sustainability Institute logo" class="logo-image">
+        <a href="https://www.software.ac.uk/" target="_blank" title="Institute for Research Software">
+          <img src="/about/images/ifrs-logo.png" alt="Institute for Research Software logo" class="logo-image">
         </a>
         </div>
         <div class="col-md-4 logo-container">
