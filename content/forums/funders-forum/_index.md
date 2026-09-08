@@ -83,6 +83,7 @@ sections:
         - French Committee for Open Science
         - German Research Foundation (DFG)
         - Institute of Museum and Library Services (IMLS)
+        - Institute for Research Software
         - Japan Agency for Medical Research and Development (AMED)
         - Japan Science and Technology Agency (JST)
         - Kavli Foundation
