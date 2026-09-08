@@ -60,7 +60,8 @@ sections:
         ### Organisations/initiatives that have engaged in the MaRS Forum
 
         - German Aerospace Center / University of Cologne  
-        - Innovation Growth Lab, Nesta  
+        - Innovation Growth Lab, Nesta
+        - Institute for Research Software
         - Kiel University (Germany)  
         - Netherlands eScience Center
         - ParaTools    
@@ -68,7 +69,6 @@ sections:
         - RoRI   
         - Royal Holloway, University of London  
         - Saint John’s University
-        - Software Sustainability Institute  
         - UK Research & Innovation (UKRI)  
         - University College London (UCL)  
         - University of Duisburg-Essen  
