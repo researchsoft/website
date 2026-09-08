@@ -48,7 +48,7 @@ sections:
         - Software forges (e.g., GitHub, GitLab)
         - Software registries and repositories (e.g., Zenodo, SciCodes)
         - Software journals (e.g., Journal of Open Source Software (JOSS), Journal of Research Software (JORS))
-        - Software sustainability organisations (e.g., Software Sustainability Institute)
+        - Software sustainability organisations (e.g., Institute for Research Software)
         - Software preservation organisations (e.g., Software Heritage)
         - Organisations and initiatives that create standards (e.g., CITATION.cff, FAIR-Impact, CodeMeta). 
 
