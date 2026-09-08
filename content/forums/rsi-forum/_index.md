@@ -68,7 +68,8 @@ sections:
         - EVERSE  
         - Figshare  
         - GitHub  
-        - GitLab  
+        - GitLab
+        - Institute for Research Software
         - Invest in Open (IOI)  
         - Journal of Open Research Software (JORS)  
         - Journal of Open Source Software (JOSS)  
@@ -82,8 +83,7 @@ sections:
         - SciCodes  
         - SciLifeLab  
         - Software Heritage  
-        - Software Preservation Network  
-        - Software Sustainability Institute (SSI)  
+        - Software Preservation Network   
         - Universidad Politécnica de Madrid  
         - University of Edinburgh  
         - University of Illinois \- National Center for Supercomputing Applications (NCSA)  
