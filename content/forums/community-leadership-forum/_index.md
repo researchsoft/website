@@ -77,7 +77,7 @@ sections:
         - Samantha Ahern, Carpentries 
         - Sean Goggins, CHAOSS
         - Seun Olufemi, Bioinformatics Outreach Nigeria
-        - Simon Hettrick, Software Sustainability Institute
+        - Simon Hettrick, Institute for Research Software
         - Todd Gamblin, High Performance Software Foundation
         - Weronika Filinger, EPCC, University of Edinburgh 
 
