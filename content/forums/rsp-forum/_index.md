@@ -70,7 +70,8 @@ sections:
         - EVERSE  
         - French Committee for Open Science  
         - FWF (Austrian Science Fund)   
-        - G7 Open Science Working Group (OSWG)  
+        - G7 Open Science Working Group (OSWG)
+        - Institute for Research Software
         - JAXA (Japan Aerospace Exploration Agency)  
         - JST (Japan Science and Technology Agency)   
         - Kavli Foundation   
@@ -92,7 +93,6 @@ sections:
         - Science and Technology Policy Institute (STEPI)  
         - Science Europe  
         - SciLifeLab  
-        - Software Sustainability Institute  
         - Social Sciences and Humanities Research Council (SSHRC)  
         - Swedish Research Council  
         - UK Research & Innovation (UKRI)  
