@@ -44,8 +44,8 @@ sections:
         2. ☑ *Draft [authorship guidelines v0](https://sdruskat.net/software-authorship/#authorship)*
         3. ☑ *Draft authorship guidelines v1*
         4. ☑ *Expert consultation and review of authorship guidelines v1*
-        5. ☑ **Review integration in authorship guidelines v2**
-        6. ➔ Community pilot with authorship guidelines
+        5. ☑ *Review integration in authorship guidelines v2*
+        6. ➔ **Community pilot with authorship guidelines**
         7. ☐ Pilot feedback integration in authorship guidelines v3
         8. ☐ Publish authorship guidelines v3
 
