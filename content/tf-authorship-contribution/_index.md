@@ -40,27 +40,26 @@ sections:
 
         #### Software Authorship Community Guidelines
 
-
         1. ☑ *Examine relevant previous work*
         2. ☑ *Draft [authorship guidelines v0](https://sdruskat.net/software-authorship/#authorship)*
         3. ☑ *Draft authorship guidelines v1*
         4. ☑ *Expert consultation and review of authorship guidelines v1*
-        5. ➔ **Review integration in authorship guidelines v2**
-        6. ☐ Community survey on authorship guidelines v2
-        7. ☐ Survey results integration in authorship guidelines v3
+        5. ☑ **Review integration in authorship guidelines v2**
+        6. ➔ Community pilot with authorship guidelines
+        7. ☐ Pilot feedback integration in authorship guidelines v3
         8. ☐ Publish authorship guidelines v3
 
         #### Software Contribution Community Guidelines
 
-        1. ☑ *Examine relevant previous work*
-        2. ☑ *Draft [contribution taxonomy v0](https://sdruskat.net/software-authorship/#taxonomy)*
-        3. ☐ Re-examine relevant previous work based on authorship guidelines
-        4. ☐ Draft contribution taxonomy v1
-        5. ☐ Expert consultation and review of taxonomy v1
-        6. ☐ Review integration in taxonomy v2
-        7. ☐ Community survey on taxonomy v2
-        8. ☐ Survey results integration in taxonomy v3
-        9. ☐ Publish contribution taxonomy v3
+        9. ☑ *Examine relevant previous work*
+        10. ☑ *Draft [contribution taxonomy v0](https://sdruskat.net/software-authorship/#taxonomy)*
+        11. ☐ Re-examine relevant previous work based on authorship guidelines
+        12. ☐ Draft contribution taxonomy v1
+        13. ☐ Expert consultation and review of taxonomy v1
+        14. ☐ Review integration in taxonomy v2
+        15. ☐ Community survey on taxonomy v2
+        16. ☐ Survey results integration in taxonomy v3
+        17. ☐ Publish contribution taxonomy v3
 
         ### Task Force Members
 
