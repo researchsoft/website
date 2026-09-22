@@ -23,10 +23,59 @@ sections:
       spacing:
         padding: ["4rem", "2rem"]        
 
+  - block: markdown
+    content:
+      title: "*Research Software Authorship*<br/>Recommendations v0.2 published"
+      text: |
+        <div class="d-flex justify-content-center">
+        <div class="col-md-8 text-start">   
+        As one major output of the task force, we have developed recommendations for implementing software authorship policies in research software projects. They are now available as draft version for a community pilot:
+
+        > S. Druskat, N. Chue Hong, J. Colomb, H. Gruson, S. K. Bhogal, C. Martinez-Ortiz, and G. Turon. 2026. Research Software Authorship (Community Pilot Draft). (Sep. 2026). doi:[10.5281/zenodo.22834409](https://doi.org/10.5281/zenodo.22834409).
+        </div>
+        </div>
+
 
   - block: markdown
     content:
-      title:
+      title: "Help us pilot the Research Software Authorship Recommendations!"
+      text: |
+        <div class="d-flex justify-content-center">
+        <div class="col-md-8 text-start">   
+        
+        We are now looking for research software projects to
+        **pilot the recommendations** and help us improve them before recommending wider adoption.
+
+        **The Community Pilot runs until 30 November 2026!**
+
+        *This is how you can help:*
+
+        1. Read the recommendations and the `AUTHORSHIP.md` template.
+        2. Implement the policy in your project, using the template.
+        3. Once you have **finished the implementation**, use the pilot feedback form to tell us about your experience.        
+
+        We are particularly interested in learning
+
+        * what worked well;
+        * what was unclear or difficult to implement;
+        * where you had to adapt the recommendations to your project;
+        * anything you found missing or not adequately covered; and
+        * suggestions for improving the recommendations or template.
+
+        **Please don't fill out the feedback form just after reading the recommendations.** We want the feedback to reflect the experience of actually implementing it in a project. The form should therefore be completed **after you have finished implementing the policy**.
+
+        The pilot is intended to be lightweight, and short feedback is very welcome.
+
+        <a href="https://doi.org/10.5281/zenodo.22834409" class="footer-newsletter-btn" style="width:45%;">Read the recommendations (PDF)</a> 
+        <a href="authorship" class="footer-newsletter-btn" style="width:45%;">Read the recommendations (online)</a> 
+        
+        <a href="https://cryptpad.fr/form/#/2/form/view/U3I0hE0YrH25QKuaAIdLtBtWkXeAr-2sDSFOHizeZ9s/" class="footer-newsletter-btn" style="width:90%;">Participate in the pilot: feedback form (cryptpad.fr)</a>
+        </div>
+        </div>
+
+  - block: markdown
+    content:
+      title: "The task force"
       text:   |
         <div class="d-flex justify-content-center">
          <div class="col-md-8 text-start">   
@@ -45,7 +94,7 @@ sections:
         3. ☑ *Draft authorship guidelines v1*
         4. ☑ *Expert consultation and review of authorship guidelines v1*
         5. ☑ *Review integration in authorship guidelines v2*
-        6. ➔ **Community pilot with authorship guidelines**
+        6. **➔** **Community pilot with authorship guidelines**
         7. ☐ Pilot feedback integration in authorship guidelines v3
         8. ☐ Publish authorship guidelines v3
 
