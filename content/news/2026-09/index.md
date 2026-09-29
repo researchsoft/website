@@ -12,7 +12,7 @@ external_link: "https://preview.mailerlite.io/preview/778129/emails/199409957490
 
 This month's news includes:
 
-* Research software community news, including the Helmholtz Association’s Software Quality Indicator (SQI) 
+* Research software community news, including the Software Sustainability Institute has become the Institute for Research Software
 * Funding opportunities, including the 2027 Better Scientific Software (BSSw) Fellowship Program 
 * International Research Software Conference (IRSC26) keynote recordings available
 * Resources
