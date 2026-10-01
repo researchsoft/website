@@ -52,7 +52,7 @@ sections:
 
         The [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/declaration/) (ADORE.software) represents a first step to formalise, on a global level, the basic principles and recommendations related to funding the sustainability of research software, including the people needed to achieve this goal. ADORE.software’s complementary [toolkit](https://adore.software/toolkit/) provides examples of programs, policies, and resources for each of the Declaration’s recommendations in the four areas of research software practice, research software ecosystem, research software personnel, and research software ethics.
 
-        [Dutch ADORE.software signatories meet to share progress on research software](https://doi.org/10.59350/0q72d-wxr61) by Carlos Martinez-Ortiz et al. highlights progress and experiences from ADORE.software signatories in the Netherlands.
+        The blog post [_Dutch ADORE.software signatories meet to share progress on research software_](https://doi.org/10.59350/0q72d-wxr61) by Carlos Martinez-Ortiz et al. highlights progress and experiences from ADORE.software signatories in the Netherlands.
 
         ### International Research Software Funders Workshops
 
