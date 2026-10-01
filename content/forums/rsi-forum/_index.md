@@ -41,6 +41,9 @@ sections:
         - Enable collaborations between infrastructure providers that may address topics such as how to address key technical research software community challenges; achieve long-term sustainability for research software; or address social challenges such as community development.
         - Increase sharing of practices for research software infrastructures, to encourage reflection and advancement.
 
+        **Outputs**
+        - [Improvements to Software Citation Infrastructure: Coming Soon to Your Software](https://doi.org/10.59350/fk05y-k8s07) by Rebecca Ringuette et al. 
+
         For further information, please refer to the [**Terms of Reference**](https://docs.google.com/document/d/1nsbAi_Uag-r2bL3-8Zy6W_UUj6FXzdNB5-OxQUm8fv8/edit)  
 
         Membership is open to any infrastructure organisation that serves research software and that seeks to help identify and resolve gaps and points of friction in using infrastructures in various research software use cases. This includes:
