@@ -45,7 +45,10 @@ sections:
         - Consistent approaches to monitoring, benchmarking and measuring progress
         - Alignment with broader efforts to improve citation of other digital objects
 
-        For further information, please refer to the [**Terms of Reference**](https://docs.google.com/document/d/1LtuVSJ4cZzvlMivlb7tdAafBKSaHMdJWEmfg-OrLV2A/edit?usp=sharing).
+        **Outputs**
+        - The CHORUS and ReSA webinar, [Embedding Research Software into Scholarly Publishing](https://www.chorusaccess.org/events/embedding-research-software-into-scholarly-publishing-chorus-resa-event-2026/), brought together Erika Pastrana (Springer Nature), Matt Cannon (Taylor & Francis), and Jeroen Sondervan (Open Science NL/NWO), moderated by Daniel S. Katz (University of Illinois Urbana-Champaign), to explore progress in improving software citation, reproducibility, and recognition in scholarly publishing. [Watch the webinar recording](https://www.chorusaccess.org/events/embedding-research-software-into-scholarly-publishing-chorus-resa-event-2026/) and read [highlights from the CHORUS/ReSA forum](https://www.chorusaccess.org/highlights-from-the-chorus-resa-forum-on-embedding-research-software-into-scholarly-publishing/).
+
+        For further information about the PubSoft Forum, please refer to the [**Terms of Reference**](https://docs.google.com/document/d/1LtuVSJ4cZzvlMivlb7tdAafBKSaHMdJWEmfg-OrLV2A/edit?usp=sharing).
 
         Membership is open to any publishers that share academic research and scholarship, including both traditional publishers that publish text and/or software papers.
 
