@@ -15,6 +15,8 @@ draft: false
 
 By Kim Hartley, Connie Clare, Federico Cetrangolo, Johan Espinoza Rojas, Michelle Barker
 
+[DOI: 10.59350/dzk2w-sd055](https://doi.org/10.59350/dzk2w-sd055)
+
 \[This blog past has been cross-posted by the [Research Data Alliance](https://www.rd-alliance.org/news/advancing-open-science-in-latin-america/) and [LA Referencia](https://www.lareferencia.info/es/component/k2/item/329-impulsando-la-ciencia-abierta-en-al)\]
 
 
