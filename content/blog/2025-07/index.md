@@ -17,6 +17,8 @@ draft: false
 
 By Kim Hartley & Michelle Barker
 
+[DOI: 10.59350/vp467-acx29](https://doi.org/10.59350/vp467-acx29)
+
 
 Research software and the people who support it have emerged over the past decade from behind the scenes to become a recognised cornerstone of open science. Research software is now commonly recognised as central to the global research ecosystem, on par with data, publications, and hardware. Ongoing international efforts are also starting to offer practical guidance that support implementation of these policies.
 
