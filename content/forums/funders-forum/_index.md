@@ -102,6 +102,7 @@ sections:
         - New Zealand eScience Infrastructure (NeSI)
         - Nordic eInfrastructure Collaboration (NeIC)
         - Oracle for Research
+        - REANNZ
         - Sage Publishing
         - São Paulo Research Foundation (FAPESP)
         - Schmidt Sciences
