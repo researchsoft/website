@@ -46,6 +46,9 @@ sections:
         - Increasing awareness of research on research software
         - Metascience publishing opportunities (or lack thereof)
 
+        **Outputs**
+        - [Metascience, Research Software, and the Case for RS Metascience: Extended Preprint](https://doi.org/10.5281/zenodo.22860176) by Michelle Barker et al. 
+
         For further information, please refer to the [**Terms of Reference**](https://docs.google.com/document/d/1_B0jmASpDKTcWvNGy7liOYcaTvKkOsgBUR_vBQ4CYq8/edit?usp=sharing).
 
         Membership is open to stakeholders that conduct research to understand implications of research software on the research ecosystem, particularly on the research process.
