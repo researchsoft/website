@@ -45,6 +45,11 @@ sections:
         - Opportunities provided by open source program offices (OSPOs)	
         - Consistent approaches to monitoring, benchmarking and measuring progress
 
+        **Outputs**
+        - [Towards coordinated international policy approaches to support research software: Highlights from the OECD workshop](https://doi.org/10.59350/tq6wy-mbr22)
+        - [Elevating research software: A new era in international policy](https://doi.org/10.59350/vp467-acx29) 
+
+
         For further information, please refer to the [**Terms of Reference**](https://docs.google.com/document/d/1aLviSA4yUPGHvJMhnFZZQzHCxO2GZt7FcHMwiK8pX-c/edit?usp=sharing).
 
         Membership is open to any policymakers that focus on research, open science, and open source software, and influence policy at the national, regional, and/or international level. 
