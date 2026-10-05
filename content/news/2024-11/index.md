@@ -7,7 +7,7 @@ authors:
 
 summary: ""
 draft: false
-external_link: "https://preview.mailerlite.io/emails/webview/778129/139135398084347097"
+external_link: "https://preview.mailerlite.io/preview/778129/emails/139049277317973436"
 ---
 
 This month’s news includes:
@@ -22,4 +22,4 @@ This month’s news includes:
 * Resources
 * Community events, including FOSDEM 2025
 
-**[Read the November newsletter](https://preview.mailerlite.io/emails/webview/778129/139135398084347097)**
+**[Read the November newsletter](https://preview.mailerlite.io/preview/778129/emails/139049277317973436)**
