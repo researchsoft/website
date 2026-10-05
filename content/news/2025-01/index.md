@@ -7,7 +7,7 @@ authors:
 
 summary: ""
 draft: false
-external_link: "https://preview.mailerlite.io/emails/webview/778129/144882395464599368"
+external_link: "https://preview.mailerlite.io/preview/778129/emails/144881687519561435"
 ---
 
 This month’s news includes:
@@ -21,4 +21,4 @@ This month’s news includes:
 * Resources
 * Community events, including Collaborations Workshop 2025
 
-**[Read the January newsletter](https://preview.mailerlite.io/emails/webview/778129/144882395464599368)**
+**[Read the January newsletter](https://preview.mailerlite.io/preview/778129/emails/144881687519561435)**
