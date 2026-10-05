@@ -7,7 +7,7 @@ authors:
 
 summary: ""
 draft: false
-external_link: "https://preview.mailerlite.io/emails/webview/778129/141084052380714513"
+external_link: "https://preview.mailerlite.io/preview/778129/emails/140975508653344385"
 ---
 
 This month’s news includes:
@@ -20,4 +20,4 @@ This month’s news includes:
 * Resources
 * Community events, including Software Heritage Symposium & Summit
 
-**[Read the December newsletter](https://preview.mailerlite.io/emails/webview/778129/141084052380714513)**
+**[Read the December newsletter](https://preview.mailerlite.io/preview/778129/emails/140975508653344385)**
