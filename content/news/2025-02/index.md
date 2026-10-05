@@ -7,7 +7,7 @@ authors:
 
 summary: ""
 draft: false
-external_link: "https://preview.mailerlite.io/emails/webview/778129/147396779058399059"
+external_link: "https://preview.mailerlite.io/preview/778129/emails/147394724004628317"
 ---
 
 This month’s news includes:
@@ -20,4 +20,4 @@ This month’s news includes:
 * Resources
 * Community events, including the SciCodes Symposium
 
-**[Read the February newsletter](https://preview.mailerlite.io/emails/webview/778129/147396779058399059)**
+**[Read the February newsletter](https://preview.mailerlite.io/preview/778129/emails/147394724004628317)**
