@@ -127,6 +127,10 @@ main:
     url: resource/collaborate
     weight: 70
 
+  - name: '<span style="font-size: 1.2rem;">Research Software & AI</span>'
+    url: research-software-ai
+    weight: 71
+
   - name: '<span style="font-size: 1.2rem;">News</span>'
     url: news
     weight: 50
