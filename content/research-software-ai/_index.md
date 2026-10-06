@@ -50,9 +50,9 @@ sections:
 
         ### Workshop outputs
 
-        * Research Software Engineering in the Age of Generative AI: Building a Community Vision report: [https\://doi.org/10.5281/zenodo.20320884](https://doi.org/10.5281/zenodo.20320884)  
-        * Research Software in an Age of AI-Assisted Development: Reflections from Edinburgh: [https\://doi.org/10.5281/zenodo.20321134](https://doi.org/10.5281/zenodo.20321134)  
-        * Research Software Engineers in the Age of GenAI: Same Value, Changing Practice: [https\://doi.org/10.5281/zenodo.20320178](https://doi.org/10.5281/zenodo.20320178)  
+        * [Research Software Engineering in the Age of Generative AI: Building a Community Vision](https://doi.org/10.5281/zenodo.20320884) report
+        * [Research Software in an Age of AI-Assisted Development: Reflections from Edinburgh](https://doi.org/10.5281/zenodo.20321134)  
+        * [Research Software Engineers in the Age of GenAI: Same Value, Changing Practice](https://doi.org/10.5281/zenodo.20320178)  
         * ReSA blog: [https\://www\.researchsoft.org/blog/2026-05-28/](https://www.researchsoft.org/blog/2026-05-28/)
 
         ## Research software and AI-driven research
