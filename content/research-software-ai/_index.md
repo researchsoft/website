@@ -38,9 +38,9 @@ sections:
 
         ## Webinar series 
 
-        ReSA is continuing relevant discussions through webinars, community activities, and collaborations focused on key questions emerging from the workshop and the wider research software community.
+         Building on discussions from the 2026 [Research Software Engineering in the Age of Generative AI: Building a Community Vision workshop](https://www.researchsoft.org/events/rse-ai-workshop/), ReSA is continuing to explore key questions around research software and AI through webinars, community activities, and collaborations with the wider research software community.
 
-        Details of upcoming webinars will be announced soon. 
+        Details of upcoming webinars will be announced soon.
 
         ## Research Software Engineering in the Age of Generative AI: Building a Community Vision
 
