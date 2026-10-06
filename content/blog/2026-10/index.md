@@ -16,6 +16,8 @@ draft: false
 
 By [Michelle Barker](https://orcid.org/0000-0002-3623-172X), [Kim Hartley](https://orcid.org/0000-0002-4345-9044)
 
+_This post is being cross-posted by Better Scientific Software (BSSw), the Institute for Research Software, and the Netherlands eScience Center._
+
 ## Introduction 
 
 Research software sits behind an increasing share of modern research, but the systems needed to fund, maintain, recognise, govern, and develop it have not kept pace with its importance. Generative AI is adding new urgency: as producing code and other research outputs becomes easier, questions of trust, verification, provenance, maintenance, and long-term stewardship become even more important. Addressing these challenges requires coordination not only among research software engineers, but across the funders, publishers, policymakers, infrastructure providers, trainers, and research organisations that shape the wider research ecosystem.
