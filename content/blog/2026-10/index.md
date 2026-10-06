@@ -24,6 +24,8 @@ These interconnected challenges provided the backdrop to the inaugural [Internat
 
 Co-located with [RSECon26](https://rsecon26.society-rse.org/) in September 2026 in the UK, IRSC brought together more than 110 in-person and remote participants from across the international research software ecosystem. The [program](https://www.researchsoft.org/irsc/program/) featured 20 talks, 10 lightning talks, 10 Birds of a Feather (BoF) sessions, and two plenary discussions, along with keynotes from Riva Quiroga (RSE Chile), [*What We Talk About When We Talk About RSE*](https://docs.google.com/document/d/1scamkEs_g5S3f_a3sBW7IhMojcS2hlXy_JTEtZvp4v0/edit?usp=drive_link), and Stefano Zacchiroli (Software Heritage), [*What Public Code Can Teach Us: Research Software meets Software Research*](https://docs.google.com/document/d/1-h-Fc23Av1tEoADRa8-qDiVD5V8zaxOo1P9ps9A9Dtw/edit?usp=drive_link).
 
+![My Image](irsc1.jpg)
+
 ## IRSC highlights
 
 ### Funding 
@@ -33,6 +35,8 @@ A BoF on [*Evaluating research software funding*](https://docs.google.com/docume
 The conversation continued on the second day, with talks exploring lessons from a new multi-donor fund, Open Source for Science Fund (OS4Science), and approaches to improving how research software funding is allocated.
 
 These discussions connect closely with the [Research Software Funders Forum](https://www.researchsoft.org/forums/funders-forum/), which brings together funding organisations to share practices, identify common challenges, and explore opportunities for greater coordination around research software funding.
+
+![My Image](irsc2.jpg)
 
 ### Publishing
 
@@ -54,6 +58,8 @@ IRSC also highlighted efforts to translate shared principles into practical acti
 
 These discussions reflect ReSA’s broader work to strengthen research software policy internationally. The [Research Software Policy (RSP) Forum](https://www.researchsoft.org/forums/rsp-forum/) provides an ongoing space for this work, bringing together policymakers to share practices, address common challenges, and support greater coordination in policy development, implementation, and alignment. 
 
+![My Image](irsc3.jpg)
+
 ### Metascience
 
 The [*Research Software Metascience* BoF](https://docs.google.com/document/d/1g4kd0ifb0GmRybssyVWEHRGKbqyHW8JOv317X-lzfvk/edit?tab=t.0), led by Wilhelm Hasselbring (Kiel University), Daniel S. Katz (University of Illinois Urbana-Champaign), Rena Bakhshi (Netherlands Organisation for Applied Scientific Research \- TNO), and Simon Hettrick (University of Southampton), brought participants together to consider research software through a metascience lens. 
@@ -67,6 +73,8 @@ The session built on conversations taking place through the [Metascience and Res
 Samantha Wittke (CSC \- IT Center for Science) shared a practical example through CodeRefinery’s “bring your own classroom” model, which combines shared online teaching with local, community-led support. Extending the discussion to wider support for RSEs, Mike Simpson (Society of Research Software Engineering) highlighted the Society’s work to build community, strengthen recognition and career development for RSEs, and create opportunities for greater involvement in the RSE movement.
 
 These themes are central to the [Skills and Training for Research Software (STaRS) Forum](https://www.researchsoft.org/forums/stars-forum/), which connects organisations and initiatives working to strengthen research software skills and training globally through mapping of current offerings, sharing of best practices in curriculum design, approaches to demonstrating need and impact, and integration into broader research/open science/open source software training initiatives. 
+
+![My Image](irsc4.jpg)
 
 ### Generative AI and research software
 
@@ -82,6 +90,8 @@ The talk *Next Generation Software Ecosystems for Scientific Computing: Concerns
 
 A plenary discussion on [*Sustaining research software under AI assisted development*](https://docs.google.com/document/d/1KlzgpzcSXJweKCexYXC2y6aUYZ-eJ4xwr86xgu1SPus/edit?tab=t.0), led by Colette Bos and Faruk Diblen (Netherlands eScience Center), considered how GenAI is changing code generation and the roles and expectations of different stakeholders in research software engineering, highlighting the importance of machine-readable provenance and careful human verification.
 
+![My Image](irsc5.jpg)
+
 ## Thank you to the IRSC community
 
 The inaugural IRSC would not have been possible without the speakers, session chairs, remote facilitators, volunteers, Program Committee, RSECon26 organisers, and the ReSA and Institute for Research Software teams who contributed their time and expertise. We also gratefully acknowledge the Alfred P. Sloan Foundation for supporting the [scoping report](https://doi.org/10.5281/zenodo.14736835) that helped shape IRSC, as well as the initial committee members and stakeholders who helped inform and guide this process.
@@ -92,6 +102,8 @@ IRSC26 was also made possible through the generous support of our sponsors and p
 * **Silver Sponsor:** [Schmidt Sciences](https://www.schmidtsciences.org/)  
 * **Bronze Sponsors:** [Netherlands eScience Center](https://www.esciencecenter.nl/), [NWO (Dutch Research Council)](https://www.nwo.nl/en), [Society of Research Software Engineering](https://society-rse.org/), and [U.S. NIH Office of Data Science Strategy](https://datascience.nih.gov/)  
 * **Partners:** [Institute for Research Software](https://www.software.ac.uk/) and [National Center for Supercomputing Applications (NCSA)](https://www.ncsa.illinois.edu/) at the University of Illinois Urbana-Champaign
+
+![My Image](irsc-sponsors.png)
 
 ## Looking ahead
 
