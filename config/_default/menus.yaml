@@ -107,25 +107,29 @@ main:
     url: resource/guidelines
     weight: 20
   - parent: '<span style="font-size: 1.2rem;">Resources</span>'
+    name: '<span style="font-size: 1rem;">Research Software & AI</span>'
+    url: resource/ai
+    weight: 30
+  - parent: '<span style="font-size: 1.2rem;">Resources</span>'
     name: '<span style="font-size: 1rem;">Funding Opportunities</span>'
     url: resource/funding-opportunities
-    weight: 30
+    weight: 40
   - parent: '<span style="font-size: 1.2rem;">Resources</span>'
     name: '<span style="font-size: 1rem;">Software Policies</span>'
     url: resource/software-policies
-    weight: 40
+    weight: 50
   - parent: '<span style="font-size: 1.2rem;">Resources</span>'
     name: '<span style="font-size: 1rem;">ADORE.software Declaration</span>'
     url: https://adore.software
-    weight: 50
+    weight: 60
   - parent: '<span style="font-size: 1.2rem;">Resources</span>'
     name: '<span style="font-size: 1rem;">Research Software Engineers (RSEs)</span>'
     url: resource/research-software-engineers
-    weight: 60
+    weight: 70
   - parent: '<span style="font-size: 1.2rem;">Resources</span>'
     name: '<span style="font-size: 1rem;">Collaborate with ReSA</span>'
     url: resource/collaborate
-    weight: 70
+    weight: 80
 
   - name: '<span style="font-size: 1.2rem;">News</span>'
     url: news
