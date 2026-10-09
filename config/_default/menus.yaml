@@ -55,45 +55,49 @@ main:
     weight: 30
     url: forums
   - parent: '<span style="font-size: 1.2rem;">Forums</span>'
+    name: '<span style="font-size: 1rem;">Home</span>'
+    url: forums
+    weight: 31  
+  - parent: '<span style="font-size: 1.2rem;">Forums</span>'
     name: '<span style="font-size: 1rem;">Research Software Community Leadership Forum</span>'
     url: forums/community-leadership-forum
-    weight: 31    
+    weight: 32    
   - parent: '<span style="font-size: 1.2rem;">Forums</span>'
     name: '<span style="font-size: 1rem;">Research Software Funders Forum</span>'
     url: forums/funders-forum
-    weight: 32
+    weight: 33
   - parent: '<span style="font-size: 1.2rem;">Forums</span>'
     name: '<span style="font-size: 1rem;">Research Software Infrastructure Forum</span>'
     url: forums/rsi-forum
-    weight: 33
+    weight: 34
   - parent: '<span style="font-size: 1.2rem;">Forums</span>'
     name: '<span style="font-size: 1rem;">Research Software Policy Forum</span>'
     url: forums/rsp-forum
-    weight: 34  
+    weight: 35  
   - parent: '<span style="font-size: 1.2rem;">Forums</span>'
     name: '<span style="font-size: 1rem;">Metascience and Research Software Forum</span>'
     url: forums/mars-forum
-    weight: 35
+    weight: 36
   - parent: '<span style="font-size: 1.2rem;">Forums</span>'
     name: '<span style="font-size: 1rem;">Publishing Research Software Forum</span>'
     url: forums/pubsoft-forum
-    weight: 36
+    weight: 37
   - parent: '<span style="font-size: 1.2rem;">Forums</span>'
     name: '<span style="font-size: 1rem;">Skills and Training for Research Software Forum</span>'
     url: forums/stars-forum
-    weight: 37
+    weight: 38
   - parent: '<span style="font-size: 1.2rem;">Forums</span>'
     name: '<span style="font-size: 1rem;">ADORE.software Secretariat</span>'
     url: https://adore.software
-    weight: 38
+    weight: 39
   - parent: '<span style="font-size: 1.2rem;">Forums</span>'
     name: '<span style="font-size: 1rem;">International Council of RSE Associations</span>'
     url: https://researchsoftware.org/council.html
-    weight: 39
+    weight: 40
   - parent: '<span style="font-size: 1.2rem;">Forums</span>'
     name: '<span style="font-size: 1rem;">Support a Forum</span>'
     url: forums/forum-support
-    weight: 40
+    weight: 41
 
   - name: '<span style="font-size: 1.2rem;">Resources</span>'
     weight: 40
