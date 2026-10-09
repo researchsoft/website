@@ -119,7 +119,7 @@ By bringing these communities together, the conference created opportunities to 
 
 We look forward to building on the momentum of IRSC and continuing to strengthen collaboration across the global research software community.
 
-*Images: Dan Mogan Photography*
+*Images: [Dan Mogan Photography](https://www.danmoganphotography.co.uk/)*
 
 
 
