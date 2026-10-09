@@ -52,7 +52,7 @@ main:
     weight: 20
 
   - name: '<span style="font-size: 1.2rem;">Forums</span>'
-    weight: 30
+    weight: 10
   - parent: '<span style="font-size: 1.2rem;">Forums</span>'
     name: '<span style="font-size: 1rem;">Home</span>'
     url: forums/
