@@ -114,7 +114,7 @@ IRSC highlighted the wide range of work taking place across the international re
 By bringing these communities together, the conference created opportunities to strengthen connections, exchange approaches and experiences, and identify areas for future collaboration. We invite you to:
 
 * [Watch](https://www.youtube.com/@researchsoftwarealliance5424) the IRSC26 keynote recordings and explore the [program](https://docs.google.com/document/u/1/d/1Y2veNrNu32I4vOJlWBoTYZqtlppnpaFmYdn2HvGrtw4/edit?tab=t.0).   
-* Join a ReSA forum or [task force](https://www.researchsoft.org/taskforces/) to contribute to ongoing discussions and collaborations.  
+* Join a ReSA [forum](https://www.researchsoft.org/forums) or [task force](https://www.researchsoft.org/taskforces/) to contribute to ongoing discussions and collaborations.  
 * Subscribe to the [ReSA newsletter](https://www.researchsoft.org/news/) for monthly updates and opportunities to get involved.
 
 We look forward to building on the momentum of IRSC and continuing to strengthen collaboration across the global research software community.
