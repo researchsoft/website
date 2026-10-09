@@ -55,10 +55,6 @@ main:
     url: forums
     weight: 30
   - parent: '<span style="font-size: 1.2rem;">Forums</span>'
-    name: '<span style="font-size: 1rem;">Home</span>'
-    url: forums
-    weight: 31
-  - parent: '<span style="font-size: 1.2rem;">Forums</span>'
     name: '<span style="font-size: 1rem;">Research Software Community Leadership Forum</span>'
     url: forums/community-leadership-forum
     weight: 32    
@@ -98,6 +94,10 @@ main:
     name: '<span style="font-size: 1rem;">Support a Forum</span>'
     url: forums/forum-support
     weight: 41
+   - parent: '<span style="font-size: 1.2rem;">Forums</span>'
+    name: '<span style="font-size: 1rem;">Home</span>'
+    url: forums
+    weight: 42
 
   - name: '<span style="font-size: 1.2rem;">Resources</span>'
     weight: 40
