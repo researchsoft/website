@@ -1,4 +1,4 @@
-{{- /* Deprecate site.Author.name in favor of site.Params.author.name */}}
+{{- /* site.Author was removed in newer Hugo; use site.Params.author.name */}}
 {{- $authorName := "" }}
 {{- with site.Params.author }}
   {{- if reflect.IsMap . }}
@@ -7,11 +7,6 @@
     {{- end }}
   {{- else }}
     {{- $authorName  = . }}
-  {{- end }}
-{{- else }}
-  {{- with site.Author.name }}
-    {{- $authorName = . }}
-    {{- warnf "The author key in site configuration is deprecated. Use params.author.name instead." }}
   {{- end }}
 {{- end }}
 
