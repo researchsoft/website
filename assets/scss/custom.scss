@@ -125,3 +125,11 @@
     text-decoration: underline;
   }
 }
+// Main menu font sizes (top-level items and dropdown items)
+#navbar-content .nav-link > span {
+  font-size: 1.2rem;
+}
+
+#navbar-content .dropdown-item > span {
+  font-size: 1rem;
+}

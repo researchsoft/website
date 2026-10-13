@@ -8,11 +8,6 @@
   {{- else }}
     {{- $authorName  = . }}
   {{- end }}
-{{- else }}
-  {{- with site.Author.name }}
-    {{- $authorName = . }}
-    {{- warnf "The author key in site configuration is deprecated. Use params.author.name instead." }}
-  {{- end }}
 {{- end }}
 
 {{- $pctx := . }}
