@@ -16,6 +16,8 @@ draft: false
 
 By [Michelle Barker](https://orcid.org/0000-0002-3623-172X), [Kim Hartley](https://orcid.org/0000-0002-4345-9044)
 
+[DOI: 10.59350/6sgnh-d4623](https://doi.org/10.59350/svwrh-wp113)
+
 _This post is being cross-posted by [Better Scientific Software (BSSw)](https://bssw.io/blog_posts/advancing-research-software-through-global-collaboration-highlights-from-irsc26) and the Netherlands eScience Center._
 
 ## Introduction 
