@@ -3,13 +3,13 @@ title: "New ReSA forums advance global research software efforts"
 subtitle: ""
 date: "2025-05-16"
 type: event
-status: current
+status: past
 authors:
   - ""
 
 categories: 
   - Event
-  - Ongoing
+  - Past
 
 summary: "Read more..."
 
