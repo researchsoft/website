@@ -17,7 +17,7 @@ draft: false
 
 ---
 
-Building on the outcomes of the [*Research Software Engineering in the Age of Generative AI: Building a Community Vision* workshop](https://www.researchsoft.org/events/rse-ai-workshop/), convened by ReSA and Schmidt Sciences in Edinburgh in March 2026, ReSA is collaborating with organisations and initiatives across the international research software ecosystem on a series of public webinars exploring the opportunities and challenges of generative AI (GenAI) for research software.
+Building on the outcomes of the [*Research Software Engineering in the Age of Generative AI: Building a Community Vision* workshop](https://www.researchsoft.org/events/rse-ai-workshop/), convened by ReSA and Schmidt Sciences in Edinburgh in March 2026, ReSA is collaborating with organisations and initiatives across the international research software community on a series of public webinars exploring the opportunities and challenges of generative AI (GenAI) for research software.
 
 The workshop identified key opportunities and risks across nine themes and proposed approximately 50 potential activities to advance the safe, reproducible, and effective use of GenAI in research software and research workflows. These outcomes are detailed in the [workshop report](https://doi.org/10.5281/zenodo.20320884?utm_source=chatgpt.com).
 
@@ -47,7 +47,7 @@ Michael Sparks (University of Manchester) will introduce new practical AI guidan
 
 The goal of this session is to explore publishing, preserving, and crediting open-source and research software. The current academic landscape disincentivises publishing software as opposed to other research outputs, rewards throwaway vibe-coded scripts over well-engineered and robust frameworks, and limits software citations to salient, charismatic projects.
 
-Facilitated by Richard Littauer (CURIOSS), the session will feature three consecutive 15-minute group discussions highlighting aspects of each of these areas, sharing best practices, and exploring ongoing efforts. Each group discussion will begin with a short presentation introducing the topic. Participants will also be able to collaboratively share notes before and after the session.
+Facilitated by Richard Littauer ([CURIOSS](https://curioss.org/)), the session will feature three consecutive 15-minute group discussions highlighting aspects of each of these areas, sharing best practices, and exploring ongoing efforts. Each group discussion will begin with a short presentation introducing the topic. Participants will also be able to collaboratively share notes before and after the session.
 
 A recording and transcript of the introductory presentations will be made available following the webinar. The small-group discussions may not be recorded.
 
