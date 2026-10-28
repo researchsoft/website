@@ -41,9 +41,23 @@ Michael Sparks (University of Manchester) will introduce new practical AI guidan
 
 ---
 
+### **When Green Does Not Mean Right: Specifying, Verifying, and Scaling Evaluation of AI-Assisted Research Software**
+
+**30 November 2026 \| 15:00–16:00 UTC**
+
+This talk explores why validation of AI-assisted research software has to stay anchored in the science. The reason is simple. AI tools tend to make the signal go away rather than fix the problem, so explicit scientific invariants matter: they give the AI something it can't silently change. It then turns to specifying behaviour separately from implementation. Executable specifications preserve what matters through regeneration and refactoring \- if and only if the checks come from a person or a different system. The AI should not mark its own homework. Finally, it considers how evaluation must scale with AI intensity. Line-by-line review gives way to invariants, reproducible checks and adversarial review, yet designing those checks still rests on human expertise. Manual practice at different levels of AI autonomy remains a key part of the evaluation infrastructure.
+
+Presented by Michael Sparks, chaired by Oscar Seip, and organised by event manager Kyro Hartzenberg, this session is part of the [Institute for Research Software's AI Series](https://www.software.ac.uk/Events/good-practice-research-software-development-age-ai), taking place from 24 November to 3 December.
+
+**Related workshop theme:** Verifying and validating research software.
+
+[**Register for the webinar**](https://www.eventbrite.co.uk/e/specifying-verifying-scaling-evaluation-of-ai-assisted-research-software-tickets-2003818411811)
+
+---
+
 ### **Understanding Future Incentives Around Publishing, Preserving, and Crediting Software**
 
-**17 November 2026 \| 16:00–17:00 EST / 21:00–22:00 UTC**
+**Date to be confirmed**
 
 The goal of this session is to explore publishing, preserving, and crediting open-source and research software. The current academic landscape disincentivises publishing software as opposed to other research outputs, rewards throwaway vibe-coded scripts over well-engineered and robust frameworks, and limits software citations to salient, charismatic projects.
 
@@ -54,19 +68,5 @@ A recording and transcript of the introductory presentations will be made availa
 **Related workshop theme:** Understanding future incentives around publishing, preserving and crediting software.
 
 **Registration details coming soon.**
-
----
-
-### **When Green Does Not Mean Right: Specifying, Verifying, and Scaling Evaluation of AI-Assisted Research Software**
-
-**30 November 2026 \| 15:00–16:00 CET / 14:00–15:00 UTC**
-
-This talk explores why validation of AI-assisted research software has to stay anchored in the science. The reason is simple. AI tools tend to make the signal go away rather than fix the problem, so explicit scientific invariants matter: they give the AI something it can't silently change. It then turns to specifying behaviour separately from implementation. Executable specifications preserve what matters through regeneration and refactoring \- if and only if the checks come from a person or a different system. The AI should not mark its own homework. Finally, it considers how evaluation must scale with AI intensity. Line-by-line review gives way to invariants, reproducible checks and adversarial review, yet designing those checks still rests on human expertise. Manual practice at different levels of AI autonomy remains a key part of the evaluation infrastructure.
-
-Presented by Michael Sparks, chaired by Oscar Seip, and organised by event manager Kyro Hartzenberg, this session is part of the [Institute for Research Software's AI Series](https://www.software.ac.uk/Events/good-practice-research-software-development-age-ai), taking place from 24 November to 3 December.
-
-**Related workshop theme:** Verifying and validating research software.
-
-[**Register for the webinar**](https://www.eventbrite.co.uk/e/specifying-verifying-scaling-evaluation-of-ai-assisted-research-software-tickets-2003818411811)
 
 
