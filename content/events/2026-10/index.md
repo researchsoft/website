@@ -1,7 +1,7 @@
 ---
 title: "Webinar series: Research software in the age of Generative AI "
 subtitle: ""
-date: "2026-10-26"
+date: "2026-10-28"
 status: current
 type: event
 authors:
