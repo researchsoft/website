@@ -19,7 +19,7 @@ draft: false
 
 Building on the outcomes of the [*Research Software Engineering in the Age of Generative AI: Building a Community Vision* workshop](https://www.researchsoft.org/events/rse-ai-workshop/), convened by ReSA and Schmidt Sciences in Edinburgh in March 2026, ReSA is collaborating with organisations and initiatives across the international research software community on a series of public webinars exploring the opportunities and challenges of generative AI (GenAI) for research software.
 
-The workshop identified key opportunities and risks across nine themes and proposed approximately 50 potential activities to advance the safe, reproducible, and effective use of GenAI in research software and research workflows. These outcomes are detailed in the [workshop report](https://doi.org/10.5281/zenodo.20320884?utm_source=chatgpt.com).
+The workshop identified key opportunities and risks across nine themes and proposed approximately 50 potential activities to advance the safe, reproducible, and effective use of GenAI in research software and research workflows. These outcomes are detailed in the [workshop report](https://doi.org/10.5281/zenodo.20320883).
 
 The webinar series aims to broaden participation in these discussions, facilitate the international exchange of experiences and good practices, and identify opportunities for further collaboration.
 
@@ -27,7 +27,7 @@ The webinar series aims to broaden participation in these discussions, facilitat
 
 ### **AI Guidance for Research Software Engineering Team Leaders**
 
-**10 November 2026 \| 15:00–16:00 CET / 14:00–15:00 UTC**
+**10 November 2026 | 15:00–16:00 CET / 14:00–15:00 UTC**
 
 As AI becomes more pervasive in research software engineering, new challenges emerge for team leaders across scientific domains, raising questions such as: How do you ensure high-quality research software while still protecting your developers’ agency? And how do you navigate ethical and technical concerns related to AI practice in research software?
 
