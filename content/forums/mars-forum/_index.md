@@ -58,7 +58,7 @@ sections:
         - Research software communities that undertake metascience (e.g., Software Sustainability Institute)
         - Broader metascience organisations (e.g., Research on Research Institute (RoRI))
 
-        Members can suggest other organisations that support research software metascience to join, or potential participants can contact [ReSA](mailto:info@researchsoft.org) for information on joining.
+        **If you want to join this forum, or want to suggest another organisation that should join, please [contact ReSA](mailto:info@researchsoft.org).**
 
         ### Organisations/initiatives that have engaged in the MaRS Forum
 
