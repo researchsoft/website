@@ -46,7 +46,7 @@ sections:
         - Expansion of networks to increase sense of community and identification of collaboration opportunities.
         - Consideration of opportunities to achieve long-term sustainability for research software, especially those that are part of key global infrastructures.
 
-        Membership is open to any initiative that funds research software. To join please contact [info@researchsoft.org](mailto:info@researchsoft.org).
+        **Membership is open to any initiative that funds research software. If you want to join this forum, or want to suggest another organisation that should join, please [contact ReSA](mailto:info@researchsoft.org).**
 
         ### ADORE.software
 
