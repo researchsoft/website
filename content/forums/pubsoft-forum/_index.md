@@ -57,7 +57,7 @@ sections:
         - Disciplinary academic journals (e.g., American Geophysical Union (AGU))
         - Publisher consortia (e.g., STM Association)
 
-        Members can suggest other organisations that support research software publishing to join, or potential participants can contact [ReSA](mailto:info@researchsoft.org) for information on joining.
+         **If you want to join this forum, or want to suggest another organisation that should join, please [contact ReSA](mailto:info@researchsoft.org).**
 
         ### Publishers that have engaged in the PubSoft Forum:
         - American Astronomical Society (AAS) 
@@ -66,7 +66,8 @@ sections:
         - Cambridge University Press 
         - CHORUS
         - Elsevier 
-        - EMBL-EBI 
+        - EMBL-EBI
+        - Frontiers 
         - Gigascience Press
         - Oxford University Press (OUP) 
         - PLOS 
