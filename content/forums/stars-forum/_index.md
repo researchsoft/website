@@ -53,7 +53,7 @@ sections:
         - National research software training initiatives (e.g., US-RSE and de-RSE working groups on this)
         - Broader international initiatives for a range of digital skills (e.g., The Carpentries, SKILLS4EOSC, CODATA-RDA School of Research Data Science, Turing Way)
 
-        Members can suggest other organisations that support research software skills and training to join, or potential participants can contact [ReSA](mailto:info@researchsoft.org) for information on joining.
+        **If you want to join this forum, or want to suggest another organisation that should join, please [contact ReSA](mailto:info@researchsoft.org).**
   
         ### Organisations that have engaged in the STaRS Forum
 
