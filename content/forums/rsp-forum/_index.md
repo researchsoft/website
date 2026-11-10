@@ -59,7 +59,7 @@ sections:
         - Regional initiatives focused on research software with a policy element (e.g., EVERSE)
         - Funding and/or research organisation consortia (e.g., Science Europe, LA Referencia)
 
-        Members can suggest other organisations that support research software policy to join, or potential participants can contact [ReSA](mailto:info@researchsoft.org) for information on joining.
+        **If you want to join this forum, or want to suggest another organisation that should join, please [contact ReSA](mailto:info@researchsoft.org).**
 
         ### Organisations that have engaged in the RSP Forum:
          - Alfred P. Sloan Foundation  
