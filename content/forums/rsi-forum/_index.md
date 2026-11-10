@@ -55,7 +55,7 @@ sections:
         - Software preservation organisations (e.g., Software Heritage)
         - Organisations and initiatives that create standards (e.g., CITATION.cff, FAIR-Impact, CodeMeta). 
 
-        Members can invite other organisations that provide infrastructure to research software to join at their own discretion, or potential participants can contact [ReSA](mailto:info@researchsoft.org) for information on joining.
+        **If you want to join this forum, or want to suggest another organisation that should join, please [contact ReSA](mailto:info@researchsoft.org).**
 
         ### Organisations / initiatives that have engaged in the RSI Forum
 
