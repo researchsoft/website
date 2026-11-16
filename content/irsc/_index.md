@@ -32,14 +32,13 @@ sections:
 
         <div class="border border-primary rounded p-4 mt-0 mb-4 bg-light">
         <strong>
-        Thank you to everyone who participated in IRSC26!
-        </strong>
+        Thank you to everyone who participated in IRSC26!</strong>
          <p class="mb-0 mt-2">
-        <strong>The International Research Software Conference took place on 7–8 September 2026 in Sheffield, UK, and remotely, co-located with <a href="https://rsecon26.society-rse.org/">RSECon26</a>
+        The International Research Software Conference took place on 7–8 September 2026 in Sheffield, UK, and remotely, co-located with <a href="https://rsecon26.society-rse.org/">RSECon26</a>
         </p>
 
         <p class="mb-0">
-        <strong>Thank you to our sponsors and partners, speakers, participants, and organisers for contributing to the event.
+        Thank you to our sponsors and partners, speakers, participants, and organisers for contributing to the event.
         </p>
 
         <p class="mb-0 mt-2">
