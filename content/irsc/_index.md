@@ -31,20 +31,25 @@ sections:
           <div class="col-md-8 text-start">
 
         <div class="border border-primary rounded p-4 mt-0 mb-4 bg-light">
-        <strong>
-        Thank you to everyone who participated in IRSC26!</strong>
-         <p class="mb-0 mt-2">
-        The International Research Software Conference took place on 7–8 September 2026 in Sheffield, UK, and remotely, co-located with <a href="https://rsecon26.society-rse.org/">RSECon26</a>
+        <p class="mb-3">
+        <strong>Thank you to everyone who participated in IRSC26!</strong>
+        </p>  
+
+        <p class="mb-3">
+        The International Research Software Conference took place on
+        7–8 September 2026 in Sheffield, UK, and remotely, co-located
+        with <a href="https://rsecon26.society-rse.org/">RSECon26</a>.
+        </p>
+
+        <p class="mb-3">
+        Thank you to our sponsors and partners, speakers, participants,
+        and organisers for contributing to the event.
         </p>
 
         <p class="mb-0">
-        Thank you to our sponsors and partners, speakers, participants, and organisers for contributing to the event.
+        <strong>IRSC Program:</strong>
+        View the <a href="/irsc/program/">IRSC26 Program</a>.
         </p>
-
-        <p class="mb-0 mt-2">
-        <strong>IRSC Program:</strong> View the <a href="/irsc/program/">IRSC26 Program</a>
-        </p>
- 
         </div>
 
         **Research software is essential to research, but sustaining it requires global coordination. IRSC brings together leaders and decision-makers to shape the future of research software in the age of generative AI.**
