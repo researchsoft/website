@@ -32,14 +32,14 @@ sections:
 
         <div class="border border-primary rounded p-4 mt-0 mb-4 bg-light">
         <strong>
-        Registration for the International Research Software Conference (IRSC) is now open via <a href="https://www.eventbrite.com/e/international-research-software-conference-irsc-tickets-1984767208148?  aff=oddtdtcreator">Eventbrite</a>!
+        Thank you to everyone who participated in IRSC26!
         </strong>
          <p class="mb-0 mt-2">
-        <strong>7–8 September 2026</strong> | Sheffield, UK (with remote participation available), co-located with <a href="https://rsecon26.society-rse.org/">RSECon26</a>
+        <strong>The International Research Software Conference took place on 7–8 September 2026 in Sheffield, UK, and remotely, co-located with <a href="https://rsecon26.society-rse.org/">RSECon26</a>
         </p>
 
         <p class="mb-0">
-        <strong>Venue update:</strong> Read our <a href="/irsc/venue-update/">IRSC26 venue update</a>
+        <strong>Thank you to our sponsors and partners, speakers, participants, and organisers for contributing to the event.
         </p>
 
         <p class="mb-0 mt-2">
