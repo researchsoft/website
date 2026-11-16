@@ -80,7 +80,7 @@ sections:
         We are now looking for research software projects to
         **pilot the recommendations** and help us improve them before recommending wider adoption.
 
-        **The Community Pilot runs until 30 November 2026!**
+        **The Community Pilot runs until 31 December 2026!**
 
         *This is how you can help:*
 
