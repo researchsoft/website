@@ -93,7 +93,7 @@ sections:
         
         ![My Image](sponsorship.jpg)
         
-        \* UK VAT is charged at 20% in accordance with HMRC guidance. Non-UK businesses may be eligible to reclaim VAT via the UK [13th Directive refund scheme](https://www.gov.uk/guidance/vat-refunds-for-non-uk-businesses-13th-directive).
+        \* UK VAT is charged at 20% in accordance with HMRC guidance. Non-UK businesses may be eligible to reclaim VAT. For further information, see [Refunds of UK VAT for non-UK businesses](https://www.gov.uk/guidance/refunds-of-uk-vat-for-non-uk-businesses-or-eu-vat-for-uk-businesses). 
 
         \*\* ReSA’s newsletter reaches 600 individuals across the breadth of research software community stakeholders.
         
