@@ -3,7 +3,12 @@ title: "Vive la différence - research software engineers"
 subtitle: "A hybrid DEI-focused workshop"
 date: 2022-07-12
 authors:
-  - ""
+  - name: Kim Hartley
+    orcid: https://orcid.org/0000-0002-4345-9044
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Paula Andrea Martinez
+    orcid: https://orcid.org/0000-0002-8990-1985
 categories:
   - Press release
 
