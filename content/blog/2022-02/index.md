@@ -2,7 +2,10 @@
 title: "Meet our Founding Members!"
 date: 2022-02-17
 authors:
-  - ""
+  - name: Paula Andrea Martinez
+    orcid: https://orcid.org/0000-0002-8990-1985
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
 categories:
   - Press release
 

@@ -3,7 +3,8 @@ title: "ADORE.software is ready for signing"
 subtitle: ""
 date: 2023-09-15
 authors:
-  - ""
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
 
 categories:
 
