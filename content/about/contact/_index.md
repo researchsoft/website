@@ -56,7 +56,7 @@ sections:
         - Helping to raise awareness of the importance of software in research through use of [ReSA resources](/resource/resa-resources)  
         - Connecting with other community members through our [LinkedIn](https://www.linkedin.com/company/research-software-alliance/) or at our [events](/events/)  
         - Joining the [ReSA Slack](https://researchsoft.slack.com/join/shared_invite/zt-1flmrglww-SoWjAK_5TJyqLU_~Jx697w#/shared-invite/email) for decision-makers and key influencers to share what’s                  happening in the community  
-        - Contributing [resources](/resource/resa-resources); ideas for [task forces](/taskforces), [events](/events/), and [news](/news); or if you have other ideas for ReSA then [let us know](mailto:info@researchsoft.org)  
+        - Contributing [resources](/resource/resa-resources) or ideas for [task forces](/taskforces), [events](/events/), and [news](/news). If you have other ideas for ReSA, please [let us know](mailto:info@researchsoft.org)  
 
        
          </div>
