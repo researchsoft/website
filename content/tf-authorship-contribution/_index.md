@@ -148,7 +148,7 @@ sections:
 
         ### Task Force Members
 
-        - *Carlos Martinez-Ortiz* <a href=""><i class="fab fa-orcid" style="color: #a6ce39;"></i></a>, Netherlands eScience Center
+        - *Carlos Martinez-Ortiz* <a href="https://orcid.org/0000-0001-5565-7577"><i class="fab fa-orcid" style="color: #a6ce39;"></i></a>, Netherlands eScience Center
         - *Deborah Leem* <a href="https://orcid.org/0000-0002-5836-0899"><i class="fab fa-orcid" style="color: #a6ce39;"></i></a>, University College London (UCL)
         - *Gemma Turon* <a href="https://orcid.org/0000-0001-6798-0275"><i class="fab fa-orcid" style="color: #a6ce39;"></i></a>, Fundació Ersilia Open Source Initiative, [gemma@ersilia.io](mailto:gemma@ersilia.io)  
         - *Hugo Gruson* <a href="https://orcid.org/0000-0002-4094-1476"><i class="fab fa-orcid" style="color: #a6ce39;"></i></a>, data.org

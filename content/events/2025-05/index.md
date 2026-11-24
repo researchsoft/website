@@ -20,7 +20,7 @@ image:
 draft: false  
 ---
 
-![](Global_meeting.jpg)
+![ReSA global meeting](Global_meeting.jpg)
 
 ReSA is excited to announce the launch of four new forums designed to foster global collaboration and accelerate progress in research software sustainability: 
 - [**Metascience and Research Software (MaRS) Forum**](/forums/mars-forum/) brings together metascience groups, communities, and organizations to explore the impact of research software on the research ecosystem, especially its role in shaping the research process.

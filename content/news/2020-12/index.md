@@ -41,7 +41,7 @@ ReSA has been involved in the following workshops in November to engage our comm
 * {Building a FAIR Roadmap for Research Software](https://www.rd-alliance.org/building-fair-roadmap-research-software) - [slides](https://tinyurl.com/yxar2vsm ) and [collaborative notes](https://tinyurl.com/y2xvk8bg)
 * [FAIR 4 Research Software (FAIR4RS): Progress Update](https://www.rd-alliance.org/plenaries/rda-16th-plenary-meeting-costa-rica-virtual/progress-fair-4-research-software-wg) - [slides](https://docs.google.com/presentation/d/1xnjNWv2basXbvXsnvBM4-ffXBzsbwmG4d9VYnMZNF2g/edit#slide=id.g8885490676_0_74) and [collaborative notes](https://tinyurl.com/FAIR4RS-notes-VP16)
 
-{DaMALOS: Research data management for Linked Open Science](https://zbmed.github.io/damalos/), November 2020
+[DaMALOS: Research data management for Linked Open Science](https://zbmed.github.io/damalos/), November 2020
 * Software as a first-class citizen in research  - [paper, slides, and video](https://doi.org/10.4126/FRL01-006423290)
 
 [SORSE](https://sorse.github.io/), November 2020
@@ -71,6 +71,6 @@ Some holiday reading suggestions:
 * [Software as a first-class citizen in research](https://repository.publisso.de/resource/frl%3A6423290) by Garcia Castro et al. This position paper discusses current efforts around FAIR for research software that will also support the advancement of Software Management Plan
 * [How do RSE groups work?](https://researchsoftware.org/2020/11/19/how-do-RSE-groups-work.html) By Usher et al. (a blog post from the [2nd International RSE Leaders Workshop 2020])https://researchsoftware.org/2020-workshop.html). As explained in a [tweet](https://twitter.com/stdruskat/status/1329381332624023552) by [Stephan Druskat](https://twitter.com/stdruskat): Demand for RSE is grows, groups start and get larger. But how do they work? How to organize one? Read to learn more!
 
-*If you’d like to suggest items for inclusion in ReSA News then please [contact us](/about/contact). If you would to engage with the ReSA community, then join the [ReSA Google group](https://groups.google.com/forum/#!forum/research-software-alliance) to receive email updates. To subscribe send a blank email to [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance+subscribe@googlegroups.com)*
+*If you’d like to suggest items for inclusion in ReSA News then please [contact us](/about/contact). If you would to engage with the ReSA community, then join the [ReSA Google group](https://groups.google.com/forum/#!forum/research-software-alliance) to receive email updates. To subscribe send a blank email to [research-software-alliance+subscribe@googlegroups.com](mailto:research-software-alliance%2Bsubscribe@googlegroups.com)*
 
 *ReSA’s vision is that research software be recognised and valued as a fundamental and vital component of research worldwide. The ReSA mission is to bring research software communities together to collaborate on the advancement of research software.*

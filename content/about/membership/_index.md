@@ -196,9 +196,7 @@ sections:
 
           <div class="row justify-content-center">
             <div class="col-md-">
-              <a href="">
-                <img src="images/ReSA-Founding-Members.png" alt="Founding members">
-              </a>
+              <img src="images/ReSA-Founding-Members.png" alt="Founding members">
             </div>
           </div>
 

@@ -15,7 +15,7 @@ draft: false
 
 ### ReSA blog: Evidence for the importance of research software
 
-The [ReSA Taskforce](http://www.researchsoft.org/resa-taskforces-join-us/) on evidence for the importance of research software presented its outcomes in a [blog](https://zenodo.org/record/3884311#.Xt7-NvJS-lM) posted by [URSSI](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/), [SSI](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software) and [Netherlands eScience Centre](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3) in early June. This work identified and analysed resources that demonstrate the importance of research software to research outcomes, to provide information for sharing with key influencers. This analysis considers papers relating to meta-research, policy, community, education and training, research breakthroughs and specific software.
+The [ReSA Taskforce](/taskforces/) on evidence for the importance of research software presented its outcomes in a [blog](https://zenodo.org/record/3884311#.Xt7-NvJS-lM) posted by [URSSI](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/), [SSI](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software) and [Netherlands eScience Centre](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3) in early June. This work identified and analysed resources that demonstrate the importance of research software to research outcomes, to provide information for sharing with key influencers. This analysis considers papers relating to meta-research, policy, community, education and training, research breakthroughs and specific software.
 
 ### FAIR for Research Software update
 
@@ -33,7 +33,7 @@ The same webinar will be offered at two different times, and a recording will su
 * 29 June 20:00 UTC - [convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=FAIR4ARS&iso=20200630T06&p1=47&ah=1). [Register here](https://register.gotowebinar.com/register/8602009836362305548).
 * 30 June 07:30 UTC - [convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=FAIR4ARS&iso=20200630T1730&p1=47&ah=1). [Register here](https://register.gotowebinar.com/register/7326822638747070220).
 
-The FAIR4RS WG can be joined [here](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) and is jointly convened as an RDA Working Group, [FORCE11](https://www.force11.org/) Working Group, and [Research Software Alliance (ReSA) Taskforce](http://www.researchsoft.org/resa-taskforces-join-us/).
+The FAIR4RS WG can be joined [here](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) and is jointly convened as an RDA Working Group, [FORCE11](https://www.force11.org/) Working Group, and [Research Software Alliance (ReSA) Taskforce](/taskforces/).
 
 ### Community news
 

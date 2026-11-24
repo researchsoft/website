@@ -20,7 +20,7 @@ image:
 draft: false  
 
 ---
-![](IRSC-Primary-Logo.png)
+![International Research Software Conference logo](IRSC-Primary-Logo.png)
 
 **7–8 September 2026 | Sheffield, UK & online (co-located with RSECon26)**
 
