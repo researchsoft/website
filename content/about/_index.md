@@ -284,7 +284,6 @@ sections:
         </div>
 
         <div class="col-md-4 logo-container">
-        <a href="https://www.rdc-drc.ca/" target="_blank" title="RDC DRC">
           <img src="images/rdc-logo.png" alt="RDC DRC logo" class="logo-image">
         </a>
         </div>
