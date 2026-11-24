@@ -28,7 +28,7 @@ This month’s news includes:
 
 ### FAIR4RS Update
 
-The [FAIR4RS WG](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) is now forming three new subgroups to address its milestones on the adoption of the FAIR4RS principles. These subgroups will function from September - December 2021 to address the following aims:
+The [FAIR4RS WG](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg/) is now forming three new subgroups to address its milestones on the adoption of the FAIR4RS principles. These subgroups will function from September - December 2021 to address the following aims:
 
 [Subgroup 5: Adoption guidelines](https://docs.google.com/document/d/1_cIgpx2XqElS0UGSxAmNwLiWav9hq08a7264wIMODwU/edit#) - identify, create and review existing resources that facilitate the adoption of FAIR4RS principles
 [Subgroup 6: Adoption support](https://docs.google.com/document/d/1t6DGsJYM2FJV1JMLiaEX0841c4utN0cNYh3WsmvqYO4/edit#) -  identify and start to work with early adopters of the FAIR4RS principles

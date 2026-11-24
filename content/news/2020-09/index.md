@@ -25,7 +25,7 @@ ReSA has three main focus areas: policy, people and infrastructure. We’ll be p
 The FAIR4RS team is very busy engaging with the community at a range of events. Upcoming talks include: 
 
 * Toward defining and implementing FAIR for research software, at Academic Data Science Alliance (ADSA) [Data Science Leadership Summit](https://academicdatascience.org/adsa-meetings/2020-data-science-leadership-summit), 13 October 2020
-* [FAIR4RS WG](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) workshop at [RDA Plenary](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) 16, 9-13 November 2020 (date TBC)
+* [FAIR4RS WG](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg/) workshop at [RDA Plenary](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg/) 16, 9-13 November 2020 (date TBC)
 * [FAIR 4 Research Software workshop](https://sorse.github.io/programme/workshops/event-016/) at [SORSE}(https://sorse.github.io/programme/), 16-20 November 2020 (date TBC)
 * [Research Software Developers Day](https://www.be-rse.org/rsdd2020), a joint effort between ELIXIR Belgium and the VIB Bioinformatics Core - 3 December 2020  
 

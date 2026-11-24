@@ -63,7 +63,7 @@ sections:
 
         Examples:
 
-        - The [Alfred P. Sloan Foundation](https://www.ogrants.org/proposals/barker_michelle_2021.pdf) and the [Wellcome Trust](https://www.ogrants.org/grants/barker_michelle_2020) provided financial support for the [FAIR for Research Software (FAIR4RS) Working Group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) jointly convened by ReSA, RDA and FORCE11, which developed the [FAIR4RS Principles](https://www.nature.com/articles/s41597-022-01710-x).
+        - The [Alfred P. Sloan Foundation](https://www.ogrants.org/proposals/barker_michelle_2021.pdf) and the [Wellcome Trust](https://www.ogrants.org/grants/barker_michelle_2020) provided financial support for the [FAIR for Research Software (FAIR4RS) Working Group](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg/) jointly convened by ReSA, RDA and FORCE11, which developed the [FAIR4RS Principles](https://www.nature.com/articles/s41597-022-01710-x).
 
         If your organisation is interested in supporting an existing task force, or a new one on a topic that is important to your community, then please contact the ReSA Director, [Michelle Barker](mailto:michelle@researchsoft.org). Organisations can also provide support for ReSA's broader activities through [Organisational Membership](/about/membership/) or [donations](/about/donate/).
 

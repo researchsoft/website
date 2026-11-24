@@ -18,7 +18,7 @@ This month’s news includes:
 
 ### Sloan funding for ReSA task force
 
-ReSA is grateful to the [Alfred P. Sloan Foundation](https://sloan.org/) for supporting the [ReSA task force](/taskforces/) applying the FAIR principles to research software. The activity is also a FORCE11 and Research Data Alliance working group. The grant from the Sloan Foundation will support the [FAIR for Research Software (FAIR4RS) Working Group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) to increase the FAIR community’s focus on improving software health through improved practices by engaging the research software community in the crucial first step of agreeing on the application of the FAIR principles to research software. 
+ReSA is grateful to the [Alfred P. Sloan Foundation](https://sloan.org/) for supporting the [ReSA task force](/taskforces/) applying the FAIR principles to research software. The activity is also a FORCE11 and Research Data Alliance working group. The grant from the Sloan Foundation will support the [FAIR for Research Software (FAIR4RS) Working Group](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg/) to increase the FAIR community’s focus on improving software health through improved practices by engaging the research software community in the crucial first step of agreeing on the application of the FAIR principles to research software. 
 
 ### New ReSA Steering Committee members
 
@@ -41,7 +41,7 @@ Our continuing Steering Committee members are:
 
 ### Welcome to our Community Manager
 
-We are delighted to welcome Paula Andrea Martinez to our team as our Community Manager. Paula will have a major focus on coordinating the community engagement for the [FAIR4RS Working Group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)  to maximise collaboration on the development of the FAIR4RS principles. Paula is a member of multiple online communities and plays a role in empowerment, skills development, and research software advocacy. She has worked for various universities and national research institutes supporting broad and domain specific research projects. Her two personal attributes to highlight are intellectual curiosity and resilience. Through her academic and working experience she has acquired a clear understanding of research infrastructure services and data-intensive research needs. Get in touch via paula [at] researchsoft [dot] org.
+We are delighted to welcome Paula Andrea Martinez to our team as our Community Manager. Paula will have a major focus on coordinating the community engagement for the [FAIR4RS Working Group](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg/)  to maximise collaboration on the development of the FAIR4RS principles. Paula is a member of multiple online communities and plays a role in empowerment, skills development, and research software advocacy. She has worked for various universities and national research institutes supporting broad and domain specific research projects. Her two personal attributes to highlight are intellectual curiosity and resilience. Through her academic and working experience she has acquired a clear understanding of research infrastructure services and data-intensive research needs. Get in touch via paula [at] researchsoft [dot] org.
 
 ### FAIR4RS Update
 
@@ -59,7 +59,7 @@ The agenda will include
 * Open discussion to propose future activities to draft the FAIR principles for research software
 * Upcoming activities
 
-Further FAIR4RS community events will be advertised through the [FAIR4RS Working Group mailing list](https://www.rd-alliance.org/node/69317/posts). You can subscribe to this list by joining the [RDA FAIR4RS Working Group](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg), which also entails joining RDA (free). You can also track our Working Group events through the [RDA events calendar](https://www.rd-alliance.org/node/69317/events) and on our [community engagement table on GitHub](https://github.com/force11/FAIR4RS/blob/master/CommunityEngagement.md).
+Further FAIR4RS community events will be advertised through the [FAIR4RS Working Group mailing list](https://web.archive.org/web/20230131175824/https://www.rd-alliance.org/node/69317/posts). You can subscribe to this list by joining the [RDA FAIR4RS Working Group](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg/), which also entails joining RDA (free). You can also track our Working Group events through the [RDA events calendar](https://www.rd-alliance.org/node/69317/events) and on our [community engagement table on GitHub](https://github.com/force11/FAIR4RS/blob/master/CommunityEngagement.md).
 The [minutes](https://github.com/force11/FAIR4RS/blob/master/meetings/2021/2021-01-11-Minutes.md)  of this month’s FAIR4RS Working Group Steering Committee meeting are now available on GitHub, as usual. This was our first meeting open to all Working Group members, and our meetings will continue to be open. Our next monthly meeting is on 8 Feb 2021, 20:00 UTC, and you can register [here](https://zoom.us/meeting/register/tJwscOmvpjkoGtOiVo5-qotvzRN6qeZWYCu7).
 
 ### Community news
