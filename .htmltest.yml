@@ -50,6 +50,22 @@ IgnoreURLs:
   - "qualtrics.com"          # 503 to automated clients
   - "join.slack.com"         # slow, exceeds ExternalTimeout
   - "github\\.com/[^/]+/[^/]+/blob/"  # GitHub throttles CI runners (429/503)
+  - "maps\\.uq\\.edu\\.au"   # 405 to CI runners
+  # Sites that return 403 to the CI runner but load in a browser. htmltest
+  # can't ignore a status code, so these are listed by host.
+  - "oecd\\.org"
+  - "oecd-ilibrary\\.org"
+  - "freepik\\.com"
+  - "researchgate\\.net"
+  - "nih\\.gov"
+  - "researchsoft\\.slack\\.com"
+  - "medium\\.com"
+  - "sagepub\\.com"
+  - "rsu\\.lv"
+  - "birminghamairport\\.co\\.uk"
+  - "nationalexpress\\.com"
+  - "accessable\\.co\\.uk"
+  - "ai-declaration\\.org"
   # DOIs are verified separately by check-links.sh against the DOI handle
   # API, which confirms the DOI is registered without loading the
   # publisher's site (publishers are slow and often block bots).

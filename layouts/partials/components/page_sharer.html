@@ -1,6 +1,8 @@
-{{/* Override of the HugoBlox page_sharer partial. Only change: the email
-     button carries data-proofer-ignore, because htmltest treats its
-     recipient-less "mailto:?subject=..." link as an empty mailto error. */}}
+{{/* Override of the HugoBlox page_sharer partial. Only change: share buttons
+     carry data-proofer-ignore so htmltest skips them. They are generated
+     share URLs, not content links: the email button's recipient-less
+     "mailto:?subject=..." is reported as an empty mailto, and social sites
+     (e.g. Facebook's sharer.php) redirect bots to a login page. */}}
 {{ if ne .Params.share false }}
 <div class="share-box">
   <ul class="share">
@@ -19,7 +21,7 @@
         {{ $link = replace $link "+" "%20" }}
       {{ end }}
       <li>
-        <a href="{{$link|safeURL}}" target="_blank" rel="noopener" class="share-btn-{{.id}}" aria-label="{{.icon}}"{{ if eq .id "email" }} data-proofer-ignore{{ end }}>
+        <a href="{{$link|safeURL}}" target="_blank" rel="noopener" class="share-btn-{{.id}}" aria-label="{{.icon}}" data-proofer-ignore>
           <i class="{{$pack}} {{$pack_prefix}}-{{.icon}}"></i>
         </a>
       </li>
