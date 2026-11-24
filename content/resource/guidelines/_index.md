@@ -119,7 +119,7 @@ sections:
 
         - United Kingdom: The Government Office for Science’s report on [Large-scale computing: the case for greater UK coordination](https://www.gov.uk/government/news/coordinating-the-uks-large-scale-computing-ecosystem) recognises that “high-quality software is fundamental to realising the benefits of investments in computing” and recommends “software development must keep pace with advances in hardware”. Recent reviews commissioned by individual research funders have echoed this including, BBSRC’s [Review of Data Intensive Bioscience](https://www.ukri.org/publications/bbsrc-review-of-data-intensive-bioscience/).
 
-        - USA: Major programs include the National Science Foundation (NSF)’s [Cyberinfrastructure for Sustained Scientific Innovation](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21617) (CSSI) program and the Department of Energy’s (DoE) support for the [Interoperable Design of Extreme-scale Application Software](https://ideas-productivity.org/) (IDEAS) projects, as well as other significant software investments in its [Exascale Computing Project](https://www.exascaleproject.org/).
+        - USA: Major programs include the National Science Foundation (NSF)’s [Cyberinfrastructure for Sustained Scientific Innovation](https://www.nsf.gov/funding/opportunities/cssi-cyberinfrastructure-systems-scientific-innovation/nsf21-617/solicitation) (CSSI) program and the Department of Energy’s (DoE) support for the [Interoperable Design of Extreme-scale Application Software](https://ideas-productivity.org/) (IDEAS) projects, as well as other significant software investments in its [Exascale Computing Project](https://www.exascaleproject.org/).
 
         ### Research institution policies
 

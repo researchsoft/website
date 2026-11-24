@@ -2,7 +2,7 @@
 # Documentation: https://github.com/wjdp/htmltest
 
 DirectoryPath: "public"
-LogLevel: 0  # 0=errors only, 1=errors+warnings, 2=info (default), 3=debug
+LogLevel: 2  # 0=debug, 1=info, 2=warnings+errors (default), 3=errors only
 CheckDoctype: true
 CheckExternal: true
 CheckFavicon: false  # Site uses PNG favicons in <link rel="icon">, not favicon.ico
@@ -17,6 +17,11 @@ CheckScripts: true
 ExternalTimeout: 30
 HTTPHeaders:
   User-Agent: "Mozilla/5.0 (compatible; htmltest/0.17.0; +https://github.com/wjdp/htmltest)"
+
+# Check URLs with their query strings intact. htmltest strips them by default,
+# which turns links like pub_summ.jsp?ods_key=... or drive.google.com/open?id=...
+# into different (broken) URLs and reports false 404s/400s.
+StripQueryString: false
 
 # Caching to speed up repeated runs
 CacheExpires: "6h"
@@ -38,13 +43,20 @@ IgnoreURLs:
   - "alliancecan.ca"         # 429 rate limiting
   - "w3id.org"               # 406 content negotiation
   - "apan55.apan.net"        # transient 500
+  - "ror.org"                # 429 rate limiting
+  - "ieeexplore.ieee.org"    # 202 to automated clients
+  - "force11.org"            # bot protection: 403 / redirect loop
+  - "unesco.org"             # bot protection: connection reset
+  - "qualtrics.com"          # 503 to automated clients
+  - "join.slack.com"         # slow, exceeds ExternalTimeout
+  - "github\\.com/[^/]+/[^/]+/blob/"  # GitHub throttles CI runners (429/503)
+  # DOIs are verified separately by check-links.sh against the DOI handle
+  # API, which confirms the DOI is registered without loading the
+  # publisher's site (publishers are slow and often block bots).
+  - "^https?://(dx\\.)?doi\\.org/"
 
-# Ignore specific status codes
-IgnoreHTTPStatusCodes:
-  - 202  # Accepted (some sites return this for automated requests)
-  - 403  # Forbidden (some sites block automated requests)
-  - 429  # Too many requests
-  - 999  # LinkedIn uses this to block bots
+# Note: htmltest has no option to ignore HTTP status codes; add sites that
+# block automated requests to IgnoreURLs above instead.
 
 # Ignore internal hash links (anchors) that may not exist yet
 IgnoreInternalEmptyHash: true
