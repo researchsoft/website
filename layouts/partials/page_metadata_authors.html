@@ -9,8 +9,11 @@
 
        authors:
          - name: Jane Doe
-           orcid: https://orcid.org/0000-0000-0000-0000   # linked if present
+           orcid: https://orcid.org/0000-0000-0000-0000   # ORCID icon link
          - John Smith   # plain string: linked to its author page, as before
+
+     An ORCID is shown as the green ORCID icon after the name, matching the
+     task force member lists elsewhere on the site.
 */}}
 
 {{- $page := . -}}
@@ -19,9 +22,10 @@
 {{- range $page.Params.authors -}}
   {{- $name := "" -}}
   {{- $url := "" -}}
+  {{- $orcid := "" -}}
   {{- if reflect.IsMap . -}}
     {{- $name = .name | default "" -}}
-    {{- $url = .orcid | default "" -}}
+    {{- $orcid = .orcid | default "" -}}
   {{- else -}}
     {{- $name = . -}}
     {{- with site.GetPage (printf "/authors/%s" (urlize $name)) -}}
@@ -36,6 +40,7 @@
       {{- else -}}
         {{ $name }}
       {{- end -}}
+      {{- with $orcid }} <a href="{{ . }}" aria-label="ORCID iD for {{ $name }}" title="ORCID iD for {{ $name }}"><i class="fab fa-orcid" style="color: #a6ce39;"></i></a>{{ end -}}
     </span>
     {{- if isset $page.Params "author_notes" -}}
       {{- with (index $page.Params.author_notes $index) -}}
