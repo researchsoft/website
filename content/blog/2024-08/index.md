@@ -6,6 +6,7 @@ authors:
   - name: Michelle Barker
     orcid: https://orcid.org/0000-0002-3623-172X
   - name: Kim Hartley
+    orcid: https://orcid.org/0000-0002-4345-9044
   - name: Daniel S. Katz
     orcid: https://orcid.org/0000-0001-5934-7525
   - name: Richard Littauer

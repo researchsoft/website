@@ -12,6 +12,7 @@ authors:
   - name: Andrew Treloar
   - name: Joris van Eijnatten
   - name: Selina Aragon
+    orcid: https://orcid.org/0000-0001-9938-0522
 
 categories:
   - Recommendations
