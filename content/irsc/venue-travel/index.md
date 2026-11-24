@@ -148,7 +148,7 @@ sections:
         
         ## Local information & additional resources
         
-        [Visit Sheffield]([https://www.welcometosheffield.co.uk/visit/things-to-do/](https://www.welcometosheffield.co.uk/visit/) has information about local attractions, food and drink, and more.
+        [Visit Sheffield](https://www.welcometosheffield.co.uk/visit/) has information about local attractions, food and drink, and more.
 
          </div>
         </div>
