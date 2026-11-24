@@ -113,33 +113,29 @@ main:
     url: resource/resa-resources
     weight: 10
   - parent: resources
-    name: Guidelines
-    url: resource/guidelines
-    weight: 20
-  - parent: resources
     name: 'Research Software & AI'
     url: resource/ai
-    weight: 30
+    weight: 20
   - parent: resources
     name: Funding Opportunities
     url: resource/funding-opportunities
-    weight: 40
+    weight: 30
   - parent: resources
     name: Software Policies
     url: resource/software-policies
-    weight: 50
+    weight: 40
   - parent: resources
     name: ADORE.software Declaration
     url: https://adore.software
-    weight: 60
+    weight: 50
   - parent: resources
     name: Research Software Engineers (RSEs)
     url: resource/research-software-engineers
-    weight: 70
+    weight: 60
   - parent: resources
     name: Collaborate with ReSA
     url: resource/collaborate
-    weight: 80
+    weight: 70
 
   - identifier: news
     name: News
