@@ -136,7 +136,7 @@ sections:
         
         ## Accommodation
         
-        The conference has arranged access to discounted accommodation via our partner [Visit Sheffield](https://www.welcometosheffield.co.uk/contact-us/marketing-sheffield/). These rooms can be booked using the [conference booking portal](https://book.passkey.com/event/51150767/owner/9279439/home). If you have any issues with your accommodation, please reach out to the contact information listed on the booking portal.
+        The conference has arranged access to discounted accommodation via our partner [Visit Sheffield](https://www.welcometosheffield.co.uk/visit/). These rooms can be booked using the [conference booking portal](https://book.passkey.com/event/51150767/owner/9279439/home). If you have any issues with your accommodation, please reach out to the contact information listed on the booking portal.
         
         For more information, see [Staying in Sheffield](https://www.welcometosheffield.co.uk/visit/accommodation/) on the Visit Sheffield website.
         
@@ -148,7 +148,7 @@ sections:
         
         ## Local information & additional resources
         
-        [Visit Sheffield](https://www.welcometosheffield.co.uk/visit/things-to-do/) has information about local attractions, food and drink, and more.
+        [Visit Sheffield]([https://www.welcometosheffield.co.uk/visit/things-to-do/](https://www.welcometosheffield.co.uk/visit/) has information about local attractions, food and drink, and more.
 
          </div>
         </div>
