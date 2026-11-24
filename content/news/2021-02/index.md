@@ -21,7 +21,7 @@ This month’s news includes:
 
 ReSA would like to thank the [Wellcome Trust](https://wellcome.org/) for their support for ReSA’s work in bringing research software communities together to collaborate on the advancement of research software through three programs during 2021:
 
-* [FAIR4RS WG](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) project direction to develop community-endorsed FAIR for research software principles
+* [FAIR4RS WG](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg/) project direction to develop community-endorsed FAIR for research software principles
 * [FAIR4RS Roadmap](/taskforces/) leadership to map FAIR for research software projects into a longer-term strategic framework
 * People Roadmap to support the development of career paths and reward structures to complement the FAIR4RS Roadmap 
 

@@ -32,7 +32,7 @@ The [RDA-COVID19 WG](https://www.rd-alliance.org/groups/rda-covid19) is continui
 
 ### FAIR for Research Software update
 
-The community can now comment on [the case statement](https://www.rd-alliance.org/node/69317/case-statement) for this group, which includes the milestone for the next 18 months. Community consultation will be a major part of this work, so signup to the [FAIR4RS mailing list](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) to stay in the loop.
+The community can now comment on [the case statement](https://www.rd-alliance.org/node/69317/case-statement) for this group, which includes the milestone for the next 18 months. Community consultation will be a major part of this work, so signup to the [FAIR4RS mailing list](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg/) to stay in the loop.
 
 The FAIR For Research Software Working Group (FAIR4RS WG) is being jointly convened as an RDA Working Group, [FORCE11 Working Group](https://www.force11.org/), and [ReSA Taskforce](/taskforces/). FAIR4RS WG will enable coordination of a range of existing community-led discussions on how to define and effectively apply FAIR principles to research software, to achieve adoption of these principles.
 

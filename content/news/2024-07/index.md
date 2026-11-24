@@ -7,7 +7,7 @@ authors:
 
 summary: ""
 draft: false
-external_link: "https://preview.mailerlite.io/emails/webview/778129/127929741538756179"
+external_link: "https://web.archive.org/web/20251002141011/https://preview.mailerlite.io/emails/webview/778129/127929741538756179"
 ---
 
 This month’s news includes:
@@ -20,4 +20,4 @@ This month’s news includes:
 * Resources
 * Community events
 
-**[Read the July newsletter](https://preview.mailerlite.io/emails/webview/778129/127929741538756179)**
+**[Read the July newsletter](https://web.archive.org/web/20251002141011/https://preview.mailerlite.io/emails/webview/778129/127929741538756179)**

@@ -45,7 +45,7 @@ To date, ReSA has been [supported](/about/) to achieve its aims through USD$420,
 
 * People: Completion of the [ReSA People Roadmap](https://www.researchsoft.org/documents/people-roadmap.pdf) to facilitate identification and prioritization of the major issues related to people (or personnel) challenges faced by the research software community, including research software engineers.
 * Policy: Development of recommendations for policymakers, research organizations, funders and publishers on how to support research software (including in [response to COVID-19 challenges](https://zenodo.org/record/3932953#.Xx_f7Z4za70)).
-* Infrastructure: Co-leading the significant [community engagement](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) needed to create the [FAIR for Research Software (FAIR4RS) Principles](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs), in partnership with the [Research Data Alliance](https://www.rd-alliance.org/) and [FORCE11](https://force11.org/).  
+* Infrastructure: Co-leading the significant [community engagement](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg/) needed to create the [FAIR for Research Software (FAIR4RS) Principles](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs), in partnership with the [Research Data Alliance](https://www.rd-alliance.org/) and [FORCE11](https://force11.org/).  
 
 There are many ways to get involved with ReSA. In line with its mission, ReSA offers opportunities for community members representing multiple stakeholders to work together to achieve shared goals, which include:
 

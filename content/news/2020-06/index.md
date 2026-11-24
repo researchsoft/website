@@ -19,7 +19,7 @@ The [ReSA Taskforce](/taskforces/) on evidence for the importance of research so
 
 ### FAIR for Research Software update
 
-The [FAIR 4 Research Software Working Group (FAIR4RS WG)](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) is conducting two webinars to update members on **how you can engage with the WG** on their [aims](https://www.rd-alliance.org/node/69317/case-statement) to coordinate a range of existing community-led discussions on how to define and effectively apply FAIR principles to research software, to achieve adoption of these principles.
+The [FAIR 4 Research Software Working Group (FAIR4RS WG)](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg/) is conducting two webinars to update members on **how you can engage with the WG** on their [aims](https://www.rd-alliance.org/node/69317/case-statement) to coordinate a range of existing community-led discussions on how to define and effectively apply FAIR principles to research software, to achieve adoption of these principles.
 
 The webinar will provide details of four subgroups that have been formed to advance the first aim of the WG, to define FAIR guiding principles for research software, and how to join these. The four subgroups will work until end of September 2020 on the following tasks:
 
@@ -33,7 +33,7 @@ The same webinar will be offered at two different times, and a recording will su
 * 29 June 20:00 UTC - [convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=FAIR4ARS&iso=20200630T06&p1=47&ah=1). [Register here](https://register.gotowebinar.com/register/8602009836362305548).
 * 30 June 07:30 UTC - [convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=FAIR4ARS&iso=20200630T1730&p1=47&ah=1). [Register here](https://register.gotowebinar.com/register/7326822638747070220).
 
-The FAIR4RS WG can be joined [here](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg) and is jointly convened as an RDA Working Group, [FORCE11](https://www.force11.org/) Working Group, and [Research Software Alliance (ReSA) Taskforce](/taskforces/).
+The FAIR4RS WG can be joined [here](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg/) and is jointly convened as an RDA Working Group, [FORCE11](https://www.force11.org/) Working Group, and [Research Software Alliance (ReSA) Taskforce](/taskforces/).
 
 ### Community news
 

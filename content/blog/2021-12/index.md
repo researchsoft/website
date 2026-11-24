@@ -96,7 +96,7 @@ The European Open Science Cloud (EOSC) has convened a [Task Force on Infrastruct
 
 ### France
 
-The [Second French Plan for Open Science](https://www.ouvrirlascience.fr/second-national-plan-for-open-science/), as [summarised](https://www.rd-alliance.org/group/software-source-code-ig-rdaforce11-software-source-code-identification-wg-cure-fair-wg-fair-3) by Roberto Di Cosmo (Director, Software Heritage), squarely puts software on a par with publications and data in research and open science, and announces a number of measures designed to open research software and better recognise software development in research. This includes:
+The [Second French Plan for Open Science](https://www.ouvrirlascience.fr/second-national-plan-for-open-science/), as [summarised](https://web.archive.org/web/20221223123521/https://www.rd-alliance.org/group/software-source-code-ig-rdaforce11-software-source-code-identification-wg-cure-fair-wg-fair-3) by Roberto Di Cosmo (Director, Software Heritage), squarely puts software on a par with publications and data in research and open science, and announces a number of measures designed to open research software and better recognise software development in research. This includes:
 
 - A clear recommendation to make research software available under an open source licence, unless there are clear strong reasons not to do so.
 - The creation of a high level expert group dedicated to research software in the National Committee for Open Science.
