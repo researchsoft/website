@@ -25,22 +25,6 @@ The webinar series aims to broaden participation in these discussions, facilitat
 
 ## **Upcoming Webinars**
 
-### **AI Guidance for Research Software Engineering Team Leaders**
-
-**10 November 2026 | 15:00–16:00 CET / 14:00–15:00 UTC**
-
-As AI becomes more pervasive in research software engineering, new challenges emerge for team leaders across scientific domains, raising questions such as: How do you ensure high-quality research software while still protecting your developers’ agency? And how do you navigate ethical and technical concerns related to AI practice in research software?
-
-Organised in collaboration with the [EVERSE project](https://everse.software/) as part of the EVERSE Network webinar series, this webinar will provide practical guidance to research software managers and open science team leaders on the appropriate and sustainable use of AI in their projects. 
-
-Michael Sparks (University of Manchester) will introduce new practical AI guidance developed by EVERSE in the [Research Software Quality Toolkit (RSQKit)](https://everse.software/RSQKit/ai), highlighting the importance of RSE expertise and evaluation skills. Faruk Diblen (Netherlands eScience Center) will share practical tips for RSE managers, drawing on his work on *rseng-agent-skills*, which packages research software engineering practice for use by AI coding agents. The session will be facilitated by Carlos Martinez-Ortiz (Netherlands eScience Center).
-
-**Related workshop theme:** Developing a playbook for RSE managers and open-source software project leaders.
-
-[**Register for the webinar**](https://indico.cern.ch/event/1744683/)
-
----
-
 ### **When Green Does Not Mean Right: Specifying, Verifying, and Scaling Evaluation of AI-Assisted Research Software**
 
 **30 November 2026 \| 15:00–16:00 UTC**
@@ -69,4 +53,18 @@ A recording and transcript of the introductory presentations will be made availa
 
 **Registration details coming soon.**
 
+---
 
+## **Past Webinars**
+
+### **[AI Guidance for Research Software Engineering Team Leaders](https://indico.cern.ch/event/1744683/)**
+
+**10 November 2026 | 15:00–16:00 CET / 14:00–15:00 UTC**
+
+As AI becomes more pervasive in research software engineering, new challenges emerge for team leaders across scientific domains, raising questions such as: How do you ensure high-quality research software while still protecting your developers’ agency? And how do you navigate ethical and technical concerns related to AI practice in research software?
+
+Organised in collaboration with the [EVERSE project](https://everse.software/) as part of the EVERSE Network webinar series, this webinar will provide practical guidance to research software managers and open science team leaders on the appropriate and sustainable use of AI in their projects. 
+
+Michael Sparks (University of Manchester) will introduce new practical AI guidance developed by EVERSE in the [Research Software Quality Toolkit (RSQKit)](https://everse.software/RSQKit/ai), highlighting the importance of RSE expertise and evaluation skills. Faruk Diblen (Netherlands eScience Center) will share practical tips for RSE managers, drawing on his work on *rseng-agent-skills*, which packages research software engineering practice for use by AI coding agents. The session will be facilitated by Carlos Martinez-Ortiz (Netherlands eScience Center).
+
+**Related workshop theme:** Developing a playbook for RSE managers and open-source software project leaders.
