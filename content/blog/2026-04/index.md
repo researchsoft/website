@@ -21,14 +21,14 @@ draft: false
 
 [DOI: 10.59350/dzk2w-sd055](https://doi.org/10.59350/dzk2w-sd055)
 
-\[This blog past has been cross-posted by the [Research Data Alliance](https://www.rd-alliance.org/news/advancing-open-science-in-latin-america/) and [LA Referencia](https://www.lareferencia.info/es/component/k2/item/329-impulsando-la-ciencia-abierta-en-al)\]
+\[This blog past has been cross-posted by the [Research Data Alliance](https://www.rd-alliance.org/news/advancing-open-science-in-latin-america/) and LA Referencia\]
 
 
 **Advancing Open Science in Latin America: Highlights from the ReSA, RDA, and LA Referencia webinar series on research software and research data**
 
 Across Latin America and the Caribbean (LAC), momentum for open science is growing, driven by national policy initiatives and regional infrastructures that support the sharing and reuse of research outputs. However, progress remains uneven, shaped by varying levels of infrastructure, resource constraints, and gaps in awareness and training.
 
-To help address these challenges, the [Research Software Alliance (ReSA](https://www.researchsoft.org/)), [Research Data Alliance (RDA)](https://www.rd-alliance.org/), and [Red Latinoamericana y de España de Ciencia Abierta (LA Referencia)](https://www.lareferencia.info/en/) convened a joint [webinar series](https://recursos.lareferencia.info/alianza-cienciaabierta/#programa) to support regional learning, strengthen collaboration, and elevate research software and data as essential research outputs.
+To help address these challenges, the [Research Software Alliance (ReSA](https://www.researchsoft.org/)), [Research Data Alliance (RDA)](https://www.rd-alliance.org/), and [Red Latinoamericana y de España de Ciencia Abierta (LA Referencia)](https://www.lareferencia.info/en/) convened a joint [webinar series](https://www.youtube.com/playlist?list=PL2j1F3_xIyw7M5uXbsQ-sgXB2MVbzJqCd) to support regional learning, strengthen collaboration, and elevate research software and data as essential research outputs.
 
 Through free, public webinars, participants explored a wide range of topics — from why software and data matter, to practical research data management concepts and practices, research software sustainability across the research lifecycle, and emerging technologies shaping the future of open science. The series also expanded to interoperability through the Global Open Research Commons (GORC), and closed with a focus on the human and institutional dimensions of open science, including capacity building, skills development, recognition and research assessment, and community-led initiatives across the region. 
 
@@ -68,7 +68,7 @@ To wrap up the series, the final webinar will take place on **30 April 2026 (14:
 
 By opening the final session to contributions from the broader community, the webinar aims to showcase diverse perspectives from across regions and disciplines, while strengthening connections between ReSA, RDA, and LA Referencia communities. The session will also provide an opportunity to reflect on key insights from the series and consider future directions for capacity building, collaboration, and the continued development of open science ecosystems.
 
-Details about registration, selected pitches, and speakers will be announced soon on the [webinar website](https://recursos.lareferencia.info/alianza-cienciaabierta/). 
+Details about registration, selected pitches, and speakers will be announced soon on the webinar website. 
 
 **Strengthening open science through regional and global collaboration**
 
@@ -78,7 +78,7 @@ Across the series, several cross-cutting themes emerged: research software and d
 
 Together, these insights highlighted a recurring theme of the webinar series: advancing open science involves not only technical considerations, but also sustained community engagement. By bringing together global and regional perspectives in a practical, accessible format, the series supported stronger connections across the region. We are grateful to everyone who participated, presented, moderated, translated, and helped shape this initiative, and we look forward to continuing this work beyond the series.
 
-Webinar recordings are available on the [webinar website](https://recursos.lareferencia.info/alianza-cienciaabierta/) in both Spanish and Portuguese.
+Webinar recordings are available on [YouTube](https://www.youtube.com/playlist?list=PL2j1F3_xIyw7M5uXbsQ-sgXB2MVbzJqCd) in both Spanish and Portuguese.
 
 **Acknowledgments**
 
