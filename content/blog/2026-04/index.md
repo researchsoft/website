@@ -3,7 +3,13 @@ title: "Advancing Open Science in Latin America: Highlights from the ReSA, RDA, 
 subtitle: ""
 date: '2026-04-08'
 authors:
-  - name: Kim Hartley, Michelle Barker
+  - name: Kim Hartley
+    orcid: https://orcid.org/0000-0002-4345-9044
+  - name: Connie Clare
+  - name: Federico Cetrangolo
+  - name: Johan Espinoza Rojas
+  - name: Michelle Barker
+    orcid: https://orcid.org/0000-0002-3623-172X
 
 categories:
 
@@ -12,8 +18,6 @@ draft: false
 ---
 
 ![My Image](webinar-image.jpg)
-
-By Kim Hartley, Connie Clare, Federico Cetrangolo, Johan Espinoza Rojas, Michelle Barker
 
 [DOI: 10.59350/dzk2w-sd055](https://doi.org/10.59350/dzk2w-sd055)
 

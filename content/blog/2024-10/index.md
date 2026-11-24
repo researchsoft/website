@@ -8,6 +8,7 @@ authors:
   - name: Chris Erdmann
   - name: Eric Jensen
   - name: Kim Hartley
+    orcid: https://orcid.org/0000-0002-4345-9044
   - name: Anna Henriksson
   - name: Suné Joubert
 
@@ -16,8 +17,6 @@ categories:
 summary: "Read more..."
 draft: false
 ---
-
-By Michelle Barker, Chris Erdmann, Eric Jensen, Kim Hartley, Anna Henriksson, Suné Joubert  
 
 October 2024
 

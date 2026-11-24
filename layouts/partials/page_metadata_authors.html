@@ -1,0 +1,59 @@
+{{/* Display author list.
+
+     Override of the HugoBlox page_metadata_authors partial. The theme builds
+     the byline from the `authors` taxonomy, which only works when authors
+     are plain strings. This site's posts list authors as objects
+     (`- name: …` with optional `link: …` and `orcid: …`), which the
+     taxonomy can't use, so the byline came out empty. This version reads
+     `.Params.authors` directly and supports both forms:
+
+       authors:
+         - name: Jane Doe
+           link: https://example.org/jane       # optional: the name links here
+           orcid: https://orcid.org/0000-0000-0000-0000   # optional
+         - John Smith   # plain string: linked to its author page, as before
+
+     - `link` only:    the name links to it.
+     - `orcid` only:   the name is plain text, followed by the ORCID icon.
+     - both:           the name links to `link`, followed by the ORCID icon.
+     - neither:        the name is plain text.
+
+     The ORCID icon is the green ORCID iD icon linking to the profile,
+     matching the task force member lists elsewhere on the site.
+*/}}
+
+{{- $page := . -}}
+{{- $highlight_name := $page.Params.highlight_name | default false -}}
+{{- $index := 0 -}}
+{{- range $page.Params.authors -}}
+  {{- $name := "" -}}
+  {{- $url := "" -}}
+  {{- $orcid := "" -}}
+  {{- if reflect.IsMap . -}}
+    {{- $name = .name | default "" -}}
+    {{- $url = .link | default "" -}}
+    {{- $orcid = .orcid | default "" -}}
+  {{- else -}}
+    {{- $name = . -}}
+    {{- with site.GetPage (printf "/authors/%s" (urlize $name)) -}}
+      {{- $url = .RelPermalink -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with $name -}}
+    {{- if gt $index 0 }}, {{ end -}}
+    <span {{ if $highlight_name }}class="author-highlighted"{{ end }}>
+      {{- if $url -}}
+        <a class="author-link" href="{{ $url }}">{{ $name }}</a>
+      {{- else -}}
+        {{ $name }}
+      {{- end -}}
+      {{- with $orcid }} <a href="{{ . }}" aria-label="ORCID iD for {{ $name }}" title="ORCID iD for {{ $name }}"><i class="fab fa-orcid" style="color: #a6ce39;"></i></a>{{ end -}}
+    </span>
+    {{- if isset $page.Params "author_notes" -}}
+      {{- with (index $page.Params.author_notes $index) -}}
+        <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{ . }}"></i>
+      {{- end -}}
+    {{- end -}}
+    {{- $index = add $index 1 -}}
+  {{- end -}}
+{{- end -}}

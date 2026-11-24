@@ -4,6 +4,7 @@ subtitle: ""
 date: 2024-06-20
 authors:
   - name: Kim Hartley
+    orcid: https://orcid.org/0000-0002-4345-9044
   - name: Michelle Barker
     orcid: https://orcid.org/0000-0002-3623-172X
   - name: Daniel S. Katz
@@ -14,8 +15,6 @@ categories:
 summary: "Read more..."
 draft: false
 ---
-
-Authors: Kim Hartley, Michelle Barker, Daniel S. Katz
 
 Given that software is an integral component of research processes and a widely used instrument for scientific research in all fields, funders have increasingly recognised and valued research software and the people who develop and maintain it as fundamental and vital to research globally. The Research Software Alliance (ReSA) has led the development of the funders community into the [Research Software Funders Forum](/forums/funders-forum/), which has engaged more than 60 funding organisations from across the globe since its inception in 2022. The Funders Forum has been working diligently to address common challenges to achieve the significant cultural change needed across the research sector and better coordinate investment globally. This group of funders has been instrumental in improving the research software ecosystem to accelerate research outcomes through its commitment to the sustainability of research software and the people who develop and maintain it. ReSA is pleased to highlight some of the Funders Forum’s accomplishments in this blog post, which follows the 2024 [Global Research Council (GRC)](https://globalresearchcouncil.org/) annual meeting in Interlaken, Switzerland. A key outcome of the Funders Forum’s work is the inclusion of a research software side event at the GRC meeting.
 

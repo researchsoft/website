@@ -4,6 +4,7 @@ subtitle: ""
 date: '2025-05-30'
 authors:
   - name: Kim Hartley
+    orcid: https://orcid.org/0000-0002-4345-9044
   - name: Michelle Barker
     orcid: https://orcid.org/0000-0002-3623-172X
 
@@ -12,8 +13,6 @@ categories:
 summary: "Read more..."
 draft: false
 ---
-
-By Kim Hartley & Michelle Barker
 
 
 May 2025

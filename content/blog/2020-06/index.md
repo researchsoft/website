@@ -21,10 +21,6 @@ Cross-posted on 8 June 2020 by the [Netherlands eScience Centre](https://blog.es
 
 _June 8, 2020_  
 
-Authors: [Michelle Barker](https://orcid.org/0000-0002-3623-172X),
-[Daniel S. Katz](http://orcid.org/0000-0001-5934-7525) and
-[Alejandra Gonzalez-Beltran](https://orcid.org/0000-0003-3499-8262)
-
 This blog analyses work evidencing the importance of research software to research outcomes, to enable the research software community to find useful evidence to share with key influencers. This analysis considers papers relating to meta-research, policy, community, education and training, research breakthroughs and specific software.
 
 <div class="row justify-content-center">

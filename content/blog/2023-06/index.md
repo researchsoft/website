@@ -4,6 +4,7 @@ subtitle: ""
 date: 2023-06-01
 authors:
   - name: Kim Hartley
+    orcid: https://orcid.org/0000-0002-4345-9044
   - name: Michelle Barker
     orcid: https://orcid.org/0000-0002-3623-172X
   - name: Mark Leggott
@@ -17,8 +18,6 @@ draft: false
 ---
 
 June 2023
-
-Authors: Kim Hartley, Michelle Barker, Mark Leggott, Daniel S. Katz
 
 DOI: [10.5281/zenodo.7986715](https://zenodo.org/record/7986715#.ZHYXYOzMJhF)
 

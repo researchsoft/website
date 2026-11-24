@@ -133,3 +133,19 @@
 #navbar-content .dropdown-item > span {
   font-size: 1rem;
 }
+
+// Linked author names in the post byline (layouts/partials/page_metadata_authors.html).
+// The theme greys out byline links, so links look like plain names; use the
+// site's link color instead, underlined on hover.
+.article-metadata a.author-link {
+  color: $sta-link;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.dark .article-metadata a.author-link {
+  color: $sta-dark-link;
+}

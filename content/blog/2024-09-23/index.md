@@ -16,8 +16,6 @@ draft: false
 
 _September, 2024_  
 
-Authors: Michelle Barker, Wilhelm Hasselbring
-
 ## Directions for Research Software Engineering Research
 
 RSE research is a new direction in the evolving field of Research Software Engineering (RSE). This concept was highlighted in a [panel](https://oceanrep.geomar.de/id/eprint/60691/) chaired by Wilhelm Hasselbring (Kiel University) at [RSECon](https://rsecon24.society-rse.org/) in September 2024. The panel brought together experts to discuss how research on RSE can improve outcomes for the research software community, and research in general.

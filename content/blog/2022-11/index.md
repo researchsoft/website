@@ -9,6 +9,7 @@ authors:
   - name: Tom Bakker
     orcid: https://orcid.org/0000-0002-6465-5589
   - name: Lieke de Boer
+    orcid: https://orcid.org/0000-0003-3381-2040
   - name: Neil Chue Hong
     orcid: https://orcid.org/0000-0002-8876-7606
   - name: Maria Cruz
@@ -28,8 +29,6 @@ draft: false
 ---
 
 _November, 2022_  
-
-Authors: Michelle Barker, Valentina Azzarà, Tom Bakker, Lieke de Boer, Neil Chue Hong, Maria Cruz, Niels Drost, Joris van Eijnatten, Maaike de Jong, Daniel S. Katz, Carlos Martinez-Ortiz, Veronica Pang
 
 <div class="row justify-content-center">
     <img src="FF_CaroleGoble.jpg" alt="Carole Goble presenting “Research Software Sustainability Takes a Village”. Photo credit: Annelies Verhelst">

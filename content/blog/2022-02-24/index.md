@@ -2,7 +2,12 @@
 title: "Overview of research software funding landscape"
 date: 2022-02-24
 authors:
-  - ""
+  - name: Michelle Barker
+    link: https://www.linkedin.com/in/michelledbarker/
+    orcid: https://orcid.org/0000-0002-3623-172X
+  - name: Daniel S. Katz
+    link: https://danielskatz.org/
+    orcid: https://orcid.org/0000-0001-5934-7525
 
 categories:
 
@@ -16,7 +21,6 @@ Posted on 24 February 2022.
 
 _February 24, 2022_  
 
-By [Michelle Barker](https://www.linkedin.com/in/michelledbarker/) and [Daniel S. Katz](https://danielskatz.org/)
 DOI: [https://www.doi.org/10.5281/zenodo.6102487](https://www.doi.org/10.5281/zenodo.6102487)
 
 This report aims to provide a brief overview of the funding landscape for research software throughout its life cycle. This report explains the methodology, considers available information, and suggests future work.

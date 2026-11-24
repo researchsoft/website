@@ -5,6 +5,7 @@ date: '2025-07-22'
 lastmod: 2025-07-22
 authors:
   - name: Kim Hartley
+    orcid: https://orcid.org/0000-0002-4345-9044
   - name: Michelle Barker
     orcid: https://orcid.org/0000-0002-3623-172X
 
@@ -14,8 +15,6 @@ summary: "Read more..."
 draft: false
 ---
 ![My Image](07-2025-blog.jpg) 
-
-By Kim Hartley & Michelle Barker
 
 [DOI: 10.59350/vp467-acx29](https://doi.org/10.59350/vp467-acx29)
 

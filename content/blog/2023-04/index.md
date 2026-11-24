@@ -4,6 +4,7 @@ subtitle: ""
 date: 2023-04-17
 authors:
   - name: Saranjeet Kaur Bhogal
+    link: https://saranjeetkaur.github.io/About-Me/
     orcid: https://orcid.org/0000-0002-7038-1457
 
 categories:
@@ -13,8 +14,6 @@ draft: false
 ---
 
 April, 2023
-
-Author: [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/)
 
 ## Introduction
 

@@ -4,6 +4,7 @@ subtitle: ""
 date: 2023-10-24
 authors:
   - name: Kim Hartley
+    orcid: https://orcid.org/0000-0002-4345-9044
   - name: Michelle Barker
     orcid: https://orcid.org/0000-0002-3623-172X
 
@@ -14,8 +15,6 @@ draft: false
 ---
 
 October 2023
-
-Authors: Kim Hartley and Michelle Barker
 
 We are proud to report that the second [International Research Software Funders Workshop](https://adore.software/international-research-software-funders-workshop/), co-hosted by the [Digital Research Alliance of Canada](https://alliancecan.ca/en) (the Alliance) and the [Research Software Alliance](https://www.researchsoft.org/) (ReSA) from 18-20 September was a great success. People are at the heart of research software sustainability and funders can lead the way by investing in the people who develop and maintain research software. That is why the workshop theme was "Investing in People: Anticipating the Future of Research Software". The event aimed to set the future agenda for government, philanthropic, and industry funders to support sustainable research software and communities.
 

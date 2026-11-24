@@ -28,8 +28,6 @@ draft: false
 
 _August, 2022_  
 
-Authors: Daniel S. Katz, Tom Honeyman, Paula Andrea Martinez, Michelle Barker, Leyla Jael Castro, Neil Chue Hong, Morane Gruenpeter, Jennifer Harrow, Anna-Lena Lamprecht, Carlos Martinez-Ortiz, Fotis Psomopoulos
-
 ## Introduction
 
 This blog post describes the need for, the work towards, and the [recent completion](/blog/2022-06/) of version 1.0 of the FAIR Principles for Research Software ([FAIR4RS Principles v1.0](https://doi.org/10.15497/RDA00068)). It also briefly discusses the principles themselves, and how they differ from the FAIR data principles. It concludes with next steps that stakeholders can take to implement the principles.

@@ -15,8 +15,6 @@ draft: false
 
 4 September 2023
 
-Authors: Eric Allen Jensen, Daniel S. Katz
-
 DOI: [10.5281/zenodo.8312543](https://zenodo.org/record/8312543)
 
 Research software is the unsung hero of modern science. Yet it often plays second fiddle to traditional scholarly outputs such as journal articles. As research grows increasingly computational, the need to recognise software contributions becomes imperative. However, there are a number of challenges that must be overcome to achieve this. How do we measure and extend the impact of research software? How do we integrate it into academic evaluations? A set of answers may be found through policy-related activities, including advocacy, organising, and research.

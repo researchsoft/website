@@ -4,6 +4,7 @@ subtitle: ""
 date: 2023-12-20
 authors:
   - name: Saranjeet Kaur Bhogal
+    orcid: https://orcid.org/0000-0002-7038-1457
 
 categories:
 
@@ -12,8 +13,6 @@ draft: false
 ---
 
 December 2023
-
-Author: Saranjeet Kaur Bhogal
 
 In 2023 I was engaged by the Research Software Alliance (ReSA) as a Community Manager for the Asia region, as part of the ReSA mission to advance the research software ecosystem by collaborating with decision makers and key influencers. This part-time role has provided a platform to promote awareness about research software engineering and foster meaningful connections across Asia and globally, which are detailed in this blog post.
 
