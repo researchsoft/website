@@ -17,8 +17,6 @@ summary: "Read more..."
 draft: false
 ---
 
-By Michelle Barker, Sandra Gesing, Rowland Mosbergen, Uwe Schmitt, Carlos Martinez-Ortiz
-
 September 2024
 
 The [RSE Worldwide sessions](https://rsecon24.society-rse.org/programme/rse-worldwide/) at this year’s [Research Software Engineering Conference](https://rsecon24.society-rse.org/) (RSECon) in the UK continue to address the importance of connecting these emerging communities with the global research software community. The RSE community continues to grow globally, with numerous regional and national conferences and associations. While there are established networks in many parts of the world, there are still regions where research software engineering happens without structured support. Each community brings unique regional and cultural contexts, and while challenges differ, the lessons learned in one area can be invaluable to others.

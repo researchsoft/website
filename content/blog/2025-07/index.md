@@ -16,8 +16,6 @@ draft: false
 ---
 ![My Image](07-2025-blog.jpg) 
 
-By Kim Hartley & Michelle Barker
-
 [DOI: 10.59350/vp467-acx29](https://doi.org/10.59350/vp467-acx29)
 
 

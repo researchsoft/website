@@ -17,7 +17,6 @@ draft: false
 
 _September, 2022_  
 
-Authors: Michelle Barker and Daniel S. Katz
 DOI: [10.5281/zenodo.7117842](https://zenodo.org/record/7117842#.YzOwGOxByUl)
 
 ## 1. Introduction

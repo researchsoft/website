@@ -14,8 +14,6 @@ draft: false
 
 April, 2023
 
-Author: [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/)
-
 ## Introduction
 
 This blog explores my thoughts on the potential role of [National Research and Education Networks (NRENs)](https://en.wikipedia.org/wiki/National_research_and_education_network) in promoting the growth of a Research Software Engineering (RSE) community in Asia-Pacific. The significance of this lies in the fact that NRENs have not traditionally been significantly involved in supporting RSE groups in other regions.

@@ -28,8 +28,6 @@ Cross-posted on 9 December 2021 by the [Netherlands eScience Centre](https://www
 
 _December 9, 2021_  
 
-Authors: [Michelle Barker](https://www.linkedin.com/in/michelledbarker/), [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong), [Daniel S. Katz](https://danielskatz.org/), [Mark Leggott](https://www.linkedin.com/in/markleggott/?originalSubdomain=ca)[,](https://www.linkedin.com/in/markleggott/?originalSubdomain=ca) [Andrew Treloar](https://andrew.treloar.net/), [Joris van Eijnatten,](https://www.esciencecenter.nl/team/prof-dr-joris-van-eijnatten/)[ ](https://www.esciencecenter.nl/team/prof-dr-joris-van-eijnatten/)[Selina Aragon](https://www.software.ac.uk/about/staff/person/selina-aragon).
-
 <div class="row justify-content-center">
     <img src="light.jpg" alt="Team thinking together as a diverse group of people coming together joining hands into the shape of an inspirational light bulb 3D elements">
 </div>

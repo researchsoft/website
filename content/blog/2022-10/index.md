@@ -14,8 +14,6 @@ draft: false
 
 _October, 2022_  
 
-Authors: Michelle Barker
-
 **Introduction**
 
 The Research Software Alliance (ReSA) has been expanding their 2020 [mapping](/blog/2020-03/) of the international research software community landscape (Katz et al., 2020), to assist in fulfilling the ReSA mission to bring research software communities together to collaborate on the advancement of research software. We wanted to learn more about communities that share our vision that research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide.

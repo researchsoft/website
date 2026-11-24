@@ -14,8 +14,6 @@ draft: false
 
 December 2023
 
-Author: Saranjeet Kaur Bhogal
-
 In 2023 I was engaged by the Research Software Alliance (ReSA) as a Community Manager for the Asia region, as part of the ReSA mission to advance the research software ecosystem by collaborating with decision makers and key influencers. This part-time role has provided a platform to promote awareness about research software engineering and foster meaningful connections across Asia and globally, which are detailed in this blog post.
 
 Global estimates of the number of research software engineers (RSEs) total more than 300,000 people ([Hettrick](https://slides.com/simonhettrick/how-many-rses), 2022), and recent predictions suggest that at least 50 countries will have RSE associations by 2030 ([Katz & Hettrick](https://ieeexplore.ieee.org/document/10254813), 2023 (and [preprint](https://arxiv.org/abs/2308.07796))). The [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) currently serves RSEs across Asia and hosts monthly Community Calls. These calls are free and open to anyone with an interest in research software engineering and have served as a valuable forum for knowledge sharing and collaboration.

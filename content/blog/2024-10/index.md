@@ -18,8 +18,6 @@ summary: "Read more..."
 draft: false
 ---
 
-By Michelle Barker, Chris Erdmann, Eric Jensen, Kim Hartley, Anna Henriksson, Suné Joubert  
-
 October 2024
 
 The 2024 [International Research Software Funders Workshop](https://adore.software/2024-international-research-software-funders-workshop/) continued to progress the way funders sustain and support research software. This hybrid event in September in Uppsala, Sweden, brought together [funders and experts in research software](https://adore.software/2024-international-research-software-funders-workshop/) to discuss operationalising the [Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/) (ADORE.software). ADORE.software aims to raise awareness of the role of funding practice in the sustainability of research software, and to improve that practice. 

@@ -30,8 +30,6 @@ draft: false
 
 _November, 2022_  
 
-Authors: Michelle Barker, Valentina Azzarà, Tom Bakker, Lieke de Boer, Neil Chue Hong, Maria Cruz, Niels Drost, Joris van Eijnatten, Maaike de Jong, Daniel S. Katz, Carlos Martinez-Ortiz, Veronica Pang
-
 <div class="row justify-content-center">
     <img src="FF_CaroleGoble.jpg" alt="Carole Goble presenting “Research Software Sustainability Takes a Village”. Photo credit: Annelies Verhelst">
 </div> 

@@ -14,8 +14,6 @@ draft: false
 
 ![My Image](OECD-workshop.png)
 
-By Michelle Barker
-
 [DOI: 10.59350/tq6wy-mbr22](https://doi.org/10.59350/tq6wy-mbr22)
 
 On 8 September 2025, the OECD hosted a landmark hybrid event titled [Access to Research Software: Opportunities and Challenges](https://www.oecd.org/en/events/2025/09/access-to-research-software-opportunities-and-challenges.html) in Paris. This workshop marked the launch of a new initiative under the Committee for Scientific and Technological Policy (CSTP) and builds on a strong legacy of OECD work on open science. This includes the 2006 Recommendation on Access to Research Data from Public Funding as well as its [**2021 update**](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0347), which was extended to include research software.

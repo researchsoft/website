@@ -19,8 +19,6 @@ summary: "Read more..."
 draft: false
 ---
 
-Authors: [Carlos Martinez-Ortiz](https://orcid.org/0000-0001-5565-7577), [Marta Teperek](https://orcid.org/0000-0001-8520-5598), [Lieke de Boer](https://orcid.org/0000-0003-3381-2040), [Burcu Beygu](https://orcid.org/0000-0001-8542-1506) 
-
 [DOI: 10.59350/0q72d-wxr61](https://doi.org/10.59350/0q72d-wxr61)
 
 ![My Image](adore.png)

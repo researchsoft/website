@@ -19,8 +19,6 @@ draft: false
 
 June 2023
 
-Authors: Kim Hartley, Michelle Barker, Mark Leggott, Daniel S. Katz
-
 DOI: [10.5281/zenodo.7986715](https://zenodo.org/record/7986715#.ZHYXYOzMJhF)
 
 **How Can Open Source Program Offices (OSPOs) Support Research Software?**

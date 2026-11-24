@@ -26,13 +26,6 @@ Cross-posted on 11 March 2020 by the [Netherlands eScience Centre](https://blog.
 
 _March 11, 2020_  
 
-Authors: [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525),
-[Michelle Barker](https://orcid.org/0000-0002-3623-172X),
-[Paula Andrea Martinez](https://orcid.org/0000-0002-8990-1985),
-[Hartwig Anzt](https://orcid.org/0000-0003-2177-952X),
-[Alejandra Gonzalez-Beltran](https://orcid.org/0000-0003-3499-8262), and
-[Tom Bakker](https://orcid.org/0000-0002-6465-5589)
-
 <div class="row justify-content-center">
     <img src="landscape.jpg" alt="landscape">
 </div>  

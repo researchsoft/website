@@ -19,7 +19,6 @@ Posted on 24 February 2022.
 
 _February 24, 2022_  
 
-By [Michelle Barker](https://www.linkedin.com/in/michelledbarker/) and [Daniel S. Katz](https://danielskatz.org/)
 DOI: [https://www.doi.org/10.5281/zenodo.6102487](https://www.doi.org/10.5281/zenodo.6102487)
 
 This report aims to provide a brief overview of the funding landscape for research software throughout its life cycle. This report explains the methodology, considers available information, and suggests future work.

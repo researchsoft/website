@@ -14,8 +14,6 @@ summary: "Read more..."
 draft: false
 ---
 
-By Kim Hartley & Michelle Barker
-
 
 May 2025
 
