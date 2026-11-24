@@ -3,8 +3,10 @@ title: "Overview of research software funding landscape"
 date: 2022-02-24
 authors:
   - name: Michelle Barker
+    link: https://www.linkedin.com/in/michelledbarker/
     orcid: https://orcid.org/0000-0002-3623-172X
   - name: Daniel S. Katz
+    link: https://danielskatz.org/
     orcid: https://orcid.org/0000-0001-5934-7525
 
 categories:

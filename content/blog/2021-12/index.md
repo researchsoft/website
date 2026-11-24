@@ -3,15 +3,22 @@ title: "Research software is essential for research data, so how should governme
 date: 2021-12-09
 authors:
   - name: Michelle Barker
+    link: https://www.linkedin.com/in/michelledbarker/
     orcid: https://orcid.org/0000-0002-3623-172X
   - name: Neil Chue Hong
+    link: https://www.software.ac.uk/about/staff/person/neil-chue-hong
     orcid: https://orcid.org/0000-0002-8876-7606
   - name: Daniel S. Katz
+    link: https://danielskatz.org/
     orcid: https://orcid.org/0000-0001-5934-7525
   - name: Mark Leggott
+    link: https://www.linkedin.com/in/markleggott/
   - name: Andrew Treloar
+    link: https://andrew.treloar.net/
   - name: Joris van Eijnatten
+    link: https://www.esciencecenter.nl/team/prof-dr-joris-van-eijnatten/
   - name: Selina Aragon
+    link: https://www.software.ac.uk/about/staff/person/selina-aragon
     orcid: https://orcid.org/0000-0001-9938-0522
 
 categories:

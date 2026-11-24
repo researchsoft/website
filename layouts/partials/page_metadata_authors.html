@@ -3,17 +3,23 @@
      Override of the HugoBlox page_metadata_authors partial. The theme builds
      the byline from the `authors` taxonomy, which only works when authors
      are plain strings. This site's posts list authors as objects
-     (`- name: …` with an optional `orcid: …`), which the taxonomy can't
-     use, so the byline came out empty. This version reads
+     (`- name: …` with optional `link: …` and `orcid: …`), which the
+     taxonomy can't use, so the byline came out empty. This version reads
      `.Params.authors` directly and supports both forms:
 
        authors:
          - name: Jane Doe
-           orcid: https://orcid.org/0000-0000-0000-0000   # ORCID icon link
+           link: https://example.org/jane       # optional: the name links here
+           orcid: https://orcid.org/0000-0000-0000-0000   # optional
          - John Smith   # plain string: linked to its author page, as before
 
-     An ORCID is shown as the green ORCID icon after the name, matching the
-     task force member lists elsewhere on the site.
+     - `link` only:    the name links to it.
+     - `orcid` only:   the name is plain text, followed by the ORCID icon.
+     - both:           the name links to `link`, followed by the ORCID icon.
+     - neither:        the name is plain text.
+
+     The ORCID icon is the green ORCID iD icon linking to the profile,
+     matching the task force member lists elsewhere on the site.
 */}}
 
 {{- $page := . -}}
@@ -25,6 +31,7 @@
   {{- $orcid := "" -}}
   {{- if reflect.IsMap . -}}
     {{- $name = .name | default "" -}}
+    {{- $url = .link | default "" -}}
     {{- $orcid = .orcid | default "" -}}
   {{- else -}}
     {{- $name = . -}}
