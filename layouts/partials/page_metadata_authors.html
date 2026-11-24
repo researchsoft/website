@@ -43,7 +43,7 @@
     {{- if gt $index 0 }}, {{ end -}}
     <span {{ if $highlight_name }}class="author-highlighted"{{ end }}>
       {{- if $url -}}
-        <a href="{{ $url }}">{{ $name }}</a>
+        <a class="author-link" href="{{ $url }}">{{ $name }}</a>
       {{- else -}}
         {{ $name }}
       {{- end -}}
