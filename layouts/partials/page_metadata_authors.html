@@ -1,0 +1,47 @@
+{{/* Display author list.
+
+     Override of the HugoBlox page_metadata_authors partial. The theme builds
+     the byline from the `authors` taxonomy, which only works when authors
+     are plain strings. This site's posts list authors as objects
+     (`- name: …` with an optional `orcid: …`), which the taxonomy can't
+     use, so the byline came out empty. This version reads
+     `.Params.authors` directly and supports both forms:
+
+       authors:
+         - name: Jane Doe
+           orcid: https://orcid.org/0000-0000-0000-0000   # linked if present
+         - John Smith   # plain string: linked to its author page, as before
+*/}}
+
+{{- $page := . -}}
+{{- $highlight_name := $page.Params.highlight_name | default false -}}
+{{- $index := 0 -}}
+{{- range $page.Params.authors -}}
+  {{- $name := "" -}}
+  {{- $url := "" -}}
+  {{- if reflect.IsMap . -}}
+    {{- $name = .name | default "" -}}
+    {{- $url = .orcid | default "" -}}
+  {{- else -}}
+    {{- $name = . -}}
+    {{- with site.GetPage (printf "/authors/%s" (urlize $name)) -}}
+      {{- $url = .RelPermalink -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with $name -}}
+    {{- if gt $index 0 }}, {{ end -}}
+    <span {{ if $highlight_name }}class="author-highlighted"{{ end }}>
+      {{- if $url -}}
+        <a href="{{ $url }}">{{ $name }}</a>
+      {{- else -}}
+        {{ $name }}
+      {{- end -}}
+    </span>
+    {{- if isset $page.Params "author_notes" -}}
+      {{- with (index $page.Params.author_notes $index) -}}
+        <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{ . }}"></i>
+      {{- end -}}
+    {{- end -}}
+    {{- $index = add $index 1 -}}
+  {{- end -}}
+{{- end -}}
