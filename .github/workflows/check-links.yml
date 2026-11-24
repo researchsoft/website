@@ -21,7 +21,7 @@ jobs:
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -37,8 +37,10 @@ jobs:
 
       - name: Archive htmltest results
         if: failure()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: htmltest-report
           path: tmp/.htmltest/
+          # .htmltest is a hidden directory, which upload-artifact skips by default
+          include-hidden-files: true
           retention-days: 7
