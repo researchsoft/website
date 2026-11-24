@@ -2,6 +2,7 @@
 title: "Guidelines"
 date: 2025-07-09
 type: landing
+draft: true
 
 sections:
   - block: markdown
