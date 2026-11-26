@@ -318,27 +318,5 @@ sections:
         text_color_light: false      
       spacing:
         padding: ["3rem", "1rem"]  
-        
-
-
-  - block: markdown
-    content:
-      title: |
-        <div class="d-flex justify-content-center">
-         <div class="col-md-8 text-start">   
-          <span class="no-logo-text">           
-            Data implies software: it’s not much good gathering data if you don’t have the ability to analyse it.
-          </span> 
-         </div>
-        </div>            
-      subtitle: 
-      text:    
-        <p align="center"><a href="http://ivory.idyll.org/blog/2017-data-implies-software.html">Titus Brown, Associate Professor, University of California, Davis, USA</a></p>
-      
-    design:
-      background:
-        color: "#f98c01"
-        text_color_light: false
-      spacing:
-        padding: ["3rem", "1rem"]          
+          
 ---
