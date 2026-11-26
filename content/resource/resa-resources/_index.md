@@ -84,24 +84,4 @@ sections:
       spacing:
         padding: ["3rem", "1rem"]       
 
-  - block: markdown
-    content:
-      title: 
-      
-        <div class="d-flex justify-content-center">
-         <div class="col-md-8 text-start">
-          <span style="font-size:1.5rem;">
-            Software is the ubiquitous instrument of science.
-          </span>
-        </div>
-        </div>  
-      subtitle: 
-      text: <p align="center"><a href="https://www.raeng.org.uk/diversity-in-engineering/diversity-and-inclusion-at-the-academy/celebrating-leading-women-in-engineering/carole-globe">Carole Goble, Professor of Computer Science, University of Manchester, UK</a></p>
-
-    design:
-      background:
-        color: "#f98c01"
-        text_color_light: false
-      spacing:
-        padding: ["3rem", "1rem"]  
 ---
