@@ -53,6 +53,86 @@ sections:
         </ul>
         </div>
 
+            <div id="sponsors" class="text-center mt-4 mb-5">
+
+        <h2>IRSC Founding Sponsors &amp; Partners</h2>
+
+        <p class="mb-4">
+        We gratefully acknowledge our founding sponsors and partners,
+        whose generous support made the inaugural International
+        Research Software Conference possible.
+        </p>
+
+        <h3 class="mt-4 mb-3">Gold Sponsor</h3>
+
+        <div class="row justify-content-center align-items-center">
+          <div class="col-8 col-md-4 logo-container mb-3">
+            <a href="https://aws.amazon.com/" target="_blank" title="AWS">
+              <img src="/uploads/aws-logo.png" alt="AWS logo" class="logo-image">
+            </a>
+          </div>
+        </div>
+
+        <h3 class="mt-4 mb-3">Silver Sponsor</h3>
+
+        <div class="row justify-content-center align-items-center">
+          <div class="col-8 col-md-3 logo-container mb-3">
+            <a href="https://www.schmidtsciences.org/" target="_blank" title="Schmidt Sciences">
+              <img src="/about/images/schmidtsciences_primary_color.png" alt="Schmidt Sciences logo" class="logo-image">
+            </a>
+          </div>
+        </div>
+
+        <h3 class="mt-4 mb-3">Bronze Sponsors</h3>
+
+        <div class="row justify-content-center align-items-center">
+
+          <div class="col-6 col-md-3 logo-container mb-4">
+            <a href="https://www.nih.gov/" target="_blank" class="no-logo-text">
+              National Institutes of Health
+            </a>
+          </div>
+
+          <div class="col-6 col-md-3 logo-container mb-4">
+            <a href="https://www.esciencecenter.nl/" target="_blank" title="Netherlands eScience Center">
+              <img src="/about/images/nesc.png" alt="Netherlands eScience Center logo" class="logo-image">
+            </a>
+          </div>
+
+          <div class="col-6 col-md-3 logo-container mb-4">
+            <a href="https://www.nwo.nl/en" target="_blank" title="NWO (Dutch Research Council)">
+              <img src="/about/images/NWO-logo.jpeg" alt="NWO logo" class="logo-image">
+            </a>
+          </div>
+
+          <div class="col-6 col-md-3 logo-container mb-4">
+            <a href="https://society-rse.org/" target="_blank" title="Society of Research Software Engineering">
+              <img src="/irsc/SocRSE.png" alt="Society of Research Software Engineering logo" class="logo-image">
+            </a>
+          </div>
+
+        </div>
+
+        <h3 class="mt-4 mb-3">Partners</h3>
+
+        <div class="row justify-content-center align-items-center">
+
+          <div class="col-6 col-md-3 logo-container mb-3">
+            <a href="https://www.software.ac.uk/" target="_blank" title="Institute for Research Software">
+              <img src="/about/images/ifrs-logo.png" alt="Institute for Research Software logo" class="logo-image">
+            </a>
+          </div>
+
+          <div class="col-6 col-md-3 logo-container mb-3">
+            <a href="https://www.ncsa.illinois.edu/" target="_blank" title="NCSA">
+              <img src="/about/membership/images/NCSA.png" alt="NCSA logo" class="logo-image">
+            </a>
+          </div>
+
+        </div>
+
+        </div>
+
         **Research software is essential to research, but sustaining it requires global coordination. IRSC brings together leaders and decision-makers to shape the future of research software in the age of generative AI.**
 
         Research software underpins modern research, yet the software and the people who develop and maintain it often lack sustainable funding, recognition, and support. As research becomes increasingly global and AI-enabled, addressing these challenges requires coordination.
