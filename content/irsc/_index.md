@@ -46,10 +46,11 @@ sections:
         and organisers for contributing to the event.
         </p>
 
-        <p class="mb-0">
-        <strong>IRSC Program:</strong>
-        View the <a href="/irsc/program/">IRSC26 Program</a>.
-        </p>
+        <ul class="mb-0">
+          <li>Read the blog post: <a href="https://doi.org/10.59350/svwrh-wp113">Advancing research software through global collaboration: Highlights from IRSC26</a></li>
+          <li><a href="/irsc/program/">View the IRSC26 Program</a></li>
+          <li><a href="https://www.youtube.com/playlist?list=PLNdsD9q8cG8w">Watch the IRSC26 keynote recordings</a></li>
+        </ul>
         </div>
 
         **Research software is essential to research, but sustaining it requires global coordination. IRSC brings together leaders and decision-makers to shape the future of research software in the age of generative AI.**
@@ -186,7 +187,6 @@ sections:
         </div>
         </div>
 
-        *Interested in sponsoring IRSC? Learn more about IRSC26 [sponsorship opportunities](https://www.researchsoft.org/irsc/sponsorship/) or [contact ReSA](mailto:info@researchsoft.org).*
 
         ---
 
