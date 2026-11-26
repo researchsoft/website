@@ -130,24 +130,4 @@ sections:
       spacing:
         padding: ["3rem", "1rem"]
 
-  - block: markdown
-    content:
-      title: 
-        <div class="d-flex justify-content-center">
-         <div class="col-md-8 text-start"> 
-          <span style="font-size:1.5rem;">
-            Without data it’s difficult to validate results. But without code, we waste the opportunity to advance science.
-          </span>  
-         </div>
-        </div>              
-      subtitle:
-      text:  
-          <p align="center"><a href="https://twitter.com/npch/status/1258388356431478784">Neil Chue Hong, Director, Software Sustainability Institute, University of Edinburgh, UK</a></p>
-
-    design:
-      background:
-        color: "#f98c01"
-        text_color_light: false
-      spacing:
-        padding: ["3rem", "1rem"]  
 ---
