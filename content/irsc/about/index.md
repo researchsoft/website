@@ -32,9 +32,12 @@ sections:
 
         **7–8 September 2026 | Sheffield, UK & online, co-located with [RSECon26](https://rsecon26.society-rse.org/)**
 
-        [Registration](https://www.eventbrite.com/e/international-research-software-conference-irsc-tickets-1984767208148?%20%20aff=oddtdtcreator) is now open for IRSC26. Join a global gathering of leaders and change-makers working to advance global shifts toward strategic coordination, long-term sustainability, and high-level collaboration across the research software community in the age of generative AI.
+         The inaugural International Research Software Conference (IRSC26) brought together more than 110 participants from across the globe to advance global shifts toward strategic coordination, long-term sustainability, and high-level collaboration across the research software community in the age of generative AI.
+        - Read the blog post: [Advancing research software through global collaboration: Highlights from IRSC26](https://doi.org/10.59350/svwrh-wp113)
+        - [View the IRSC26 Program](https://www.researchsoft.org/irsc/program/)
+        - [Watch the IRSC26 keynote recordings](https://youtube.com/playlist?list=PLNdsD9q8cG8w&si=5PYYTgHAIluobrR6) 
 
-        [View the IRSC26 Program](https://www.researchsoft.org/irsc/program/)
+        **Stay connected**
 
         [Join the IRSC mailing list](https://preview.mailerlite.io/forms/778129/164453536097109381/share) for updates  
 
