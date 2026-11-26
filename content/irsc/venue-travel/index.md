@@ -34,6 +34,8 @@ sections:
 
         # IRSC26 Venue & Travel
 
+        **Read our [IRSC26 venue update](https://www.researchsoft.org/irsc/venue-update/).**
+
         This venue information has been adapted from the [Research Software Engineering Conference (RSECon26)](https://rsecon26.society-rse.org/). We sincerely thank the RSECon organisers for sharing their resources.
 
         **7–8 September 2026 | Sheffield, UK & online, co-located with [RSECon26](https://rsecon26.society-rse.org/)**  
