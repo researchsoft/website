@@ -54,6 +54,7 @@ sections:
         </div>
 
          ![IRSC sponsors](/uploads/irsc-founding-sponsors.png)
+    
 
         **Research software is essential to research, but sustaining it requires global coordination. IRSC brings together leaders and decision-makers to shape the future of research software in the age of generative AI.**
 
